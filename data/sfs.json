@@ -1,0 +1,6471 @@
+{
+  "AMU-gruppen": {
+    "sfs": [
+      "1985:833",
+      "1988:1076"
+    ],
+    "expired": "1993-07-01T00:00:00",
+    "expired_by": "1993:830",
+    "other_names": [],
+    "replaces": []
+  },
+  "Affärsverket FFV": {
+    "sfs": [
+      "1976:723",
+      "1988:365"
+    ],
+    "expired": "1991-01-01T00:00:00",
+    "expired_by": "1990:1066",
+    "other_names": [],
+    "replaces": []
+  },
+  "Affärsverket svenska kraftnät": {
+    "sfs": [
+      "1991:2013",
+      "2007:1119"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Alkohol- och läkemedelssortimentsnämnden": {
+    "sfs": [
+      "1994:2048"
+    ],
+    "expired": "2008-01-01T00:00:00",
+    "expired_by": "2007:1216",
+    "other_names": [],
+    "replaces": []
+  },
+  "Alkoholinspektionen": {
+    "sfs": [
+      "1994:2047",
+      "1996:612"
+    ],
+    "expired": "2001-07-01T00:00:00",
+    "expired_by": "2001:310",
+    "other_names": [],
+    "replaces": []
+  },
+  "Alkoholsortimentsnämnden": {
+    "sfs": [
+      "2007:1216"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Alkohol- och läkemedelssortimentsnämnden"
+    ]
+  },
+  "Allmänna reklamationsnämnden": {
+    "sfs": [
+      "1980:872",
+      "1988:1583",
+      "2004:1034",
+      "2007:1041",
+      "2015:739"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Ansvarsnämnden för biskopar": {
+    "sfs": [
+      "1986:1039",
+      "1989:7"
+    ],
+    "expired": "2000-01-01T00:00:00",
+    "expired_by": "1999:883",
+    "other_names": [],
+    "replaces": []
+  },
+  "Arbetarskyddsstyrelsen": {
+    "sfs": [
+      "1972:164"
+    ],
+    "expired": "1987-07-01T00:00:00",
+    "expired_by": "1987:393",
+    "other_names": [],
+    "replaces": []
+  },
+  "Arbetarskyddsverket": {
+    "sfs": [
+      "1987:393",
+      "1988:730"
+    ],
+    "expired": "2001-01-01T00:00:00",
+    "expired_by": "2000:1211",
+    "other_names": [],
+    "replaces": [
+      "Arbetarskyddsstyrelsen",
+      "Företagshälsovårdsdelegationen vid arbetarskyddsstyrelsen",
+      "Yrkesinspektionen"
+    ]
+  },
+  "Arbetsdomstolen": {
+    "sfs": [
+      "1974:589",
+      "1988:1137"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Arbetsförmedlingen": {
+    "sfs": [
+      "2007:1030",
+      "2022:811"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Arbetsmarknadsverket"
+    ]
+  },
+  "Arbetsgivarverket": {
+    "sfs": [
+      "1994:272",
+      "2007:829"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Statens arbetsgivarverk"
+    ]
+  },
+  "Arbetslivscentrum": {
+    "sfs": [
+      "1976:943"
+    ],
+    "expired": "1989-01-01T00:00:00",
+    "expired_by": "1988:1138",
+    "other_names": [],
+    "replaces": []
+  },
+  "Arbetslivsfonden": {
+    "sfs": [
+      "1990:130"
+    ],
+    "expired": "1996-01-01T00:00:00",
+    "expired_by": "1995:715",
+    "other_names": [],
+    "replaces": []
+  },
+  "Arbetslivsinstitutet": {
+    "sfs": [
+      "1995:864"
+    ],
+    "expired": "2007-07-01T00:00:00",
+    "expired_by": "2007:294",
+    "other_names": [],
+    "replaces": [
+      "Arbetsmiljöinstitutet",
+      "Institutet för arbetslivsforskning"
+    ]
+  },
+  "Arbetsmarknadsråd": {
+    "sfs": [
+      "1977:575"
+    ],
+    "expired": "1991-01-01T00:00:00",
+    "expired_by": "1990:1108",
+    "other_names": [],
+    "replaces": []
+  },
+  "Arbetsmarknadsverket": {
+    "sfs": [
+      "1986:739",
+      "1988:1139",
+      "1999:1423",
+      "2001:623"
+    ],
+    "expired": "2008-01-01T00:00:00",
+    "expired_by": "2007:1030",
+    "other_names": [],
+    "replaces": []
+  },
+  "Arbetsmiljöattaché": {
+    "sfs": [
+      "1980:616"
+    ],
+    "expired": "1990-07-01T00:00:00",
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Arbetsmiljöfonden": {
+    "sfs": [
+      "1971:803",
+      "1988:731",
+      "1991:1158"
+    ],
+    "expired": "1995-07-01T00:00:00",
+    "expired_by": "1995:865",
+    "other_names": [],
+    "replaces": []
+  },
+  "Arbetsmiljöinstitutet": {
+    "sfs": [
+      "1988:732"
+    ],
+    "expired": "1995-07-01T00:00:00",
+    "expired_by": "1995:864",
+    "other_names": [],
+    "replaces": []
+  },
+  "Arbetsmiljöverket": {
+    "sfs": [
+      "2000:1211",
+      "2007:913"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Arbetarskyddsverket"
+    ]
+  },
+  "Arkitekturmuseet": {
+    "sfs": [
+      "1978:245",
+      "1988:1186",
+      "2007:1194"
+    ],
+    "expired": "2013-05-01T00:00:00",
+    "expired_by": "2013:71",
+    "other_names": [],
+    "replaces": []
+  },
+  "Arkivet för ljud och bild": {
+    "sfs": [
+      "1984:580",
+      "1988:342"
+    ],
+    "expired": "1996-07-01T00:00:00",
+    "expired_by": "1996:503",
+    "other_names": [],
+    "replaces": []
+  },
+  "Bankinspektionen": {
+    "sfs": [
+      "1979:740",
+      "1988:93"
+    ],
+    "expired": "1991-07-01T00:00:00",
+    "expired_by": "1992:937",
+    "other_names": [],
+    "replaces": []
+  },
+  "Banverket": {
+    "sfs": [
+      "1988:707",
+      "1996:286",
+      "1998:1392",
+      "2007:1027"
+    ],
+    "expired": "2010-04-01T00:00:00",
+    "expired_by": "2010:185",
+    "other_names": [],
+    "replaces": []
+  },
+  "Barnmiljörådet": {
+    "sfs": [
+      "1980:572",
+      "1988:1127"
+    ],
+    "expired": "1993-07-01T00:00:00",
+    "expired_by": "1993:710",
+    "other_names": [],
+    "replaces": []
+  },
+  "Barnombudsmannen": {
+    "sfs": [
+      "1993:710",
+      "2002:379",
+      "2007:1021"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Barnmiljörådet"
+    ]
+  },
+  "Beredningen för internationellt tekniskt-ekonomiskt samarbete": {
+    "sfs": [
+      "1979:831",
+      "1988:1125",
+      "1992:269"
+    ],
+    "expired": "1995-07-01T00:00:00",
+    "expired_by": "1995:869",
+    "other_names": [
+      "Bits"
+    ],
+    "replaces": []
+  },
+  "Bergslagsdelegationen": {
+    "sfs": [
+      "1986:557",
+      "1988:347"
+    ],
+    "expired": "1994-01-01T00:00:00",
+    "expired_by": "1993:1278",
+    "other_names": [],
+    "replaces": []
+  },
+  "Bergsstaten": {
+    "sfs": [
+      "1974:346",
+      "1988:368",
+      "2007:1319"
+    ],
+    "expired": "2009-01-01T00:00:00",
+    "expired_by": "2008:1233",
+    "other_names": [],
+    "replaces": []
+  },
+  "Beslutsgrupper": {
+    "sfs": [
+      "1995:1325"
+    ],
+    "expired": "2000-01-01T00:00:00",
+    "expired_by": "1999:1424",
+    "other_names": [],
+    "replaces": []
+  },
+  "Besvärsnämnden för högskoleutbildning": {
+    "sfs": [
+      "1982:250",
+      "1988:1231"
+    ],
+    "expired": "1992-07-01T00:00:00",
+    "expired_by": "1992:404",
+    "other_names": [],
+    "replaces": []
+  },
+  "Besvärsnämnden för rättshjälpen": {
+    "sfs": [
+      "1979:952",
+      "1988:909"
+    ],
+    "expired": "1991-01-01T00:00:00",
+    "expired_by": "1990:1049",
+    "other_names": [],
+    "replaces": []
+  },
+  "Biståndskontorschef": {
+    "sfs": [
+      "1980:806"
+    ],
+    "expired": "1995-07-01T00:00:00",
+    "expired_by": "1995:873",
+    "other_names": [],
+    "replaces": []
+  },
+  "Bokföringsnämnden": {
+    "sfs": [
+      "1976:377",
+      "1988:1118",
+      "2007:783",
+      "2017:153"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Bolagsverket": {
+    "sfs": [
+      "2004:368",
+      "2007:1110"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Bostadsdomstolen": {
+    "sfs": [
+      "1975:517",
+      "1988:903"
+    ],
+    "expired": "1994-07-01T00:00:00",
+    "expired_by": "1994:924",
+    "other_names": [],
+    "replaces": []
+  },
+  "Bostadsstyrelsen och länsbostadsnämnderna": {
+    "sfs": [
+      "1965:669"
+    ],
+    "expired": "1988-07-01T00:00:00",
+    "expired_by": "1988:590",
+    "other_names": [],
+    "replaces": []
+  },
+  "Bostadsstyrelsens bostadssociala råd": {
+    "sfs": [
+      "1978:753"
+    ],
+    "expired": "1988-07-01T00:00:00",
+    "expired_by": "1988:590",
+    "other_names": [],
+    "replaces": []
+  },
+  "Bostadsstyrelsens råd för belånings- och värderingsmetoder": {
+    "sfs": [
+      "1978:399"
+    ],
+    "expired": "1988-07-01T00:00:00",
+    "expired_by": "1988:590",
+    "other_names": [],
+    "replaces": []
+  },
+  "Boverket": {
+    "sfs": [
+      "1988:590",
+      "1996:124",
+      "2004:1258",
+      "2007:1065",
+      "2009:1482",
+      "2012:546",
+      "2022:208"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Bostadsstyrelsen och länsbostadsnämnderna",
+      "Bostadsstyrelsens bostadssociala råd",
+      "Bostadsstyrelsens råd för belånings- och värderingsmetoder",
+      "Statens planverk",
+      "Statens planverks råd för samhällsplanering",
+      "Statens planverks råd för stål- och betongnormer",
+      "Statens planverks tekniska råd"
+    ]
+  },
+  "Boverkets stadsmiljöråd": {
+    "sfs": [
+      "1988:1009"
+    ],
+    "expired": "2004-01-01T00:00:00",
+    "expired_by": "2003:1085",
+    "other_names": [],
+    "replaces": []
+  },
+  "Brottsförebyggande rådet": {
+    "sfs": [
+      "1982:787",
+      "1988:1223",
+      "1993:669",
+      "1997:1056",
+      "2005:1033",
+      "2007:1170",
+      "2016:1201"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Brottsoffermyndigheten": {
+    "sfs": [
+      "1994:572",
+      "2005:1032",
+      "2007:1171"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Brottsskadenämnden"
+    ]
+  },
+  "Brottsskadenämnden": {
+    "sfs": [
+      "1978:655",
+      "1988:984"
+    ],
+    "expired": "1994-07-01T00:00:00",
+    "expired_by": "1994:572",
+    "other_names": [],
+    "replaces": []
+  },
+  "Bränslenämnden": {
+    "sfs": [
+      "1984:228",
+      "1988:521"
+    ],
+    "expired": "1994-07-01T00:00:00",
+    "expired_by": "1994:798",
+    "other_names": [],
+    "replaces": []
+  },
+  "Byggforskningsrådet": {
+    "sfs": [
+      "1988:232"
+    ],
+    "expired": "2001-01-01T00:00:00",
+    "expired_by": "2000:1210",
+    "other_names": [],
+    "replaces": [
+      "Statens råd för byggnadsforskning"
+    ]
+  },
+  "Byggnadsstyrelsen": {
+    "sfs": [
+      "1982:518",
+      "1989:774"
+    ],
+    "expired": "1993-10-01T00:00:00",
+    "expired_by": "1993:1021",
+    "other_names": [],
+    "replaces": []
+  },
+  "Centrala etikprövningsnämnden": {
+    "sfs": [
+      "2003:617"
+    ],
+    "expired": "2008-01-01T00:00:00",
+    "expired_by": "2007:1068",
+    "other_names": [],
+    "replaces": []
+  },
+  "Centrala försöksdjursnämnden": {
+    "sfs": [
+      "1988:541"
+    ],
+    "expired": "2004-01-01T00:00:00",
+    "expired_by": "2003:1125",
+    "other_names": [],
+    "replaces": []
+  },
+  "Centrala studiestödsnämnden": {
+    "sfs": [
+      "1978:500",
+      "1988:502",
+      "1992:813",
+      "1996:502",
+      "2007:1071",
+      "2017:1114"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [
+      "Csn"
+    ],
+    "replaces": []
+  },
+  "Centralnämnden för fastighetsdata": {
+    "sfs": [
+      "1984:927",
+      "1988:278"
+    ],
+    "expired": "1996-01-01T00:00:00",
+    "expired_by": "1995:1418",
+    "other_names": [],
+    "replaces": []
+  },
+  "Civilbefälhavarna": {
+    "sfs": [
+      "1988:1121"
+    ],
+    "expired": "2001-01-01T00:00:00",
+    "expired_by": "2000:901",
+    "other_names": [],
+    "replaces": []
+  },
+  "Datainspektionen": {
+    "sfs": [
+      "1987:17",
+      "1988:912",
+      "1998:1192"
+    ],
+    "expired": "2008-01-01T00:00:00",
+    "expired_by": "2007:975",
+    "other_names": [],
+    "replaces": []
+  },
+  "De allmänna advokatbyråerna": {
+    "sfs": [
+      "1980:548"
+    ],
+    "expired": "2000-07-01T00:00:00",
+    "expired_by": "2000:304",
+    "other_names": [],
+    "replaces": []
+  },
+  "De lokala värderingsnämnderna": {
+    "sfs": [
+      "1988:1043",
+      "2007:858"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Lokal värderingsnämnd"
+    ]
+  },
+  "Delegationen för energiförsörjning i Sydsverige": {
+    "sfs": [
+      "1998:62"
+    ],
+    "expired": "2005-01-01T00:00:00",
+    "expired_by": "2004:1020",
+    "other_names": [],
+    "replaces": []
+  },
+  "Delegationen för främjande av miljöanpassad teknik": {
+    "sfs": [
+      "1997:40"
+    ],
+    "expired": "2001-01-01T00:00:00",
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Delegationen för genomförande av vissa EU-program inom utbildning och kompetensutveckling m.m.": {
+    "sfs": [
+      "1995:963"
+    ],
+    "expired": "1998-01-01T00:00:00",
+    "expired_by": "1997:1231",
+    "other_names": [],
+    "replaces": []
+  },
+  "Delegationen för hybrid-DNA-frågor": {
+    "sfs": [
+      "1979:1173"
+    ],
+    "expired": "1994-07-01T00:00:00",
+    "expired_by": "1994:684",
+    "other_names": [],
+    "replaces": []
+  },
+  "Delegationen för icke-militärt motstånd": {
+    "sfs": [
+      "1987:199"
+    ],
+    "expired": "1994-07-01T00:00:00",
+    "expired_by": "1994:525",
+    "other_names": [],
+    "replaces": []
+  },
+  "Delegationen för informationsinsatser om europeisk integration": {
+    "sfs": [
+      "1992:887"
+    ],
+    "expired": "1996-02-01T00:00:00",
+    "expired_by": "1995:1664",
+    "other_names": [],
+    "replaces": []
+  },
+  "Delegationen för prognos- och utvecklingsverksamhet inom transportsektorn": {
+    "sfs": [
+      "1994:756"
+    ],
+    "expired": "1995-07-01T00:00:00",
+    "expired_by": "1995:810",
+    "other_names": [],
+    "replaces": []
+  },
+  "Delegationen för samordning av havsresursverksamheten": {
+    "sfs": [
+      "1979:34",
+      "1988:371"
+    ],
+    "expired": "1990-11-01T00:00:00",
+    "expired_by": "1990:948",
+    "other_names": [],
+    "replaces": []
+  },
+  "Delegationen för strukturfrågor inom vissa branscher": {
+    "sfs": [
+      "1979:1181"
+    ],
+    "expired": "1988-01-01T00:00:00",
+    "expired_by": "1987:1165",
+    "other_names": [],
+    "replaces": []
+  },
+  "Delegationen för stöd till vissa kommuner med bostadsåtaganden": {
+    "sfs": [
+      "1998:667"
+    ],
+    "expired": "2002-08-01T00:00:00",
+    "expired_by": "2002:669",
+    "other_names": [],
+    "replaces": []
+  },
+  "Delegationen för verkstadsteknisk utveckling": {
+    "sfs": [
+      "1990:805"
+    ],
+    "expired": "1993-07-01T00:00:00",
+    "expired_by": "1993:324",
+    "other_names": [],
+    "replaces": []
+  },
+  "Delegationen för vetenskaplig och teknisk informationsförsörjning": {
+    "sfs": [
+      "1979:479"
+    ],
+    "expired": "1988-07-01T00:00:00",
+    "expired_by": "1988:509",
+    "other_names": [],
+    "replaces": []
+  },
+  "Delegationen mot segregation": {
+    "sfs": [
+      "2017:1085"
+    ],
+    "expired": "2023-01-01T00:00:00",
+    "expired_by": "2022:1709",
+    "other_names": [],
+    "replaces": []
+  },
+  "Den statliga skoladministrationen": {
+    "sfs": [
+      "1981:1371",
+      "1988:815"
+    ],
+    "expired": "1991-07-01T00:00:00",
+    "expired_by": "1991:1121",
+    "other_names": [],
+    "replaces": []
+  },
+  "Det statliga lantmäteriet": {
+    "sfs": [
+      "1995:1418",
+      "2007:1057"
+    ],
+    "expired": "2008-09-01T00:00:00",
+    "expired_by": "2008:694",
+    "other_names": [],
+    "replaces": [
+      "Centralnämnden för fastighetsdata",
+      "Lantmäterimyndigheterna"
+    ]
+  },
+  "Dialekt- och ortnamnsarkiven samt Svenskt visarkiv": {
+    "sfs": [
+      "1988:969"
+    ],
+    "expired": "1993-07-01T00:00:00",
+    "expired_by": "1993:654",
+    "other_names": [],
+    "replaces": [
+      "Dialekt- och ortnamnsarkiven samt svenskt visarkiv"
+    ]
+  },
+  "Dialekt- och ortnamnsarkiven samt svenskt visarkiv": {
+    "sfs": [
+      "1986:538"
+    ],
+    "expired": "1988-10-01T00:00:00",
+    "expired_by": "1988:969",
+    "other_names": [],
+    "replaces": []
+  },
+  "Diskrimineringsombudsmannen": {
+    "sfs": [
+      "2008:1401"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Handikappombudsmannen",
+      "Jämställdhetsombudsmannen",
+      "Ombudsmannen mot diskriminering på grund av sexuell läggning",
+      "Ombudsmannen mot etnisk diskriminering"
+    ]
+  },
+  "Distansutbildningsmyndigheten": {
+    "sfs": [
+      "1999:249"
+    ],
+    "expired": "2002-03-01T00:00:00",
+    "expired_by": "2002:27",
+    "other_names": [],
+    "replaces": []
+  },
+  "Djurskyddsmyndigheten": {
+    "sfs": [
+      "2003:1125"
+    ],
+    "expired": "2007-07-01T00:00:00",
+    "expired_by": "2007:488",
+    "other_names": [],
+    "replaces": [
+      "Centrala försöksdjursnämnden"
+    ]
+  },
+  "Domarnämnden": {
+    "sfs": [
+      "2008:427",
+      "2010:1793"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Tjänsteförslagsnämnden för domstolsväsendet"
+    ]
+  },
+  "Domkapitlen": {
+    "sfs": [
+      "1965:738",
+      "1989:6"
+    ],
+    "expired": "2000-01-01T00:00:00",
+    "expired_by": "1999:883",
+    "other_names": [],
+    "replaces": []
+  },
+  "Domstolsverket": {
+    "sfs": [
+      "1975:506",
+      "1988:317",
+      "2007:1073"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Domänverket": {
+    "sfs": [
+      "1975:1021",
+      "1988:366",
+      "1992:775"
+    ],
+    "expired": "1994-01-01T00:00:00",
+    "expired_by": "1993:1528",
+    "other_names": [],
+    "replaces": []
+  },
+  "E-hälsomyndigheten": {
+    "sfs": [
+      "2013:1031"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "E-legitimationsnämnden": {
+    "sfs": [
+      "2010:1497"
+    ],
+    "expired": "2018-09-01T00:00:00",
+    "expired_by": "2018:1486",
+    "other_names": [],
+    "replaces": []
+  },
+  "Ekeskolans resurscenter": {
+    "sfs": [
+      "2000:452"
+    ],
+    "expired": "2001-07-01T00:00:00",
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Ekobrottsmyndigheten": {
+    "sfs": [
+      "1997:898",
+      "2007:972",
+      "2015:744"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Ekonomiska attachéer och finansråd": {
+    "sfs": [
+      "1985:170"
+    ],
+    "expired": "1991-01-01T00:00:00",
+    "expired_by": "1990:1108",
+    "other_names": [],
+    "replaces": []
+  },
+  "Ekonomiska rådet": {
+    "sfs": [
+      "1987:1057",
+      "1988:1214"
+    ],
+    "expired": "2007-11-01T00:00:00",
+    "expired_by": "2007:722",
+    "other_names": [],
+    "replaces": []
+  },
+  "Ekonomistyrningsverket": {
+    "sfs": [
+      "1998:417",
+      "2003:884",
+      "2007:761",
+      "2010:1764",
+      "2016:1023"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Elförsörjningsnämnden": {
+    "sfs": [
+      "1985:921",
+      "1988:520"
+    ],
+    "expired": "1997-01-01T00:00:00",
+    "expired_by": "1996:1493",
+    "other_names": [],
+    "replaces": []
+  },
+  "Elsäkerhetsverket": {
+    "sfs": [
+      "1992:1139",
+      "2007:1121"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Statens elektriska inspektion"
+    ]
+  },
+  "Energiforskningsnämnden": {
+    "sfs": [
+      "1982:587",
+      "1988:522"
+    ],
+    "expired": "1990-08-01T00:00:00",
+    "expired_by": "1990:794",
+    "other_names": [],
+    "replaces": []
+  },
+  "Energimarknadsinspektionen": {
+    "sfs": [
+      "2007:1118",
+      "2016:742"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Ersättningsnämnden": {
+    "sfs": [
+      "2012:666"
+    ],
+    "expired": "2016-07-01T00:00:00",
+    "expired_by": "2016:517",
+    "other_names": [],
+    "replaces": []
+  },
+  "Etikprövningsmyndigheten": {
+    "sfs": [
+      "2018:1879"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Regionala etikprövningsnämnden"
+    ]
+  },
+  "Etnografiska museet": {
+    "sfs": [
+      "1966:265"
+    ],
+    "expired": "1989-01-01T00:00:00",
+    "expired_by": "1988:1185",
+    "other_names": [],
+    "replaces": []
+  },
+  "Exekutionsväsendet": {
+    "sfs": [
+      "1988:784"
+    ],
+    "expired": "2006-07-01T00:00:00",
+    "expired_by": "2006:883",
+    "other_names": [],
+    "replaces": [
+      "Kronofogdemyndigheterna"
+    ]
+  },
+  "Expertgruppen för EU-frågor": {
+    "sfs": [
+      "2001:204"
+    ],
+    "expired": "2006-08-01T00:00:00",
+    "expired_by": "2006:948",
+    "other_names": [],
+    "replaces": []
+  },
+  "Exportkreditnämnden": {
+    "sfs": [
+      "1983:536",
+      "1988:1225",
+      "2007:1217"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Fartygsuttagningskommissionen": {
+    "sfs": [
+      "1987:288"
+    ],
+    "expired": "2003-06-01T00:00:00",
+    "expired_by": "2003:176",
+    "other_names": [],
+    "replaces": []
+  },
+  "Fastighetsmäklarinspektionen": {
+    "sfs": [
+      "2009:606"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Fastighetsmäklarnämnden"
+    ]
+  },
+  "Fastighetsmäklarnämnden": {
+    "sfs": [
+      "1995:1029",
+      "1998:1808",
+      "2007:1040"
+    ],
+    "expired": "2009-07-01T00:00:00",
+    "expired_by": "2009:606",
+    "other_names": [],
+    "replaces": []
+  },
+  "Fideikommissnämnden": {
+    "sfs": [
+      "1984:479",
+      "1988:1117",
+      "2007:1074"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Finansinspektionen": {
+    "sfs": [
+      "1991:937",
+      "1992:102",
+      "1996:596",
+      "2006:1022",
+      "2007:841",
+      "2009:93",
+      "2023:910"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Försäkringsinspektionen"
+    ]
+  },
+  "Finanspolitiska rådet": {
+    "sfs": [
+      "2007:652",
+      "2007:760",
+      "2011:446"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Fiskeristyrelsen och fiskenämnderna": {
+    "sfs": [
+      "1985:437",
+      "1988:863"
+    ],
+    "expired": "1991-07-01T00:00:00",
+    "expired_by": "1991:827",
+    "other_names": [],
+    "replaces": []
+  },
+  "Fiskeriverket": {
+    "sfs": [
+      "1991:827",
+      "1996:145",
+      "2007:1045"
+    ],
+    "expired": "2011-07-01T00:00:00",
+    "expired_by": "2011:643",
+    "other_names": [],
+    "replaces": [
+      "Fiskeristyrelsen och fiskenämnderna"
+    ]
+  },
+  "Flygplatsnämnden": {
+    "sfs": [
+      "2000:152"
+    ],
+    "expired": "2005-01-01T00:00:00",
+    "expired_by": "2004:1131",
+    "other_names": [],
+    "replaces": []
+  },
+  "Flygtekniska försöksanstalten": {
+    "sfs": [
+      "1980:387",
+      "1988:554",
+      "1996:114"
+    ],
+    "expired": "2001-01-01T00:00:00",
+    "expired_by": "2000:1074",
+    "other_names": [],
+    "replaces": []
+  },
+  "Folke Bernadotteakademin": {
+    "sfs": [
+      "2002:710",
+      "2007:1218",
+      "2013:727",
+      "2020:767"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Folkens museum - etnografiska": {
+    "sfs": [
+      "1988:1185"
+    ],
+    "expired": "1999-01-01T00:00:00",
+    "expired_by": "1998:1714",
+    "other_names": [],
+    "replaces": [
+      "Etnografiska museet"
+    ]
+  },
+  "Folkhälsoinstitutet": {
+    "sfs": [
+      "1992:850",
+      "1996:614"
+    ],
+    "expired": "2001-07-01T00:00:00",
+    "expired_by": "2001:309",
+    "other_names": [],
+    "replaces": []
+  },
+  "Folkhälsomyndigheten": {
+    "sfs": [
+      "2013:1020",
+      "2021:248"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Smittskyddsinstitutet",
+      "Statens folkhälsoinstitut"
+    ]
+  },
+  "Fondtorgsnämnden": {
+    "sfs": [
+      "2022:764"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Formum för levande historia": {
+    "sfs": [
+      "2002:795"
+    ],
+    "expired": "2008-01-01T00:00:00",
+    "expired_by": "2007:1197",
+    "other_names": [],
+    "replaces": []
+  },
+  "Forskarskattenämnden": {
+    "sfs": [
+      "2007:786"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Forskningsdelegationen vid arbetarskyddsstyrelsen": {
+    "sfs": [
+      "1982:1288"
+    ],
+    "expired": "1987-07-01T00:00:00",
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Forskningsinstitutet för atomfysik": {
+    "sfs": [
+      "1984:282"
+    ],
+    "expired": "1988-07-01T00:00:00",
+    "expired_by": "1988:734",
+    "other_names": [],
+    "replaces": []
+  },
+  "Forskningsråden inom Utbildningsdepartementets verksamhetsområde": {
+    "sfs": [
+      "1988:1198",
+      "1996:648"
+    ],
+    "expired": "2001-01-01T00:00:00",
+    "expired_by": "2000:1199",
+    "other_names": [],
+    "replaces": [
+      "Forskningsråden inom utbildningsdepartementets verksamhetsområde"
+    ]
+  },
+  "Forskningsråden inom utbildningsdepartementets verksamhetsområde": {
+    "sfs": [
+      "1977:34"
+    ],
+    "expired": "1989-01-01T00:00:00",
+    "expired_by": "1988:1198",
+    "other_names": [],
+    "replaces": []
+  },
+  "Forskningsrådet för arbetsliv och socialvetenskap": {
+    "sfs": [
+      "2000:1198"
+    ],
+    "expired": "2008-01-01T00:00:00",
+    "expired_by": "2007:1431",
+    "other_names": [],
+    "replaces": [
+      "Socialvetenskapliga forskningsrådet"
+    ]
+  },
+  "Forskningsrådet för hälsa, arbetsliv och välfärd": {
+    "sfs": [
+      "2007:1431"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Forskningsrådet för arbetsliv och socialvetenskap"
+    ]
+  },
+  "Forskningsrådet för miljö, areella näringar och samhällsbyggande": {
+    "sfs": [
+      "2000:1210",
+      "2006:931",
+      "2007:1059",
+      "2009:1024"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Byggforskningsrådet",
+      "Skogs- och jordbrukets forskningsråd"
+    ]
+  },
+  "Forskningsrådsnämnden": {
+    "sfs": [
+      "1977:35",
+      "1988:1201",
+      "1996:650"
+    ],
+    "expired": "2001-01-01T00:00:00",
+    "expired_by": "2000:1199",
+    "other_names": [],
+    "replaces": []
+  },
+  "Fortifikationsverket": {
+    "sfs": [
+      "1994:643",
+      "1996:102",
+      "2007:758"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Forum för levande historia": {
+    "sfs": [
+      "2007:1197"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Formum för levande historia"
+    ]
+  },
+  "Företagshälsovårdsdelegationen vid arbetarskyddsstyrelsen": {
+    "sfs": [
+      "1985:328"
+    ],
+    "expired": "1987-07-01T00:00:00",
+    "expired_by": "1987:393",
+    "other_names": [],
+    "replaces": []
+  },
+  "Försvarets civilförvaltning": {
+    "sfs": [
+      "1992:511"
+    ],
+    "expired": "1994-07-01T00:00:00",
+    "expired_by": "1994:397",
+    "other_names": [],
+    "replaces": []
+  },
+  "Försvarets fastighetsnämnd": {
+    "sfs": [
+      "1979:264",
+      "1988:553"
+    ],
+    "expired": "1990-07-01T00:00:00",
+    "expired_by": "1990:473",
+    "other_names": [],
+    "replaces": []
+  },
+  "Försvarets forskningsanstalt": {
+    "sfs": [
+      "1983:910",
+      "1988:1036",
+      "1994:646"
+    ],
+    "expired": "2001-01-01T00:00:00",
+    "expired_by": "2000:1074",
+    "other_names": [],
+    "replaces": []
+  },
+  "Försvarets förvaltningshögskola": {
+    "sfs": [
+      "1992:516"
+    ],
+    "expired": "1994-07-01T00:00:00",
+    "expired_by": "1994:713",
+    "other_names": [],
+    "replaces": []
+  },
+  "Försvarets materielverk": {
+    "sfs": [
+      "1994:644",
+      "1996:103",
+      "2007:854"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Försvarets mediecenter": {
+    "sfs": [
+      "1992:515"
+    ],
+    "expired": "1993-07-01T00:00:00",
+    "expired_by": "1993:832",
+    "other_names": [],
+    "replaces": []
+  },
+  "Försvarets personalnämnd": {
+    "sfs": [
+      "1987:534",
+      "1988:852"
+    ],
+    "expired": "1995-07-01T00:00:00",
+    "expired_by": "1995:625",
+    "other_names": [],
+    "replaces": []
+  },
+  "Försvarets radioanstalt": {
+    "sfs": [
+      "1994:714",
+      "2007:937"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Försvarets rationaliseringsinstitut": {
+    "sfs": [
+      "1985:257",
+      "1988:1120"
+    ],
+    "expired": "1991-07-01T00:00:00",
+    "expired_by": "1991:728",
+    "other_names": [],
+    "replaces": []
+  },
+  "Försvarets underrättelsenämnd": {
+    "sfs": [
+      "1976:498",
+      "1988:552",
+      "2007:852"
+    ],
+    "expired": "2009-12-01T00:00:00",
+    "expired_by": "2009:969",
+    "other_names": [],
+    "replaces": []
+  },
+  "Försvarsexportmyndigheten": {
+    "sfs": [
+      "2010:654"
+    ],
+    "expired": "2016-01-01T00:00:00",
+    "expired_by": "2015:726",
+    "other_names": [],
+    "replaces": []
+  },
+  "Försvarshögskolan": {
+    "sfs": [
+      "1988:550",
+      "1996:1476"
+    ],
+    "expired": "2008-01-01T00:00:00",
+    "expired_by": "2007:1164",
+    "other_names": [],
+    "replaces": []
+  },
+  "Försvarsmakten": {
+    "sfs": [
+      "1994:642",
+      "2000:555",
+      "2007:1266"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Försvarsmaktens organisationsmyndighet",
+      "Militärledningen",
+      "Militärledningens rådgivande nämnd"
+    ]
+  },
+  "Försvarsmaktens flygförarnämnd": {
+    "sfs": [
+      "1987:98"
+    ],
+    "expired": "1999-07-01T00:00:00",
+    "expired_by": "1999:389",
+    "other_names": [],
+    "replaces": []
+  },
+  "Försvarsmaktens organisationsmyndighet": {
+    "sfs": [
+      "1992:1019"
+    ],
+    "expired": "1994-07-01T00:00:00",
+    "expired_by": "1994:642",
+    "other_names": [],
+    "replaces": []
+  },
+  "Försvarsunderrättelsedomstolen": {
+    "sfs": [
+      "2009:968"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Signalspaningsnämnden"
+    ]
+  },
+  "Försäkringsinspektionen": {
+    "sfs": [
+      "1981:181",
+      "1988:94"
+    ],
+    "expired": "1991-07-01T00:00:00",
+    "expired_by": "1991:937",
+    "other_names": [],
+    "replaces": []
+  },
+  "Försäkringskassan": {
+    "sfs": [
+      "2004:1299",
+      "2007:1235",
+      "2009:1174"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Riksförsäkringsverket"
+    ]
+  },
+  "Försäkringsöverdomstolen": {
+    "sfs": [
+      "1978:632"
+    ],
+    "expired": "1995-07-01T00:00:00",
+    "expired_by": "1995:569",
+    "other_names": [],
+    "replaces": []
+  },
+  "Försörjningskommissionen": {
+    "sfs": [
+      "1989:631",
+      "1996:195"
+    ],
+    "expired": "2002-07-01T00:00:00",
+    "expired_by": "2002:513",
+    "other_names": [],
+    "replaces": []
+  },
+  "Gentekniknämnden": {
+    "sfs": [
+      "1994:902",
+      "2007:1075"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Glesbygdsverket": {
+    "sfs": [
+      "1990:1008",
+      "2007:1154"
+    ],
+    "expired": "2009-04-01T00:00:00",
+    "expired_by": "2009:147",
+    "other_names": [],
+    "replaces": []
+  },
+  "Granskningsnämnden för försvarsuppfinningar": {
+    "sfs": [
+      "1971:1080",
+      "1988:345",
+      "2007:855"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Granskningsnämnden för radio och TV": {
+    "sfs": [
+      "1994:728",
+      "2007:1183"
+    ],
+    "expired": "2010-08-01T00:00:00",
+    "expired_by": "2010:1062",
+    "other_names": [],
+    "replaces": []
+  },
+  "Handelsflottans kultur- och fritidsråd": {
+    "sfs": [
+      "1976:493",
+      "1988:1110",
+      "1996:281"
+    ],
+    "expired": "2007-01-01T00:00:00",
+    "expired_by": "2006:1179",
+    "other_names": [],
+    "replaces": []
+  },
+  "Handelsflottans pensionsanstalt": {
+    "sfs": [
+      "1965:699",
+      "1988:1112"
+    ],
+    "expired": "1994-10-01T00:00:00",
+    "expired_by": "1994:1274",
+    "other_names": [],
+    "replaces": []
+  },
+  "Handelssekreterare": {
+    "sfs": [
+      "1975:492",
+      "1988:1093",
+      "2012:749"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Handikappombudsmannen": {
+    "sfs": [
+      "1994:949",
+      "2007:1034"
+    ],
+    "expired": "2009-01-01T00:00:00",
+    "expired_by": "2008:1401",
+    "other_names": [],
+    "replaces": [
+      "Statens handikappråd"
+    ]
+  },
+  "Harpsundsnämnden": {
+    "sfs": [
+      "1989:1073",
+      "1999:241",
+      "2007:1227"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Havs- och vattenmyndigheten": {
+    "sfs": [
+      "2011:619"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Hällsboskolans resurscenter": {
+    "sfs": [
+      "2000:453"
+    ],
+    "expired": "2001-07-01T00:00:00",
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Hälso- och sjukvårdens ansvarsnämnd": {
+    "sfs": [
+      "1980:497",
+      "1988:1240",
+      "1996:571",
+      "2007:1019",
+      "2011:582"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Högskolans avskiljandenämnd": {
+    "sfs": [
+      "2007:990"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Högskoleverket": {
+    "sfs": [
+      "1995:945",
+      "2003:7",
+      "2007:1293"
+    ],
+    "expired": "2013-01-01T00:00:00",
+    "expired_by": "2012:725",
+    "other_names": [],
+    "replaces": [
+      "Kanslersämbetet",
+      "Rådet för grundläggande högskoleutbildning"
+    ]
+  },
+  "Högsta domstolen": {
+    "sfs": [
+      "1979:567",
+      "1996:377"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Högsta förvaltningsdomstolen": {
+    "sfs": [
+      "1996:378"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Regeringsrätten"
+    ]
+  },
+  "ILO-kommittén": {
+    "sfs": [
+      "1977:987"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Importkontoret för u-landsprodukter": {
+    "sfs": [
+      "1979:296",
+      "1988:364"
+    ],
+    "expired": "1991-07-01T00:00:00",
+    "expired_by": "1991:840",
+    "other_names": [],
+    "replaces": []
+  },
+  "Inspektionen för arbetslöshetsförsäkringen": {
+    "sfs": [
+      "2003:1108",
+      "2007:906"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Inspektionen för socialförsäkringen": {
+    "sfs": [
+      "2009:602"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Inspektionen för strategiska produkter": {
+    "sfs": [
+      "1995:1680",
+      "2005:1177",
+      "2007:1219",
+      "2010:1101"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Inspektionen för vård och omsorg": {
+    "sfs": [
+      "2013:176"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Institutet för arbetslivsforskning": {
+    "sfs": [
+      "1988:1138"
+    ],
+    "expired": "1995-07-01T00:00:00",
+    "expired_by": "1995:864",
+    "other_names": [],
+    "replaces": [
+      "Arbetslivscentrum"
+    ]
+  },
+  "Institutet för arbetsmarknads- och utbildningspolitisk utvärdering": {
+    "sfs": [
+      "2007:911"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Institutet för arbetsmarknadspolitisk utvärdering"
+    ]
+  },
+  "Institutet för arbetsmarknadspolitisk utvärdering": {
+    "sfs": [
+      "1996:1426",
+      "2007:180"
+    ],
+    "expired": "2008-01-01T00:00:00",
+    "expired_by": "2007:911",
+    "other_names": [],
+    "replaces": []
+  },
+  "Institutet för mänskliga rättigheter": {
+    "sfs": [
+      "2021:1198"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Institutet för psykosocial medicin": {
+    "sfs": [
+      "1996:615"
+    ],
+    "expired": "2007-10-01T00:00:00",
+    "expired_by": "2007:715",
+    "other_names": [],
+    "replaces": [
+      "Statens institut för psykosocial miljömedicin"
+    ]
+  },
+  "Institutet för rymdfysik": {
+    "sfs": [
+      "1987:500",
+      "1988:1200",
+      "1996:645",
+      "2007:1163"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Institutet för språk och folkminnen": {
+    "sfs": [
+      "2006:888",
+      "2007:1181"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Språk- och folkminnesinstitutet"
+    ]
+  },
+  "Institutet för tillväxtpolitiska studier": {
+    "sfs": [
+      "2000:1133",
+      "2007:1116"
+    ],
+    "expired": "2009-04-01T00:00:00",
+    "expired_by": "2009:146",
+    "other_names": [],
+    "replaces": [
+      "Statens institut för regionalforskning"
+    ]
+  },
+  "Institutet för utvärdering av internationellt utvecklingssamarbete": {
+    "sfs": [
+      "2005:1214",
+      "2007:1300"
+    ],
+    "expired": "2013-01-01T00:00:00",
+    "expired_by": "2012:617",
+    "other_names": [],
+    "replaces": []
+  },
+  "Instruktion för Statens va-nämnd": {
+    "sfs": [
+      "1970:350"
+    ],
+    "expired": "2008-01-01T00:00:00",
+    "expired_by": "2007:1058",
+    "other_names": [],
+    "replaces": []
+  },
+  "Insättningsgarantinämnden": {
+    "sfs": [
+      "1996:595"
+    ],
+    "expired": "2008-01-01T00:00:00",
+    "expired_by": "2007:1451",
+    "other_names": [],
+    "replaces": []
+  },
+  "Integrationsverket": {
+    "sfs": [
+      "1998:201"
+    ],
+    "expired": "2007-07-01T00:00:00",
+    "expired_by": "2007:503",
+    "other_names": [],
+    "replaces": []
+  },
+  "Integritetsskyddsmyndigheten": {
+    "sfs": [
+      "2007:975"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Datainspektionen"
+    ]
+  },
+  "Internationella programkontoret för utbildningsområdet": {
+    "sfs": [
+      "1999:1222",
+      "2007:949",
+      "2010:1773"
+    ],
+    "expired": "2013-01-01T00:00:00",
+    "expired_by": "2012:732",
+    "other_names": [],
+    "replaces": [
+      "Svenska EU-programkontoret för utbildning och kompetensutveckling"
+    ]
+  },
+  "Justitiekanslern": {
+    "sfs": [
+      "1975:1345"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Jämställdhetsmyndigheten": {
+    "sfs": [
+      "2017:937"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Jämställdhetsnämnden": {
+    "sfs": [
+      "1980:416",
+      "1991:1437",
+      "2007:1033"
+    ],
+    "expired": "2009-01-01T00:00:00",
+    "expired_by": "2008:1328",
+    "other_names": [],
+    "replaces": []
+  },
+  "Jämställdhetsombudsmannen": {
+    "sfs": [
+      "1980:415",
+      "1988:128",
+      "1991:1438",
+      "2007:1035"
+    ],
+    "expired": "2009-01-01T00:00:00",
+    "expired_by": "2008:1401",
+    "other_names": [],
+    "replaces": []
+  },
+  "Järnvägsstyrelsen": {
+    "sfs": [
+      "2004:527",
+      "2007:1028"
+    ],
+    "expired": "2009-01-01T00:00:00",
+    "expired_by": "2008:1300",
+    "other_names": [],
+    "replaces": []
+  },
+  "Kabelnämnden och Närradionämnden": {
+    "sfs": [
+      "1988:340"
+    ],
+    "expired": "1994-07-01T00:00:00",
+    "expired_by": "1994:730",
+    "other_names": [],
+    "replaces": [
+      "Kabelnämnden och närradionämnden"
+    ]
+  },
+  "Kabelnämnden och närradionämnden": {
+    "sfs": [
+      "1985:1062"
+    ],
+    "expired": "1988-07-01T00:00:00",
+    "expired_by": "1988:340",
+    "other_names": [],
+    "replaces": []
+  },
+  "Kammarkollegiet": {
+    "sfs": [
+      "1986:600",
+      "1988:913",
+      "1994:634",
+      "2007:824"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Kanslersämbetet": {
+    "sfs": [
+      "1993:886"
+    ],
+    "expired": "1995-07-01T00:00:00",
+    "expired_by": "1995:945",
+    "other_names": [],
+    "replaces": [
+      "Sekretariatet för utvärdering av universitet och högskolor"
+    ]
+  },
+  "Kemikalieinspektionen": {
+    "sfs": [
+      "1985:843",
+      "1988:525",
+      "2007:1064",
+      "2009:947"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Klimatpolitiska rådet": {
+    "sfs": [
+      "2017:1268"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Kommerskollegium": {
+    "sfs": [
+      "1985:604",
+      "1988:570",
+      "1998:279",
+      "2007:1221",
+      "2009:894",
+      "2012:990"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Kommunikationsforskningsberedningen": {
+    "sfs": [
+      "1993:675",
+      "1996:283"
+    ],
+    "expired": "2001-01-01T00:00:00",
+    "expired_by": "2000:1132",
+    "other_names": [],
+    "replaces": [
+      "Transportforskningsberedningen"
+    ]
+  },
+  "Kompetensrådet för utveckling i staten": {
+    "sfs": [
+      "2008:1085"
+    ],
+    "expired": "2013-01-01T00:00:00",
+    "expired_by": "2012:657",
+    "other_names": [],
+    "replaces": []
+  },
+  "Koncessionsnämnden för miljöskydd": {
+    "sfs": [
+      "1969:389",
+      "1988:624",
+      "1993:579"
+    ],
+    "expired": "1999-01-01T00:00:00",
+    "expired_by": "1998:1391",
+    "other_names": [],
+    "replaces": []
+  },
+  "Konjunkturinstitutet": {
+    "sfs": [
+      "1979:742",
+      "1988:1531",
+      "1996:99",
+      "2007:759"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Konkurrensverket": {
+    "sfs": [
+      "1992:820",
+      "1996:353",
+      "2007:1117"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Näringsfrihetsombudsmannen",
+      "Statens pris- och konkurrensverk"
+    ]
+  },
+  "Konstnärsnämnden": {
+    "sfs": [
+      "1976:531",
+      "1988:831",
+      "1997:1153",
+      "2007:1199"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Konsumentverket": {
+    "sfs": [
+      "1986:629",
+      "1988:61",
+      "1990:1179",
+      "1995:868",
+      "2007:1139",
+      "2009:607"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Krigsarkivet": {
+    "sfs": [
+      "1992:512"
+    ],
+    "expired": "1995-07-01T00:00:00",
+    "expired_by": "1995:679",
+    "other_names": [],
+    "replaces": []
+  },
+  "Krigsförsäkringsnämnden": {
+    "sfs": [
+      "1999:1352",
+      "2007:842"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Statens krigsförsäkringsnämnd"
+    ]
+  },
+  "Kriminalvården": {
+    "sfs": [
+      "2005:985",
+      "2007:1172",
+      "2023:797"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Kriminalvårdsverket"
+    ]
+  },
+  "Kriminalvårdsnämnden": {
+    "sfs": [
+      "1981:234",
+      "1988:682",
+      "2007:1173"
+    ],
+    "expired": "2011-04-01T00:00:00",
+    "expired_by": "2011:153",
+    "other_names": [],
+    "replaces": []
+  },
+  "Kriminalvårdsverket": {
+    "sfs": [
+      "1974:555",
+      "1988:931",
+      "1990:1018"
+    ],
+    "expired": "2006-01-01T00:00:00",
+    "expired_by": "2005:985",
+    "other_names": [],
+    "replaces": []
+  },
+  "Krisberedskapsmyndigheten": {
+    "sfs": [
+      "2002:518",
+      "2007:856"
+    ],
+    "expired": "2009-01-01T00:00:00",
+    "expired_by": "2008:1002",
+    "other_names": [],
+    "replaces": [
+      "Överstyrelsen för civil beredskap"
+    ]
+  },
+  "Kronofogdemyndigheten": {
+    "sfs": [
+      "2006:883",
+      "2007:781",
+      "2016:1333"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Exekutionsväsendet"
+    ]
+  },
+  "Kronofogdemyndigheterna": {
+    "sfs": [
+      "1981:1184"
+    ],
+    "expired": "1988-07-01T00:00:00",
+    "expired_by": "1988:784",
+    "other_names": [],
+    "replaces": []
+  },
+  "Kungl. biblioteket": {
+    "sfs": [
+      "1979:480",
+      "1988:678",
+      "1994:2059",
+      "1996:505",
+      "2007:1066",
+      "2008:1421"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Kustbevakningen": {
+    "sfs": [
+      "1988:256",
+      "2005:742",
+      "2007:853",
+      "2019:84"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Kyrkofondens styrelse": {
+    "sfs": [
+      "1987:59",
+      "1988:1149"
+    ],
+    "expired": "2000-01-01T00:00:00",
+    "expired_by": "1999:883",
+    "other_names": [],
+    "replaces": []
+  },
+  "Kärnavfallsfonden": {
+    "sfs": [
+      "2007:1055"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Kärnavfallsfondens styrelse"
+    ]
+  },
+  "Kärnavfallsfondens styrelse": {
+    "sfs": [
+      "1995:1548"
+    ],
+    "expired": "2008-01-01T00:00:00",
+    "expired_by": "2007:1055",
+    "other_names": [],
+    "replaces": []
+  },
+  "Landsarkiven": {
+    "sfs": [
+      "1965:743"
+    ],
+    "expired": "1989-01-01T00:00:00",
+    "expired_by": "1988:1187",
+    "other_names": [],
+    "replaces": []
+  },
+  "Lantbruksekonomiska samarbetsnämnden": {
+    "sfs": [
+      "1972:14"
+    ],
+    "expired": "1988-08-01T00:00:00",
+    "expired_by": "1988:862",
+    "other_names": [],
+    "replaces": []
+  },
+  "Lantbruksråd och lantbruksattaché": {
+    "sfs": [
+      "1985:305"
+    ],
+    "expired": "1991-01-01T00:00:00",
+    "expired_by": "1990:1108",
+    "other_names": [],
+    "replaces": []
+  },
+  "Lantbruksstyrelsen och lantbruksnämnderna": {
+    "sfs": [
+      "1967:425",
+      "1988:854"
+    ],
+    "expired": "1991-07-01T00:00:00",
+    "expired_by": "1991:375",
+    "other_names": [],
+    "replaces": []
+  },
+  "Lantmäteriet": {
+    "sfs": [
+      "2008:694",
+      "2009:946"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Det statliga lantmäteriet"
+    ]
+  },
+  "Lantmäterimyndigheterna": {
+    "sfs": [
+      "1988:1232"
+    ],
+    "expired": "1996-01-01T00:00:00",
+    "expired_by": "1995:1418",
+    "other_names": [],
+    "replaces": []
+  },
+  "Livrustkammaren och Skoklosters slott med Stiftelsen Hallwylska museet": {
+    "sfs": [
+      "1988:1183",
+      "2007:1195"
+    ],
+    "expired": "2018-01-01T00:00:00",
+    "expired_by": "2017:1260",
+    "other_names": [],
+    "replaces": [
+      "Livrustkammaren, Skoklosters slott och Hallwylska museet"
+    ]
+  },
+  "Livrustkammaren, Skoklosters slott och Hallwylska museet": {
+    "sfs": [
+      "1980:394"
+    ],
+    "expired": "1989-01-01T00:00:00",
+    "expired_by": "1988:1183",
+    "other_names": [],
+    "replaces": []
+  },
+  "Livsmedelsekonomiska institutet": {
+    "sfs": [
+      "1999:380",
+      "2007:1047"
+    ],
+    "expired": "2009-01-01T00:00:00",
+    "expired_by": "2008:1390",
+    "other_names": [],
+    "replaces": []
+  },
+  "Livsmedelsekonomiska samarbetsnämnden": {
+    "sfs": [
+      "1988:862"
+    ],
+    "expired": "1999-01-01T00:00:00",
+    "expired_by": "1998:1834",
+    "other_names": [],
+    "replaces": [
+      "Lantbruksekonomiska samarbetsnämnden"
+    ]
+  },
+  "Livsmedelsverket": {
+    "sfs": [
+      "2001:1259",
+      "2007:1043",
+      "2009:1426"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Statens livsmedelsverk"
+    ]
+  },
+  "Lokal värderingsnämnd": {
+    "sfs": [
+      "1978:560"
+    ],
+    "expired": "1988-12-01T00:00:00",
+    "expired_by": "1988:1043",
+    "other_names": [],
+    "replaces": []
+  },
+  "Lokala säkerhetsnämnder vid kärntekniska anläggningar": {
+    "sfs": [
+      "1981:10",
+      "1988:810",
+      "2007:1054"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Lotteriinspektionen": {
+    "sfs": [
+      "1994:1452",
+      "2007:756"
+    ],
+    "expired": "2019-01-01T00:00:00",
+    "expired_by": "2018:1476",
+    "other_names": [],
+    "replaces": [
+      "Lotterinämnden"
+    ]
+  },
+  "Lotterinämnden": {
+    "sfs": [
+      "1982:1013",
+      "1988:1135"
+    ],
+    "expired": "1995-01-01T00:00:00",
+    "expired_by": "1994:1452",
+    "other_names": [],
+    "replaces": []
+  },
+  "Luftfartsstyrelsen": {
+    "sfs": [
+      "2004:1110",
+      "2007:959"
+    ],
+    "expired": "2009-01-01T00:00:00",
+    "expired_by": "2008:1300",
+    "other_names": [],
+    "replaces": []
+  },
+  "Luftfartsverket": {
+    "sfs": [
+      "1986:128",
+      "1988:78",
+      "2004:1120",
+      "2007:1156",
+      "2010:184"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Läkemedelsförmånsnämnden": {
+    "sfs": [
+      "2002:719"
+    ],
+    "expired": "2008-01-01T00:00:00",
+    "expired_by": "2007:1206",
+    "other_names": [],
+    "replaces": []
+  },
+  "Läkemedelsverket": {
+    "sfs": [
+      "1990:434",
+      "1996:611",
+      "2007:1205",
+      "2020:57"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Länsbostadsnämnderna": {
+    "sfs": [
+      "1988:591"
+    ],
+    "expired": "1994-01-01T00:00:00",
+    "expired_by": "1993:1108",
+    "other_names": [],
+    "replaces": []
+  },
+  "Länsstyrelsen i Norrbottens län": {
+    "sfs": [
+      "1986:1123",
+      "1988:972"
+    ],
+    "expired": "1991-07-01T00:00:00",
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Länsstyrelsernas organisationsnämnd": {
+    "sfs": [
+      "1983:864",
+      "1988:1151"
+    ],
+    "expired": "1992-07-01T00:00:00",
+    "expired_by": "1992:430",
+    "other_names": [],
+    "replaces": []
+  },
+  "Länsvägnämnderna": {
+    "sfs": [
+      "1971:959"
+    ],
+    "expired": "1991-07-01T00:00:00",
+    "expired_by": "1991:59",
+    "other_names": [],
+    "replaces": []
+  },
+  "Lånenämnden för den mindre skeppsfarten": {
+    "sfs": [
+      "1971:325"
+    ],
+    "expired": "1988-01-01T00:00:00",
+    "expired_by": "1987:1225",
+    "other_names": [],
+    "replaces": []
+  },
+  "Manne Siegbahninstitutet för fysik": {
+    "sfs": [
+      "1988:734"
+    ],
+    "expired": "1993-07-01T00:00:00",
+    "expired_by": "1993:862",
+    "other_names": [],
+    "replaces": [
+      "Forskningsinstitutet för atomfysik"
+    ]
+  },
+  "Marknadsdomstolen": {
+    "sfs": [
+      "1970:1030",
+      "1988:1564"
+    ],
+    "expired": "2016-09-01T00:00:00",
+    "expired_by": "2016:236",
+    "other_names": [],
+    "replaces": []
+  },
+  "Mediemyndigheten": {
+    "sfs": [
+      "2023:844"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Medlingsinstitutet": {
+    "sfs": [
+      "2000:258",
+      "2007:912"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Statens förlikningsmannaexpedition"
+    ]
+  },
+  "Mellankommunala skatterätten": {
+    "sfs": [
+      "1981:562"
+    ],
+    "expired": "1988-07-01T00:00:00",
+    "expired_by": "1988:324",
+    "other_names": [],
+    "replaces": []
+  },
+  "Migrationsverket": {
+    "sfs": [
+      "1988:429",
+      "2004:294",
+      "2007:996",
+      "2019:502"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Statens invandrarverk"
+    ]
+  },
+  "Militärhögskolan": {
+    "sfs": [
+      "1994:713"
+    ],
+    "expired": "1997-01-01T00:00:00",
+    "expired_by": "1996:1476",
+    "other_names": [],
+    "replaces": [
+      "Försvarets förvaltningshögskola"
+    ]
+  },
+  "Militärledningen": {
+    "sfs": [
+      "1984:181"
+    ],
+    "expired": "1994-07-01T00:00:00",
+    "expired_by": "1994:642",
+    "other_names": [],
+    "replaces": []
+  },
+  "Militärledningens rådgivande nämnd": {
+    "sfs": [
+      "1978:879"
+    ],
+    "expired": "1994-07-01T00:00:00",
+    "expired_by": "1994:642",
+    "other_names": [],
+    "replaces": []
+  },
+  "Moderna museet": {
+    "sfs": [
+      "1999:563",
+      "2007:1177"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Myndigheten för Sveriges nätuniversitet": {
+    "sfs": [
+      "2002:26"
+    ],
+    "expired": "2006-01-15T00:00:00",
+    "expired_by": "2005:1236",
+    "other_names": [],
+    "replaces": []
+  },
+  "Myndigheten för arbetsmiljökunskap": {
+    "sfs": [
+      "2018:254"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Myndigheten för avveckling av vissa verksamheter inom totalförsvaret": {
+    "sfs": [
+      "1993:663"
+    ],
+    "expired": "1996-01-01T00:00:00",
+    "expired_by": "1995:1258",
+    "other_names": [],
+    "replaces": []
+  },
+  "Myndigheten för delaktighet": {
+    "sfs": [
+      "2014:134",
+      "2024:78"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Myndigheten för handikappolitisk samordning"
+    ]
+  },
+  "Myndigheten för digital förvaltning": {
+    "sfs": [
+      "2018:1486"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "E-legitimationsnämnden"
+    ]
+  },
+  "Myndigheten för familjerätt och föräldraskapsstöd": {
+    "sfs": [
+      "2007:1020",
+      "2017:292"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Myndigheten för internationella adoptionsfrågor"
+    ]
+  },
+  "Myndigheten för handikappolitisk samordning": {
+    "sfs": [
+      "2005:1073",
+      "2007:1134"
+    ],
+    "expired": "2014-05-01T00:00:00",
+    "expired_by": "2014:134",
+    "other_names": [
+      "Handisam"
+    ],
+    "replaces": [
+      "Statens institut för särskilt utbildningsstöd"
+    ]
+  },
+  "Myndigheten för internationella adoptionsfrågor": {
+    "sfs": [
+      "2004:1145"
+    ],
+    "expired": "2008-01-01T00:00:00",
+    "expired_by": "2007:1020",
+    "other_names": [],
+    "replaces": [
+      "Statens nämnd för internationella adoptionsfrågor"
+    ]
+  },
+  "Myndigheten för kulturanalys": {
+    "sfs": [
+      "2011:124"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Myndigheten för kvalificerad yrkesutbildning": {
+    "sfs": [
+      "2001:723"
+    ],
+    "expired": "2009-07-01T00:00:00",
+    "expired_by": "2009:279",
+    "other_names": [],
+    "replaces": []
+  },
+  "Myndigheten för nätverk och samarbete inom högre utbildning": {
+    "sfs": [
+      "2005:1236",
+      "2007:1166"
+    ],
+    "expired": "2009-01-01T00:00:00",
+    "expired_by": "2008:986",
+    "other_names": [],
+    "replaces": [
+      "Myndigheten för Sveriges nätuniversitet"
+    ]
+  },
+  "Myndigheten för press, radio och tv": {
+    "sfs": [
+      "2010:1062",
+      "2020:879"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Granskningsnämnden för radio och TV",
+      "Radio- och TV-verket"
+    ]
+  },
+  "Myndigheten för psykologiskt försvar": {
+    "sfs": [
+      "2021:936"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Myndigheten för samhällsskydd och beredskap": {
+    "sfs": [
+      "2008:1002"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Krisberedskapsmyndigheten",
+      "Statens räddningsverk",
+      "Styrelsen för psykologiskt försvar"
+    ]
+  },
+  "Myndigheten för skolutveckling": {
+    "sfs": [
+      "2002:1161"
+    ],
+    "expired": "2008-10-01T00:00:00",
+    "expired_by": "2008:612",
+    "other_names": [],
+    "replaces": []
+  },
+  "Myndigheten för stöd till trossamfund": {
+    "sfs": [
+      "2017:104"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Nämnden för statligt stöd till trossamfund"
+    ]
+  },
+  "Myndigheten för tillgängliga medier": {
+    "sfs": [
+      "2010:769"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Talboks- och punktskriftsbiblioteket",
+      "Taltidningsnämnden"
+    ]
+  },
+  "Myndigheten för tillväxtpolitiska utvärderingar och analyser": {
+    "sfs": [
+      "2009:146",
+      "2016:1048"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Institutet för tillväxtpolitiska studier"
+    ]
+  },
+  "Myndigheten för totalförsvarsanalys": {
+    "sfs": [
+      "2022:1768"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Myndigheten för ungdoms- och civilsamhällesfrågor": {
+    "sfs": [
+      "2007:1140",
+      "2015:49",
+      "2018:1425"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Ungdomsstyrelsen"
+    ]
+  },
+  "Myndigheten för utländska investeringar i Sverige": {
+    "sfs": [
+      "1995:962",
+      "2007:1220"
+    ],
+    "expired": "2013-01-01T00:00:00",
+    "expired_by": "2012:750",
+    "other_names": [],
+    "replaces": []
+  },
+  "Myndigheten för vård- och omsorgsanalys": {
+    "sfs": [
+      "2010:1385"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Myndigheten för yrkeshögskolan": {
+    "sfs": [
+      "2009:279",
+      "2011:1162"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Myndigheten för kvalificerad yrkesutbildning"
+    ]
+  },
+  "Nationalmuseum": {
+    "sfs": [
+      "2007:1175"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Nationalmuseum med Prins Eugens Waldemarsudde"
+    ]
+  },
+  "Nationalmuseum med Prins Eugens Waldemarsudde": {
+    "sfs": [
+      "1999:562"
+    ],
+    "expired": "2008-01-01T00:00:00",
+    "expired_by": "2007:1175",
+    "other_names": [],
+    "replaces": [
+      "Statens konstmuseer"
+    ]
+  },
+  "Nationellt centrum för flexibelt lärande": {
+    "sfs": [
+      "2001:1201"
+    ],
+    "expired": "2008-10-01T00:00:00",
+    "expired_by": "2008:612",
+    "other_names": [],
+    "replaces": [
+      "Statens skolor för vuxna"
+    ]
+  },
+  "Naturhistoriska riksmuseet": {
+    "sfs": [
+      "1966:264",
+      "1987:582",
+      "1988:1249",
+      "2005:736",
+      "2007:1176"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Naturvårdsverket": {
+    "sfs": [
+      "1988:518",
+      "2001:1096",
+      "2007:1052",
+      "2009:1476",
+      "2012:989"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Statens naturvårdsverk"
+    ]
+  },
+  "Nordiska Afrikainstitutet": {
+    "sfs": [
+      "1995:1352",
+      "2007:1222",
+      "2021:371"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [
+      "Nai"
+    ],
+    "replaces": [
+      "Nordiska afrikainstitutet"
+    ]
+  },
+  "Nordiska afrikainstitutet": {
+    "sfs": [
+      "1988:1124"
+    ],
+    "expired": "1996-01-01T00:00:00",
+    "expired_by": "1995:1352",
+    "other_names": [],
+    "replaces": [
+      "Nordiska afrikainstitutet (Scandinavian Institute of African Studies)"
+    ]
+  },
+  "Nordiska afrikainstitutet (Scandinavian Institute of African Studies)": {
+    "sfs": [
+      "1981:186"
+    ],
+    "expired": "1989-01-01T00:00:00",
+    "expired_by": "1988:1124",
+    "other_names": [],
+    "replaces": []
+  },
+  "Nordiska rådets svenska delegation": {
+    "sfs": [
+      "1984:50"
+    ],
+    "expired": "1994-07-01T00:00:00",
+    "expired_by": "1994:1067",
+    "other_names": [],
+    "replaces": []
+  },
+  "Nordkalottens AMU-center": {
+    "sfs": [
+      "1985:1087"
+    ],
+    "expired": "1991-01-01T00:00:00",
+    "expired_by": "1990:1043",
+    "other_names": [],
+    "replaces": []
+  },
+  "Notarienämnden": {
+    "sfs": [
+      "2007:1076"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Nämnden för Rh-anpassad utbildning": {
+    "sfs": [
+      "1990:1110"
+    ],
+    "expired": "2008-07-01T00:00:00",
+    "expired_by": "2008:390",
+    "other_names": [],
+    "replaces": []
+  },
+  "Nämnden för elektronisk förvaltning": {
+    "sfs": [
+      "2003:769"
+    ],
+    "expired": "2006-01-01T00:00:00",
+    "expired_by": "2005:866",
+    "other_names": [],
+    "replaces": []
+  },
+  "Nämnden för hemslöjdsfrågor": {
+    "sfs": [
+      "1981:500",
+      "1988:315",
+      "2007:1193"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Nämnden för lokalanställda": {
+    "sfs": [
+      "1981:605",
+      "1988:1535"
+    ],
+    "expired": "1994-03-01T00:00:00",
+    "expired_by": "1994:34",
+    "other_names": [],
+    "replaces": []
+  },
+  "Nämnden för lön till riksdagens ombudsmän och riksrevisorn": {
+    "sfs": [
+      "2012:882"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Nämnden för offentlig upphandling": {
+    "sfs": [
+      "1993:98"
+    ],
+    "expired": "2007-09-01T00:00:00",
+    "expired_by": "2007:690",
+    "other_names": [],
+    "replaces": []
+  },
+  "Nämnden för personalvård för totalförsvarspliktiga": {
+    "sfs": [
+      "1994:648"
+    ],
+    "expired": "2004-01-01T00:00:00",
+    "expired_by": "2003:1153",
+    "other_names": [],
+    "replaces": []
+  },
+  "Nämnden för prövning av oredlighet i forskning": {
+    "sfs": [
+      "2019:1152"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Nämnden för prövning av statsråds och vissa andra befattningshavares övergångsrestriktioner": {
+    "sfs": [
+      "2018:677"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Nämnden för rederistöd": {
+    "sfs": [
+      "1982:785"
+    ],
+    "expired": "1989-02-15T00:00:00",
+    "expired_by": "1989:10",
+    "other_names": [],
+    "replaces": []
+  },
+  "Nämnden för statens avtalsförsäkringar": {
+    "sfs": [
+      "1999:1170"
+    ],
+    "expired": "2004-07-01T00:00:00",
+    "expired_by": "2004:378",
+    "other_names": [],
+    "replaces": []
+  },
+  "Nämnden för statens gruvegendom": {
+    "sfs": [
+      "1982:579",
+      "1988:370"
+    ],
+    "expired": "1993-07-01T00:00:00",
+    "expired_by": "1993:693",
+    "other_names": [],
+    "replaces": []
+  },
+  "Nämnden för statliga förnyelsefonder": {
+    "sfs": [
+      "1986:729",
+      "1988:1104"
+    ],
+    "expired": "1999-01-01T00:00:00",
+    "expired_by": "1998:1646",
+    "other_names": [],
+    "replaces": []
+  },
+  "Nämnden för statligt stöd till trossamfund": {
+    "sfs": [
+      "2007:1192"
+    ],
+    "expired": "2017-07-01T00:00:00",
+    "expired_by": "2017:104",
+    "other_names": [],
+    "replaces": [
+      "Samarbetsnämnden för statsbidrag till trossamfund"
+    ]
+  },
+  "Nämnden för styrelserepresentationsfrågor": {
+    "sfs": [
+      "1976:465",
+      "2007:909"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Nämnden för u-landsutbildning": {
+    "sfs": [
+      "1981:664"
+    ],
+    "expired": "1987-07-01T00:00:00",
+    "expired_by": "1987:601",
+    "other_names": [],
+    "replaces": []
+  },
+  "Nämnden för undervisningssjukhusens utbyggande": {
+    "sfs": [
+      "1977:433",
+      "1988:1243"
+    ],
+    "expired": "1990-07-01T00:00:00",
+    "expired_by": "1990:244",
+    "other_names": [],
+    "replaces": []
+  },
+  "Nämnden för utgivande av förvaltningsrättsliga publikationer": {
+    "sfs": [
+      "1988:1115"
+    ],
+    "expired": "1999-06-01T00:00:00",
+    "expired_by": "1999:207",
+    "other_names": [],
+    "replaces": []
+  },
+  "Nämnden för utställningar av nutida svensk konst i utlandet": {
+    "sfs": [
+      "1988:744"
+    ],
+    "expired": "1997-01-01T00:00:00",
+    "expired_by": "1996:1602",
+    "other_names": [],
+    "replaces": [
+      "Nämnden för utställningar av svensk konst i utlandet"
+    ]
+  },
+  "Nämnden för utställningar av svensk konst i utlandet": {
+    "sfs": [
+      "1986:539"
+    ],
+    "expired": "1988-07-01T00:00:00",
+    "expired_by": "1988:744",
+    "other_names": [],
+    "replaces": []
+  },
+  "Nämnden för vapenfriutbildning": {
+    "sfs": [
+      "1982:1278",
+      "1988:551"
+    ],
+    "expired": "1989-10-01T00:00:00",
+    "expired_by": "1989:757",
+    "other_names": [],
+    "replaces": []
+  },
+  "Nämnden för vissa statliga pensionsfrågor": {
+    "sfs": [
+      "1992:78"
+    ],
+    "expired": "1997-07-01T00:00:00",
+    "expired_by": "1997:130",
+    "other_names": [],
+    "replaces": []
+  },
+  "Nämnden mot diskriminering": {
+    "sfs": [
+      "1999:171",
+      "2007:1032",
+      "2008:1328"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Nämnden mot etnisk diskriminering"
+    ]
+  },
+  "Nämnden mot etnisk diskriminering": {
+    "sfs": [
+      "1986:447"
+    ],
+    "expired": "1999-05-01T00:00:00",
+    "expired_by": "1999:171",
+    "other_names": [],
+    "replaces": []
+  },
+  "Närings- och teknikutvecklingsverket": {
+    "sfs": [
+      "1991:960",
+      "1997:1178"
+    ],
+    "expired": "2001-01-01T00:00:00",
+    "expired_by": "2000:1178",
+    "other_names": [],
+    "replaces": [
+      "Statens energiverk",
+      "Statens industriverk",
+      "Styrelsen för teknisk utveckling"
+    ]
+  },
+  "Näringsfrihetsombudsmannen": {
+    "sfs": [
+      "1982:1048",
+      "1988:1582"
+    ],
+    "expired": "1992-07-01T00:00:00",
+    "expired_by": "1992:820",
+    "other_names": [],
+    "replaces": []
+  },
+  "Oljekrisnämnden": {
+    "sfs": [
+      "1978:600",
+      "1988:519",
+      "2007:1152"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Ombudsmannen mot diskriminering på grund av sexuell läggning": {
+    "sfs": [
+      "1999:170",
+      "2007:1036"
+    ],
+    "expired": "2009-01-01T00:00:00",
+    "expired_by": "2008:1401",
+    "other_names": [
+      "Homo"
+    ],
+    "replaces": []
+  },
+  "Ombudsmannen mot etnisk diskriminering": {
+    "sfs": [
+      "1986:446",
+      "1988:895",
+      "2007:1037"
+    ],
+    "expired": "2009-01-01T00:00:00",
+    "expired_by": "2008:1401",
+    "other_names": [],
+    "replaces": []
+  },
+  "Partibidragsnämnden": {
+    "sfs": [
+      "2013:353"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Patent- och registreringsverket": {
+    "sfs": [
+      "1987:7",
+      "1988:403",
+      "1995:1386",
+      "2007:1111"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Patentbesvärsrätten": {
+    "sfs": [
+      "1987:429",
+      "1988:346"
+    ],
+    "expired": "2016-09-01T00:00:00",
+    "expired_by": "2016:235",
+    "other_names": [],
+    "replaces": []
+  },
+  "Patentombudsnämnden": {
+    "sfs": [
+      "2010:1054"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Pensionsmyndigheten": {
+    "sfs": [
+      "2009:1173"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Premiepensionsmyndigheten"
+    ]
+  },
+  "Polarforskningssekretariatet": {
+    "sfs": [
+      "1987:504",
+      "1988:1199",
+      "1996:649",
+      "1998:414",
+      "2007:1072"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Polismyndigheten": {
+    "sfs": [
+      "2014:1102",
+      "2022:1718"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Rikspolisstyrelsen",
+      "Statens kriminaltekniska laboratorium"
+    ]
+  },
+  "Post- och telestyrelsen": {
+    "sfs": [
+      "1993:1710",
+      "1997:401",
+      "2007:951"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Telestyrelsen"
+    ]
+  },
+  "Postverket": {
+    "sfs": [
+      "1969:736",
+      "1988:79"
+    ],
+    "expired": "1994-03-01T00:00:00",
+    "expired_by": "1993:1711",
+    "other_names": [],
+    "replaces": []
+  },
+  "Premiepensionsmyndigheten": {
+    "sfs": [
+      "1998:794",
+      "2000:585",
+      "2007:843"
+    ],
+    "expired": "2010-01-01T00:00:00",
+    "expired_by": "2009:1173",
+    "other_names": [],
+    "replaces": []
+  },
+  "Presstödsnämnden": {
+    "sfs": [
+      "1976:419",
+      "1988:673",
+      "2007:1191"
+    ],
+    "expired": "2015-07-01T00:00:00",
+    "expired_by": "2015:300",
+    "other_names": [],
+    "replaces": []
+  },
+  "Programrådet för forskning för ett avfallssnålt samhälle": {
+    "sfs": [
+      "1990:961"
+    ],
+    "expired": "1995-07-01T00:00:00",
+    "expired_by": "1995:824",
+    "other_names": [],
+    "replaces": []
+  },
+  "Programrådet vid Studsvik": {
+    "sfs": [
+      "1990:942"
+    ],
+    "expired": "1995-07-01T00:00:00",
+    "expired_by": "1995:601",
+    "other_names": [],
+    "replaces": []
+  },
+  "Prövningsnämnden för bankstödsfrågor": {
+    "sfs": [
+      "1993:889"
+    ],
+    "expired": "1996-07-01T00:00:00",
+    "expired_by": "1996:597",
+    "other_names": [],
+    "replaces": []
+  },
+  "Prövningsnämnden för stöd till kreditinstitut": {
+    "sfs": [
+      "2008:850"
+    ],
+    "expired": "2016-07-01T00:00:00",
+    "expired_by": "2016:816",
+    "other_names": [],
+    "replaces": []
+  },
+  "Psykiatriska nämnden": {
+    "sfs": [
+      "1966:567"
+    ],
+    "expired": "1992-01-01T00:00:00",
+    "expired_by": "1991:1473",
+    "other_names": [],
+    "replaces": []
+  },
+  "Radio- och TV-verket": {
+    "sfs": [
+      "1994:729",
+      "2007:1190"
+    ],
+    "expired": "2010-08-01T00:00:00",
+    "expired_by": "2010:1062",
+    "other_names": [],
+    "replaces": []
+  },
+  "Radionämnden": {
+    "sfs": [
+      "1978:482",
+      "1988:339"
+    ],
+    "expired": "1994-07-01T00:00:00",
+    "expired_by": "1994:730",
+    "other_names": [],
+    "replaces": []
+  },
+  "Rederinämnden": {
+    "sfs": [
+      "1989:10",
+      "2007:1160"
+    ],
+    "expired": "2011-01-01T00:00:00",
+    "expired_by": "2010:1830",
+    "other_names": [],
+    "replaces": [
+      "Nämnden för rederistöd"
+    ]
+  },
+  "Regeringskansliet": {
+    "sfs": [
+      "1996:1515"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Regeringskansliets förvaltningskontor",
+      "Utrikesdepartementet"
+    ]
+  },
+  "Regeringskansliets förvaltningskontor": {
+    "sfs": [
+      "1983:688",
+      "1988:1147"
+    ],
+    "expired": "1997-01-01T00:00:00",
+    "expired_by": "1996:1515",
+    "other_names": [],
+    "replaces": []
+  },
+  "Regeringsrätten": {
+    "sfs": [
+      "1979:568"
+    ],
+    "expired": "1996-07-01T00:00:00",
+    "expired_by": "1996:378",
+    "other_names": [],
+    "replaces": []
+  },
+  "Regionala etikprövningsnämnden": {
+    "sfs": [
+      "2007:1069"
+    ],
+    "expired": "2019-01-01T00:00:00",
+    "expired_by": "2018:1879",
+    "other_names": [],
+    "replaces": [
+      "Regionala etikprövningsnämnder"
+    ]
+  },
+  "Regionala etikprövningsnämnder": {
+    "sfs": [
+      "2003:616"
+    ],
+    "expired": "2008-01-01T00:00:00",
+    "expired_by": "2007:1069",
+    "other_names": [],
+    "replaces": []
+  },
+  "Regionmusiken": {
+    "sfs": [
+      "1973:446"
+    ],
+    "expired": "1988-01-01T00:00:00",
+    "expired_by": "1987:1123",
+    "other_names": [],
+    "replaces": []
+  },
+  "Regionstyrelserna för högskolan": {
+    "sfs": [
+      "1977:458"
+    ],
+    "expired": "1988-07-01T00:00:00",
+    "expired_by": "1988:507",
+    "other_names": [],
+    "replaces": []
+  },
+  "Registernämnden": {
+    "sfs": [
+      "1996:730",
+      "2006:1076"
+    ],
+    "expired": "2008-01-01T00:00:00",
+    "expired_by": "2007:1141",
+    "other_names": [],
+    "replaces": []
+  },
+  "Resegarantinämnden": {
+    "sfs": [
+      "1972:272",
+      "1988:1584",
+      "2007:1039"
+    ],
+    "expired": "2018-08-01T00:00:00",
+    "expired_by": "2018:1340",
+    "other_names": [],
+    "replaces": []
+  },
+  "Revisorsinspektionen": {
+    "sfs": [
+      "2007:1077"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Revisorsnämnden"
+    ]
+  },
+  "Revisorsnämnden": {
+    "sfs": [
+      "1995:666"
+    ],
+    "expired": "2008-01-01T00:00:00",
+    "expired_by": "2007:1077",
+    "other_names": [],
+    "replaces": []
+  },
+  "Riksantikvarieämbetet": {
+    "sfs": [
+      "1997:1171",
+      "2007:1184",
+      "2014:1585"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Riksantikvarieämbetet och statens historiska museer"
+    ]
+  },
+  "Riksantikvarieämbetet och statens historiska museer": {
+    "sfs": [
+      "1975:468",
+      "1988:1131"
+    ],
+    "expired": "1998-01-01T00:00:00",
+    "expired_by": "1997:1171",
+    "other_names": [],
+    "replaces": []
+  },
+  "Riksarkivet": {
+    "sfs": [
+      "1977:553",
+      "2009:1593"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Riksarkivet och landsarkiven": {
+    "sfs": [
+      "1988:1187",
+      "1991:731",
+      "1995:679",
+      "2007:1179"
+    ],
+    "expired": "2010-01-01T00:00:00",
+    "expired_by": "2009:1593",
+    "other_names": [],
+    "replaces": [
+      "Landsarkiven"
+    ]
+  },
+  "Riksdagens arvodesnämnd": {
+    "sfs": [
+      "1993:1426",
+      "2012:883"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Riksdagens förvaltningskontor": {
+    "sfs": [
+      "1983:1061"
+    ],
+    "expired": "2000-07-01T00:00:00",
+    "expired_by": "2000:419",
+    "other_names": [],
+    "replaces": []
+  },
+  "Riksdagens ombudsmän": {
+    "sfs": [
+      "1986:765",
+      "2023:499"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [
+      "Jo"
+    ],
+    "replaces": []
+  },
+  "Riksdagens revisorer": {
+    "sfs": [
+      "1974:1036",
+      "1987:518"
+    ],
+    "expired": "2003-07-01T00:00:00",
+    "expired_by": "2002:1023",
+    "other_names": [],
+    "replaces": []
+  },
+  "Riksdagens överklagandenämnd": {
+    "sfs": [
+      "2012:884"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Riksdagsförvaltningen": {
+    "sfs": [
+      "2000:419",
+      "2011:745"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Riksdagens förvaltningskontor"
+    ]
+  },
+  "Riksförsäkringsverket": {
+    "sfs": [
+      "1965:777",
+      "1988:1204",
+      "1998:739"
+    ],
+    "expired": "2005-01-01T00:00:00",
+    "expired_by": "2004:1299",
+    "other_names": [],
+    "replaces": []
+  },
+  "Riksgäldskontoret": {
+    "sfs": [
+      "1989:248",
+      "1996:311",
+      "2007:1447",
+      "2023:909"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Rikspolisstyrelsen": {
+    "sfs": [
+      "1984:731",
+      "1988:762",
+      "1989:773"
+    ],
+    "expired": "2015-01-01T00:00:00",
+    "expired_by": "2014:1102",
+    "other_names": [],
+    "replaces": []
+  },
+  "Riksrevisionen": {
+    "sfs": [
+      "2002:1023"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Riksdagens revisorer"
+    ]
+  },
+  "Riksrevisionsverket": {
+    "sfs": [
+      "1986:449",
+      "1988:80",
+      "1998:418"
+    ],
+    "expired": "2003-07-01T00:00:00",
+    "expired_by": "2003:276",
+    "other_names": [],
+    "replaces": []
+  },
+  "Rikstrafiken": {
+    "sfs": [
+      "1999:279",
+      "2007:1026",
+      "2008:1338"
+    ],
+    "expired": "2011-01-01T00:00:00",
+    "expired_by": "2010:1831",
+    "other_names": [],
+    "replaces": []
+  },
+  "Riksutställningar": {
+    "sfs": [
+      "1997:1170",
+      "2007:1187"
+    ],
+    "expired": "2017-06-01T00:00:00",
+    "expired_by": "2017:303",
+    "other_names": [],
+    "replaces": []
+  },
+  "Riksvärderingsnämnden": {
+    "sfs": [
+      "1978:559",
+      "1988:1042",
+      "2007:859"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Riksåklagaren": {
+    "sfs": [
+      "1989:847"
+    ],
+    "expired": "2005-01-01T00:00:00",
+    "expired_by": "2004:1266",
+    "other_names": [],
+    "replaces": []
+  },
+  "Rymdstyrelsen": {
+    "sfs": [
+      "1988:343",
+      "1996:80",
+      "2007:1115"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Statens delegation för rymdverksamhet"
+    ]
+  },
+  "Rättshjälpsmyndigheten": {
+    "sfs": [
+      "1990:1048",
+      "2003:502",
+      "2007:1078"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Rättshjälpsnämnderna"
+    ]
+  },
+  "Rättshjälpsnämnden": {
+    "sfs": [
+      "1990:1049",
+      "2007:1079"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Besvärsnämnden för rättshjälpen"
+    ]
+  },
+  "Rättshjälpsnämnderna": {
+    "sfs": [
+      "1979:978"
+    ],
+    "expired": "1991-01-01T00:00:00",
+    "expired_by": "1990:1048",
+    "other_names": [],
+    "replaces": []
+  },
+  "Rättsmedicinalverket": {
+    "sfs": [
+      "1991:944",
+      "1996:613",
+      "2007:976"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Statens rättskemiska laboratorium",
+      "Statens rättsläkarstationer"
+    ]
+  },
+  "Rådet för Europeiska socialfonden i Sverige": {
+    "sfs": [
+      "2000:1212",
+      "2007:907"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Rådet för arbetslivsforskning": {
+    "sfs": [
+      "1995:865"
+    ],
+    "expired": "2001-01-01T00:00:00",
+    "expired_by": "2000:1132",
+    "other_names": [],
+    "replaces": [
+      "Arbetsmiljöfonden"
+    ]
+  },
+  "Rådet för forsknings- och utvecklingssamarbete inom EU": {
+    "sfs": [
+      "1992:816"
+    ],
+    "expired": "2006-01-01T00:00:00",
+    "expired_by": "2005:1111",
+    "other_names": [],
+    "replaces": []
+  },
+  "Rådet för grundläggande högskoleutbildning": {
+    "sfs": [
+      "1992:817"
+    ],
+    "expired": "1995-07-01T00:00:00",
+    "expired_by": "1995:945",
+    "other_names": [],
+    "replaces": []
+  },
+  "Rådet för högpresterande datorsystem": {
+    "sfs": [
+      "1994:945"
+    ],
+    "expired": "1998-01-01T00:00:00",
+    "expired_by": "1997:1221",
+    "other_names": [],
+    "replaces": []
+  },
+  "Samarbetsnämnden för statsbidrag till trossamfund": {
+    "sfs": [
+      "1989:272",
+      "1999:975"
+    ],
+    "expired": "2008-01-01T00:00:00",
+    "expired_by": "2007:1192",
+    "other_names": [],
+    "replaces": []
+  },
+  "Sameskolstyrelsen": {
+    "sfs": [
+      "2011:131"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Sametinget": {
+    "sfs": [
+      "1993:327",
+      "2007:1239",
+      "2009:1395"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Samrådsnämnden för kärnavfallsfrågor": {
+    "sfs": [
+      "1985:686",
+      "1988:524"
+    ],
+    "expired": "1990-07-01T00:00:00",
+    "expired_by": "1990:506",
+    "other_names": [],
+    "replaces": []
+  },
+  "Sekretariatet för utvärdering av universitet och högskolor": {
+    "sfs": [
+      "1992:814"
+    ],
+    "expired": "1993-07-01T00:00:00",
+    "expired_by": "1993:886",
+    "other_names": [],
+    "replaces": []
+  },
+  "Signalspaningsnämnden": {
+    "sfs": [
+      "2008:924"
+    ],
+    "expired": "2009-12-01T00:00:00",
+    "expired_by": "2009:968",
+    "other_names": [],
+    "replaces": []
+  },
+  "Sjöfartsregistret": {
+    "sfs": [
+      "1979:593"
+    ],
+    "expired": "2001-12-01T00:00:00",
+    "expired_by": "2001:810",
+    "other_names": [],
+    "replaces": []
+  },
+  "Sjöfartsverket": {
+    "sfs": [
+      "1969:320",
+      "1988:14",
+      "1995:589",
+      "2007:1161"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Sjösäkerhetsrådet": {
+    "sfs": [
+      "1969:322",
+      "1988:1111"
+    ],
+    "expired": "1993-07-01T00:00:00",
+    "expired_by": "1993:927",
+    "other_names": [],
+    "replaces": []
+  },
+  "Skatteför- valtningen": {
+    "sfs": [
+      "1988:832"
+    ],
+    "expired": "1991-01-01T00:00:00",
+    "expired_by": "1990:1293",
+    "other_names": [],
+    "replaces": []
+  },
+  "Skatteförvaltningen": {
+    "sfs": [
+      "1986:1346",
+      "1990:1293"
+    ],
+    "expired": "2004-01-01T00:00:00",
+    "expired_by": "2003:1106",
+    "other_names": [],
+    "replaces": []
+  },
+  "Skatterättsnämnden": {
+    "sfs": [
+      "2007:785"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Skatteverket": {
+    "sfs": [
+      "2003:1106",
+      "2007:780",
+      "2017:154"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Skatteförvaltningen"
+    ]
+  },
+  "Skiljenämnden i vissa trygghetsfrågor": {
+    "sfs": [
+      "2007:830"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Skogs- och jordbrukets forskningsråd": {
+    "sfs": [
+      "1981:532",
+      "1988:866"
+    ],
+    "expired": "2001-01-01T00:00:00",
+    "expired_by": "2000:1210",
+    "other_names": [],
+    "replaces": []
+  },
+  "Skogsstyrelsen": {
+    "sfs": [
+      "2005:1160",
+      "2007:1046",
+      "2009:1393"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Skogsstyrelsen och skogsvårdsstyrelserna"
+    ]
+  },
+  "Skogsstyrelsen och skogsvårdsstyrelserna": {
+    "sfs": [
+      "1981:531",
+      "1988:855",
+      "1993:1272",
+      "1995:1335"
+    ],
+    "expired": "2006-01-01T00:00:00",
+    "expired_by": "2005:1160",
+    "other_names": [],
+    "replaces": []
+  },
+  "Skolforskningsinstitutet": {
+    "sfs": [
+      "2014:1578"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Skolväsendets överklagandenämnd": {
+    "sfs": [
+      "1991:1122",
+      "2007:948"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Smittskyddsinstitutet": {
+    "sfs": [
+      "1993:110",
+      "1996:609",
+      "2007:1215",
+      "2010:604"
+    ],
+    "expired": "2014-01-01T00:00:00",
+    "expired_by": "2013:1020",
+    "other_names": [],
+    "replaces": []
+  },
+  "Socialstyrelsen": {
+    "sfs": [
+      "1981:683",
+      "1988:1236",
+      "1996:570",
+      "2007:1202",
+      "2009:1243",
+      "2015:284"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Socialvetenskapliga forskningsrådet": {
+    "sfs": [
+      "1990:739"
+    ],
+    "expired": "2001-01-01T00:00:00",
+    "expired_by": "2000:1198",
+    "other_names": [],
+    "replaces": []
+  },
+  "Specialattachéer vid utlandsmyndigheterna": {
+    "sfs": [
+      "1990:1108"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Arbetsmarknadsråd",
+      "Ekonomiska attachéer och finansråd",
+      "Lantbruksråd och lantbruksattaché"
+    ]
+  },
+  "Specialpedagogiska institutet": {
+    "sfs": [
+      "2001:286"
+    ],
+    "expired": "2008-07-01T00:00:00",
+    "expired_by": "2008:390",
+    "other_names": [],
+    "replaces": [
+      "Statens institut för handikappfrågor i skolan"
+    ]
+  },
+  "Specialpedagogiska skolmyndigheten": {
+    "sfs": [
+      "2008:390",
+      "2009:1216",
+      "2011:130"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Nämnden för Rh-anpassad utbildning",
+      "Specialpedagogiska institutet"
+    ]
+  },
+  "Spelinspektionen": {
+    "sfs": [
+      "2018:1476"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Lotteriinspektionen"
+    ]
+  },
+  "Sprängämnesinspektionen": {
+    "sfs": [
+      "1981:499",
+      "1988:369",
+      "1996:62"
+    ],
+    "expired": "2001-10-01T00:00:00",
+    "expired_by": "2001:693",
+    "other_names": [],
+    "replaces": []
+  },
+  "Språk- och folkminnesinstitutet": {
+    "sfs": [
+      "1993:654"
+    ],
+    "expired": "2006-07-01T00:00:00",
+    "expired_by": "2006:888",
+    "other_names": [],
+    "replaces": [
+      "Dialekt- och ortnamnsarkiven samt Svenskt visarkiv"
+    ]
+  },
+  "Statens Strålskyddsinstitut": {
+    "sfs": [
+      "1988:295"
+    ],
+    "expired": "2006-07-01T00:00:00",
+    "expired_by": "2006:524",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens ansvarsnämnd": {
+    "sfs": [
+      "1986:54",
+      "1988:1102",
+      "2007:831"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens arbetsgivarverk": {
+    "sfs": [
+      "1978:813",
+      "1988:1580",
+      "1989:517"
+    ],
+    "expired": "1994-07-01T00:00:00",
+    "expired_by": "1994:272",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens arbetsmarknadsnämnd": {
+    "sfs": [
+      "1979:579",
+      "1988:1106"
+    ],
+    "expired": "1989-07-01T00:00:00",
+    "expired_by": "1989:517",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens arbetsmiljönämnd": {
+    "sfs": [
+      "1982:759",
+      "1988:1141"
+    ],
+    "expired": "1993-07-01T00:00:00",
+    "expired_by": "1993:371",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens bakteriologiska laboratorium": {
+    "sfs": [
+      "1965:786",
+      "1988:1241"
+    ],
+    "expired": "1993-07-01T00:00:00",
+    "expired_by": "1993:93",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens beredning för medicinsk och social utvärdering": {
+    "sfs": [
+      "2007:1233"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Statens beredning för medicinsk utvärdering"
+    ]
+  },
+  "Statens beredning för medicinsk utvärdering": {
+    "sfs": [
+      "2002:1085"
+    ],
+    "expired": "2008-01-01T00:00:00",
+    "expired_by": "2007:1233",
+    "other_names": [],
+    "replaces": [
+      "Statens beredning för utvärdering av medicinsk metodik"
+    ]
+  },
+  "Statens beredning för utvärdering av medicinsk metodik": {
+    "sfs": [
+      "1992:851",
+      "1996:608"
+    ],
+    "expired": "2003-01-01T00:00:00",
+    "expired_by": "2002:1085",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens biografbyrå": {
+    "sfs": [
+      "1965:748",
+      "1988:675",
+      "1990:994",
+      "2007:1182"
+    ],
+    "expired": "2011-01-01T00:00:00",
+    "expired_by": "2010:1923",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens bostadskreditnämnd": {
+    "sfs": [
+      "1991:1274",
+      "1996:125",
+      "2007:836"
+    ],
+    "expired": "2012-10-01T00:00:00",
+    "expired_by": "2012:546",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens bostadsnämnd": {
+    "sfs": [
+      "2002:669"
+    ],
+    "expired": "2006-01-01T00:00:00",
+    "expired_by": "2005:867",
+    "other_names": [],
+    "replaces": [
+      "Delegationen för stöd till vissa kommuner med bostadsåtaganden"
+    ]
+  },
+  "Statens centrum för arkitektur och design": {
+    "sfs": [
+      "2013:71"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Arkitekturmuseet"
+    ]
+  },
+  "Statens chefslönenämnd": {
+    "sfs": [
+      "1985:609",
+      "1988:1533"
+    ],
+    "expired": "1993-11-01T00:00:00",
+    "expired_by": "1993:1063",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens delegation för rymdverksamhet": {
+    "sfs": [
+      "1977:1066"
+    ],
+    "expired": "1988-07-01T00:00:00",
+    "expired_by": "1988:343",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens elektriska inspektion": {
+    "sfs": [
+      "1983:592",
+      "1988:809"
+    ],
+    "expired": "1993-01-01T00:00:00",
+    "expired_by": "1992:1139",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens energimyndighet": {
+    "sfs": [
+      "1997:868",
+      "2004:1200",
+      "2007:1153",
+      "2014:520"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens energiverk": {
+    "sfs": [
+      "1983:646",
+      "1988:808"
+    ],
+    "expired": "1991-07-01T00:00:00",
+    "expired_by": "1991:960",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens fastighetsverk": {
+    "sfs": [
+      "1992:1533",
+      "1996:312",
+      "2007:757"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens folkhälsoinstitut": {
+    "sfs": [
+      "2001:309",
+      "2007:1214",
+      "2009:267"
+    ],
+    "expired": "2014-01-01T00:00:00",
+    "expired_by": "2013:1020",
+    "other_names": [],
+    "replaces": [
+      "Folkhälsoinstitutet"
+    ]
+  },
+  "Statens förhandlingsnämnd": {
+    "sfs": [
+      "1974:628",
+      "1988:1585"
+    ],
+    "expired": "1990-07-01T00:00:00",
+    "expired_by": "1990:182",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens förlikningsmannaexpedition": {
+    "sfs": [
+      "1967:284",
+      "1988:653"
+    ],
+    "expired": "2000-06-01T00:00:00",
+    "expired_by": "2000:258",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens försvarshistoriska museer": {
+    "sfs": [
+      "1992:514",
+      "2007:1178"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens geotekniska institut": {
+    "sfs": [
+      "1965:693",
+      "1988:628",
+      "1996:285",
+      "2007:1056",
+      "2009:945"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens giftinformationscentral": {
+    "sfs": [
+      "1982:442"
+    ],
+    "expired": "1988-07-01T00:00:00",
+    "expired_by": "1988:577",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens handikappråd": {
+    "sfs": [
+      "1979:421",
+      "1988:1094"
+    ],
+    "expired": "1994-07-01T00:00:00",
+    "expired_by": "1994:949",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens haverikommission": {
+    "sfs": [
+      "1978:555",
+      "1988:1114",
+      "1996:282",
+      "2007:860"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens historiska museer": {
+    "sfs": [
+      "1997:1172",
+      "2007:1180",
+      "2014:1079"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens hundskola": {
+    "sfs": [
+      "1981:159",
+      "1988:654"
+    ],
+    "expired": "1992-07-01T00:00:00",
+    "expired_by": "1992:862",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens industriverk": {
+    "sfs": [
+      "1983:701",
+      "1988:314"
+    ],
+    "expired": "1991-07-01T00:00:00",
+    "expired_by": "1991:960",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens inspektion för försvarsunderrättelseverksamheten": {
+    "sfs": [
+      "2009:969"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Försvarets underrättelsenämnd"
+    ]
+  },
+  "Statens institut för byggnadsforskning": {
+    "sfs": [
+      "1982:200",
+      "1988:930"
+    ],
+    "expired": "1994-01-01T00:00:00",
+    "expired_by": "1993:1676",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens institut för ekologisk hållbarhet": {
+    "sfs": [
+      "1998:1835"
+    ],
+    "expired": "2005-01-01T00:00:00",
+    "expired_by": "2004:1258",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens institut för handikappfrågor i skolan": {
+    "sfs": [
+      "1991:1081"
+    ],
+    "expired": "2001-07-01T00:00:00",
+    "expired_by": "2001:286",
+    "other_names": [],
+    "replaces": [
+      "Statens institut för läromedel"
+    ]
+  },
+  "Statens institut för kommunikationsanalys": {
+    "sfs": [
+      "1995:810",
+      "2007:958"
+    ],
+    "expired": "2010-04-01T00:00:00",
+    "expired_by": "2010:186",
+    "other_names": [
+      "Sika"
+    ],
+    "replaces": [
+      "Delegationen för prognos- och utvecklingsverksamhet inom transportsektorn"
+    ]
+  },
+  "Statens institut för läromedel": {
+    "sfs": [
+      "1987:578",
+      "1988:284"
+    ],
+    "expired": "1991-07-01T00:00:00",
+    "expired_by": "1991:1081",
+    "other_names": [],
+    "replaces": [
+      "Statens institut för läromedelsinformation"
+    ]
+  },
+  "Statens institut för läromedelsinformation": {
+    "sfs": [
+      "1974:440"
+    ],
+    "expired": "1987-07-01T00:00:00",
+    "expired_by": "1987:578",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens institut för personalutveckling": {
+    "sfs": [
+      "1984:1004",
+      "1988:1006"
+    ],
+    "expired": "1992-07-01T00:00:00",
+    "expired_by": "1992:928",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens institut för psykosocial miljömedicin": {
+    "sfs": [
+      "1980:303",
+      "1988:1242"
+    ],
+    "expired": "1996-07-01T00:00:00",
+    "expired_by": "1996:615",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens institut för regionalforskning": {
+    "sfs": [
+      "1993:46"
+    ],
+    "expired": "2001-01-01T00:00:00",
+    "expired_by": "2000:1133",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens institut för särskilt utbildningsstöd": {
+    "sfs": [
+      "1988:1126",
+      "2000:755",
+      "2002:794"
+    ],
+    "expired": "2006-01-01T00:00:00",
+    "expired_by": "2005:1073",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens institutionsstyrelse": {
+    "sfs": [
+      "1993:877",
+      "1996:610",
+      "2007:1132"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens invandrarverk": {
+    "sfs": [
+      "1969:137"
+    ],
+    "expired": "1988-07-01T00:00:00",
+    "expired_by": "1988:429",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens jordbruksnämnd": {
+    "sfs": [
+      "1965:799",
+      "1988:856"
+    ],
+    "expired": "1991-07-01T00:00:00",
+    "expired_by": "1991:375",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens jordbruksverk": {
+    "sfs": [
+      "1991:375",
+      "1996:148",
+      "1998:415",
+      "2007:1042",
+      "2009:1464"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Lantbruksstyrelsen och lantbruksnämnderna",
+      "Statens jordbruksnämnd"
+    ]
+  },
+  "Statens järnvägar": {
+    "sfs": [
+      "1985:445",
+      "1988:626",
+      "2000:1367",
+      "2006:172",
+      "2007:1029"
+    ],
+    "expired": "2013-01-01T00:00:00",
+    "expired_by": "2012:789",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens konstmuseer": {
+    "sfs": [
+      "1976:439",
+      "1988:677"
+    ],
+    "expired": "1999-07-01T00:00:00",
+    "expired_by": "1999:562",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens konstråd": {
+    "sfs": [
+      "1965:746",
+      "1988:743",
+      "1996:1597",
+      "2007:1188"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens krigsförsäkringsnämnd": {
+    "sfs": [
+      "1988:1565"
+    ],
+    "expired": "2000-01-01T00:00:00",
+    "expired_by": "1999:1352",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens krigsskadenämnd": {
+    "sfs": [
+      "1959:484",
+      "1988:1566"
+    ],
+    "expired": "2000-01-01T00:00:00",
+    "expired_by": "1999:1351",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens kriminaltekniska laboratorium": {
+    "sfs": [
+      "1978:677"
+    ],
+    "expired": "2015-01-01T00:00:00",
+    "expired_by": "2014:1102",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens kulturråd": {
+    "sfs": [
+      "1974:644",
+      "1987:719",
+      "1988:676",
+      "2007:1186",
+      "2012:515"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens kvalitets- och kompetensråd": {
+    "sfs": [
+      "1998:1647"
+    ],
+    "expired": "2006-01-01T00:00:00",
+    "expired_by": "2005:865",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens kärnbränslenämnd": {
+    "sfs": [
+      "1981:672",
+      "1988:296",
+      "1990:506"
+    ],
+    "expired": "1992-07-01T00:00:00",
+    "expired_by": "1992:480",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens kärnkraftinspektion": {
+    "sfs": [
+      "1974:427",
+      "1988:523",
+      "2006:520"
+    ],
+    "expired": "2008-07-01T00:00:00",
+    "expired_by": "2008:452",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens lantbrukskemiska laboratorium": {
+    "sfs": [
+      "1984:471",
+      "1988:859"
+    ],
+    "expired": "1991-07-01T00:00:00",
+    "expired_by": "1991:376",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens livsmedelsverk": {
+    "sfs": [
+      "1971:808",
+      "1988:857",
+      "1996:147"
+    ],
+    "expired": "2002-02-01T00:00:00",
+    "expired_by": "2001:1259",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens ljud- och bildarkiv": {
+    "sfs": [
+      "1996:503",
+      "2007:1067"
+    ],
+    "expired": "2009-01-01T00:00:00",
+    "expired_by": "2008:1421",
+    "other_names": [],
+    "replaces": [
+      "Arkivet för ljud och bild"
+    ]
+  },
+  "Statens lokalförsörjningsverk": {
+    "sfs": [
+      "1992:1532",
+      "1996:826"
+    ],
+    "expired": "1998-01-01T00:00:00",
+    "expired_by": "1997:1298",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens löne- och pensionsverk": {
+    "sfs": [
+      "1986:599",
+      "1988:113"
+    ],
+    "expired": "1997-05-01T00:00:00",
+    "expired_by": "1997:131",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens maritima museer": {
+    "sfs": [
+      "1990:571"
+    ],
+    "expired": "2008-01-01T00:00:00",
+    "expired_by": "2007:1198",
+    "other_names": [],
+    "replaces": [
+      "Statens sjöhistoriska museum"
+    ]
+  },
+  "Statens maritima och transporthistoriska museer": {
+    "sfs": [
+      "2007:1198"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Statens maritima museer"
+    ]
+  },
+  "Statens maskinprovningar": {
+    "sfs": [
+      "1983:816",
+      "1988:858"
+    ],
+    "expired": "1996-07-01T00:00:00",
+    "expired_by": "1996:718",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens medieråd": {
+    "sfs": [
+      "2010:1923"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Statens biografbyrå"
+    ]
+  },
+  "Statens miljömedicinska laboratorium": {
+    "sfs": [
+      "1980:571"
+    ],
+    "expired": "1988-07-01T00:00:00",
+    "expired_by": "1988:378",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens museer för världskultur": {
+    "sfs": [
+      "1998:1714",
+      "2007:1185"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Folkens museum - etnografiska"
+    ]
+  },
+  "Statens musiksamlingar": {
+    "sfs": [
+      "1981:504",
+      "1988:1184",
+      "1999:561",
+      "2007:1196"
+    ],
+    "expired": "2011-05-01T00:00:00",
+    "expired_by": "2010:1922",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens musikverk": {
+    "sfs": [
+      "2010:1922"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Statens musiksamlingar"
+    ]
+  },
+  "Statens mät- och provråd": {
+    "sfs": [
+      "1983:695"
+    ],
+    "expired": "1989-07-01T00:00:00",
+    "expired_by": "1989:270",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens naturvårdsverk": {
+    "sfs": [
+      "1967:444"
+    ],
+    "expired": "1988-07-01T00:00:00",
+    "expired_by": "1988:518",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens nämnd för arbetstagares uppfinningar": {
+    "sfs": [
+      "1965:668",
+      "1988:1140",
+      "2007:908"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens nämnd för internationella adoptionsfrågor": {
+    "sfs": [
+      "1981:681",
+      "1988:1128"
+    ],
+    "expired": "2005-01-01T00:00:00",
+    "expired_by": "2004:1145",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens oljelager": {
+    "sfs": [
+      "1994:1007",
+      "1996:226"
+    ],
+    "expired": "1998-01-01T00:00:00",
+    "expired_by": "1997:1294",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens pensionsverk": {
+    "sfs": [
+      "1997:131"
+    ],
+    "expired": "2008-01-01T00:00:00",
+    "expired_by": "2007:832",
+    "other_names": [],
+    "replaces": [
+      "Statens löne- och pensionsverk"
+    ]
+  },
+  "Statens person- och adressregisternämnd": {
+    "sfs": [
+      "1986:547",
+      "1988:1101"
+    ],
+    "expired": "1998-10-24T00:00:00",
+    "expired_by": "1998:1235",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens personadressregisternämnd": {
+    "sfs": [
+      "1998:1235",
+      "2007:784"
+    ],
+    "expired": "2009-01-01T00:00:00",
+    "expired_by": "2008:1309",
+    "other_names": [],
+    "replaces": [
+      "Statens person- och adressregisternämnd"
+    ]
+  },
+  "Statens planverk": {
+    "sfs": [
+      "1967:329"
+    ],
+    "expired": "1988-07-01T00:00:00",
+    "expired_by": "1988:590",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens planverks råd för samhällsplanering": {
+    "sfs": [
+      "1979:670"
+    ],
+    "expired": "1988-07-01T00:00:00",
+    "expired_by": "1988:590",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens planverks råd för stål- och betongnormer": {
+    "sfs": [
+      "1978:849"
+    ],
+    "expired": "1988-07-01T00:00:00",
+    "expired_by": "1988:590",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens planverks tekniska råd": {
+    "sfs": [
+      "1980:411"
+    ],
+    "expired": "1988-07-01T00:00:00",
+    "expired_by": "1988:590",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens pris- och kartellnämnd": {
+    "sfs": [
+      "1983:407"
+    ],
+    "expired": "1988-10-01T00:00:00",
+    "expired_by": "1988:980",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens pris- och konkurrensverk": {
+    "sfs": [
+      "1988:980"
+    ],
+    "expired": "1992-07-01T00:00:00",
+    "expired_by": "1992:820",
+    "other_names": [],
+    "replaces": [
+      "Statens pris- och kartellnämnd"
+    ]
+  },
+  "Statens provningsanstalt": {
+    "sfs": [
+      "1984:49",
+      "1988:344"
+    ],
+    "expired": "1993-07-01T00:00:00",
+    "expired_by": "1993:704",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens psykologisk-pedagogiska bibliotek": {
+    "sfs": [
+      "1980:393",
+      "1988:679",
+      "1996:504"
+    ],
+    "expired": "2000-01-01T00:00:00",
+    "expired_by": "1999:1344",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens räddningsverk": {
+    "sfs": [
+      "1986:424",
+      "1988:1040",
+      "2005:890",
+      "2007:857"
+    ],
+    "expired": "2009-01-01T00:00:00",
+    "expired_by": "2008:1002",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens rättskemiska laboratorium": {
+    "sfs": [
+      "1977:566",
+      "1988:1237"
+    ],
+    "expired": "1991-07-01T00:00:00",
+    "expired_by": "1991:944",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens rättsläkarstationer": {
+    "sfs": [
+      "1988:1238"
+    ],
+    "expired": "1991-07-01T00:00:00",
+    "expired_by": "1991:944",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens rättspsykiatriska kliniker och stationer": {
+    "sfs": [
+      "1988:1239"
+    ],
+    "expired": "1991-10-01T00:00:00",
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens råd för byggnadsforskning": {
+    "sfs": [
+      "1983:733"
+    ],
+    "expired": "1988-07-01T00:00:00",
+    "expired_by": "1988:232",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens servicecenter": {
+    "sfs": [
+      "2012:208"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens sjöhistoriska museum": {
+    "sfs": [
+      "1965:698",
+      "1988:687",
+      "1989:204"
+    ],
+    "expired": "1990-07-01T00:00:00",
+    "expired_by": "1990:571",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens skaderegleringsnämnd": {
+    "sfs": [
+      "2007:826"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens skolinspektion": {
+    "sfs": [
+      "2008:613",
+      "2009:1215",
+      "2011:556"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens skolor för vuxna": {
+    "sfs": [
+      "2001:281"
+    ],
+    "expired": "2002-01-01T00:00:00",
+    "expired_by": "2001:1201",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens skolverk": {
+    "sfs": [
+      "1991:1121",
+      "2002:1160",
+      "2008:612",
+      "2009:1214",
+      "2011:555",
+      "2015:1047"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Den statliga skoladministrationen"
+    ]
+  },
+  "Statens strålskyddsinstitut": {
+    "sfs": [
+      "1976:481",
+      "2006:524"
+    ],
+    "expired": "2008-07-01T00:00:00",
+    "expired_by": "2008:452",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens telenämnd": {
+    "sfs": [
+      "1989:600"
+    ],
+    "expired": "1992-07-01T00:00:00",
+    "expired_by": "1992:895",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens tjänstebostadsnämnd": {
+    "sfs": [
+      "1984:538",
+      "1988:1105"
+    ],
+    "expired": "2000-01-01T00:00:00",
+    "expired_by": "1999:866",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens tjänstepensions- och grupplivnämnd": {
+    "sfs": [
+      "1988:247",
+      "2007:833"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Statens tjänstepensionsnämnd"
+    ]
+  },
+  "Statens tjänstepensionsnämnd": {
+    "sfs": [
+      "1975:63"
+    ],
+    "expired": "1988-06-01T00:00:00",
+    "expired_by": "1988:247",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens tjänstepensionsverk": {
+    "sfs": [
+      "2007:832"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Statens pensionsverk"
+    ]
+  },
+  "Statens trygghetsnämnd": {
+    "sfs": [
+      "1988:65",
+      "1990:481"
+    ],
+    "expired": "2002-07-01T00:00:00",
+    "expired_by": "2002:245",
+    "other_names": [],
+    "replaces": [
+      "Trygghetsnämnden"
+    ]
+  },
+  "Statens ungdomsråd": {
+    "sfs": [
+      "1976:527",
+      "1988:1136"
+    ],
+    "expired": "1994-09-01T00:00:00",
+    "expired_by": "1994:1202",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens utlandslönenämnd": {
+    "sfs": [
+      "1985:713",
+      "1988:1534",
+      "2007:834"
+    ],
+    "expired": "2010-01-01T00:00:00",
+    "expired_by": "2009:1033",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens utsädeskontroll": {
+    "sfs": [
+      "1978:249",
+      "1988:860",
+      "1996:146"
+    ],
+    "expired": "2006-01-01T00:00:00",
+    "expired_by": "2005:1221",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens va-nämnd": {
+    "sfs": [
+      "2007:1058"
+    ],
+    "expired": "2016-01-01T00:00:00",
+    "expired_by": "2015:694",
+    "other_names": [],
+    "replaces": [
+      "Instruktion för Statens va-nämnd"
+    ]
+  },
+  "Statens vattenfallsverk": {
+    "sfs": [
+      "1982:705",
+      "1988:851"
+    ],
+    "expired": "1992-01-01T00:00:00",
+    "expired_by": "1991:2015",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens veterinärmedicinska anstalt": {
+    "sfs": [
+      "1982:553",
+      "1988:864",
+      "1994:537",
+      "1999:341",
+      "2007:1044",
+      "2009:1394"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens väg- och trafikinstitut": {
+    "sfs": [
+      "1971:233",
+      "1988:629"
+    ],
+    "expired": "1993-07-01T00:00:00",
+    "expired_by": "1993:679",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens väg- och transportforskningsinstitut": {
+    "sfs": [
+      "1993:679",
+      "1996:284",
+      "2007:964"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Statens väg- och trafikinstitut"
+    ]
+  },
+  "Statens växtsortnämnd": {
+    "sfs": [
+      "1971:395",
+      "1988:865"
+    ],
+    "expired": "2006-01-01T00:00:00",
+    "expired_by": "2005:1221",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statens överklagandenämnd": {
+    "sfs": [
+      "2007:835"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Överklagandenämnden för totalförsvaret"
+    ]
+  },
+  "Statistiska centralbyrån": {
+    "sfs": [
+      "1985:608",
+      "1988:137",
+      "2007:762",
+      "2016:822"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Statsförvaltningens centrala förslagsnämnd": {
+    "sfs": [
+      "1981:607",
+      "1988:1103"
+    ],
+    "expired": "1995-07-01T00:00:00",
+    "expired_by": "1994:1339",
+    "other_names": [],
+    "replaces": []
+  },
+  "Statskontoret": {
+    "sfs": [
+      "1986:448",
+      "1988:959",
+      "1992:877",
+      "2005:862",
+      "2007:827"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Statsrådsarvodesnämnden": {
+    "sfs": [
+      "1993:1427",
+      "2012:881"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Statsrådslönenämnden": {
+    "sfs": [
+      "1984:1005",
+      "1988:1532"
+    ],
+    "expired": "1991-09-01T00:00:00",
+    "expired_by": "1991:833",
+    "other_names": [],
+    "replaces": []
+  },
+  "Steriliseringsersättningsnämnden": {
+    "sfs": [
+      "1999:614"
+    ],
+    "expired": "2003-12-01T00:00:00",
+    "expired_by": "2003:762",
+    "other_names": [],
+    "replaces": []
+  },
+  "Stiftsnämnderna": {
+    "sfs": [
+      "1971:862"
+    ],
+    "expired": "1989-07-01T00:00:00",
+    "expired_by": "1988:1098",
+    "other_names": [],
+    "replaces": []
+  },
+  "Strålsäkerhetsmyndigheten": {
+    "sfs": [
+      "2008:452"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Statens kärnkraftinspektion",
+      "Statens strålskyddsinstitut"
+    ]
+  },
+  "Studiemedelsnämnderna": {
+    "sfs": [
+      "1965:745",
+      "1988:1196"
+    ],
+    "expired": "1992-07-01T00:00:00",
+    "expired_by": "1992:813",
+    "other_names": [],
+    "replaces": []
+  },
+  "Styrelsen för Sverigebilden": {
+    "sfs": [
+      "1992:584"
+    ],
+    "expired": "1995-07-01T00:00:00",
+    "expired_by": "1995:950",
+    "other_names": [],
+    "replaces": []
+  },
+  "Styrelsen för ackreditering och teknisk kontroll": {
+    "sfs": [
+      "1989:270",
+      "1996:81",
+      "2007:1223",
+      "2009:895",
+      "2021:1252"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Statens mät- och provråd"
+    ]
+  },
+  "Styrelsen för internationell utveckling": {
+    "sfs": [
+      "1973:687",
+      "1988:531"
+    ],
+    "expired": "1995-07-01T00:00:00",
+    "expired_by": "1995:869",
+    "other_names": [
+      "Sida"
+    ],
+    "replaces": []
+  },
+  "Styrelsen för internationellt näringslivsbistånd": {
+    "sfs": [
+      "1991:840"
+    ],
+    "expired": "1995-07-01T00:00:00",
+    "expired_by": "1995:869",
+    "other_names": [
+      "Swedecorp"
+    ],
+    "replaces": [
+      "Importkontoret för u-landsprodukter"
+    ]
+  },
+  "Styrelsen för internationellt utvecklingssamarbete": {
+    "sfs": [
+      "1995:869",
+      "2007:1371",
+      "2010:1080"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [
+      "Sida"
+    ],
+    "replaces": [
+      "Beredningen för internationellt tekniskt-ekonomiskt samarbete",
+      "Styrelsen för internationell utveckling",
+      "Styrelsen för internationellt näringslivsbistånd",
+      "Styrelsen för u-landsforskning",
+      "Styrelsen för u-landsutbildning i Sandö (Sandö U-centrum)"
+    ]
+  },
+  "Styrelsen för lokalradiotillstånd": {
+    "sfs": [
+      "1993:127"
+    ],
+    "expired": "1994-07-01T00:00:00",
+    "expired_by": "1994:730",
+    "other_names": [],
+    "replaces": []
+  },
+  "Styrelsen för psykologiskt försvar": {
+    "sfs": [
+      "1985:476",
+      "1988:853",
+      "2005:629",
+      "2007:1265"
+    ],
+    "expired": "2009-01-01T00:00:00",
+    "expired_by": "2008:1002",
+    "other_names": [],
+    "replaces": []
+  },
+  "Styrelsen för riksfärdtjänst": {
+    "sfs": [
+      "1991:1812"
+    ],
+    "expired": "1994-01-01T00:00:00",
+    "expired_by": "1993:1639",
+    "other_names": [],
+    "replaces": []
+  },
+  "Styrelsen för teknisk utveckling": {
+    "sfs": [
+      "1979:113",
+      "1988:404"
+    ],
+    "expired": "1991-07-01T00:00:00",
+    "expired_by": "1991:960",
+    "other_names": [],
+    "replaces": []
+  },
+  "Styrelsen för u-landsforskning": {
+    "sfs": [
+      "1988:532"
+    ],
+    "expired": "1995-07-01T00:00:00",
+    "expired_by": "1995:869",
+    "other_names": [
+      "Sarec"
+    ],
+    "replaces": [
+      "Styrelsen för u-landsforskning (Swedish Agency for Research Cooperation with Developing Countries, SAREC)"
+    ]
+  },
+  "Styrelsen för u-landsforskning (Swedish Agency for Research Cooperation with Developing Countries, SAREC)": {
+    "sfs": [
+      "1979:832"
+    ],
+    "expired": "1988-09-01T00:00:00",
+    "expired_by": "1988:532",
+    "other_names": [],
+    "replaces": []
+  },
+  "Styrelsen för u-landsutbildning i Sandö (Sandö U-centrum)": {
+    "sfs": [
+      "1987:601",
+      "1988:533"
+    ],
+    "expired": "1995-07-01T00:00:00",
+    "expired_by": "1995:869",
+    "other_names": [],
+    "replaces": [
+      "Nämnden för u-landsutbildning"
+    ]
+  },
+  "Stängselnämnden": {
+    "sfs": [
+      "1975:1012"
+    ],
+    "expired": "2009-01-01T00:00:00",
+    "expired_by": "2008:1334",
+    "other_names": [],
+    "replaces": []
+  },
+  "Svenska EU-programkontoret för utbildning och kompetensutveckling": {
+    "sfs": [
+      "1997:1231"
+    ],
+    "expired": "2000-01-01T00:00:00",
+    "expired_by": "1999:1222",
+    "other_names": [],
+    "replaces": [
+      "Delegationen för genomförande av vissa EU-program inom utbildning och kompetensutveckling m.m."
+    ]
+  },
+  "Svenska FAO-kommittén": {
+    "sfs": [
+      "1995:1100"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Svenska Unescorådet": {
+    "sfs": [
+      "2007:950"
+    ],
+    "expired": "2012-01-01T00:00:00",
+    "expired_by": "2011:1603",
+    "other_names": [],
+    "replaces": [
+      "Svenska unescorådet"
+    ]
+  },
+  "Svenska dialoginstitutet för Mellanöstern och Nordafrika": {
+    "sfs": [
+      "1998:1218"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Svenska insitutet för europapolitiska studier": {
+    "sfs": [
+      "2006:948"
+    ],
+    "expired": "2008-01-01T00:00:00",
+    "expired_by": "2007:1228",
+    "other_names": [],
+    "replaces": [
+      "Expertgruppen för EU-frågor"
+    ]
+  },
+  "Svenska institutet": {
+    "sfs": [
+      "1997:1226",
+      "2007:1224",
+      "2015:152"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Svenska institutet för europapolitiska studier": {
+    "sfs": [
+      "2007:1228",
+      "2008:748"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Svenska insitutet för europapolitiska studier"
+    ]
+  },
+  "Svenska unescorådet": {
+    "sfs": [
+      "1988:1462",
+      "1996:646"
+    ],
+    "expired": "2008-01-01T00:00:00",
+    "expired_by": "2007:950",
+    "other_names": [],
+    "replaces": []
+  },
+  "Svenskt biografiskt lexikon": {
+    "sfs": [
+      "1986:537",
+      "1988:630",
+      "2007:1201"
+    ],
+    "expired": "2009-01-01T00:00:00",
+    "expired_by": "2008:1252",
+    "other_names": [],
+    "replaces": []
+  },
+  "Sveriges geologiska undersökning": {
+    "sfs": [
+      "1982:586",
+      "1988:367",
+      "1995:1381",
+      "1997:1294",
+      "2007:1318",
+      "2008:1233"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Sveriges meteorologiska och hydrologiska institut": {
+    "sfs": [
+      "1981:1102",
+      "1988:1113",
+      "1996:280",
+      "2007:1053",
+      "2009:974"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Säkerhets- och integritetsskyddsnämnden": {
+    "sfs": [
+      "2007:1141"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Registernämnden"
+    ]
+  },
+  "Säkerhetspolisen": {
+    "sfs": [
+      "2002:1050",
+      "2014:1103",
+      "2022:1719"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Talboks- och punktskriftsbiblioteket": {
+    "sfs": [
+      "1979:1073",
+      "1988:341",
+      "2007:1290"
+    ],
+    "expired": "2010-08-01T00:00:00",
+    "expired_by": "2010:769",
+    "other_names": [],
+    "replaces": []
+  },
+  "Taltidningsnämnden": {
+    "sfs": [
+      "1988:674",
+      "2007:1189"
+    ],
+    "expired": "2010-08-01T00:00:00",
+    "expired_by": "2010:769",
+    "other_names": [],
+    "replaces": []
+  },
+  "Tandvårds- och läkemedelsförmånsverket": {
+    "sfs": [
+      "2007:1206"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Läkemedelsförmånsnämnden"
+    ]
+  },
+  "Teknikvetenskapliga forskningsrådet": {
+    "sfs": [
+      "1990:730"
+    ],
+    "expired": "1993-07-01T00:00:00",
+    "expired_by": "1993:860",
+    "other_names": [],
+    "replaces": []
+  },
+  "Teleanslutningsnämnden": {
+    "sfs": [
+      "1981:997"
+    ],
+    "expired": "1990-01-01T00:00:00",
+    "expired_by": "1989:601",
+    "other_names": [],
+    "replaces": []
+  },
+  "Telestyrelsen": {
+    "sfs": [
+      "1992:895"
+    ],
+    "expired": "1994-03-01T00:00:00",
+    "expired_by": "1993:1710",
+    "other_names": [],
+    "replaces": [
+      "Statens telenämnd"
+    ]
+  },
+  "Televerket": {
+    "sfs": [
+      "1985:764",
+      "1988:348"
+    ],
+    "expired": "1993-07-01T00:00:00",
+    "expired_by": "1993:616",
+    "other_names": [],
+    "replaces": []
+  },
+  "Tillväxtverket": {
+    "sfs": [
+      "2009:145"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Verket för näringslivsutveckling"
+    ]
+  },
+  "Tjänsteförslagsnämnden för domstolsväsendet": {
+    "sfs": [
+      "1975:507",
+      "1988:318",
+      "2007:1080"
+    ],
+    "expired": "2008-07-01T00:00:00",
+    "expired_by": "2008:427",
+    "other_names": [],
+    "replaces": []
+  },
+  "Tjänsteförslagsnämnden för åklagarväsendet": {
+    "sfs": [
+      "1993:523"
+    ],
+    "expired": "1999-01-01T00:00:00",
+    "expired_by": "1998:1461",
+    "other_names": [],
+    "replaces": []
+  },
+  "Tomtebodaskolans resurscenter": {
+    "sfs": [
+      "1988:1384",
+      "2000:451"
+    ],
+    "expired": "2001-07-01T00:00:00",
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Totalförsvarets chefsnämnd": {
+    "sfs": [
+      "1985:477",
+      "1988:1041"
+    ],
+    "expired": "2002-01-01T00:00:00",
+    "expired_by": "2001:1265",
+    "other_names": [],
+    "replaces": []
+  },
+  "Totalförsvarets forskningsinstitut": {
+    "sfs": [
+      "2000:1074",
+      "2007:861"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Flygtekniska försöksanstalten",
+      "Försvarets forskningsanstalt"
+    ]
+  },
+  "Totalförsvarets plikt- och prövningsverk": {
+    "sfs": [
+      "2010:1472"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Totalförsvarets pliktverk"
+    ]
+  },
+  "Totalförsvarets pliktverk": {
+    "sfs": [
+      "1995:648",
+      "2007:1263"
+    ],
+    "expired": "2011-01-01T00:00:00",
+    "expired_by": "2010:1472",
+    "other_names": [],
+    "replaces": [
+      "Vapenfristyrelsen",
+      "Värnpliktsverket"
+    ]
+  },
+  "Totalförsvarets tjänstepliktsnämnd": {
+    "sfs": [
+      "1989:759"
+    ],
+    "expired": "1995-07-01T00:00:00",
+    "expired_by": "1995:625",
+    "other_names": [],
+    "replaces": [
+      "Värnpliktsnämnden"
+    ]
+  },
+  "Trafikanalys": {
+    "sfs": [
+      "2010:186"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Statens institut för kommunikationsanalys"
+    ]
+  },
+  "Trafiksäkerhetsverket": {
+    "sfs": [
+      "1985:345",
+      "1988:282"
+    ],
+    "expired": "1993-01-01T00:00:00",
+    "expired_by": "1992:1467",
+    "other_names": [],
+    "replaces": []
+  },
+  "Trafikverket": {
+    "sfs": [
+      "2010:185"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Banverket",
+      "Vägverket"
+    ]
+  },
+  "Transportforskningsberedningen": {
+    "sfs": [
+      "1984:483",
+      "1988:708"
+    ],
+    "expired": "1993-07-01T00:00:00",
+    "expired_by": "1993:675",
+    "other_names": [],
+    "replaces": []
+  },
+  "Transportrådet": {
+    "sfs": [
+      "1979:1037",
+      "1988:1179"
+    ],
+    "expired": "1992-01-01T00:00:00",
+    "expired_by": "1991:1728",
+    "other_names": [],
+    "replaces": []
+  },
+  "Transportstyrelsen": {
+    "sfs": [
+      "2008:1300"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Järnvägsstyrelsen",
+      "Luftfartsstyrelsen"
+    ]
+  },
+  "Trollhätte kanalverk": {
+    "sfs": [
+      "1991:2014"
+    ],
+    "expired": "1994-01-01T00:00:00",
+    "expired_by": "1993:1331",
+    "other_names": [],
+    "replaces": []
+  },
+  "Trygghetsnämnden": {
+    "sfs": [
+      "1984:109"
+    ],
+    "expired": "1988-03-01T00:00:00",
+    "expired_by": "1988:65",
+    "other_names": [],
+    "replaces": []
+  },
+  "Tullverket": {
+    "sfs": [
+      "1984:988",
+      "1991:1524",
+      "2007:782",
+      "2016:1332"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Turistdelegationen": {
+    "sfs": [
+      "1995:950"
+    ],
+    "expired": "2006-01-01T00:00:00",
+    "expired_by": "2005:1233",
+    "other_names": [],
+    "replaces": [
+      "Styrelsen för Sverigebilden"
+    ]
+  },
+  "Ungdomsstyrelsen": {
+    "sfs": [
+      "1994:1202",
+      "1994:1389"
+    ],
+    "expired": "2008-01-01T00:00:00",
+    "expired_by": "2007:1140",
+    "other_names": [],
+    "replaces": [
+      "Statens ungdomsråd"
+    ]
+  },
+  "Universitets- och högskolerådet": {
+    "sfs": [
+      "2012:811"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Universitets- och högskoleämbetet": {
+    "sfs": [
+      "1976:702",
+      "1988:670",
+      "1991:1285"
+    ],
+    "expired": "1992-07-01T00:00:00",
+    "expired_by": "1992:397",
+    "other_names": [],
+    "replaces": []
+  },
+  "Universitetskanslersämbetet": {
+    "sfs": [
+      "2012:810"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Upphandlingsmyndigheten": {
+    "sfs": [
+      "2015:527"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Utbetalningsmyndigheten": {
+    "sfs": [
+      "2023:461"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Utlänningsnämnden": {
+    "sfs": [
+      "1991:1817"
+    ],
+    "expired": "2006-03-31T00:00:00",
+    "expired_by": "2006:97",
+    "other_names": [],
+    "replaces": []
+  },
+  "Utrikesdepartementet": {
+    "sfs": [
+      "1982:1282",
+      "1996:728"
+    ],
+    "expired": "1997-01-01T00:00:00",
+    "expired_by": "1996:1515",
+    "other_names": [],
+    "replaces": []
+  },
+  "Utrikesdepartementets antagningsnämnd": {
+    "sfs": [
+      "1977:37"
+    ],
+    "expired": "1991-07-01T00:00:00",
+    "expired_by": "1991:360",
+    "other_names": [],
+    "replaces": []
+  },
+  "Utrikesförvaltningens antagningsnämnd": {
+    "sfs": [
+      "1991:360"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Utrikesdepartementets antagningsnämnd"
+    ]
+  },
+  "Utrikesrepresentationen": {
+    "sfs": [
+      "1992:247",
+      "2014:115"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Utrustningsnämnden för universitet och högskolor": {
+    "sfs": [
+      "1978:498",
+      "1988:680"
+    ],
+    "expired": "1992-07-01T00:00:00",
+    "expired_by": "1992:397",
+    "other_names": [],
+    "replaces": []
+  },
+  "Utskrivningsnämnderna": {
+    "sfs": [
+      "1966:566"
+    ],
+    "expired": "1992-01-01T00:00:00",
+    "expired_by": "1991:1473",
+    "other_names": [],
+    "replaces": []
+  },
+  "Valideringsdelegationen": {
+    "sfs": [
+      "2003:1096"
+    ],
+    "expired": "2008-01-01T00:00:00",
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Valmyndigheten": {
+    "sfs": [
+      "2001:240",
+      "2007:977"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Valprövningsnämnden": {
+    "sfs": [
+      "1974:1037",
+      "2012:880"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Vapenfrinämnden": {
+    "sfs": [
+      "1988:1038"
+    ],
+    "expired": "1989-10-01T00:00:00",
+    "expired_by": "1989:757",
+    "other_names": [],
+    "replaces": []
+  },
+  "Vapenfristyrelsen": {
+    "sfs": [
+      "1989:757"
+    ],
+    "expired": "1995-07-01T00:00:00",
+    "expired_by": "1995:648",
+    "other_names": [],
+    "replaces": [
+      "Nämnden för vapenfriutbildning",
+      "Vapenfrinämnden"
+    ]
+  },
+  "Verket för förvaltningsutveckling": {
+    "sfs": [
+      "2005:860",
+      "2007:828"
+    ],
+    "expired": "2009-01-01T00:00:00",
+    "expired_by": "2008:1439",
+    "other_names": [],
+    "replaces": []
+  },
+  "Verket för högskoleservice": {
+    "sfs": [
+      "1992:397",
+      "1995:943",
+      "2007:1291"
+    ],
+    "expired": "2013-01-01T00:00:00",
+    "expired_by": "2012:724",
+    "other_names": [],
+    "replaces": [
+      "Universitets- och högskoleämbetet",
+      "Utrustningsnämnden för universitet och högskolor"
+    ]
+  },
+  "Verket för innovationssystem": {
+    "sfs": [
+      "2000:1132",
+      "2007:1114",
+      "2009:1101"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Kommunikationsforskningsberedningen",
+      "Rådet för arbetslivsforskning"
+    ]
+  },
+  "Verket för näringslivsutveckling": {
+    "sfs": [
+      "2000:1178",
+      "2007:1155"
+    ],
+    "expired": "2009-04-01T00:00:00",
+    "expired_by": "2009:145",
+    "other_names": [],
+    "replaces": [
+      "Närings- och teknikutvecklingsverket"
+    ]
+  },
+  "Vetenskapsrådet": {
+    "sfs": [
+      "2000:1199",
+      "2007:1397",
+      "2009:975"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Forskningsråden inom Utbildningsdepartementets verksamhetsområde",
+      "Forskningsrådsnämnden"
+    ]
+  },
+  "Vuxenutbildningsnämnderna": {
+    "sfs": [
+      "1975:394",
+      "1988:1197"
+    ],
+    "expired": "1992-07-01T00:00:00",
+    "expired_by": "1992:813",
+    "other_names": [],
+    "replaces": []
+  },
+  "Vägverket": {
+    "sfs": [
+      "1967:258",
+      "1988:1074",
+      "1992:1467",
+      "1997:652",
+      "2007:960",
+      "2008:1380"
+    ],
+    "expired": "2010-04-01T00:00:00",
+    "expired_by": "2010:185",
+    "other_names": [],
+    "replaces": []
+  },
+  "Värnpliktsnämnden": {
+    "sfs": [
+      "1979:3",
+      "1988:1037"
+    ],
+    "expired": "1989-10-01T00:00:00",
+    "expired_by": "1989:759",
+    "other_names": [],
+    "replaces": []
+  },
+  "Värnpliktsverket": {
+    "sfs": [
+      "1994:645"
+    ],
+    "expired": "1995-07-01T00:00:00",
+    "expired_by": "1995:648",
+    "other_names": [],
+    "replaces": []
+  },
+  "Växtförädlingsnämnden": {
+    "sfs": [
+      "1979:300",
+      "1988:861"
+    ],
+    "expired": "1990-01-01T00:00:00",
+    "expired_by": "1989:282",
+    "other_names": [],
+    "replaces": []
+  },
+  "Yrkesinspektionen": {
+    "sfs": [
+      "1973:847"
+    ],
+    "expired": "1987-07-01T00:00:00",
+    "expired_by": "1987:393",
+    "other_names": [],
+    "replaces": []
+  },
+  "Åklagarmyndigheten": {
+    "sfs": [
+      "2004:1266",
+      "2007:971",
+      "2015:743"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Riksåklagaren"
+    ]
+  },
+  "Åsbackaskolans resurscenter": {
+    "sfs": [
+      "2000:450"
+    ],
+    "expired": "2001-07-01T00:00:00",
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Överklagandenämnden för etikprövning": {
+    "sfs": [
+      "2007:1068"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Centrala etikprövningsnämnden"
+    ]
+  },
+  "Överklagandenämnden för högskolan": {
+    "sfs": [
+      "1992:404",
+      "2007:991"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Besvärsnämnden för högskoleutbildning"
+    ]
+  },
+  "Överklagandenämnden för nämndemannauppdrag": {
+    "sfs": [
+      "2007:1081"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Överåklagarnämnden för nämndemannauppdrag"
+    ]
+  },
+  "Överklagandenämnden för studiestöd": {
+    "sfs": [
+      "2001:79",
+      "2007:1348"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Överklagandenämnden för totalförsvaret": {
+    "sfs": [
+      "1995:625"
+    ],
+    "expired": "2008-01-01T00:00:00",
+    "expired_by": "2007:835",
+    "other_names": [],
+    "replaces": [
+      "Försvarets personalnämnd",
+      "Totalförsvarets tjänstepliktsnämnd"
+    ]
+  },
+  "Överstyrelsen för civil beredskap": {
+    "sfs": [
+      "1986:423",
+      "1988:1122"
+    ],
+    "expired": "2002-07-01T00:00:00",
+    "expired_by": "2002:518",
+    "other_names": [],
+    "replaces": []
+  },
+  "Övervakningsnämnderna": {
+    "sfs": [
+      "1983:257",
+      "1988:683",
+      "2007:1174"
+    ],
+    "expired": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
+  "Överåklagarnämnden för nämndemannauppdrag": {
+    "sfs": [
+      "2006:853"
+    ],
+    "expired": "2008-01-01T00:00:00",
+    "expired_by": "2007:1081",
+    "other_names": [],
+    "replaces": []
+  }
+}

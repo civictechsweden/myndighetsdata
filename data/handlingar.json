@@ -1,0 +1,4631 @@
+{
+  "Riksdagens Ombudsmän": {
+    "short_name": "JO",
+    "handlingar_url": "https://handlingar.se/body/jo",
+    "tags": [
+      "revision",
+      "riksdagsmyndighet"
+    ],
+    "website": "https://www.jo.se"
+  },
+  "Riksdagsförvaltningen": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/riksdagsforvaltningen",
+    "tags": [
+      "riksdagen",
+      "riksdagsmyndighet"
+    ],
+    "website": "https://www.riksdagen.se"
+  },
+  "Riksrevisionen": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/riksrevisionen",
+    "tags": [
+      "revision",
+      "riksdagsmyndighet"
+    ],
+    "website": "https://www.riksrevisionen.se"
+  },
+  "Sveriges Riksbank": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_riksbank",
+    "tags": [
+      "riksdagen",
+      "riksdagsmyndighet"
+    ],
+    "website": "https://www.riksbank.se"
+  },
+  "Luftfartsverket": {
+    "short_name": "LFV",
+    "handlingar_url": "https://handlingar.se/body/lfv",
+    "tags": [
+      "infrastruktur",
+      "forvaltningsmyndighet",
+      "beredskapsmyndighet",
+      "infrastrukturdepartementet"
+    ],
+    "website": "https://www.lfv.se"
+  },
+  "Sjöfartsverket": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sjofartsverket",
+    "tags": [
+      "trafikinfrastruktur",
+      "forvaltningsmyndighet",
+      "beredskapsmyndighet",
+      "infrastrukturdepartementet"
+    ],
+    "website": "https://www.sjofartsverket.se"
+  },
+  "Alkoholsortimentsnämnden": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/alkoholsortimentsnamnden",
+    "tags": [
+      "overklagan",
+      "forvaltningsmyndighet",
+      "socialdepartementet"
+    ],
+    "website": "https://www.kammarkollegiet.se/om-oss/kammarkollegiets-uppgifter/stod-till-andra-myndigheter/alkoholsortimentsnamnden"
+  },
+  "Allmänna reklamationsnämnden": {
+    "short_name": "ARN",
+    "handlingar_url": "https://handlingar.se/body/arn",
+    "tags": [
+      "konsumtion",
+      "utbildningochkommunikation",
+      "forvaltningsmyndighet",
+      "finansdepartementet"
+    ],
+    "website": "https://www.arn.se"
+  },
+  "Ansvarsnämnden för djurens hälso- och sjukvård": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/ansvarsnamnden_for_djurens_halso_och_sjukvard",
+    "tags": [
+      "overklagan",
+      "forvaltningsmyndighet",
+      "landsbygdsdepartementet"
+    ],
+    "website": "https://www.vetansvar.se"
+  },
+  "Arbetsförmedlingen": {
+    "short_name": "AF",
+    "handlingar_url": "https://handlingar.se/body/af",
+    "tags": [
+      "sysselsattningocharbete",
+      "forvaltningsmyndighet",
+      "beredskapsmyndighet",
+      "arbetsmarknadsdepartementet"
+    ],
+    "website": "https://www.arbetsformedlingen.se"
+  },
+  "Arbetsgivarverket": {
+    "short_name": "AGV",
+    "handlingar_url": "https://handlingar.se/body/agv",
+    "tags": [
+      "arbetsratt",
+      "forvaltningsmyndighet",
+      "finansdepartementet"
+    ],
+    "website": "https://www.arbetsgivarverket.se"
+  },
+  "Arbetsmiljöverket": {
+    "short_name": "AV",
+    "handlingar_url": "https://handlingar.se/body/av",
+    "tags": [
+      "sysselsattningocharbete",
+      "forvaltningsmyndighet",
+      "arbetsmarknadsdepartementet"
+    ],
+    "website": "https://www.av.se"
+  },
+  "Barnombudsmannen": {
+    "short_name": "BO",
+    "handlingar_url": "https://handlingar.se/body/bo",
+    "tags": [
+      "socialafragor",
+      "forvaltningsmyndighet",
+      "socialdepartementet"
+    ],
+    "website": "https://www.barnombudsmannen.se"
+  },
+  "Blekinge Tekniska Högskola": {
+    "short_name": "BTH",
+    "handlingar_url": "https://handlingar.se/body/bth",
+    "tags": [
+      "hogskola",
+      "forvaltningsmyndighet",
+      "utbildningsdepartementet"
+    ],
+    "website": "https://www.bth.se"
+  },
+  "Bokföringsnämnden": {
+    "short_name": "BFN",
+    "handlingar_url": "https://handlingar.se/body/bfn",
+    "tags": [
+      "utbildningochkommunikation",
+      "forvaltningsmyndighet",
+      "finansdepartementet"
+    ],
+    "website": "https://www.bfn.se"
+  },
+  "Bolagsverket": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/bolagsverket",
+    "tags": [
+      "foretagochkonkurrens",
+      "forvaltningsmyndighet",
+      "beredskapsmyndighet",
+      "naringsdepartementet"
+    ],
+    "website": "https://www.bolagsverket.se"
+  },
+  "Boverket": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/boverket",
+    "tags": [
+      "fastigheterboende",
+      "forvaltningsmyndighet",
+      "naringsdepartementet"
+    ],
+    "website": "https://www.boverket.se"
+  },
+  "Brottsförebyggande rådet": {
+    "short_name": "BRÅ",
+    "handlingar_url": "https://handlingar.se/body/bra",
+    "tags": [
+      "lagochratt",
+      "forvaltningsmyndighet",
+      "justitiedepartementet"
+    ],
+    "website": "https://www.bra.se"
+  },
+  "Brottsoffermyndigheten": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/brottsoffermyndigheten",
+    "tags": [
+      "lagochratt",
+      "forvaltningsmyndighet",
+      "justitiedepartementet"
+    ],
+    "website": "https://www.brottsoffermyndigheten.se"
+  },
+  "Centrala djurförsöksetiska nämnden": {
+    "short_name": "CDFN",
+    "handlingar_url": "https://handlingar.se/body/cdfn",
+    "tags": [
+      "överklaganden",
+      "forvaltningsmyndighet",
+      "naringsdepartementet"
+    ],
+    "website": "https://www.cdfn.se"
+  },
+  "Centrala studiestödsnämnden": {
+    "short_name": "CSN",
+    "handlingar_url": "https://handlingar.se/body/csn",
+    "tags": [
+      "utbildningochkommunikation",
+      "bidrag",
+      "forvaltningsmyndighet",
+      "utbildningsdepartementet"
+    ],
+    "website": "https://www.csn.se"
+  },
+  "Integritetsskyddsmyndigheten": {
+    "short_name": "IMY",
+    "handlingar_url": "https://handlingar.se/body/imy",
+    "tags": [
+      "dataskydd",
+      "lagochratt",
+      "forvaltningsmyndighet",
+      "justitiedepartementet"
+    ],
+    "website": "https://www.imy.se/"
+  },
+  "Delegationen för folkrättslig granskning av vapenprojekt": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/delegationen_for_folkrattslig_granskning_av_vapenprojekt",
+    "tags": [
+      "forsvarsinspektion",
+      "forvaltningsmyndighet",
+      "forsvarsdepartementet"
+    ],
+    "website": "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/forordning-2007936-om-folkrattslig-granskning_sfs-2007-936"
+  },
+  "Diskrimineringsombudsmannen": {
+    "short_name": "DO",
+    "handlingar_url": "https://handlingar.se/body/do",
+    "tags": [
+      "sysselsattningocharbete",
+      "forvaltningsmyndighet",
+      "arbetsmarknadsdepartementet"
+    ],
+    "website": "https://www.do.se"
+  },
+  "Domarnämnden": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/domarnamnden",
+    "tags": [
+      "juridiskanamnder",
+      "forvaltningsmyndighet",
+      "justitiedepartementet"
+    ],
+    "website": "https://www.domstol.se/Om-Sveriges-Domstolar/Domarnamnden"
+  },
+  "E-Hälsomyndigheten": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/e_halsomyndigheten",
+    "tags": [
+      "digitalinfrastruktur",
+      "forvaltningsmyndighet",
+      "beredskapsmyndighet",
+      "socialdepartementet"
+    ],
+    "website": "https://www.ehalsomyndigheten.se"
+  },
+  "Ekobrottsmyndigheten": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/ekobrottsmyndigheten",
+    "tags": [
+      "lagochratt",
+      "ekonomi",
+      "forvaltningsmyndighet",
+      "justitiedepartementet"
+    ],
+    "website": "https://www.ekobrottsmyndigheten.se"
+  },
+  "Ekonomistyrningsverket": {
+    "short_name": "ESV",
+    "handlingar_url": "https://handlingar.se/body/esv",
+    "tags": [
+      "ekonomi",
+      "forvaltningsmyndighet",
+      "finansdepartementet"
+    ],
+    "website": "https://www.esv.se"
+  },
+  "Elsäkerhetsverket": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/elsakerhetsverket",
+    "tags": [
+      "energiinspektion",
+      "forvaltningsmyndighet",
+      "infrastrukturdepartementet"
+    ],
+    "website": "https://www.elsakerhetsverket.se"
+  },
+  "Energimarknadsinspektionen": {
+    "short_name": "EI",
+    "handlingar_url": "https://handlingar.se/body/ei",
+    "tags": [
+      "infrastrukturinspektion",
+      "forvaltningsmyndighet",
+      "infrastrukturdepartementet"
+    ],
+    "website": "https://www.ei.se"
+  },
+  "Etikprövningsmyndigheten": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/etikprovningsmyndigheten",
+    "tags": [
+      "vetenskap",
+      "forvaltningsmyndighet",
+      "utbildningsdepartementet"
+    ],
+    "website": "https://www.etikprovning.se"
+  },
+  "Exportkreditnämnden": {
+    "short_name": "EKN",
+    "handlingar_url": "https://handlingar.se/body/ekn",
+    "tags": [
+      "internationellhandel",
+      "forvaltningsmyndighet",
+      "utrikesdepartementet"
+    ],
+    "website": "https://www.ekn.se"
+  },
+  "Fastighetsmäklarinspektionen": {
+    "short_name": "FMI",
+    "handlingar_url": "https://handlingar.se/body/fmi",
+    "tags": [
+      "ambassad",
+      "forvaltningsmyndighet",
+      "finansdepartementet"
+    ],
+    "website": "https://www.fmi.se"
+  },
+  "Fideikommissnämnden": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/fideikommissnamnden",
+    "tags": [
+      "arv",
+      "forvaltningsmyndighet",
+      "justitiedepartementet"
+    ],
+    "website": "https://www.kammarkollegiet.se/om-oss/kammarkollegiets-uppgifter/stod-till-andra-myndigheter/fideikommissnamnden"
+  },
+  "Finansinspektionen": {
+    "short_name": "FI",
+    "handlingar_url": "https://handlingar.se/body/fi",
+    "tags": [
+      "ekonomiinspektion",
+      "forvaltningsmyndighet",
+      "beredskapsmyndighet",
+      "finansdepartementet"
+    ],
+    "website": "https://www.fi.se"
+  },
+  "Finanspolitiska rådet": {
+    "short_name": "FPR",
+    "handlingar_url": "https://handlingar.se/body/fpr",
+    "tags": [
+      "politik",
+      "forvaltningsmyndighet",
+      "finansdepartementet"
+    ],
+    "website": "https://www.fpr.se"
+  },
+  "Folke Bernadotteakademin": {
+    "short_name": "FBA",
+    "handlingar_url": "https://handlingar.se/body/fba",
+    "tags": [
+      "utbildningochkommunikation",
+      "forvaltningsmyndighet",
+      "utrikesdepartementet"
+    ],
+    "website": "https://www.fba.se"
+  },
+  "Folkhälsomyndigheten": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/folkhalsomyndigheten",
+    "tags": [
+      "folkhalsa",
+      "forvaltningsmyndighet",
+      "beredskapsmyndighet",
+      "socialdepartementet"
+    ],
+    "website": "https://www.folkhalsomyndigheten.se"
+  },
+  "Forskarskattenämnden": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/forskarskattenamnden",
+    "tags": [
+      "ekonomi",
+      "overklagan",
+      "forvaltningsmyndighet",
+      "finansdepartementet"
+    ],
+    "website": "https://www.forskarskattenamnden.se"
+  },
+  "Forskningsrådet för miljö, arella näringar och samhällsbyggande": {
+    "short_name": "FORMAS",
+    "handlingar_url": "https://handlingar.se/body/formas",
+    "tags": [
+      "forskning",
+      "bidrag",
+      "forvaltningsmyndighet",
+      "miljodepartementet"
+    ],
+    "website": "https://www.formas.se"
+  },
+  "Forskningsrådet för hälsa, arbetsliv och välfärd": {
+    "short_name": "FORTE",
+    "handlingar_url": "https://handlingar.se/body/forte",
+    "tags": [
+      "utbildningochkommunikation",
+      "analys",
+      "forvaltningsmyndighet",
+      "socialdepartementet"
+    ],
+    "website": "https://www.forte.se"
+  },
+  "Fortifikationsverket": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/fortifikationsverket",
+    "tags": [
+      "forsvarfastigheter",
+      "forvaltningsmyndighet",
+      "finansdepartementet"
+    ],
+    "website": "https://www.fortv.se"
+  },
+  "Forum för levande historia": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/forum_for_levande_historia",
+    "tags": [
+      "utbildningochkommunikation",
+      "museum",
+      "forvaltningsmyndighet",
+      "kulturdepartementet"
+    ],
+    "website": "https://www.levandehistoria.se"
+  },
+  "Försvarets materielverk": {
+    "short_name": "FMV",
+    "handlingar_url": "https://handlingar.se/body/fmv",
+    "tags": [
+      "forsvar",
+      "forvaltningsmyndighet",
+      "forsvarsdepartementet"
+    ],
+    "website": "https://www.fmv.se"
+  },
+  "Försvarets radioanstalt": {
+    "short_name": "FRA",
+    "handlingar_url": "https://handlingar.se/body/fra",
+    "tags": [
+      "cyberforsvar",
+      "forvaltningsmyndighet",
+      "forsvarsdepartementet"
+    ],
+    "website": "https://www.fra.se"
+  },
+  "Försvarshögskolan": {
+    "short_name": "FHS",
+    "handlingar_url": "https://handlingar.se/body/fhs",
+    "tags": [
+      "hogskola",
+      "forvaltningsmyndighet",
+      "utbildningsdepartementet"
+    ],
+    "website": "https://www.fhs.se"
+  },
+  "Försvarsmakten": {
+    "short_name": "MIL",
+    "handlingar_url": "https://handlingar.se/body/mil",
+    "tags": [
+      "forsvar",
+      "forvaltningsmyndighet",
+      "forsvarsdepartementet"
+    ],
+    "website": "https://www.forsvarsmakten.se"
+  },
+  "Försäkringskassan": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/forsakringskassan",
+    "tags": [
+      "ersattning",
+      "forvaltningsmyndighet",
+      "beredskapsmyndighet",
+      "socialdepartementet"
+    ],
+    "website": "https://www.forsakringskassan.se"
+  },
+  "Gentekniknämnden": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/gentekniknamnden",
+    "tags": [
+      "lagochratt",
+      "vetenskap",
+      "forvaltningsmyndighet",
+      "justitiedepartementet"
+    ],
+    "website": "https://www.genteknik.se"
+  },
+  "Gymnastik- och idrottshögskolan": {
+    "short_name": "GIH",
+    "handlingar_url": "https://handlingar.se/body/gih",
+    "tags": [
+      "hogskola",
+      "forvaltningsmyndighet",
+      "utbildningsdepartementet"
+    ],
+    "website": "https://www.gih.se"
+  },
+  "Göteborgs universitet": {
+    "short_name": "GU",
+    "handlingar_url": "https://handlingar.se/body/gu",
+    "tags": [
+      "universitet",
+      "forvaltningsmyndighet",
+      "utbildningsdepartementet"
+    ],
+    "website": "https://www.gu.se"
+  },
+  "Harpsundsnämnden": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/harpsundsnamnden",
+    "tags": [
+      "jordbrukskogsbrukochfiske",
+      "forvaltningsmyndighet",
+      "statsradsberedningen"
+    ],
+    "website": "https://www.harpsund.se"
+  },
+  "Havs- och vattenmyndigheten": {
+    "short_name": "HAV",
+    "handlingar_url": "https://handlingar.se/body/hav",
+    "tags": [
+      "miljofiske",
+      "forvaltningsmyndighet",
+      "miljodepartementet"
+    ],
+    "website": "https://www.havochvatten.se"
+  },
+  "Högskolan Dalarna": {
+    "short_name": "DU",
+    "handlingar_url": "https://handlingar.se/body/du",
+    "tags": [
+      "hogskola",
+      "forvaltningsmyndighet",
+      "utbildningsdepartementet"
+    ],
+    "website": "https://www.du.se"
+  },
+  "Högskolan i Borås": {
+    "short_name": "HB",
+    "handlingar_url": "https://handlingar.se/body/hb",
+    "tags": [
+      "hogskola",
+      "forvaltningsmyndighet",
+      "utbildningsdepartementet"
+    ],
+    "website": "https://www.hb.se"
+  },
+  "Högskolan i Gävle": {
+    "short_name": "HIG",
+    "handlingar_url": "https://handlingar.se/body/hig",
+    "tags": [
+      "hogskola",
+      "forvaltningsmyndighet",
+      "utbildningsdepartementet"
+    ],
+    "website": "https://www.hig.se"
+  },
+  "Högskolan i Halmstad": {
+    "short_name": "HH",
+    "handlingar_url": "https://handlingar.se/body/hh",
+    "tags": [
+      "hogskola",
+      "forvaltningsmyndighet",
+      "utbildningsdepartementet"
+    ],
+    "website": "https://www.hh.se"
+  },
+  "Högskolan i Kristianstad": {
+    "short_name": "HKR",
+    "handlingar_url": "https://handlingar.se/body/hkr",
+    "tags": [
+      "hogskola",
+      "forvaltningsmyndighet",
+      "utbildningsdepartementet"
+    ],
+    "website": "https://www.hkr.se"
+  },
+  "Högskolan i Skövde": {
+    "short_name": "HIS",
+    "handlingar_url": "https://handlingar.se/body/his",
+    "tags": [
+      "hogskola",
+      "forvaltningsmyndighet",
+      "utbildningsdepartementet"
+    ],
+    "website": "https://www.his.se"
+  },
+  "Högskolan Väst": {
+    "short_name": "HV",
+    "handlingar_url": "https://handlingar.se/body/hv",
+    "tags": [
+      "hogskola",
+      "forvaltningsmyndighet",
+      "utbildningsdepartementet"
+    ],
+    "website": "https://www.hv.se"
+  },
+  "Högskolans avskiljandenämnd": {
+    "short_name": "HAN",
+    "handlingar_url": "https://handlingar.se/body/han",
+    "tags": [
+      "overklagan",
+      "forvaltningsmyndighet",
+      "utbildningsdepartementet"
+    ],
+    "website": "https://www.han.se"
+  },
+  "Ilo-Kommittén": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/ilo_kommitten",
+    "tags": [
+      "sysselsattningocharbete",
+      "forvaltningsmyndighet",
+      "arbetsmarknadsdepartementet"
+    ],
+    "website": "https://www.svenskailo-kommitten.se"
+  },
+  "Inspektionen för arbetslöshetsförsäkring": {
+    "short_name": "IAF",
+    "handlingar_url": "https://handlingar.se/body/iaf",
+    "tags": [
+      "ersattning",
+      "forvaltningsmyndighet",
+      "arbetsmarknadsdepartementet"
+    ],
+    "website": "https://www.iaf.se"
+  },
+  "Inspektionen för strategiska produkter": {
+    "short_name": "ISP",
+    "handlingar_url": "https://handlingar.se/body/isp",
+    "tags": [
+      "forsvar",
+      "forvaltningsmyndighet",
+      "utrikesdepartementet"
+    ],
+    "website": "https://www.isp.se"
+  },
+  "Inspektionen för vård och omsorg": {
+    "short_name": "IVO",
+    "handlingar_url": "https://handlingar.se/body/ivo",
+    "tags": [
+      "vardinspektion",
+      "forvaltningsmyndighet",
+      "socialdepartementet"
+    ],
+    "website": "https://www.ivo.se"
+  },
+  "Institutet för arbetsmarknads-och utbildningspolitisk utvärdering": {
+    "short_name": "IFAU",
+    "handlingar_url": "https://handlingar.se/body/ifau",
+    "tags": [
+      "arbetsanalys",
+      "forvaltningsmyndighet",
+      "arbetsmarknadsdepartementet"
+    ],
+    "website": "https://www.ifau.se"
+  },
+  "Institutet för rymdfysik": {
+    "short_name": "IRF",
+    "handlingar_url": "https://handlingar.se/body/irf",
+    "tags": [
+      "utbildningochkommunikation",
+      "forvaltningsmyndighet",
+      "utbildningsdepartementet"
+    ],
+    "website": "https://www.irf.se"
+  },
+  "Justitiekanslern": {
+    "short_name": "JK",
+    "handlingar_url": "https://handlingar.se/body/jk",
+    "tags": [
+      "lagochratt",
+      "forvaltningsmyndighet",
+      "justitiedepartementet"
+    ],
+    "website": "https://www.jk.se"
+  },
+  "Jämställdhetsmyndigheten": {
+    "short_name": "JÄMY",
+    "handlingar_url": "https://handlingar.se/body/jamy",
+    "tags": [
+      "utbildningochkommunikation",
+      "forvaltningsmyndighet",
+      "arbetsmarknadsdepartementet"
+    ],
+    "website": "https://www.jamstalldhetsmyndigheten.se"
+  },
+  "Kammarkollegiet": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/kammarkollegiet",
+    "tags": [
+      "ekonomi",
+      "forvaltningsmyndighet",
+      "finansdepartementet"
+    ],
+    "website": "https://www.kammarkollegiet.se"
+  },
+  "Karlstads universitet": {
+    "short_name": "KAU",
+    "handlingar_url": "https://handlingar.se/body/kau",
+    "tags": [
+      "universitet",
+      "forvaltningsmyndighet",
+      "utbildningsdepartementet"
+    ],
+    "website": "https://www.kau.se"
+  },
+  "Karolinska Institutet": {
+    "short_name": "KI",
+    "handlingar_url": "https://handlingar.se/body/ki",
+    "tags": [
+      "universitet",
+      "forvaltningsmyndighet",
+      "utbildningsdepartementet"
+    ],
+    "website": "https://www.ki.se"
+  },
+  "Kemikalieinspektionen": {
+    "short_name": "KEMI",
+    "handlingar_url": "https://handlingar.se/body/kemi",
+    "tags": [
+      "miljoinspektion",
+      "forvaltningsmyndighet",
+      "miljodepartementet"
+    ],
+    "website": "https://www.kemi.se"
+  },
+  "Klimatpolitiska rådet": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/klimatpolitiska_radet",
+    "tags": [
+      "forskning",
+      "forvaltningsmyndighet",
+      "miljodepartementet"
+    ],
+    "website": "https://www.formas.se"
+  },
+  "Kommerskollegium": {
+    "short_name": "KOMMERS",
+    "handlingar_url": "https://handlingar.se/body/kommers",
+    "tags": [
+      "internationellhandel",
+      "forvaltningsmyndighet",
+      "utrikesdepartementet"
+    ],
+    "website": "https://www.kommerskollegium.se/"
+  },
+  "Konjunkturinstitutet": {
+    "short_name": "KONJ",
+    "handlingar_url": "https://handlingar.se/body/konj",
+    "tags": [
+      "ekonomi",
+      "forvaltningsmyndighet",
+      "finansdepartementet"
+    ],
+    "website": "https://www.konj.se"
+  },
+  "Konkurrensverket": {
+    "short_name": "KKV",
+    "handlingar_url": "https://handlingar.se/body/kkv",
+    "tags": [
+      "foretagochkonkurrens",
+      "forvaltningsmyndighet",
+      "naringsdepartementet"
+    ],
+    "website": "https://www.konkurrensverket.se"
+  },
+  "Konstfack": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/konstfack",
+    "tags": [
+      "universitet",
+      "forvaltningsmyndighet",
+      "utbildningsdepartementet"
+    ],
+    "website": "https://www.konstfack.se"
+  },
+  "Konstnärsnämnden": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/konstnarsnamnden",
+    "tags": [
+      "bidrag",
+      "forvaltningsmyndighet",
+      "kulturdepartementet"
+    ],
+    "website": "https://www.konstnarsnamnden.se"
+  },
+  "Konsumentverket": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/konsumentverket",
+    "tags": [
+      "konsumtion",
+      "forvaltningsmyndighet",
+      "finansdepartementet"
+    ],
+    "website": "https://www.konsumentverket.se"
+  },
+  "Krigsförsäkringsnämnden": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/krigsforsakringsnamnden",
+    "tags": [
+      "forsvar",
+      "forvaltningsmyndighet",
+      "finansdepartementet"
+    ],
+    "website": "https://www.regeringen.se/myndigheter-med-flera/krigsforsakringsnamnden/"
+  },
+  "Kriminalvården": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/kriminalvarden",
+    "tags": [
+      "lagochratt",
+      "forvaltningsmyndighet",
+      "beredskapsmyndighet",
+      "justitiedepartementet"
+    ],
+    "website": "https://www.kriminalvarden.se"
+  },
+  "Kronofogdemyndigheten": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/kronofogdemyndigheten",
+    "tags": [
+      "skattochskuld",
+      "forvaltningsmyndighet",
+      "finansdepartementet"
+    ],
+    "website": "https://www.kronofogden.se"
+  },
+  "Kungliga biblioteket": {
+    "short_name": "KB",
+    "handlingar_url": "https://handlingar.se/body/kb",
+    "tags": [
+      "bibliotek",
+      "forvaltningsmyndighet",
+      "utbildningsdepartementet"
+    ],
+    "website": "https://www.kb.se"
+  },
+  "Kungliga konsthögskolan": {
+    "short_name": "KKH",
+    "handlingar_url": "https://handlingar.se/body/kkh",
+    "tags": [
+      "hogskola",
+      "forvaltningsmyndighet",
+      "utbildningsdepartementet"
+    ],
+    "website": "https://www.kkh.se"
+  },
+  "Kungliga musikhögskolan": {
+    "short_name": "KMH",
+    "handlingar_url": "https://handlingar.se/body/kmh",
+    "tags": [
+      "hogskola",
+      "forvaltningsmyndighet",
+      "utbildningsdepartementet"
+    ],
+    "website": "https://www.kmh.se"
+  },
+  "Kungliga Tekniska högskolan": {
+    "short_name": "KTH",
+    "handlingar_url": "https://handlingar.se/body/kth",
+    "tags": [
+      "hogskola",
+      "forvaltningsmyndighet",
+      "utbildningsdepartementet"
+    ],
+    "website": "https://www.kth.se"
+  },
+  "Kustbevakningen": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/kustbevakningen",
+    "tags": [
+      "lagochratt",
+      "forvaltningsmyndighet",
+      "beredskapsmyndighet",
+      "justitiedepartementet"
+    ],
+    "website": "https://www.kustbevakningen.se"
+  },
+  "Kärnavfallsfonden": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/karnavfallsfonden",
+    "tags": [
+      "miljo",
+      "forvaltningsmyndighet",
+      "miljodepartementet"
+    ],
+    "website": "https://www.karnavfallsfonden.se"
+  },
+  "Lagrådet": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/lagradet",
+    "tags": [
+      "lagochratt",
+      "forvaltningsmyndighet",
+      "justitiedepartementet"
+    ],
+    "website": "https://www.lagradet.se"
+  },
+  "Lantmäteriet": {
+    "short_name": "LM",
+    "handlingar_url": "https://handlingar.se/body/lm",
+    "tags": [
+      "geografi",
+      "forvaltningsmyndighet",
+      "beredskapsmyndighet",
+      "finansdepartementet"
+    ],
+    "website": "https://www.lantmateriet.se"
+  },
+  "Linköpings universitet": {
+    "short_name": "LIU",
+    "handlingar_url": "https://handlingar.se/body/liu",
+    "tags": [
+      "universitet",
+      "forvaltningsmyndighet",
+      "utbildningsdepartementet"
+    ],
+    "website": "https://www.liu.se"
+  },
+  "Linnéuniversitetet": {
+    "short_name": "LNU",
+    "handlingar_url": "https://handlingar.se/body/lnu",
+    "tags": [
+      "universitet",
+      "forvaltningsmyndighet",
+      "utbildningsdepartementet"
+    ],
+    "website": "https://www.lnu.se/"
+  },
+  "Livsmedelsverket": {
+    "short_name": "SLV",
+    "handlingar_url": "https://handlingar.se/body/slv",
+    "tags": [
+      "halsa",
+      "jordbrukslivsmedelsindustri",
+      "forvaltningsmyndighet",
+      "beredskapsmyndighet",
+      "naringsdepartementet"
+    ],
+    "website": "https://www.livsmedelsverket.se"
+  },
+  "Lokala Säkerhetsnämnden Vid Barsebäck": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/lokala_sakerhetsnamnden_vid_barseback",
+    "tags": [
+      "karnkraft",
+      "forvaltningsmyndighet",
+      "miljodepartementet"
+    ],
+    "website": "https://www.kavlinge.se/kommunochpolitik/sakerhetochkris/lokalasakerhetsnamndenkso.4.18214b0d140c4bc7c212480.html"
+  },
+  "Lokala Säkerhetsnämnden Vid Forsmark": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/lokala_sakerhetsnamnden_vid_forsmark",
+    "tags": [
+      "karnkraft",
+      "forvaltningsmyndighet",
+      "miljodepartementet"
+    ],
+    "website": "https://www.osthammar.se/sv/organisation/namnd/lokala-sakerhetsnamnden/"
+  },
+  "Lokala Säkerhetsnämnden Vid Ringhals": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/lokala_sakerhetsnamnden_vid_ringhals",
+    "tags": [
+      "karnkraft",
+      "forvaltningsmyndighet",
+      "miljodepartementet"
+    ],
+    "website": "https://www.varberg.se/kommunpolitik/kommunensorganisation/lokalasakerhetsnamnden.4.12d3b98d13f7ba71e5a1edb.html"
+  },
+  "Lokala Säkerhetsnämnden Vid Studsvik": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/lokala_sakerhetsnamnden_vid_studsvik",
+    "tags": [
+      "karnkraft",
+      "forvaltningsmyndighet",
+      "miljodepartementet"
+    ],
+    "website": "https://www.nykoping.se/Kommun--politik/Politik/Namnder/Lokala-Sakerhetsnamnden"
+  },
+  "Luleå Tekniska Universitet": {
+    "short_name": "LTU",
+    "handlingar_url": "https://handlingar.se/body/ltu",
+    "tags": [
+      "universitet",
+      "forvaltningsmyndighet",
+      "utbildningsdepartementet"
+    ],
+    "website": "https://www.ltu.se"
+  },
+  "Lunds Universitet": {
+    "short_name": "LU",
+    "handlingar_url": "https://handlingar.se/body/lu",
+    "tags": [
+      "universitet",
+      "forvaltningsmyndighet",
+      "utbildningsdepartementet"
+    ],
+    "website": "https://www.lu.se"
+  },
+  "Läkemedelsverket": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/lakemedelsverket",
+    "tags": [
+      "lakemedel",
+      "forvaltningsmyndighet",
+      "beredskapsmyndighet",
+      "socialdepartementet"
+    ],
+    "website": "https://www.lakemedelsverket.se"
+  },
+  "Länsstyrelsen i Blekinge Län": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/lansstyrelsen_i_blekinge_lan",
+    "tags": [
+      "lansstyrelse",
+      "forvaltningsmyndighet",
+      "beredskapsmyndighet",
+      "finansdepartementet"
+    ],
+    "website": "https://www.lansstyrelsen.se/blekinge"
+  },
+  "Länsstyrelsen i Dalarnas Län": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/lansstyrelsen_i_dalarnas_lan",
+    "tags": [
+      "lansstyrelse",
+      "forvaltningsmyndighet",
+      "beredskapsmyndighet",
+      "finansdepartementet"
+    ],
+    "website": "https://www.lansstyrelsen.se/dalarna"
+  },
+  "Länsstyrelsen i Gotlands Län": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/lansstyrelsen_i_gotlands_lan",
+    "tags": [
+      "lansstyrelse",
+      "forvaltningsmyndighet",
+      "beredskapsmyndighet",
+      "finansdepartementet"
+    ],
+    "website": "https://www.lansstyrelsen.se/gotland"
+  },
+  "Länsstyrelsen i Gävleborgs Län": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/lansstyrelsen_i_gavleborgs_lan",
+    "tags": [
+      "lansstyrelse",
+      "forvaltningsmyndighet",
+      "beredskapsmyndighet",
+      "finansdepartementet"
+    ],
+    "website": "https://www.lansstyrelsen.se/gavleborg"
+  },
+  "Länsstyrelsen i Hallands Län": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/lansstyrelsen_i_hallands_lan",
+    "tags": [
+      "lansstyrelse",
+      "forvaltningsmyndighet",
+      "beredskapsmyndighet",
+      "finansdepartementet"
+    ],
+    "website": "https://www.lansstyrelsen.se/halland"
+  },
+  "Länsstyrelsen i Jämtlands Län": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/lansstyrelsen_i_jamtlands_lan",
+    "tags": [
+      "lansstyrelse",
+      "forvaltningsmyndighet",
+      "beredskapsmyndighet",
+      "finansdepartementet"
+    ],
+    "website": "https://www.lansstyrelsen.se/jamtland"
+  },
+  "Länsstyrelsen i Jönköpings Län": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/lansstyrelsen_i_jonkopings_lan",
+    "tags": [
+      "lansstyrelse",
+      "forvaltningsmyndighet",
+      "beredskapsmyndighet",
+      "finansdepartementet"
+    ],
+    "website": "https://www.lansstyrelsen.se/jonkoping"
+  },
+  "Länsstyrelsen i Kalmar Län": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/lansstyrelsen_i_kalmar_lan",
+    "tags": [
+      "lansstyrelse",
+      "forvaltningsmyndighet",
+      "beredskapsmyndighet",
+      "finansdepartementet"
+    ],
+    "website": "https://www.lansstyrelsen.se/kalmar"
+  },
+  "Länsstyrelsen i Kronobergs Län": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/lansstyrelsen_i_kronobergs_lan",
+    "tags": [
+      "lansstyrelse",
+      "forvaltningsmyndighet",
+      "beredskapsmyndighet",
+      "finansdepartementet"
+    ],
+    "website": "https://www.lansstyrelsen.se/kronoberg"
+  },
+  "Länsstyrelsen i Norrbottens Län": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/lansstyrelsen_i_norrbottens_lan",
+    "tags": [
+      "lansstyrelse",
+      "forvaltningsmyndighet",
+      "beredskapsmyndighet",
+      "finansdepartementet"
+    ],
+    "website": "https://www.lansstyrelsen.se/norrbotten"
+  },
+  "Länsstyrelsen i Skåne Län": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/lansstyrelsen_i_skane_lan",
+    "tags": [
+      "lansstyrelse",
+      "forvaltningsmyndighet",
+      "beredskapsmyndighet",
+      "finansdepartementet"
+    ],
+    "website": "https://www.lansstyrelsen.se/skane"
+  },
+  "Länsstyrelsen i Stockholms Län": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/lansstyrelsen_i_stockholms_lan",
+    "tags": [
+      "lansstyrelse",
+      "forvaltningsmyndighet",
+      "beredskapsmyndighet",
+      "finansdepartementet"
+    ],
+    "website": "https://www.lansstyrelsen.se/stockholm"
+  },
+  "Länsstyrelsen i Södermanlands Län": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/lansstyrelsen_i_sodermanlands_lan",
+    "tags": [
+      "lansstyrelse",
+      "forvaltningsmyndighet",
+      "beredskapsmyndighet",
+      "finansdepartementet"
+    ],
+    "website": "https://www.lansstyrelsen.se/sodermanland"
+  },
+  "Länsstyrelsen i Uppsala Län": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/lansstyrelsen_i_uppsala_lan",
+    "tags": [
+      "lansstyrelse",
+      "forvaltningsmyndighet",
+      "beredskapsmyndighet",
+      "finansdepartementet"
+    ],
+    "website": "https://www.lansstyrelsen.se/uppsala"
+  },
+  "Länsstyrelsen i Värmlands Län": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/lansstyrelsen_i_varmlands_lan",
+    "tags": [
+      "lansstyrelse",
+      "forvaltningsmyndighet",
+      "beredskapsmyndighet",
+      "finansdepartementet"
+    ],
+    "website": "https://www.lansstyrelsen.se/varmland"
+  },
+  "Länsstyrelsen i Västerbottens Län": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/lansstyrelsen_i_vasterbottens_lan",
+    "tags": [
+      "lansstyrelse",
+      "forvaltningsmyndighet",
+      "beredskapsmyndighet",
+      "finansdepartementet"
+    ],
+    "website": "https://www.lansstyrelsen.se/vasterbotten"
+  },
+  "Länsstyrelsen i Västernorrlands Län": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/lansstyrelsen_i_vasternorrlands_lan",
+    "tags": [
+      "lansstyrelse",
+      "forvaltningsmyndighet",
+      "beredskapsmyndighet",
+      "finansdepartementet"
+    ],
+    "website": "https://www.lansstyrelsen.se/vasternorrland"
+  },
+  "Länsstyrelsen i Västmanlands Län": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/lansstyrelsen_i_vastmanlands_lan",
+    "tags": [
+      "lansstyrelse",
+      "forvaltningsmyndighet",
+      "beredskapsmyndighet",
+      "finansdepartementet"
+    ],
+    "website": "https://www.lansstyrelsen.se/vastmanland"
+  },
+  "Länsstyrelsen i Västra Götalands Län": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/lansstyrelsen_i_vastra_gotalands_lan",
+    "tags": [
+      "lansstyrelse",
+      "forvaltningsmyndighet",
+      "beredskapsmyndighet",
+      "finansdepartementet"
+    ],
+    "website": "https://www.lansstyrelsen.se/vastragotaland"
+  },
+  "Länsstyrelsen i Örebro Län": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/lansstyrelsen_i_orebro_lan",
+    "tags": [
+      "lansstyrelse",
+      "forvaltningsmyndighet",
+      "beredskapsmyndighet",
+      "finansdepartementet"
+    ],
+    "website": "https://www.lansstyrelsen.se/orebro"
+  },
+  "Länsstyrelsen i Östergötlands Län": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/lansstyrelsen_i_ostergotlands_lan",
+    "tags": [
+      "lansstyrelse",
+      "forvaltningsmyndighet",
+      "beredskapsmyndighet",
+      "finansdepartementet"
+    ],
+    "website": "https://www.lansstyrelsen.se/ostergotland"
+  },
+  "Malmö Universitet": {
+    "short_name": "MAU",
+    "handlingar_url": "https://handlingar.se/body/mau",
+    "tags": [
+      "universitet",
+      "forvaltningsmyndighet",
+      "utbildningsdepartementet"
+    ],
+    "website": "https://www.mau.se"
+  },
+  "Medlingsinstitutet": {
+    "short_name": "MI",
+    "handlingar_url": "https://handlingar.se/body/mi",
+    "tags": [
+      "arbetsratt",
+      "forvaltningsmyndighet",
+      "arbetsmarknadsdepartementet"
+    ],
+    "website": "https://www.mi.se"
+  },
+  "Migrationsverket": {
+    "short_name": "MIG",
+    "handlingar_url": "https://handlingar.se/body/mig",
+    "tags": [
+      "lagochratt",
+      "forvaltningsmyndighet",
+      "beredskapsmyndighet",
+      "justitiedepartementet"
+    ],
+    "website": "https://www.migrationsverket.se"
+  },
+  "Mittuniversitetet": {
+    "short_name": "MIUN",
+    "handlingar_url": "https://handlingar.se/body/miun",
+    "tags": [
+      "universitet",
+      "forvaltningsmyndighet",
+      "utbildningsdepartementet"
+    ],
+    "website": "https://www.miun.se"
+  },
+  "Moderna Museet": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/moderna_museet",
+    "tags": [
+      "museum",
+      "forvaltningsmyndighet",
+      "kulturdepartementet"
+    ],
+    "website": "https://www.modernamuseet.se"
+  },
+  "Myndigheten för arbetsmiljökunskap": {
+    "short_name": "MYNAK",
+    "handlingar_url": "https://handlingar.se/body/mynak",
+    "tags": [
+      "sysselsattningocharbete",
+      "utbildningochkommunikation",
+      "forvaltningsmyndighet",
+      "arbetsmarknadsdepartementet"
+    ],
+    "website": "https://www.mynak.se"
+  },
+  "Myndigheten för delaktighet": {
+    "short_name": "MFD",
+    "handlingar_url": "https://handlingar.se/body/mfd",
+    "tags": [
+      "utbildningochkommunikation",
+      "forvaltningsmyndighet",
+      "socialdepartementet"
+    ],
+    "website": "https://www.mfd.se"
+  },
+  "Myndigheten för digital förvaltning": {
+    "short_name": "DIGG",
+    "handlingar_url": "https://handlingar.se/body/digg",
+    "tags": [
+      "digitalinfrastruktur",
+      "forvaltningsmyndighet",
+      "beredskapsmyndighet",
+      "infrastrukturdepartementet"
+    ],
+    "website": "https://www.digg.se"
+  },
+  "Myndigheten för familjerätt och föräldraskapsstöd": {
+    "short_name": "MFOF",
+    "handlingar_url": "https://handlingar.se/body/mfof",
+    "tags": [
+      "socialafragor",
+      "forvaltningsmyndighet",
+      "socialdepartementet"
+    ],
+    "website": "https://www.mfof.se"
+  },
+  "Myndigheten för kulturanalys": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/myndigheten_for_kulturanalys",
+    "tags": [
+      "analys",
+      "forvaltningsmyndighet",
+      "kulturdepartementet"
+    ],
+    "website": "https://www.kulturanalys.se"
+  },
+  "Myndigheten för press, radio och tv": {
+    "short_name": "MPRT",
+    "handlingar_url": "https://handlingar.se/body/mprt",
+    "tags": [
+      "defunct",
+      "digitalinfrastruktur",
+      "forvaltningsmyndighet",
+      "kulturdepartementet"
+    ],
+    "website": "https://www.mprt.se"
+  },
+  "Myndigheten för samhällsskydd och beredskap": {
+    "short_name": "MSB",
+    "handlingar_url": "https://handlingar.se/body/msb",
+    "tags": [
+      "beredskap",
+      "forvaltningsmyndighet",
+      "beredskapsmyndighet",
+      "justitiedepartementet"
+    ],
+    "website": "https://www.msb.se"
+  },
+  "Myndigheten för stöd till trossamfund": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/myndigheten_for_stod_till_trossamfund",
+    "tags": [
+      "utbildningochkommunikation",
+      "forvaltningsmyndighet",
+      "kulturdepartementet"
+    ],
+    "website": "https://www.myndighetensst.se"
+  },
+  "Myndigheten för tillgängliga medier": {
+    "short_name": "MTM",
+    "handlingar_url": "https://handlingar.se/body/mtm",
+    "tags": [
+      "utbildningochkommunikation",
+      "forvaltningsmyndighet",
+      "kulturdepartementet"
+    ],
+    "website": "https://www.mtm.se"
+  },
+  "Myndigheten för tillväxtpolitiska utvärderingar och analyser": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/myndigheten_for_tillvaxtpolitiska_utvarderingar_och_analyser",
+    "tags": [
+      "analys",
+      "forvaltningsmyndighet",
+      "naringsdepartementet"
+    ],
+    "website": "https://www.tillvaxtanalys.se"
+  },
+  "Myndigheten för ungdoms-och civilsamhällesfrågor": {
+    "short_name": "MUCF",
+    "handlingar_url": "https://handlingar.se/body/mucf",
+    "tags": [
+      "bidrag",
+      "forvaltningsmyndighet",
+      "utbildningsdepartementet"
+    ],
+    "website": "https://www.mucf.se"
+  },
+  "Myndigheten för vård- och omsorgsanalys": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/myndigheten_for_vard_och_omsorgsanalys",
+    "tags": [
+      "politik",
+      "forvaltningsmyndighet",
+      "socialdepartementet"
+    ],
+    "website": "https://www.vardanalys.se"
+  },
+  "Myndigheten för yrkeshögskolan": {
+    "short_name": "MYH",
+    "handlingar_url": "https://handlingar.se/body/myh",
+    "tags": [
+      "utbildningochkommunikation",
+      "forvaltningsmyndighet",
+      "utbildningsdepartementet"
+    ],
+    "website": "https://www.myh.se"
+  },
+  "Nationalmuseum": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/nationalmuseum",
+    "tags": [
+      "museum",
+      "forvaltningsmyndighet",
+      "kulturdepartementet"
+    ],
+    "website": "https://www.nationalmuseum.se"
+  },
+  "Naturhistoriska riksmuseet": {
+    "short_name": "NRM",
+    "handlingar_url": "https://handlingar.se/body/nrm",
+    "tags": [
+      "museum",
+      "forvaltningsmyndighet",
+      "kulturdepartementet"
+    ],
+    "website": "https://www.nrm.se"
+  },
+  "Naturvårdsverket": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/naturvardsverket",
+    "tags": [
+      "miljo",
+      "forvaltningsmyndighet",
+      "beredskapsmyndighet",
+      "miljodepartementet"
+    ],
+    "website": "https://www.naturvardsverket.se"
+  },
+  "Nordiska Afrikainstitutet": {
+    "short_name": "NAI",
+    "handlingar_url": "https://handlingar.se/body/nai",
+    "tags": [
+      "forskning",
+      "internationelarellationer",
+      "forvaltningsmyndighet",
+      "utrikesdepartementet"
+    ],
+    "website": "https://www.nai.uu.se"
+  },
+  "Notarienämnden": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/notarienamnden",
+    "tags": [
+      "juridiskanamnder",
+      "forvaltningsmyndighet",
+      "justitiedepartementet"
+    ],
+    "website": "https://www.domstol.se/Om-Sveriges-Domstolar/Notarienamnden"
+  },
+  "Nämnden för hemslöjdsfrågor": {
+    "short_name": "NFH",
+    "handlingar_url": "https://handlingar.se/body/nfh",
+    "tags": [
+      "kultur",
+      "konst",
+      "forvaltningsmyndighet",
+      "kulturdepartementet"
+    ],
+    "website": "https://www.nfh.se"
+  },
+  "Nämnden för styrelserepresentationsfrågor": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/namnden_for_styrelserepresentationsfragor",
+    "tags": [
+      "arbeteochsysselsattning",
+      "forvaltningsmyndighet",
+      "arbetsmarknadsdepartementet"
+    ],
+    "website": "https://www.regeringen.se/myndigheter-med-flera/namnden-for-styrelserepresentationsfragor"
+  },
+  "Nämnden mot diskriminering": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/namnden_mot_diskriminering",
+    "tags": [
+      "diskriminering",
+      "overklagan",
+      "forvaltningsmyndighet",
+      "arbetsmarknadsdepartementet"
+    ],
+    "website": "https://www.namndenmotdiskriminering.se"
+  },
+  "Oljekrisnämnden": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/oljekrisnamnden",
+    "tags": [
+      "fossilabranslen",
+      "forvaltningsmyndighet",
+      "infrastrukturdepartementet"
+    ],
+    "website": "https://www.regeringen.se/myndigheter-med-flera/oljekrisnamnden"
+  },
+  "Patent- och registreringsverket": {
+    "short_name": "PRV",
+    "handlingar_url": "https://handlingar.se/body/prv",
+    "tags": [
+      "immateriellarattigheterpatent",
+      "forvaltningsmyndighet",
+      "naringsdepartementet"
+    ],
+    "website": "https://www.prv.se"
+  },
+  "Patentombudsnämnden": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/patentombudsnamnden",
+    "tags": [
+      "immateriellarattigheterpatent",
+      "forvaltningsmyndighet",
+      "naringsdepartementet"
+    ],
+    "website": "https://www.bolagsverket.se/om/oss/fler/patentombud"
+  },
+  "Pensionsmyndigheten": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/pensionsmyndigheten",
+    "tags": [
+      "pension",
+      "forvaltningsmyndighet",
+      "beredskapsmyndighet",
+      "socialdepartementet"
+    ],
+    "website": "https://www.pensionsmyndigheten.se"
+  },
+  "Polarforskningssekretariatet": {
+    "short_name": "POLAR",
+    "handlingar_url": "https://handlingar.se/body/polar",
+    "tags": [
+      "forskning",
+      "forvaltningsmyndighet",
+      "utbildningsdepartementet"
+    ],
+    "website": "https://www.polar.se"
+  },
+  "Polismyndigheten": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/polismyndigheten",
+    "tags": [
+      "polis",
+      "forvaltningsmyndighet",
+      "beredskapsmyndighet",
+      "justitiedepartementet"
+    ],
+    "website": "https://www.polisen.se"
+  },
+  "Post- och telestyrelsen": {
+    "short_name": "PTS",
+    "handlingar_url": "https://handlingar.se/body/pts",
+    "tags": [
+      "digitalinfrastruktur",
+      "forvaltningsmyndighet",
+      "beredskapsmyndighet",
+      "infrastrukturdepartementet"
+    ],
+    "website": "https://www.pts.se"
+  },
+  "Revisorsinspektionen": {
+    "short_name": "RI",
+    "handlingar_url": "https://handlingar.se/body/ri",
+    "tags": [
+      "lagochrattinspektion",
+      "forvaltningsmyndighet",
+      "justitiedepartementet"
+    ],
+    "website": "https://www.revisorsinspektionen.se"
+  },
+  "Riksantikvarieämbetet": {
+    "short_name": "RÄA",
+    "handlingar_url": "https://handlingar.se/body/raa",
+    "tags": [
+      "kulturarv",
+      "forvaltningsmyndighet",
+      "kulturdepartementet"
+    ],
+    "website": "https://www.raa.se"
+  },
+  "Riksarkivet": {
+    "short_name": "RA",
+    "handlingar_url": "https://handlingar.se/body/ra",
+    "tags": [
+      "arkiv",
+      "forvaltningsmyndighet",
+      "kulturdepartementet"
+    ],
+    "website": "https://www.riksarkivet.se"
+  },
+  "Riksdagens Arvodesnämnd": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/riksdagens_arvodesnamnd",
+    "tags": [
+      "namnd",
+      "riksdagsmyndighet"
+    ],
+    "website": "https://www.riksdagen.se/sv/sa-funkar-riksdagen/riksdagens-myndigheter-och-namnder/riksdagens-arvodesnamnd"
+  },
+  "Riksgäldskontoret": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/riksgaldskontoret",
+    "tags": [
+      "ekonomi",
+      "forvaltningsmyndighet",
+      "beredskapsmyndighet",
+      "finansdepartementet"
+    ],
+    "website": "https://www.riksgalden.se"
+  },
+  "Riksvärderingsnämnden": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/riksvarderingsnamnden",
+    "tags": [
+      "regeringen",
+      "forvaltningsmyndighet",
+      "forsvarsdepartementet"
+    ],
+    "website": "https://www.regeringen.se/sveriges-regering/forsvarsdepartementet/"
+  },
+  "Rymdstyrelsen": {
+    "short_name": "SNSA",
+    "handlingar_url": "https://handlingar.se/body/snsa",
+    "tags": [
+      "rymden",
+      "forvaltningsmyndighet",
+      "utbildningsdepartementet"
+    ],
+    "website": "https://www.rymdstyrelsen.se"
+  },
+  "Rättsmedicinalverket": {
+    "short_name": "RMV",
+    "handlingar_url": "https://handlingar.se/body/rmv",
+    "tags": [
+      "rattsmedicin",
+      "forvaltningsmyndighet",
+      "justitiedepartementet"
+    ],
+    "website": "https://www.rmv.se"
+  },
+  "Sameskolstyrelsen": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sameskolstyrelsen",
+    "tags": [
+      "skolstyrning",
+      "forvaltningsmyndighet",
+      "utbildningsdepartementet"
+    ],
+    "website": "https://www.sameskolstyrelsen.se"
+  },
+  "Sametinget": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sametinget",
+    "tags": [
+      "demokrati",
+      "forvaltningsmyndighet",
+      "kulturdepartementet"
+    ],
+    "website": "https://www.sametinget.se"
+  },
+  "Styrelsen för internationellt utvecklingssamarbete": {
+    "short_name": "SIDA",
+    "handlingar_url": "https://handlingar.se/body/sida",
+    "tags": [
+      "internationellarelationer",
+      "bidrag",
+      "forvaltningsmyndighet",
+      "utrikesdepartementet"
+    ],
+    "website": "https://www.sida.se"
+  },
+  "Skatterättsnämnden": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/skatterattsnamnden",
+    "tags": [
+      "ekonomi",
+      "overklagan",
+      "forvaltningsmyndighet",
+      "finansdepartementet"
+    ],
+    "website": "https://www.skatterattsnamnden.se"
+  },
+  "Skatteverket": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/skatteverket",
+    "tags": [
+      "skattochskuld",
+      "forvaltningsmyndighet",
+      "beredskapsmyndighet",
+      "finansdepartementet"
+    ],
+    "website": "https://www.skatteverket.se"
+  },
+  "Skiljenämnden i vissa trygghetsfrågor": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/skiljenamnden_i_vissa_trygghetsfragor",
+    "tags": [
+      "overklagan",
+      "forvaltningsmyndighet",
+      "finansdepartementet"
+    ],
+    "website": "https://www.kammarkollegiet.se/om-oss/kammarkollegiets-uppgifter/stod-till-andra-myndigheter/skiljenamnden-i-vissa-trygghetsfragor"
+  },
+  "Skogsstyrelsen": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/skogsstyrelsen",
+    "tags": [
+      "jordbrukskogsbrukochfiske",
+      "forvaltningsmyndighet",
+      "naringsdepartementet"
+    ],
+    "website": "https://www.skogsstyrelsen.se"
+  },
+  "Skolforskningsinstitutet": {
+    "short_name": "SKOLFI",
+    "handlingar_url": "https://handlingar.se/body/skolfi",
+    "tags": [
+      "utbildningochkommunikation",
+      "forvaltningsmyndighet",
+      "utbildningsdepartementet"
+    ],
+    "website": "https://www.skolfi.se"
+  },
+  "Skolväsendets överklagandenämnd": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/skolvasendets_overklagandenamnd",
+    "tags": [
+      "utbildningochkommunikation",
+      "overklagan",
+      "forvaltningsmyndighet",
+      "utbildningsdepartementet"
+    ],
+    "website": "https://www.overklagandenamnden.se"
+  },
+  "Socialstyrelsen": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/socialstyrelsen",
+    "tags": [
+      "socialafragor",
+      "forvaltningsmyndighet",
+      "beredskapsmyndighet",
+      "socialdepartementet"
+    ],
+    "website": "https://www.socialstyrelsen.se"
+  },
+  "Specialpedagogiska skolmyndigheten": {
+    "short_name": "SPSM",
+    "handlingar_url": "https://handlingar.se/body/spsm",
+    "tags": [
+      "skolstyrning",
+      "forvaltningsmyndighet",
+      "utbildningsdepartementet"
+    ],
+    "website": "https://www.spsm.se"
+  },
+  "Spelinspektionen": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/spelinspektionen",
+    "tags": [
+      "ekonomiinspektion",
+      "forvaltningsmyndighet",
+      "finansdepartementet"
+    ],
+    "website": "https://www.spelinspektionen.se/"
+  },
+  "Statens beredning för medicinsk och social utvärdering": {
+    "short_name": "SBU",
+    "handlingar_url": "https://handlingar.se/body/sbu",
+    "tags": [
+      "analys",
+      "forvaltningsmyndighet",
+      "socialdepartementet"
+    ],
+    "website": "https://www.sbu.se"
+  },
+  "Statens centrum för arkitektur och design": {
+    "short_name": "ARKDES",
+    "handlingar_url": "https://handlingar.se/body/arkdes",
+    "tags": [
+      "museum",
+      "forvaltningsmyndighet",
+      "kulturdepartementet"
+    ],
+    "website": "https://www.arkdes.se"
+  },
+  "Statens energimyndighet": {
+    "short_name": "EM",
+    "handlingar_url": "https://handlingar.se/body/em",
+    "tags": [
+      "energiinfrastruktur",
+      "forvaltningsmyndighet",
+      "beredskapsmyndighet",
+      "infrastrukturdepartementet"
+    ],
+    "website": "https://www.energimyndigheten.se"
+  },
+  "Statens fastighetsverk": {
+    "short_name": "SFV",
+    "handlingar_url": "https://handlingar.se/body/sfv",
+    "tags": [
+      "fastigheterboende",
+      "forvaltningsmyndighet",
+      "finansdepartementet"
+    ],
+    "website": "https://www.sfv.se"
+  },
+  "Statens försvarshistoriska museer": {
+    "short_name": "SFHM",
+    "handlingar_url": "https://handlingar.se/body/sfhm",
+    "tags": [
+      "museum",
+      "forvaltningsmyndighet",
+      "kulturdepartementet"
+    ],
+    "website": "https://www.sfhm.se"
+  },
+  "Statens haverikommission": {
+    "short_name": "HAVKOM",
+    "handlingar_url": "https://handlingar.se/body/havkom",
+    "tags": [
+      "lagochrattinspektion",
+      "forvaltningsmyndighet",
+      "justitiedepartementet"
+    ],
+    "website": "https://www.havkom.se"
+  },
+  "Statens historiska museer": {
+    "short_name": "SHM",
+    "handlingar_url": "https://handlingar.se/body/shm",
+    "tags": [
+      "museum",
+      "forvaltningsmyndighet",
+      "kulturdepartementet"
+    ],
+    "website": "https://www.shm.se"
+  },
+  "Statens inspektion för försvarsunderrättelseverksamheten": {
+    "short_name": "SIUN",
+    "handlingar_url": "https://handlingar.se/body/siun",
+    "tags": [
+      "forsvar",
+      "forvaltningsmyndighet",
+      "forsvarsdepartementet"
+    ],
+    "website": "https://www.siun.se"
+  },
+  "Statens jordbruksverk": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/statens_jordbruksverk",
+    "tags": [
+      "jordbrukskogsbrukochfiske",
+      "forvaltningsmyndighet",
+      "beredskapsmyndighet",
+      "naringsdepartementet"
+    ],
+    "website": "https://www.jordbruksverket.se"
+  },
+  "Statens konstråd": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/statens_konstrad",
+    "tags": [
+      "konst",
+      "forvaltningsmyndighet",
+      "kulturdepartementet"
+    ],
+    "website": "https://www.statenskonstrad.se"
+  },
+  "Statens kulturråd": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/statens_kulturrad",
+    "tags": [
+      "bidrag",
+      "forvaltningsmyndighet",
+      "kulturdepartementet"
+    ],
+    "website": "https://www.kulturradet.se"
+  },
+  "Statens maritima och transporthistoriska museer": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/statens_maritima_och_transporthistoriska_museer",
+    "tags": [
+      "museum",
+      "forvaltningsmyndighet",
+      "kulturdepartementet"
+    ],
+    "website": "https://www.maritima.se"
+  },
+  "Statens medieråd": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/statens_medierad",
+    "tags": [
+      "defunct",
+      "utbildningochkommunikation",
+      "konst",
+      "forvaltningsmyndighet",
+      "kulturdepartementet"
+    ],
+    "website": "https://www.statensmedierad.se"
+  },
+  "Statens museer för världskultur": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/statens_museer_for_varldskultur",
+    "tags": [
+      "museum",
+      "forvaltningsmyndighet",
+      "kulturdepartementet"
+    ],
+    "website": "https://www.varldskulturmuseerna.se"
+  },
+  "Statens musikverk": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/statens_musikverk",
+    "tags": [
+      "kulturarv",
+      "forvaltningsmyndighet",
+      "kulturdepartementet"
+    ],
+    "website": "https://www.musikverket.se"
+  },
+  "Statens skaderegleringsnämnd": {
+    "short_name": "SSRN",
+    "handlingar_url": "https://handlingar.se/body/ssrn",
+    "tags": [
+      "overklagan",
+      "forvaltningsmyndighet",
+      "finansdepartementet"
+    ],
+    "website": "https://www.kammarkollegiet.se/omoss/kammarkollegietsuppgifter/stodtillandramyndigheter/statensskaderegleringsnamnd.4.37e3ddc0180945d80c821ce5.html"
+  },
+  "Statens skolinspektion": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/statens_skolinspektion",
+    "tags": [
+      "skolstyrning",
+      "forvaltningsmyndighet",
+      "utbildningsdepartementet"
+    ],
+    "website": "https://www.skolinspektionen.se"
+  },
+  "Statens skolverk": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/statens_skolverk",
+    "tags": [
+      "skolstyrning",
+      "forvaltningsmyndighet",
+      "beredskapsmyndighet",
+      "utbildningsdepartementet"
+    ],
+    "website": "https://www.skolverket.se"
+  },
+  "Statens tjänstepensions- och grupplivnämnd": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/statens_tjanstepensions_och_grupplivnamnd",
+    "tags": [
+      "ekonomi",
+      "pension",
+      "forvaltningsmyndighet",
+      "finansdepartementet"
+    ],
+    "website": "https://www.regeringen.se/myndigheter-med-flera/statens-tjanstepensions--och-grupplivnamnd/"
+  },
+  "Statens tjänstepensionsverk": {
+    "short_name": "SPV",
+    "handlingar_url": "https://handlingar.se/body/spv",
+    "tags": [
+      "pension",
+      "forvaltningsmyndighet",
+      "finansdepartementet"
+    ],
+    "website": "https://www.spv.se"
+  },
+  "Statens veterinärmedicinska anstalt": {
+    "short_name": "SVA",
+    "handlingar_url": "https://handlingar.se/body/sva",
+    "tags": [
+      "djurhalsa",
+      "forvaltningsmyndighet",
+      "beredskapsmyndighet",
+      "naringsdepartementet"
+    ],
+    "website": "https://www.sva.se"
+  },
+  "Statens Väg- och transportforskningsinstitut": {
+    "short_name": "VTI",
+    "handlingar_url": "https://handlingar.se/body/vti",
+    "tags": [
+      "infrastruktur",
+      "analys",
+      "forvaltningsmyndighet",
+      "infrastrukturdepartementet"
+    ],
+    "website": "https://www.vti.se"
+  },
+  "Statens överklagandenämnd": {
+    "short_name": "KK",
+    "handlingar_url": "https://handlingar.se/body/kk",
+    "tags": [
+      "overklagan",
+      "forvaltningsmyndighet",
+      "finansdepartementet"
+    ],
+    "website": "https://www.kammarkollegiet.se/namndmyndigheter/statens-overklagandenamnd/om-namnden"
+  },
+  "Statistiska Centralbyrån": {
+    "short_name": "SCB",
+    "handlingar_url": "https://handlingar.se/body/scb",
+    "tags": [
+      "statistik",
+      "forvaltningsmyndighet",
+      "finansdepartementet"
+    ],
+    "website": "https://www.scb.se"
+  },
+  "Statskontoret": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/statskontoret",
+    "tags": [
+      "ekonomiinspektion",
+      "forvaltningsmyndighet",
+      "finansdepartementet"
+    ],
+    "website": "https://www.statskontoret.se"
+  },
+  "Stockholms Konstnärliga Högskola": {
+    "short_name": "UNIARTS",
+    "handlingar_url": "https://handlingar.se/body/uniarts",
+    "tags": [
+      "hogskola",
+      "forvaltningsmyndighet",
+      "utbildningsdepartementet"
+    ],
+    "website": "https://www.uniarts.se"
+  },
+  "Stockholms Universitet": {
+    "short_name": "SU",
+    "handlingar_url": "https://handlingar.se/body/su",
+    "tags": [
+      "universitet",
+      "forvaltningsmyndighet",
+      "utbildningsdepartementet"
+    ],
+    "website": "https://www.su.se"
+  },
+  "Strålsäkerhetsmyndigheten": {
+    "short_name": "SSM",
+    "handlingar_url": "https://handlingar.se/body/ssm",
+    "tags": [
+      "miljo",
+      "forvaltningsmyndighet",
+      "beredskapsmyndighet",
+      "miljodepartementet"
+    ],
+    "website": "https://www.stralsakerhetsmyndigheten.se"
+  },
+  "Styrelsen för ackreditering och teknisk kontroll": {
+    "short_name": "SWEDAC",
+    "handlingar_url": "https://handlingar.se/body/swedac",
+    "tags": [
+      "produktionteknikochforskning",
+      "forvaltningsmyndighet",
+      "utrikesdepartementet"
+    ],
+    "website": "https://www.swedac.se"
+  },
+  "Svenska Esf-rådet": {
+    "short_name": "ESF",
+    "handlingar_url": "https://handlingar.se/body/esf",
+    "tags": [
+      "sysselsattningocharbete",
+      "forvaltningsmyndighet",
+      "arbetsmarknadsdepartementet"
+    ],
+    "website": "https://www.esf.se"
+  },
+  "Svenska Fao-kommittén": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/svenska_fao_kommitten",
+    "tags": [
+      "jordbruksanalys",
+      "forvaltningsmyndighet",
+      "naringsdepartementet"
+    ],
+    "website": "https://www.svenskafaokommitten.se"
+  },
+  "Svenska Institutet": {
+    "short_name": "SI",
+    "handlingar_url": "https://handlingar.se/body/si",
+    "tags": [
+      "internationellarelationer",
+      "forvaltningsmyndighet",
+      "utrikesdepartementet"
+    ],
+    "website": "https://www.si.se"
+  },
+  "Svenska institutet för europapolitiska studier": {
+    "short_name": "SIEPS",
+    "handlingar_url": "https://handlingar.se/body/sieps",
+    "tags": [
+      "internationellarelationer",
+      "forvaltningsmyndighet",
+      "statsradsberedningen"
+    ],
+    "website": "https://www.sieps.se"
+  },
+  "Sveriges Författarfond": {
+    "short_name": "SVFF",
+    "handlingar_url": "https://handlingar.se/body/svff",
+    "tags": [
+      "bidrag",
+      "forvaltningsmyndighet",
+      "kulturdepartementet"
+    ],
+    "website": "https://www.svff.se"
+  },
+  "Sveriges geologiska undersökning": {
+    "short_name": "SGU",
+    "handlingar_url": "https://handlingar.se/body/sgu",
+    "tags": [
+      "miljo",
+      "forvaltningsmyndighet",
+      "naringsdepartementet"
+    ],
+    "website": "https://www.sgu.se"
+  },
+  "Sveriges lantbruksuniversitet": {
+    "short_name": "SLU",
+    "handlingar_url": "https://handlingar.se/body/slu",
+    "tags": [
+      "universitet",
+      "forvaltningsmyndighet",
+      "naringsdepartementet"
+    ],
+    "website": "https://www.slu.se"
+  },
+  "Sveriges meteorologiska och hydrologiska institut": {
+    "short_name": "SMHI",
+    "handlingar_url": "https://handlingar.se/body/smhi",
+    "tags": [
+      "miljo",
+      "forvaltningsmyndighet",
+      "beredskapsmyndighet",
+      "miljodepartementet"
+    ],
+    "website": "https://www.smhi.se"
+  },
+  "Säkerhets- och integritetsskyddsnämnden": {
+    "short_name": "SÄKINT",
+    "handlingar_url": "https://handlingar.se/body/sakint",
+    "tags": [
+      "lagochrattinspektion",
+      "forvaltningsmyndighet",
+      "justitiedepartementet"
+    ],
+    "website": "https://www.sakint.se"
+  },
+  "Säkerhetspolisen": {
+    "short_name": "SÄPO",
+    "handlingar_url": "https://handlingar.se/body/sapo",
+    "tags": [
+      "lagochratt",
+      "polis",
+      "forvaltningsmyndighet",
+      "beredskapsmyndighet",
+      "justitiedepartementet"
+    ],
+    "website": "https://www.sakerhetspolisen.se"
+  },
+  "Södertörns Högskola": {
+    "short_name": "SH",
+    "handlingar_url": "https://handlingar.se/body/sh",
+    "tags": [
+      "hogskola",
+      "forvaltningsmyndighet",
+      "utbildningsdepartementet"
+    ],
+    "website": "https://www.sh.se"
+  },
+  "Tandvårds-och läkemedelsförmånsverket, Tlv": {
+    "short_name": "TLV",
+    "handlingar_url": "https://handlingar.se/body/tlv",
+    "tags": [
+      "lakemedel",
+      "forvaltningsmyndighet",
+      "socialdepartementet"
+    ],
+    "website": "https://www.tlv.se"
+  },
+  "Tillväxtverket": {
+    "short_name": "TVV",
+    "handlingar_url": "https://handlingar.se/body/tvv",
+    "tags": [
+      "bidrag",
+      "forvaltningsmyndighet",
+      "naringsdepartementet"
+    ],
+    "website": "https://www.tillvaxtverket.se"
+  },
+  "Totalförsvarets forskningsinstitut, Foi": {
+    "short_name": "FOI",
+    "handlingar_url": "https://handlingar.se/body/foi",
+    "tags": [
+      "forsvar",
+      "forvaltningsmyndighet",
+      "forsvarsdepartementet"
+    ],
+    "website": "https://www.foi.se"
+  },
+  "Trafikanalys": {
+    "short_name": "TRAFA",
+    "handlingar_url": "https://handlingar.se/body/trafa",
+    "tags": [
+      "analys",
+      "forvaltningsmyndighet",
+      "infrastrukturdepartementet"
+    ],
+    "website": "https://www.trafa.se"
+  },
+  "Trafikverket": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/trafikverket",
+    "tags": [
+      "infrastruktur",
+      "forvaltningsmyndighet",
+      "beredskapsmyndighet",
+      "infrastrukturdepartementet"
+    ],
+    "website": "https://www.trafikverket.se"
+  },
+  "Transportstyrelsen": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/transportstyrelsen",
+    "tags": [
+      "trafikinfrastruktur",
+      "beredskapsmyndighet",
+      "forvaltningsmyndighet",
+      "infrastrukturdepartementet"
+    ],
+    "website": "https://www.transportstyrelsen.se"
+  },
+  "Tullverket": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/tullverket",
+    "tags": [
+      "polis",
+      "forvaltningsmyndighet",
+      "beredskapsmyndighet",
+      "justitiedepartementet"
+    ],
+    "website": "https://www.tullverket.se"
+  },
+  "Umeå Universitet": {
+    "short_name": "UMU",
+    "handlingar_url": "https://handlingar.se/body/umu",
+    "tags": [
+      "universitet",
+      "forvaltningsmyndighet",
+      "utbildningsdepartementet"
+    ],
+    "website": "https://www.umu.se"
+  },
+  "Universitets- och högskolerådet": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/universitets_och_hogskoleradet",
+    "tags": [
+      "utbildningochkommunikation",
+      "forvaltningsmyndighet",
+      "utbildningsdepartementet"
+    ],
+    "website": "https://www.uhr.se"
+  },
+  "Universitetskanslersämbetet": {
+    "short_name": "UKÄ",
+    "handlingar_url": "https://handlingar.se/body/uka",
+    "tags": [
+      "utbildningochkommunikation",
+      "forvaltningsmyndighet",
+      "utbildningsdepartementet"
+    ],
+    "website": "https://www.uka.se"
+  },
+  "Upphandlingsmyndigheten": {
+    "short_name": "UHMYND",
+    "handlingar_url": "https://handlingar.se/body/uhmynd",
+    "tags": [
+      "foretagochkonkurrens",
+      "forvaltningsmyndighet",
+      "finansdepartementet"
+    ],
+    "website": "https://www.upphandlingsmyndigheten.se"
+  },
+  "Uppsala Universitet": {
+    "short_name": "UU",
+    "handlingar_url": "https://handlingar.se/body/uu",
+    "tags": [
+      "universitet",
+      "forvaltningsmyndighet",
+      "utbildningsdepartementet"
+    ],
+    "website": "https://www.uu.se"
+  },
+  "Utrikesförvaltningens antagningsnämnd": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/utrikesforvaltningens_antagningsnamnd",
+    "tags": [
+      "utbildningochkommunikation",
+      "forvaltningsmyndighet",
+      "utrikesdepartementet"
+    ],
+    "website": "https://www.regeringen.se/sveriges-regering/utrikesdepartementet/"
+  },
+  "Valmyndigheten": {
+    "short_name": "VAL",
+    "handlingar_url": "https://handlingar.se/body/val",
+    "tags": [
+      "politik",
+      "forvaltningsmyndighet",
+      "kulturdepartementet"
+    ],
+    "website": "https://www.val.se"
+  },
+  "Verket för innovationssystem": {
+    "short_name": "VINNOVA",
+    "handlingar_url": "https://handlingar.se/body/vinnova",
+    "tags": [
+      "produktionteknikochforskning",
+      "forvaltningsmyndighet",
+      "naringsdepartementet"
+    ],
+    "website": "https://www.vinnova.se"
+  },
+  "Vetenskapsrådet": {
+    "short_name": "VR",
+    "handlingar_url": "https://handlingar.se/body/vr",
+    "tags": [
+      "forskning",
+      "bidrag",
+      "forvaltningsmyndighet",
+      "utbildningsdepartementet"
+    ],
+    "website": "https://www.vr.se"
+  },
+  "Åklagarmyndigheten": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/aklagarmyndigheten",
+    "tags": [
+      "lagochratt",
+      "forvaltningsmyndighet",
+      "beredskapsmyndighet",
+      "justitiedepartementet"
+    ],
+    "website": "https://www.aklagare.se"
+  },
+  "Örebro Universitet": {
+    "short_name": "ÖRU",
+    "handlingar_url": "https://handlingar.se/body/oru",
+    "tags": [
+      "universitet",
+      "forvaltningsmyndighet",
+      "utbildningsdepartementet"
+    ],
+    "website": "https://www.oru.se"
+  },
+  "Överklagandenämnden för etikprövning": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/overklagandenamnden_for_etikprovning",
+    "tags": [
+      "overklagan",
+      "forvaltningsmyndighet",
+      "utbildningsdepartementet"
+    ],
+    "website": "https://www.epn.se"
+  },
+  "Överklagandenämnden för högskolan": {
+    "short_name": "ÖNH",
+    "handlingar_url": "https://handlingar.se/body/onh",
+    "tags": [
+      "utbildningochkommunikation",
+      "overklagan",
+      "forvaltningsmyndighet",
+      "utbildningsdepartementet"
+    ],
+    "website": "https://www.onh.se"
+  },
+  "Överklagandenämnden för nämndemannauppdrag": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/overklagandenamnden_for_namndemannauppdrag",
+    "tags": [
+      "overklagan",
+      "forvaltningsmyndighet",
+      "justitiedepartementet"
+    ],
+    "website": "https://www.domstol.se/overklagandenamnden-for-namndemannauppdrag/"
+  },
+  "Överklagandenämnden för studiestöd": {
+    "short_name": "ÖKS",
+    "handlingar_url": "https://handlingar.se/body/oks",
+    "tags": [
+      "overklagan",
+      "forvaltningsmyndighet",
+      "utbildningsdepartementet"
+    ],
+    "website": "https://www.oks.se"
+  },
+  "Sveriges ambassad Kabul": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_kabul",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/kabul"
+  },
+  "Sveriges ambassad Tirana": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_tirana",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.com/tirana"
+  },
+  "Sveriges ambassad Alger": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_alger",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/alger"
+  },
+  "Sveriges ambassad Washington": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_washington",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.com/washington"
+  },
+  "Sveriges ständiga representation vid FN i New York": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_standiga_representation_vid_fn_i_new_york",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.com/un"
+  },
+  "Sveriges generalkonsulat New York": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_generalkonsulat_new_york",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedennewyork.com"
+  },
+  "Sveriges ambassad Andorra": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_andorra",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "http://www.gov.se"
+  },
+  "Sveriges Honorärkonsulat i Angola": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_honorarkonsulat_i_angola",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.com/luanda"
+  },
+  "Kansliet för de Stockholmsbaserade sändebuden": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/kansliet_for_de_stockholmsbaserade_sandebuden_kss_uzbekistan",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/sv/utlandsmyndigheter/uzbekistan-stockholm/"
+  },
+  "Sveriges ambassad Buenos Aires": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_buenos_aires",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.com/buenos-aires"
+  },
+  "Sveriges ambassad Armenien": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_armenien",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "http://www.gov.se"
+  },
+  "Sveriges ambassad Aruba": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_aruba",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "http://www.gov.se"
+  },
+  "Sveriges ambassad Canberra": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_canberra",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.com/canberra"
+  },
+  "Sveriges ambassad Baku": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_baku",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.com/baku"
+  },
+  "Sveriges ambassad Bahrain": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_bahrain",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "http://www.foreign.ministry.se"
+  },
+  "Sveriges ambassad Dhaka": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_dhaka",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.com/dhaka"
+  },
+  "Sveriges ständiga representation vid Europeiska unionen i Bryssel": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_standiga_representation_vid_europeiska_unionen_i_bryssel",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.regeringen.se/eu-representationen"
+  },
+  "Sveriges delegation vid NATO i Bryssel": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_delegation_vid_nato_i_bryssel",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.com/nato"
+  },
+  "Kansliet för de Stockholmsbaserde sändebuden Belize": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/kansliet_for_de_stockholmsbaserde_sandebuden_belize",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.com/Page____117970.aspx"
+  },
+  "Kansliet för de Stockholmsbaserade sändebuden Benin": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/kansliet_for_de_stockholmsbaserade_sandebuden_benin",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "http://www.gov.se"
+  },
+  "Sveriges ambassad Bhutan": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_bhutan",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "http://www.foreign.ministry.se"
+  },
+  "Sveriges ambassad Bolivia": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_bolivia",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/sv/utlandsmyndigheter/bolivia-la-paz/"
+  },
+  "Sveriges ambassad Sarajevo": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_sarajevo",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.com/sarajevo"
+  },
+  "Sveriges ambassad Brasilia": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_brasilia",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/brasilia"
+  },
+  "Sveriges ambassad Brunei": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_brunei",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "http://www.gov.se"
+  },
+  "Sveriges ambassad Burundi": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_burundi",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "http://www.gov.se"
+  },
+  "Sveriges ambassad Centralafrikanska Republiken": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_centralafrikanska_republiken",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "http://www.gov.se"
+  },
+  "Sveriges ambassad Santiago de Chile": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_santiago_de_chile",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/es/embajada/chile-santiago-de-chile"
+  },
+  "Sveriges ambassad Bogotá Distrito Capital": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_bogota_distrito_capital",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/bogota"
+  },
+  "Sveriges ambassad Costa Rica": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_costa_rica",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "http://www.gov.se"
+  },
+  "Sveriges ambassad Nicosia": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_nicosia",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad/nicosia"
+  },
+  "Sveriges ambassad Köpenhamn": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_kopenhamn",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.sverigesambassad.dk"
+  },
+  "Sveriges ambassad Djibouti": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_djibouti",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "http://www.foreign.ministry.se"
+  },
+  "Sveriges ambassad Ecuador": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_ecuador",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "http://www.gov.se"
+  },
+  "Sveriges ambassad Kairo": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_kairo",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.com/kairo"
+  },
+  "Kinshasa, Demokratiska republiken Kongo": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/kinshasa_demokratiska_republiken_kongo",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/sv/utlandsmyndigheter/d.r.-kongo-kinshasa/om-oss/ambassaden/"
+  },
+  "Sveriges ambassad El Salvador": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_el_salvador",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "http://www.gov.se"
+  },
+  "Kansliet för de Stockholmsbaserade sändebuden Elfenbenskusten": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/kansliet_for_de_stockholmsbaserade_sandebuden_elfenbenskusten",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/sv/utlandsmyndigheter/elfenbenskusten-stockholm"
+  },
+  "Sveriges ambassad Tallinn": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_tallinn",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/tallinn/"
+  },
+  "Sveriges ambassad Addis Abeba": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_addis_abeba",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/addis-abeba"
+  },
+  "Sveriges ambassad Fiji": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_fiji",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "http://www.gov.se"
+  },
+  "Sveriges ambassad Helsingfors": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_helsingfors",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.com/helsingfors"
+  },
+  "Sveriges generalkonsulat Mariehamn": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_generalkonsulat_mariehamn",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.com/mariehamn"
+  },
+  "Sveriges delegation Paris, OECD": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_delegation_paris_oecd",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.oecd.org/sweden/"
+  },
+  "Sveriges representation Strasbourg, Europarådet": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_representation_strasbourg_europaradet",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/sv/utlandsmyndigheter/europar%C3%A5det-strasbourg/"
+  },
+  "Sveriges ambassad Paris": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_paris",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/paris"
+  },
+  "Sveriges ambassad Abu Dhabi": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_abu_dhabi",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/sv/utlandsmyndigheter/f%C3%B6renade-arabemiraten-abu-dhabi/?_t_id=1B2M2Y8AsgTpgAmY7PhCfg%3d%3d&_t_q=abu+dhabi&_t_tags=language%3asv%2csiteid%3a23885747-7dc6-440f-8867-d6cc16d12398&_t_ip=2405%3a8100%3a8000%3a5ca1%3a0%3a0%3a34%3a863&_t_hit.id=Swedenabroad_Models_Pages_MissionPage/_bfa68f0e-dfe8-4781-9c80-7ec2d59b5c4d_sv&_t_hit.pos=1"
+  },
+  "Sveriges ambassad Gabon": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_gabon",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/sv/utlandsmyndigheter/d.r.-kongo-kinshasa/"
+  },
+  "Sveriges ambassad Banjul": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_banjul",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/gambia"
+  },
+  "Sveriges ambassad Tbilisi": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_tbilisi",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/tbilisi"
+  },
+  "Sveriges ambassad Ghana": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_ghana",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/abuja"
+  },
+  "Sveriges ambassad Gibraltar": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_gibraltar",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/london"
+  },
+  "Sveriges ambassad Athen": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_athen",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/athens"
+  },
+  "Sveriges ambassad Guatemala": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_guatemala",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/guatemala"
+  },
+  "Kansliet för de Stockholmsbaserade sändebuden Guinea": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/kansliet_for_de_stockholmsbaserade_sandebuden_guinea",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/sv/utlandsmyndigheter/guinea-stockholm"
+  },
+  "Sveriges ambassad Guinea-Bissau": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_guinea_bissau",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "http://www.gov.se"
+  },
+  "Sveriges ambassad Honduras": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_honduras",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/guatemala"
+  },
+  "Sveriges ambassad New Delhi": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_new_delhi",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/sv/utlandsmyndigheter/indien-new-delhi/"
+  },
+  "Sveriges ambassad Jakarta": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_jakarta",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.com/jakarta"
+  },
+  "Sveriges ambassad Irak": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_irak",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.com/bagdad"
+  },
+  "Sveriges ambassad Teheran": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_teheran",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.com/teheran"
+  },
+  "Sveriges ambassad Reykjavik": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_reykjavik",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/sv/utlandsmyndigheter/island-reykjavik/"
+  },
+  "Sveriges ambassad Tel Aviv": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_tel_aviv",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/sv/utlandsmyndigheter/israel-tel-aviv/"
+  },
+  "Sveriges ambassad Rom": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_rom",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.com/rom"
+  },
+  "Sveriges ambassad Tokyo": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_tokyo",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.com/tokyo"
+  },
+  "Sveriges ambassad Jemen": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_jemen",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "http://www.foreign.ministry.se"
+  },
+  "Sveriges generalkonsulat Jerusalem": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_generalkonsulat_jerusalem",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/jerusalem"
+  },
+  "Sveriges ambassad Amman": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_amman",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/amman"
+  },
+  "Sveriges ambassad Kambodja": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_kambodja",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/phnompenh"
+  },
+  "Sveriges ambassad Kamerun": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_kamerun",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "http://www.gov.se"
+  },
+  "Sveriges ambassad Ottawa": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_ottawa",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/sv/utlandsmyndigheter/kanada-ottawa/"
+  },
+  "Sveriges ambassad Kap Verde": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_kap_verde",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "http://www.gov.se"
+  },
+  "Sveriges ambassad Astana": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_astana",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/Astana"
+  },
+  "Sveriges ambassad Nairobi": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_nairobi",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/nairobi"
+  },
+  "Sveriges ambassad Peking": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_peking",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/Beijing"
+  },
+  "Sveriges generalkonsulat Hongkong": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_generalkonsulat_hongkong",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/hongkong"
+  },
+  "Sveriges generalkonsulat Shanghai": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_generalkonsulat_shanghai",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/shanghai"
+  },
+  "Sveriges ambassad Komorerna": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_komorerna",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "http://www.gov.se"
+  },
+  "Sveriges ambassad Demokratiska republiken Kongo": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_demokratiska_republiken_kongo",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "http://www.gov.se"
+  },
+  "Sveriges ambassad Kinshasa": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_kinshasa",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/kinshasa"
+  },
+  "Sveriges ambassad Pristina": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_pristina",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/sv/utlandsmyndigheter/kosovo-pristina"
+  },
+  "Sveriges ambassad  Zagreb": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_zagreb",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/zagreb"
+  },
+  "Sveriges ambassad Havanna": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_havanna",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/havanna"
+  },
+  "Sveriges ambassad Kuwait": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_kuwait",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "http://www.foreign.ministry.se"
+  },
+  "Sveriges ambassad Lesotho": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_lesotho",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "http://www.foreign.ministry.se"
+  },
+  "Sveriges ambassad Riga": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_riga",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/riga"
+  },
+  "Sveriges ambassad Monrovia": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_monrovia",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/Monrovia/"
+  },
+  "Sveriges ambassad Liechtenstein": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_liechtenstein",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "http://www.gov.se"
+  },
+  "Sveriges ambassad Vilnius": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_vilnius",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/vilnius"
+  },
+  "Sveriges ambassad Luxemburg": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_luxemburg",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/luxemburg"
+  },
+  "Sveriges ambassad Madagaskar": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_madagaskar",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "http://www.gov.se"
+  },
+  "Sveriges ambassad Skopje": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_skopje",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/skopje"
+  },
+  "Sveriges ambassad Malawi": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_malawi",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "http://www.foreign.ministry.se"
+  },
+  "Sveriges ambassad Kuala Lumpur": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_kuala_lumpur",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/sv/utlandsmyndigheter/malaysia-kuala-lumpur/"
+  },
+  "Sveriges ambassad Maldiverna": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_maldiverna",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "http://www.foreign.ministry.se"
+  },
+  "Sveriges ambassad Bamako": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_bamako",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/bamako"
+  },
+  "Sveriges ambassad Rabat": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_rabat",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.com/rabat"
+  },
+  "Sveriges ambassad Marshallöarna": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_marshalloarna",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "http://www.gov.se"
+  },
+  "Sveriges ambassad Mauretanien": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_mauretanien",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "http://www.gov.se"
+  },
+  "Sveriges ambassad Mauritius": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_mauritius",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "http://www.foreign.ministry.se"
+  },
+  "Sveriges ambassad Mexiko": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_mexiko",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/sv/utlandsmyndigheter/mexico-mexico-city/"
+  },
+  "Sveriges ambassad Mikronesien": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_mikronesien",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "http://www.gov.se"
+  },
+  "Sveriges ambassad Maputo": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_maputo",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/maputo"
+  },
+  "Sveriges ambassad Chisinau": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_chisinau",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/chisinau"
+  },
+  "Sveriges ambassad Monaco": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_monaco",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "http://www.amb-suede.fr"
+  },
+  "Sveriges ambassad Mongoliet": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_mongoliet",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "http://www.gov.se"
+  },
+  "Sveriges ambassad Montenegro": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_montenegro",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "http://www.foreign.ministry.se"
+  },
+  "Sveriges ambassad Myanmar": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_myanmar_burma",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "http://www.foreign.ministry.se"
+  },
+  "Sveriges ambassad Windhoek": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_windhoek",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.com/windhoek"
+  },
+  "Sveriges ambassad Haag": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_haag",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/haag"
+  },
+  "Sveriges ambassad Nepal": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_nepal",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/sv/om-utlandet-f%C3%B6r-svenska-medborgare/nepal/"
+  },
+  "Sveriges ambassad Niger": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_niger",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/sv/om-utlandet-f%C3%B6r-svenska-medborgare/niger/"
+  },
+  "Sveriges ambassad Abuja": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_abuja",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/abuja"
+  },
+  "Sveriges ambassad Pyongyang": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_pyongyang",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/pyongyang"
+  },
+  "Sveriges ambassad Oslo": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_oslo",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/oslo"
+  },
+  "Sveriges ambassad Nya Zeeland": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_nya_zeeland",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/sv/utlandsmyndigheter/australien-canberra/"
+  },
+  "Sveriges ambassad Oman": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_oman",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/sv/om-utlandet-f%C3%B6r-svenska-medborgare/oman/"
+  },
+  "Sveriges ambassad Islamabad": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_islamabad",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/islamabad"
+  },
+  "Sveriges ambassad Palau": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_palau",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/sv/utlandsmyndigheter/filippinerna-manila/"
+  },
+  "Sveriges ambassad Panama": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_panama",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/sv/utlandsmyndigheter/colombia-bogot%C3%A1/"
+  },
+  "Sveriges ambassad Papua Nya Guinea": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_papua_nya_guinea",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/sv/utlandsmyndigheter/australien-canberra/"
+  },
+  "Sveriges ambassad Paraguay": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_paraguay",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/sv/utlandsmyndigheter/argentina-buenos-aires/"
+  },
+  "Sveriges ambassad Lima": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_lima",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/Lima"
+  },
+  "Sveriges ambassad Warszawa": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_warszawa",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/warszawa"
+  },
+  "Sveriges ambassad Lissabon": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_lissabon",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/lissabon"
+  },
+  "Sveriges ambassad Doha": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_doha",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/doha"
+  },
+  "Sveriges ambassad Bukarest": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_bukarest",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/bukarest"
+  },
+  "Sveriges ambassad Kigali": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_kigali",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/kigali"
+  },
+  "Sveriges ambassad Moskva": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_moskva",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/moskva"
+  },
+  "Sveriges generalkonsulat Sankt Petersburg": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_generalkonsulat_sankt_petersburg",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/sv/utlandsmyndigheter/ryssland-sankt-petersburg/"
+  },
+  "Sveriges ambassad Salomonöarna": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_salomonoarna",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/sv/utlandsmyndigheter/australien-canberra/"
+  },
+  "Sveriges ambassad Samoa": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_samoa",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/sv/utlandsmyndigheter/australien-canberra/"
+  },
+  "Sveriges ambassad San Marino": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_san_marino",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/sv/utlandsmyndigheter/italien-rom/"
+  },
+  "Sveriges ambassad Sao Tomé och Principe": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_sao_tome_och_principe",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/sv/utlandsmyndigheter/angola-luanda/"
+  },
+  "Sveriges ambassad Riyadh": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_riyadh",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/saudiarabien"
+  },
+  "Sveriges ambassad Bern": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_bern",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/bern"
+  },
+  "Sveriges representation Genève": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_representation_geneve",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/sv/utlandsmyndigheter/fn-gen%C3%A8ve/"
+  },
+  "Kansliet för de Stockholmsbaserde sändebuden": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/kansliet_for_de_stockholmsbaserde_sandebuden_kss_senegal",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/sv/utlandsmyndigheter/senegal-stockholm"
+  },
+  "Sveriges ambassad Belgrad": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_belgrad",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/belgrad"
+  },
+  "Sveriges ambassad Seychellerna": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_seychellerna",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "http://www.gov.se"
+  },
+  "Sveriges ambassad Singapore": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_singapore",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/singapore"
+  },
+  "Sveriges konsulat Bratislava": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_konsulat_bratislava",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/sv/om-utlandet-f%C3%B6r-svenska-medborgare/slovakien/"
+  },
+  "Sveriges konsulat Ljubljana": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_konsulat_ljubljana",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/sv/om-utlandet-f%C3%B6r-svenska-medborgare/slovenien/sveriges-honor%C3%A4ra-generalkonsulat-i-slovenien/"
+  },
+  "Sveriges ambassad Somalia": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_somalia",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/sv/utlandsmyndigheter/kenya-nairobi/"
+  },
+  "Sveriges ambassad Madrid": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_madrid",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/madrid"
+  },
+  "Sveriges ambassad Sri Lanka": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_sri_lanka",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "http://www.foreign.ministry.se"
+  },
+  "Sveriges ambassad London": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_london",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/sv/utlandsmyndigheter/storbritannien-london/"
+  },
+  "Sveriges ambassad Khartoum": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_khartoum",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/khartoum"
+  },
+  "Kansliet för de Stockholmsbaserade sändebuden Surinam": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/kansliet_for_de_stockholmsbaserade_sandebuden_surinam",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/sv/utlandsmyndigheter/surinam-stockholm/"
+  },
+  "Sveriges ambassad Swaziland": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_swaziland",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/sv/om-utlandet-f%C3%B6r-svenska-medborgare/swaziland/"
+  },
+  "Sveriges ambassad Pretoria": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_pretoria",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/pretoria"
+  },
+  "Sveriges ambassad Seoul": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_seoul",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/seoul"
+  },
+  "Sveriges ambassad Sydsudan": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_sydsudan",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "http://www.gov.se"
+  },
+  "Sveriges ambassad Damaskus": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_damaskus",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/damaskus"
+  },
+  "Sveriges ambassad Dar es Salaam": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_dar_es_salaam",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/daressalaam"
+  },
+  "Sveriges ambassad Tchad": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_tchad",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "http://www.gov.se"
+  },
+  "Sveriges ambassad Bangkok": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_bangkok",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/bangkok"
+  },
+  "Sveriges ambassad Prag": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_prag",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/prag"
+  },
+  "Sveriges ambassad Tonga": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_tonga",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/sv/utlandsmyndigheter/togo-stockholm"
+  },
+  "Sveriges ambassad Tunisien": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_tunisien",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/sv/utlandsmyndigheter/tunisien-tunis/"
+  },
+  "Sveriges ambassad Ankara": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_ankara",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "http://www.gov.se"
+  },
+  "Sveriges generalkonsulat Istanbul": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_generalkonsulat_istanbul",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/ankara"
+  },
+  "Sveriges ambassad Berlin": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_berlin",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/sv/utlandsmyndigheter/turkmenistan-stockholm/"
+  },
+  "Sveriges generalkonsulat Hamburg": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_generalkonsulat_hamburg",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/sv/utlandsmyndigheter/tyskland-berlin/kontakt/ambassaden-och-konsulat/"
+  },
+  "Sveriges ambassad Kampala": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_kampala",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.com/hamburg"
+  },
+  "Sveriges ambassad Kiev": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_kiev",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.com/kampala"
+  },
+  "Sveriges ambassad Budapest": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_budapest",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.com/kiev"
+  },
+  "Sveriges ambassad Uruguay": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_uruguay",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.com/budapest"
+  },
+  "Sveriges ambassad Vanuatu": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_vanuatu",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.com/uzbekistan"
+  },
+  "Sveriges ambassad Venezuela": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_venezuela",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/sv/utlandsmyndigheter/colombia-bogot%C3%A1/"
+  },
+  "Sveriges ambassad Hanoi": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_hanoi",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/hanoi"
+  },
+  "Sveriges ambassad Minsk": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_minsk",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/Minsk"
+  },
+  "Sveriges ambassad Lusaka": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_lusaka",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.com/sv-SE/Ambassader/Lusaka"
+  },
+  "Sveriges ambassad Harare": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_harare",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.se/harare"
+  },
+  "Sveriges ambassad Wien": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sveriges_ambassad_wien",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.com/wien"
+  },
+  "Sveriges ständiga delegation vid organisationen för säkerhet och samarbete i Europa": {
+    "short_name": "OSSE",
+    "handlingar_url": "https://handlingar.se/body/osse",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "https://www.swedenabroad.com/osse"
+  },
+  "Arbetsdomstolen": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/arbetsdomstolen",
+    "tags": [
+      "specialdomstol"
+    ],
+    "website": "https://arbetsdomstolen.se/"
+  },
+  "Domstolsverket": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/domstolsverket",
+    "tags": [
+      "lagochratt",
+      "forvaltningsmyndighet",
+      "beredskapsmyndighet",
+      "justitiedepartementet"
+    ],
+    "website": "https://www.domstol.se"
+  },
+  "Försvarsunderrättelsedomstolen": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/forsvarsunderrattelsedomstolen",
+    "tags": [
+      "specialdomstol"
+    ],
+    "website": "http://www.undom.se/"
+  },
+  "Alingsås Tingsrätt": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/alingsas_tingsratt",
+    "tags": [
+      "tingsratt"
+    ],
+    "website": "https://www.alingsastingsratt.domstol.se"
+  },
+  "Attunda Tingsrätt": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/attunda_tingsratt",
+    "tags": [
+      "tingsratt"
+    ],
+    "website": "https://www.attundatingsratt.domstol.se"
+  },
+  "Blekinge Tingsrätt": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/blekinge_tingsratt",
+    "tags": [
+      "tingsratt"
+    ],
+    "website": "https://www.blekingetingsratt.domstol.se"
+  },
+  "Borås Tingsrätt": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/boras_tingsratt",
+    "tags": [
+      "tingsratt"
+    ],
+    "website": "https://www.borastingsratt.domstol.se"
+  },
+  "Eksjö Tingsrätt": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/eksjo_tingsratt",
+    "tags": [
+      "tingsratt"
+    ],
+    "website": "https://www.eksjotingsratt.domstol.se"
+  },
+  "Eskilstuna Tingsrätt": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/eskilstuna_tingsratt",
+    "tags": [
+      "tingsratt"
+    ],
+    "website": "https://www.eskilstunatingsratt.domstol.se"
+  },
+  "Falu Tingsrätt": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/falu_tingsratt",
+    "tags": [
+      "tingsratt"
+    ],
+    "website": "https://www.falutingsratt.domstol.se"
+  },
+  "Förvaltningsrätten i Falun": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/forvaltningsratten_i_falun",
+    "tags": [
+      "forvaltningsratt"
+    ],
+    "website": "https://www.forvaltningsrattenifalun.domstol.se"
+  },
+  "Förvaltningsrätten i Göteborg och migrationsdomstol": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/forvaltningsratten_i_goteborg_och_migrationsdomstol",
+    "tags": [
+      "forvaltningsratt"
+    ],
+    "website": "https://www.forvaltningsrattenigoteborg.domstol.se"
+  },
+  "Förvaltningsrätten i Härnösand": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/forvaltningsratten_i_harnosand",
+    "tags": [
+      "forvaltningsratt"
+    ],
+    "website": "https://www.forvaltningsratteniharnosand.domstol.se"
+  },
+  "Förvaltningsrätten i Jönköping": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/forvaltningsratten_i_jonkoping",
+    "tags": [
+      "forvaltningsratt"
+    ],
+    "website": "https://www.forvaltningsrattenijonkoping.domstol.se"
+  },
+  "Förvaltningsrätten i Karlstad": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/forvaltningsratten_i_karlstad",
+    "tags": [
+      "forvaltningsratt"
+    ],
+    "website": "https://www.forvaltningsrattenikarlstad.domstol.se"
+  },
+  "Förvaltningsrätten i Linköping": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/forvaltningsratten_i_linkoping",
+    "tags": [
+      "forvaltningsratt"
+    ],
+    "website": "https://www.forvaltningsrattenilinkoping.domstol.se"
+  },
+  "Förvaltningsrätten i Luleå och migrationsdomstol": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/forvaltningsratten_i_lulea_och_migrationsdomstol",
+    "tags": [
+      "forvaltningsratt"
+    ],
+    "website": "https://www.forvaltningsrattenilulea.domstol.se"
+  },
+  "Förvaltningsrätten i Stockholm och migrationsdomstol": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/forvaltningsratten_i_stockholm_och_migrationsdomstol",
+    "tags": [
+      "forvaltningsratt"
+    ],
+    "website": "https://www.forvaltningsrattenistockholm.domstol.se"
+  },
+  "Förvaltningsrätten i Umeå": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/forvaltningsratten_i_umea",
+    "tags": [
+      "forvaltningsratt"
+    ],
+    "website": "https://www.forvaltningsratteniumea.domstol.se"
+  },
+  "Förvaltningsrätten i Uppsala": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/forvaltningsratten_i_uppsala",
+    "tags": [
+      "forvaltningsratt"
+    ],
+    "website": "https://www.forvaltningsratteniuppsala.domstol.se"
+  },
+  "Förvaltningsrätten i Växjö": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/forvaltningsratten_i_vaxjo",
+    "tags": [
+      "forvaltningsratt"
+    ],
+    "website": "https://www.forvaltningsrattenivaxjo.domstol.se"
+  },
+  "Gotlands Tingsrätt": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/gotlands_tingsratt",
+    "tags": [
+      "tingsratt"
+    ],
+    "website": "https://www.gotlandstingsratt.domstol.se"
+  },
+  "Gällivare Tingsrätt": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/gallivare_tingsratt",
+    "tags": [
+      "tingsratt"
+    ],
+    "website": "https://www.gallivaretingsratt.domstol.se"
+  },
+  "Gävle Tingsrätt": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/gavle_tingsratt",
+    "tags": [
+      "tingsratt"
+    ],
+    "website": "https://www.gavletingsratt.domstol.se"
+  },
+  "Göta Hovrätt": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/gota_hovratt",
+    "tags": [
+      "hovratt"
+    ],
+    "website": "https://www.domstol.se/gota-hovratt/"
+  },
+  "Göteborgs Tingsrätt": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/goteborgs_tingsratt",
+    "tags": [
+      "tingsratt"
+    ],
+    "website": "https://www.goteborgstingsratt.domstol.se"
+  },
+  "Halmstads Tingsrätt": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/halmstads_tingsratt",
+    "tags": [
+      "tingsratt"
+    ],
+    "website": "https://www.halmstadstingsratt.domstol.se"
+  },
+  "Haparanda Tingsrätt": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/haparanda_tingsratt",
+    "tags": [
+      "tingsratt"
+    ],
+    "website": "https://www.haparandatingsratt.domstol.se"
+  },
+  "Helsingborgs Tingsrätt": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/helsingborgs_tingsratt",
+    "tags": [
+      "tingsratt"
+    ],
+    "website": "https://www.helsingborgstingsratt.domstol.se"
+  },
+  "Hovrätten För Nedre Norrland": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/hovratten_for_nedre_norrland",
+    "tags": [
+      "hovratt"
+    ],
+    "website": "https://www.hovrattenfornedrenorrland.se"
+  },
+  "Hovrätten För Västra Sverige": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/hovratten_for_vastra_sverige",
+    "tags": [
+      "hovratt"
+    ],
+    "website": "https://www.vastrahovratten.domstol.se"
+  },
+  "Hovrätten För Övre Norrland": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/hovratten_for_ovre_norrland",
+    "tags": [
+      "hovratt"
+    ],
+    "website": "https://www.hovrattenovrenorrland.domstol.se"
+  },
+  "Hovrätten Över Skåne Och Blekinge": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/hovratten_over_skane_och_blekinge",
+    "tags": [
+      "hovratt"
+    ],
+    "website": "https://www.hovrattenskaneblekinge.domstol.se"
+  },
+  "Hudiksvalls Tingsrätt": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/hudiksvalls_tingsratt",
+    "tags": [
+      "tingsratt"
+    ],
+    "website": "https://www.hudiksvallstingsratt.domstol.se"
+  },
+  "Hässleholms Tingsrätt": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/hassleholms_tingsratt",
+    "tags": [
+      "tingsratt"
+    ],
+    "website": "https://www.hassleholmstingsratt.domstol.se"
+  },
+  "Högsta Förvaltningsdomstolen": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/hogsta_forvaltningsdomstolen",
+    "tags": [
+      "forvaltningsratt"
+    ],
+    "website": "https://www.hogstaforvaltningsdomstolen.se"
+  },
+  "Jönköpings Tingsrätt": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/jonkopings_tingsratt",
+    "tags": [
+      "tingsratt"
+    ],
+    "website": "https://www.jonkopingstingsratt.domstol.se"
+  },
+  "Kalmar Tingsrätt": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/kalmar_tingsratt",
+    "tags": [
+      "tingsratt"
+    ],
+    "website": "https://www.kalmartingsratt.domstol.se"
+  },
+  "Kammarrätten i Göteborg": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/kammarratten_i_goteborg",
+    "tags": [
+      "kammarratt"
+    ],
+    "website": "https://www.kammarratten.goteborg.se"
+  },
+  "Kammarrätten i Jönköping": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/kammarratten_i_jonkoping",
+    "tags": [
+      "kammarratt"
+    ],
+    "website": "https://www.kammarrattenijonkoping.domstol.se"
+  },
+  "Kammarrätten i Stockholm och Migrationsöverdomstol": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/kammarratten_i_stockholm_och_migrationsoverdomstol",
+    "tags": [
+      "kammarratt"
+    ],
+    "website": "https://www.kammarrattenistockholm.domstol.se"
+  },
+  "Kammarrätten i Sundsvall": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/kammarratten_i_sundsvall",
+    "tags": [
+      "kammarratt"
+    ],
+    "website": "https://www.kammarrattenisundsvall.se"
+  },
+  "Kristianstads Tingsrätt": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/kristianstads_tingsratt",
+    "tags": [
+      "tingsratt"
+    ],
+    "website": "https://www.kristianstadstingsratt.domstol.se"
+  },
+  "Linköpings Tingsrätt": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/linkopings_tingsratt",
+    "tags": [
+      "tingsratt"
+    ],
+    "website": "https://www.linkopingstingsratt.domstol.se"
+  },
+  "Luleå Tingsrätt": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/lulea_tingsratt",
+    "tags": [
+      "tingsratt"
+    ],
+    "website": "https://www.luleatingsratt.domstol.se"
+  },
+  "Lunds Tingsrätt": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/lunds_tingsratt",
+    "tags": [
+      "tingsratt"
+    ],
+    "website": "https://www.lundstingsratt.domstol.se"
+  },
+  "Lycksele Tingsrätt": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/lycksele_tingsratt",
+    "tags": [
+      "tingsratt"
+    ],
+    "website": "https://www.lyckseletingsratt.domstol.se"
+  },
+  "Malmö Tingsrätt": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/malmo_tingsratt",
+    "tags": [
+      "tingsratt"
+    ],
+    "website": "https://www.malmotingsratt.domstol.se"
+  },
+  "Mora Tingsrätt": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/mora_tingsratt",
+    "tags": [
+      "tingsratt"
+    ],
+    "website": "https://www.moratingsratt.domstol.se"
+  },
+  "Nacka Tingsrätt": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/nacka_tingsratt",
+    "tags": [
+      "tingsratt"
+    ],
+    "website": "https://www.nackatingsratt.domstol.se"
+  },
+  "Norrköpings Tingsrätt": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/norrkopings_tingsratt",
+    "tags": [
+      "tingsratt"
+    ],
+    "website": "https://www.norrkopingstingsratt.domstol.se"
+  },
+  "Norrtälje Tingsrätt": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/norrtalje_tingsratt",
+    "tags": [
+      "tingsratt"
+    ],
+    "website": "https://www.norrtaljetingsratt.domstol.se"
+  },
+  "Nyköpings Tingsrätt": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/nykopings_tingsratt",
+    "tags": [
+      "tingsratt"
+    ],
+    "website": "https://www.nykopingstingsratt.domstol.se"
+  },
+  "Rättshjälpsmyndigheten": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/rattshjalpsmyndigheten",
+    "tags": [
+      "lagochratt",
+      "forvaltningsmyndighet",
+      "justitiedepartementet"
+    ],
+    "website": "https://www.domstol.se/rattshjalpsmyndigheten/"
+  },
+  "Skaraborgs Tingsrätt": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/skaraborgs_tingsratt",
+    "tags": [
+      "tingsratt"
+    ],
+    "website": "https://www.skaraborgstingsratt.domstol.se"
+  },
+  "Skellefteå Tingsrätt": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/skelleftea_tingsratt",
+    "tags": [
+      "tingsratt"
+    ],
+    "website": "https://www.skellefteatingsratt.domstol.se"
+  },
+  "Solna Tingsrätt": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/solna_tingsratt",
+    "tags": [
+      "tingsratt"
+    ],
+    "website": "https://www.solnatingsratt.domstol.se"
+  },
+  "Stockholms Tingsrätt": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/stockholms_tingsratt",
+    "tags": [
+      "tingsratt"
+    ],
+    "website": "https://www.stockholmstingsratt.se"
+  },
+  "Sundsvalls Tingsrätt": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sundsvalls_tingsratt",
+    "tags": [
+      "tingsratt"
+    ],
+    "website": "https://www.sundsvallstingsratt.se"
+  },
+  "Södertälje Tingsrätt": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sodertalje_tingsratt",
+    "tags": [
+      "tingsratt"
+    ],
+    "website": "https://www.sodertaljetingsratt.domstol.se"
+  },
+  "Södertörns Tingsrätt": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/sodertorns_tingsratt",
+    "tags": [
+      "tingsratt"
+    ],
+    "website": "https://www.sodertornstingsratt.domstol.se"
+  },
+  "Uddevalla Tingsrätt": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/uddevalla_tingsratt",
+    "tags": [
+      "tingsratt"
+    ],
+    "website": "https://www.uddevallatingsratt.domstol.se"
+  },
+  "Umeå Tingsrätt": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/umea_tingsratt",
+    "tags": [
+      "tingsratt"
+    ],
+    "website": "https://www.umeatingsratt.domstol.se"
+  },
+  "Uppsala Tingsrätt": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/uppsala_tingsratt",
+    "tags": [
+      "tingsratt"
+    ],
+    "website": "https://www.uppsalatingsratt.domstol.se"
+  },
+  "Varbergs Tingsrätt": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/varbergs_tingsratt",
+    "tags": [
+      "tingsratt"
+    ],
+    "website": "https://www.varbergstingsratt.domstol.se"
+  },
+  "Vänersborgs Tingsrätt": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/vanersborgs_tingsratt",
+    "tags": [
+      "tingsratt"
+    ],
+    "website": "https://www.vanersborgstingsratt.domstol.se"
+  },
+  "Värmlands Tingsrätt": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/varmlands_tingsratt",
+    "tags": [
+      "tingsratt"
+    ],
+    "website": "https://www.varmlandstingsratt.domstol.se"
+  },
+  "Västmanlands Tingsrätt": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/vastmanlands_tingsratt",
+    "tags": [
+      "tingsratt"
+    ],
+    "website": "https://www.vastmanlandstingsratt.domstol.se"
+  },
+  "Växjö Tingsrätt": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/vaxjo_tingsratt",
+    "tags": [
+      "tingsratt"
+    ],
+    "website": "https://www.vaxjotingsratt.domstol.se"
+  },
+  "Ystads Tingsrätt": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/ystads_tingsratt",
+    "tags": [
+      "tingsratt"
+    ],
+    "website": "https://www.ystadstingsratt.domstol.se"
+  },
+  "Ångermanlands Tingsrätt": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/angermanlands_tingsratt",
+    "tags": [
+      "tingsratt"
+    ],
+    "website": "https://www.angermanlandstingsratt.domstol.se"
+  },
+  "Örebro Tingsrätt": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/orebro_tingsratt",
+    "tags": [
+      "tingsratt"
+    ],
+    "website": "https://www.orebrotingsratt.domstol.se"
+  },
+  "Östersunds Tingsrätt": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/ostersunds_tingsratt",
+    "tags": [
+      "tingsratt"
+    ],
+    "website": "https://www.ostersundstingsratt.domstol.se"
+  },
+  "Lokala Säkerhetsnämnden Vid Oskarshamn": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/lokala_sakerhetsnamnden_vid_oskarshamn",
+    "tags": [
+      "karnkraft",
+      "forvaltningsmyndighet",
+      "miljodepartementet"
+    ],
+    "website": "https://www.oskarshamn.se/mer-om-kommunen/karnenergi-och-karnavfall/lokala-sakerhetsnamnden-vid-oskarshamns-karnkraftverk-och-karnenergiberedskap/"
+  },
+  "Nämnden för prövning av oredlighet i forskning": {
+    "short_name": "NPOF",
+    "handlingar_url": "https://handlingar.se/body/npof",
+    "tags": [
+      "overklagan",
+      "forvaltningsmyndighet",
+      "utbildningsdepartementet"
+    ],
+    "website": "https://www.oredlighetsprovning.se/"
+  },
+  "Myndigheten för psykologiskt försvar": {
+    "short_name": "SPDA",
+    "handlingar_url": "https://handlingar.se/body/spda",
+    "tags": [
+      "forsvar",
+      "forvaltningsmyndighet",
+      "beredskapsmyndighet",
+      "forsvarsdepartementet"
+    ],
+    "website": "https://www.mpf.se/"
+  },
+  "Förvaltningsrätten i Malmö": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/forvaltningsratten_i_malmo",
+    "tags": [
+      "forvaltningsratt"
+    ],
+    "website": "https://www.forvaltningsrattenimalmo.domstol.se"
+  },
+  "Statens geotekniska institut": {
+    "short_name": "SWEDGEO",
+    "handlingar_url": "https://handlingar.se/body/swedgeo",
+    "tags": [
+      "miljo",
+      "forvaltningsmyndighet",
+      "miljodepartementet"
+    ],
+    "website": "https://www.swedgeo.se"
+  },
+  "Granskningsnämnden för försvarsuppfinningar": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/granskningsnamnden_for_forsvarsuppfinningar",
+    "tags": [
+      "forsvar",
+      "forvaltningsmyndighet",
+      "forsvarsdepartementet"
+    ],
+    "website": "https://www.fmv.se/"
+  },
+  "Fyrbodals Kommunalförbund": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/fyrbodals_kommunalforbund",
+    "tags": [
+      "kommunalforbund",
+      "forvaltningsmyndighet"
+    ],
+    "website": "https://www.fyrbodal.se/"
+  },
+  "Statens ansvarsnämnd": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/statens_ansvarsnamnd",
+    "tags": [
+      "overklagan",
+      "forvaltningsmyndighet",
+      "finansdepartementet"
+    ],
+    "website": "https://www.statensansvarsnamnd.se"
+  },
+  "Institutet för språk och folkminnen": {
+    "short_name": "ISOF",
+    "handlingar_url": "https://handlingar.se/body/isof",
+    "tags": [
+      "sprak",
+      "forvaltningsmyndighet",
+      "kulturdepartementet"
+    ],
+    "website": "https://www.isof.se/"
+  },
+  "Hälso- och sjukvårdens ansvarsnämnd": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/halso_och_sjukvardens_ansvarsnamnd",
+    "tags": [
+      "overklagan",
+      "forvaltningsmyndighet",
+      "socialdepartementet"
+    ],
+    "website": "https://www.socialstyrelsen.se/om-socialstyrelsen/organisation/rad-och-namnder/halso--och-sjukvardens-ansvarsnamnd/"
+  },
+  "Inspektionen för socialförsäkringen": {
+    "short_name": "ISF",
+    "handlingar_url": "https://handlingar.se/body/isf",
+    "tags": [
+      "ersattning",
+      "forvaltningsmyndighet",
+      "socialdepartementet"
+    ],
+    "website": "https://isf.se/"
+  },
+  "Statens institutionsstyrelse": {
+    "short_name": "SiS",
+    "handlingar_url": "https://handlingar.se/body/sis",
+    "tags": [
+      "socialafragor",
+      "forvaltningsmyndighet",
+      "socialdepartementet"
+    ],
+    "website": "https://www.stat-inst.se"
+  },
+  "Svenska ILO-kommitten": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/svenska_ilo_kommitten",
+    "tags": [
+      "rattigheter",
+      "forvaltningsmyndighet",
+      "arbetsmarknadsdepartementet"
+    ],
+    "website": "https://svenskailo-kommitten.se/"
+  },
+  "Totalförsvarets plikt- och prövningsverk": {
+    "short_name": "SDCAA",
+    "handlingar_url": "https://handlingar.se/body/sdcaa",
+    "tags": [
+      "forsvar",
+      "forvaltningsmyndighet",
+      "forsvarsdepartementet"
+    ],
+    "website": "http://www.pliktverket.se"
+  },
+  "Mälardalens Högskola": {
+    "short_name": "MDH",
+    "handlingar_url": "https://handlingar.se/body/mdh",
+    "tags": [
+      "hogskola",
+      "forvaltningsmyndighet",
+      "utbildningsdepartementet"
+    ],
+    "website": "https://www.mdh.se"
+  },
+  "Statens servicecenter": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/statens_servicecenter",
+    "tags": [
+      "ekonomi",
+      "forvaltningsmyndighet",
+      "beredskapsmyndighet",
+      "finansdepartementet"
+    ],
+    "website": "https://www.statenssc.se"
+  },
+  "Kansliet för de Stockholmsbaseade sändebuden": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/kansliet_for_de_stockholmsbaseade_sandebuden",
+    "tags": [
+      "ambassad"
+    ],
+    "website": "http://www.gov.se"
+  },
+  "Statens nämnd för arbetstagares uppfinningar": {
+    "short_name": "SNAU",
+    "handlingar_url": "https://handlingar.se/body/snau",
+    "tags": [
+      "arbetsratt",
+      "forvaltningsmyndighet",
+      "arbetsmarknadsdepartementet"
+    ],
+    "website": "https://www.regeringen.se/myndigheter-med-flera/statens-namnd-for-arbetstagares-uppfinningar2/"
+  },
+  "Plikt- och prövningsverket": {
+    "short_name": "",
+    "handlingar_url": "https://handlingar.se/body/plikt_och_provningsverket",
+    "tags": [
+      "forsvar",
+      "forvaltningsmyndighet",
+      "forsvarsdepartementet"
+    ],
+    "website": "https://www.pliktverket.se/"
+  }
+}

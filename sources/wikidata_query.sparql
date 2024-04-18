@@ -1,0 +1,64 @@
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+SELECT  ?org
+        ?name
+        ?name_en
+        (GROUP_CONCAT(DISTINCT(?altLabel); separator = ";;") AS ?other_names)
+        (GROUP_CONCAT(DISTINCT(?part_of_valuesLabel); separator = ",") AS ?part_of)
+        ?mother_org
+        ?org_nr
+        ?start
+        ?end
+        (GROUP_CONCAT(DISTINCT(?replacesLabel); separator = ",") AS ?replaces)
+        (GROUP_CONCAT(DISTINCT(?replaced_by_values); separator = ",") AS ?replaced_by)
+        (GROUP_CONCAT(DISTINCT(?follows_values); separator = ",") AS ?follows)
+        ?wiki_url WHERE {
+    {
+        ?org wdt:P31 wd:Q68295960.
+    } UNION {
+        ?org wdt:P1454 wd:Q108514063.
+    }
+    ?org rdfs:label ?name FILTER(LANG(?name) = "sv").
+    ?org rdfs:label ?name_en FILTER(LANG(?name_en) = "en").
+    OPTIONAL { ?org wdt:P361 ?part_of_values. }
+    OPTIONAL {
+      ?org wdt:P361 ?part_of_value.
+      ?part_of_values rdfs:label ?part_of
+      FILTER(LANGMATCHES(LANG(?part_of), "sv" ))
+    }
+    OPTIONAL {
+      ?org wdt:P749 ?mother_org_value.
+      ?mother_org_value rdfs:label ?mother_org
+      FILTER(LANGMATCHES(LANG(?mother_org), "sv" ))
+    }
+    OPTIONAL { ?org wdt:P749 ?mother_org. }
+    OPTIONAL { ?org wdt:P6460 ?org_nr. }
+    OPTIONAL { ?org wdt:P571 ?start. }
+    OPTIONAL { ?org wdt:P576 ?end. }
+    OPTIONAL {
+      ?org wdt:P1365 ?replaces_values.
+      ?replaces_values rdfs:label ?replacesLabel
+      FILTER(LANGMATCHES(LANG(?replacesLabel), "sv" ))
+    }
+    OPTIONAL { ?org wdt:P1366 ?replaced_by_values. }
+    OPTIONAL { ?org wdt:P155 ?follows_values. }
+    OPTIONAL {
+        ?wiki_url schema:about ?org .
+        ?wiki_url schema:inLanguage "sv" .
+        FILTER (SUBSTR(STR(?wiki_url), 1, 25) = "https://sv.wikipedia.org/")
+    }
+    OPTIONAL {
+        ?org skos:altLabel ?altLabel.
+        FILTER (LANG(?altLabel) = "sv")
+    }
+}
+GROUP BY ?org
+            ?name_en
+            ?name
+            ?mother_org
+            ?org_nr
+            ?start
+            ?end
+            ?wiki_url
+ORDER BY (?name)
