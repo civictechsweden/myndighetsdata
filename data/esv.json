@@ -5959,7 +5959,7 @@
     "id": 1261,
     "department": "Socialdepartementet",
     "org_nr": "202100-5141",
-    "email": "info@sst.a.se",
+    "email": "info@myndighetensst.se",
     "employees": {
       "2024": 12,
       "2023": 12,
@@ -6109,12 +6109,12 @@
     "start": "2009"
   },
   "Myndigheten för totalförsvarsanalys": {
-    "name_en": "",
+    "name_en": "Swedish Agency for Defence Analysis",
     "short_name": "MTFA",
     "id": 1418,
     "department": "Försvarsdepartementet",
     "org_nr": "202100-7055",
-    "email": "",
+    "email": "registrator@mtfa.se",
     "employees": {
       "2024": 12
     },
@@ -6853,7 +6853,7 @@
     "name_en": "Swedish Inspectorate of Auditors",
     "short_name": "RI",
     "id": 1231,
-    "department": "Justitiedepartementet",
+    "department": "Finansdepartementet",
     "org_nr": "202100-4805",
     "email": "ri@revisorsinspektionen.se",
     "employees": {

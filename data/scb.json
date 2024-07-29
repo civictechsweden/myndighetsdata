@@ -215,7 +215,7 @@
   "BROTTSFÖREBYGGANDE RÅDET": {
     "org_nr": "202100-0068",
     "created_by": "2016:1201",
-    "email": "info@bra.se",
+    "email": "registrator@bra.se",
     "phone": "0852758400",
     "website": "www.bra.se",
     "group": "Statliga förvaltningsmyndigheter",
@@ -486,7 +486,7 @@
     "created_by": "2007:1074",
     "email": "registratur@kammarkollegiet.se",
     "phone": "087000800",
-    "website": "https://www.kammarkollegiet.se/om-oss/kammarkollegiets-uppgifter/kammarkollegiets-stod-till-andra-myndigheter/fideikommissnamnden",
+    "website": "www.kammarkollegiet.se/om-oss/kammarkollegiets-uppgifter/kammarkollegiets-stod-till-andra-myndigheter/fideikommissnamnden",
     "group": "Statliga förvaltningsmyndigheter",
     "postal_address": {
       "address": "BOX 2218",
@@ -632,8 +632,8 @@
     "website": "www.forte.se",
     "group": "Statliga förvaltningsmyndigheter",
     "postal_address": {
-      "address": "BOX 38084",
-      "postcode": "100 64",
+      "address": "MAGNUS LADULÅSGATAN 65",
+      "postcode": "118 27",
       "city": "STOCKHOLM"
     },
     "office_address": {
