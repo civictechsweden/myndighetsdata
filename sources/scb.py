@@ -1,3 +1,4 @@
+import os
 import requests
 import json
 import pandas as pd
@@ -28,8 +29,12 @@ FOLDER = 'raw_files/scb/'
 FILEPATH = FOLDER + '{}.xlsx'
 
 def download():
+    if not os.path.exists(FOLDER):
+        os.makedirs(FOLDER)
+
     for group in GROUPS:
         r = requests.get(DOMAIN + URL.format(group))
+
         with open(FILEPATH.format(group), 'wb') as outfile:
             outfile.write(r.content)
 

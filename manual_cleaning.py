@@ -43,4 +43,4 @@ def clean():
             merged[to_merge[agency]][source] = data
             merged.pop(agency)
 
-    write_json(merged, 'merged')
+    write_json(merged, 'data/merged')

@@ -27,7 +27,7 @@ def read_json(filepath):
         return json.load(file)
 
 def write_json(data, name):
-    with open(f'data/{name}.json', 'w', encoding='utf-8') as file:
+    with open(f'{name}.json', 'w', encoding='utf-8') as file:
         json.dump(data, file, indent=2, ensure_ascii=False)
 
 def smart_ratio(names, choices, threshold = 90):

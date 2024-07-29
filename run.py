@@ -11,47 +11,47 @@ import sources.handlingar as handlingar
 DOWNLOAD = False
 
 if DOWNLOAD:
-    print('Downloading from ESV...')
+    print("Downloading from ESV...")
     esv.download()
-print('Extracting from ESV...')
+print("Extracting from ESV...")
 esv_data = esv.extract()
-write_json(esv_data, 'esv')
+write_json(esv_data, "data/esv")
 
 if DOWNLOAD:
-    print('Downloading from Statskontoret...')
+    print("Downloading from Statskontoret...")
     stkt.download()
-print('Extracting from Statskontoret...')
+print("Extracting from Statskontoret...")
 stkt_data = stkt.extract()
-write_json(stkt_data, 'stkt')
+write_json(stkt_data, "data/stkt")
 
 if DOWNLOAD:
-    print('Downloading from SCB...')
+    print("Downloading from SCB...")
     scb.download()
-print('Extracting from SCB...')
+print("Extracting from SCB...")
 scb_data = scb.extract()
-write_json(scb_data, 'scb')
+write_json(scb_data, "data/scb")
 
 if DOWNLOAD:
-    print('Downloading from Wikidata...')
+    print("Downloading from Wikidata...")
     wd.download()
-print('Extracting from Wikidata...')
+print("Extracting from Wikidata...")
 wd_data = wd.extract()
-write_json(wd_data, 'wd')
+write_json(wd_data, "data/wd")
 
 if DOWNLOAD:
-    print('Downloading from SFS...')
+    print("Downloading from SFS...")
     sfs.download()
-print('Extracting from SFS...')
+print("Extracting from SFS...")
 sfs_data = sfs.extract()
-write_json(sfs_data, 'sfs')
+write_json(sfs_data, "data/sfs")
 
-print('Extracting from Arbetsgivarverket...')
+print("Extracting from Arbetsgivarverket...")
 agv_data = agv.extract()
-write_json(agv_data, 'agv')
+write_json(agv_data, "data/agv")
 
 if DOWNLOAD:
-    print('Downloading from Handlingar...')
-    sfs.download()
-print('Extracting from Handlingar...')
+    print("Downloading from Handlingar...")
+    handlingar.download()
+print("Extracting from Handlingar...")
 handlingar_data = handlingar.extract()
-write_json(handlingar_data, 'handlingar')
+write_json(handlingar_data, "data/handlingar")
