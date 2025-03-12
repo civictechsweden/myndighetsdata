@@ -623,7 +623,8 @@
     "wiki_url": "https://sv.wikipedia.org/wiki/G%C3%B6teborgs_universitet",
     "other_names": [
       "GU",
-      "Filmhögskolan i Göteborg"
+      "Filmhögskolan i Göteborg",
+      "Gbgs universitet"
     ],
     "org_nr": "202100-3153"
   },
@@ -1183,6 +1184,7 @@
     "start": "1771-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Kungliga_Musikh%C3%B6gskolan_i_Stockholm",
     "other_names": [
+      "Kungliga Musikhögskolan",
       "KMH",
       "Konservatoriet i Stockholm",
       "Kungl. Musikhögskolan i Stockholm",
@@ -1197,7 +1199,7 @@
       "Stockholms Musikhögskola",
       "Stockholms musikkonservatorium",
       "Stockholms Musikkonservatorium",
-      "Kungliga Musikhögskolan"
+      "Stockholms konservatorium"
     ],
     "org_nr": "202100-1215"
   },
@@ -1214,7 +1216,8 @@
       "Tekniska högskolan",
       "Tekniska högskolan i Stockholm",
       "Teknologiska Institutet",
-      "Teknologiska institutet i Stockholm"
+      "Teknologiska institutet i Stockholm",
+      "Teknis"
     ],
     "org_nr": "202100-3054"
   },
@@ -1583,7 +1586,7 @@
     "start": "1948-11-26T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Matematikmaskinn%C3%A4mnden",
     "other_names": [
-      ""
+      "MMN"
     ],
     "end": "1963-06-01T00:00:00Z"
   },
@@ -1869,11 +1872,11 @@
     "start": "1916-11-13T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Naturhistoriska_riksmuseet",
     "other_names": [
-      "Naturhistoriska riksmuseum",
       "NRM",
       "Riksmuseet",
       "Riksmuseum",
-      "Sveriges naturhistoriska riksmuseum"
+      "Sveriges naturhistoriska riksmuseum",
+      "Naturhistoriska riksmuseum"
     ],
     "org_nr": "202100-1124"
   },
@@ -2091,7 +2094,8 @@
     "wiki_url": "https://sv.wikipedia.org/wiki/Radio-_och_TV-verket",
     "other_names": [
       "RTVV"
-    ]
+    ],
+    "end": "2010-07-31T00:00:00Z"
   },
   "Regeringskansliet": {
     "id": "Q10650489",
@@ -2277,7 +2281,6 @@
     "start": "1995-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Sida_(myndighet)",
     "other_names": [
-      "SIDA",
       "Styrelsen för internationellt utvecklingssamarbete"
     ],
     "org_nr": "202100-4789"
@@ -2442,7 +2445,7 @@
   "Statens Järnvägar": {
     "id": "Q52912",
     "name_en": "Statens Järnvägar",
-    "start": "1887-01-01T00:00:00Z",
+    "start": "1888-06-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Statens_J%C3%A4rnv%C3%A4gar",
     "other_names": [
       "SJ",
@@ -2581,7 +2584,8 @@
     "other_names": [
       "Delegationen för prognos- och utvecklingsverksamhet inom transportsektorn",
       "SIKA"
-    ]
+    ],
+    "end": "2010-04-01T00:00:00Z"
   },
   "Statens institut för särskilt utbildningsstöd": {
     "id": "Q127867565",
@@ -2786,7 +2790,7 @@
     "start": "1911-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Statens_veterin%C3%A4rmedicinska_anstalt",
     "other_names": [
-      ""
+      "SVA"
     ],
     "org_nr": "202100-1868"
   },
@@ -2795,7 +2799,8 @@
     "name_en": "Swedish National Road and Transport Research Institute",
     "wiki_url": "https://sv.wikipedia.org/wiki/Statens_v%C3%A4g-_och_transportforskningsinstitut",
     "other_names": [
-      "Statens Väg- & Transportforskningsinstitut VTI"
+      "Statens Väg- & Transportforskningsinstitut VTI",
+      "statens väg- och trafikinstitut"
     ],
     "org_nr": "202100-0704"
   },
@@ -2935,7 +2940,8 @@
     "wiki_url": "https://sv.wikipedia.org/wiki/Svenska_institutet_i_Alexandria",
     "other_names": [
       ""
-    ]
+    ],
+    "end": "2019-01-01T00:00:00Z"
   },
   "Svenskt biografiskt lexikon": {
     "id": "Q113366214",
@@ -2990,11 +2996,12 @@
   },
   "Säkerhets- och integritetsskyddsnämnden": {
     "id": "Q10687953",
-    "name_en": "The Swedish Commission on Security and Integrity Protection",
+    "name_en": "Swedish Commission on Security and Integrity Protection",
     "start": "2008-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/S%C3%A4kerhets-_och_integritetsskyddsn%C3%A4mnden",
     "other_names": [
-      "SIN"
+      "SIN",
+      "Integritetsskyddsnämnden"
     ],
     "org_nr": "202100-5703"
   },
@@ -3203,7 +3210,7 @@
   },
   "Utbetalningsmyndigheten": {
     "id": "Q111206162",
-    "name_en": "The Swedish Payments Agency",
+    "name_en": "Swedish Payments Agency",
     "start": "2024-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Utbetalningsmyndigheten",
     "other_names": [
@@ -3245,7 +3252,8 @@
     "wiki_url": "https://sv.wikipedia.org/wiki/Verket_f%C3%B6r_h%C3%B6gskoleservice",
     "other_names": [
       ""
-    ]
+    ],
+    "end": "2012-12-31T00:00:00Z"
   },
   "Verket för innovationssystem": {
     "id": "Q4355568",
@@ -3318,7 +3326,8 @@
       "Högskolan i Örebro",
       "Campus Alfred Nobel",
       "Örebro högskola",
-      "Restauranghögskolan i Grythyttan"
+      "Restauranghögskolan i Grythyttan",
+      "ORU"
     ],
     "org_nr": "202100-2924"
   },

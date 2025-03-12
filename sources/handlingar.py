@@ -3,7 +3,7 @@ from utils import get, remove_parenthesis
 import urllib.request
 import pandas as pd
 
-URL = 'https://handlingar.se/sv/body/all-authorities.csv'
+URL = "https://handlingar.se/body/all-authorities.csv"
 FILEPATH = 'raw_files/handlingar.csv'
 
 def download():
@@ -15,7 +15,9 @@ def extract():
     df = pd.read_csv(FILEPATH)
 
     for _, row in df.iterrows():
-        tags = get(row, 'Tags').split(' ')
+        tags = [
+            tag for tag in get(row, "Tags").split(" ") if tag != "not_many_requests"
+        ]
 
         tags_to_take = [
             'forvaltningsmyndighet',

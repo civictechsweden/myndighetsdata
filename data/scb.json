@@ -4,7 +4,7 @@
     "created_by": "2007:1216",
     "email": "registratur@kammarkollegiet.se",
     "phone": "087000800",
-    "website": "www.kammarkollegiet.se/rattsavdelningen/alkoholsortimentsnamnden",
+    "website": "www.kammarkollegiet.se/alkoholsortimentsnamnden",
     "group": "Statliga förvaltningsmyndigheter",
     "postal_address": {
       "address": "Box 2218",
@@ -31,8 +31,8 @@
       "city": "STOCKHOLM"
     },
     "office_address": {
-      "address": "KUNGSHOLMSTORG 5",
-      "postcode": "112 21",
+      "address": "TEKNOLOGGATAN 8 C",
+      "postcode": "113 60",
       "city": "STOCKHOLM"
     }
   },
@@ -104,8 +104,7 @@
       "address": "SVETSARVÄGEN 12  2TR",
       "postcode": "171 41",
       "city": "SOLNA"
-    },
-    "short_name": "AV"
+    }
   },
   "Arvfondsdelegationen": {
     "org_nr": "202100-5950",
@@ -139,8 +138,8 @@
       "city": "STOCKHOLM"
     },
     "office_address": {
-      "address": "NORR MÄLARSTRAND 6",
-      "postcode": "112 20",
+      "address": "LINDHAGENSGATAN 126",
+      "postcode": "112 51",
       "city": "STOCKHOLM"
     }
   },
@@ -379,13 +378,13 @@
     "website": "www.esv.se",
     "group": "Statliga förvaltningsmyndigheter",
     "postal_address": {
-      "address": "BOX 45316",
-      "postcode": "104 30",
+      "address": "BOX 12028",
+      "postcode": "120 21",
       "city": "STOCKHOLM"
     },
     "office_address": {
-      "address": "DROTTNINGGATAN 89",
-      "postcode": "113 60",
+      "address": "Fleminggatan 20",
+      "postcode": "112 26",
       "city": "STOCKHOLM"
     }
   },
@@ -467,7 +466,7 @@
     "org_nr": "202100-4870",
     "created_by": "2009:606",
     "email": "registrator@fmi.se",
-    "phone": "0104580100",
+    "phone": "0104900100",
     "website": "www.fmi.se",
     "group": "Statliga förvaltningsmyndigheter",
     "postal_address": {
@@ -637,8 +636,8 @@
       "city": "STOCKHOLM"
     },
     "office_address": {
-      "address": "RINGVÄGEN 100",
-      "postcode": "118 60",
+      "address": "MAGNUS LADULÅSGATAN 65",
+      "postcode": "118 27",
       "city": "STOCKHOLM"
     }
   },
@@ -932,7 +931,7 @@
     "org_nr": "202100-3203",
     "created_by": "1993:100",
     "email": "registrator@hh.se",
-    "phone": "035167100",
+    "phone": "",
     "website": "www.hh.se",
     "group": "Statliga förvaltningsmyndigheter",
     "postal_address": {
@@ -1072,7 +1071,7 @@
     "org_nr": "202100-4912",
     "created_by": "2010:1101",
     "email": "registrator@isp.se",
-    "phone": "",
+    "phone": "0851789065",
     "website": "www.isp.se",
     "group": "Statliga förvaltningsmyndigheter",
     "postal_address": {
@@ -1218,18 +1217,18 @@
     "org_nr": "202100-6693",
     "created_by": "2017:937",
     "email": "info@jamstalldhetsmyndigheten.se",
-    "phone": "0313929000",
+    "phone": "0313929125",
     "website": "www.jamstalldhetsmyndigheten.se",
     "group": "Statliga förvaltningsmyndigheter",
     "postal_address": {
-      "address": "BOX 73",
-      "postcode": "424 22",
-      "city": "ANGERED"
+      "address": "Vikingsgatan 3",
+      "postcode": "411 04",
+      "city": "GÖTEBORG"
     },
     "office_address": {
-      "address": "ANGEREDS TORG 9",
-      "postcode": "424 65",
-      "city": "ANGERED"
+      "address": "Vikingsgatan 3",
+      "postcode": "411 04",
+      "city": "GÖTEBORG"
     },
     "start": 2018
   },
@@ -1741,18 +1740,18 @@
   "LUNDS UNIVERSITET": {
     "org_nr": "202100-3211",
     "created_by": "1993:100",
-    "email": "lu@lu.se",
+    "email": "",
     "phone": "0462220000",
     "website": "www.lu.se",
     "group": "Statliga förvaltningsmyndigheter",
     "postal_address": {
-      "address": "BOX 117",
+      "address": "BOX 177",
       "postcode": "221 00",
       "city": "LUND"
     },
     "office_address": {
-      "address": "BISKOPSGATAN 5",
-      "postcode": "223 62",
+      "address": "KYRKOGATAN 8",
+      "postcode": "222 22",
       "city": "LUND"
     }
   },
@@ -2131,9 +2130,9 @@
   "MEDIEMYNDIGHETEN": {
     "org_nr": "202100-6347",
     "created_by": "2023:844",
-    "email": "registrator@mprt.se",
+    "email": "registrator@mediemyndigheten.se",
     "phone": "0858007000",
-    "website": "www.mprt.se",
+    "website": "www.mediemyndigheten.se",
     "group": "Statliga förvaltningsmyndigheter",
     "postal_address": {
       "address": "KABYSSGATAN 4 D",
@@ -2160,8 +2159,8 @@
       "city": "STOCKHOLM"
     },
     "office_address": {
-      "address": "ÖSTERLÅNGGATAN 43",
-      "postcode": "111 31",
+      "address": "Drottninggatan 89",
+      "postcode": "113 60",
       "city": "STOCKHOLM"
     }
   },
@@ -2265,8 +2264,8 @@
       "city": "SUNDSVALL"
     },
     "office_address": {
-      "address": "STORGATAN 37",
-      "postcode": "852 33",
+      "address": "Jägargatan 1",
+      "postcode": "852 37",
       "city": "SUNDSVALL"
     },
     "start": 2018
@@ -2787,7 +2786,7 @@
       "address": ""
     },
     "office_address": {
-      "address": "HERKULESGATAN 17",
+      "address": "ROSENBAD 4",
       "postcode": "111 52",
       "city": "STOCKHOLM"
     }
@@ -2910,7 +2909,7 @@
     },
     "office_address": {
       "address": "Södra Tjärngatan 2",
-      "postcode": "852 37",
+      "postcode": "852 33",
       "city": "SUNDSVALL"
     },
     "start": 2008
@@ -2929,7 +2928,7 @@
     },
     "office_address": {
       "address": "Storgatan 39",
-      "postcode": "852 30",
+      "postcode": "852 33",
       "city": "SUNDSVALL"
     }
   },
@@ -3294,9 +3293,9 @@
   "STATENS HAVERIKOMMISSION": {
     "org_nr": "202100-3260",
     "created_by": "2007:860",
-    "email": "info@havkom.se",
+    "email": "info@shk.se",
     "phone": "0850886200",
-    "website": "www.havkom.se",
+    "website": "www.shk.se",
     "group": "Statliga förvaltningsmyndigheter",
     "postal_address": {
       "address": "BOX 6014",
@@ -3919,8 +3918,8 @@
       "city": "STOCKHOLM"
     },
     "office_address": {
-      "address": "NORR MÄLARSTRAND 6",
-      "postcode": "112 20",
+      "address": "Drottninggatan 89",
+      "postcode": "113 60",
       "city": "STOCKHOLM"
     },
     "start": 2008
@@ -4198,7 +4197,7 @@
     "created_by": "2023:461",
     "email": "registrator@ubm.se",
     "phone": "0101751240",
-    "website": "",
+    "website": "www.ubm.se",
     "group": "Statliga förvaltningsmyndigheter",
     "postal_address": {
       "address": "KABYSSGATAN 4 D",
@@ -4206,7 +4205,7 @@
       "city": "STOCKHOLM"
     },
     "office_address": {
-      "address": "KABYSSGATAN 4 D",
+      "address": "Hammarbybacken 31",
       "postcode": "120 30",
       "city": "STOCKHOLM"
     },
@@ -4358,7 +4357,7 @@
     },
     "office_address": {
       "address": "Södra Tjärngatan 2",
-      "postcode": "852 37",
+      "postcode": "852 33",
       "city": "SUNDSVALL"
     },
     "start": 2008
@@ -5012,8 +5011,8 @@
       "city": "UPPSALA"
     },
     "office_address": {
-      "address": "SMEDSGRÄND 22",
-      "postcode": "753 20",
+      "address": "STATIONSGATAN 12",
+      "postcode": "753 40",
       "city": "UPPSALA"
     }
   },

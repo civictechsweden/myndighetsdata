@@ -8,7 +8,7 @@ import sources.sfs as sfs
 import sources.agv as agv
 import sources.handlingar as handlingar
 
-DOWNLOAD = False
+DOWNLOAD = True
 
 if DOWNLOAD:
     print("Downloading from ESV...")
