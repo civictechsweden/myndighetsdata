@@ -6,6 +6,8 @@ Myndighetsdata is an attempt to make data about the Swedish government agencies 
 
 There are many government agencies in Sweden, they get called by various names and several hundred agencies have disappeared over the past decades. This data will hopefully be of some help to those who try to study public sector and build services building on government data. It's not a finished product, it's not 100% clean and exact but feel free to reuse it and contribute to make it even better! 😊
 
+I recommend to read [my blog post](https://medium.com/civictechsweden/vem-har-koll-på-sveriges-myndigheter-dc8ca8e9dab7) to get a better overview of the different sources' strengths and weaknesses.
+
 ## Where is the data?
 
 It's in the [data](./data) folder:
@@ -19,6 +21,8 @@ It's in the [data](./data) folder:
 - [wd.json](./data/wd.json) comes from [Wikidata](https://www.wikidata.org)
 
 And [merged.json](./data/merged.json) is an attempt at merging all these files together by matching agencies by organisation numbers and by name (using fuzzy matching and some wild rules). It is not 100% correct as the underlying data is too unconsistent. But it can be used in order to complete Wikidata and improve the quality of government sources so that future merge attempts are easier.
+
+As of today, the data is collected manually every once in a while (2-3 times a year) so things such as instruction or number of employees might be outdated.
 
 ## How to run the code
 
