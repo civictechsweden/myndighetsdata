@@ -46,6 +46,10 @@ python smart_merge.py
 
 # Rule-based cleaning to remove the biggest anomalies in the merged file
 python manual_cleaning.py
+
+# Generate a list of all possible names of all agencies. The result is saved as matchlist.csv
+# and can be used to find a certain agency even when it's not referred to by its official name.
+python generate_matchlist.py
 ```
 
 ## License
