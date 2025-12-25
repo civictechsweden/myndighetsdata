@@ -1,7 +1,0 @@
-pandas
-openpyxl
-beautifulsoup4
-requests
-sparqlwrapper
-fuzzywuzzy
-rapidfuzz

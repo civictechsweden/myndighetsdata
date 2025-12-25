@@ -1,0 +1,19 @@
+[project]
+name = "myndighetsdata"
+version = "0.1.0"
+description = "Scripts to fetch and merge the various registries of Swedish government agencies"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "pandas",
+    "openpyxl",
+    "beautifulsoup4",
+    "requests",
+    "sparqlwrapper",
+    "fuzzywuzzy",
+    "rapidfuzz"
+]
+
+[tool.setuptools.packages.find]
+include = ["sources*"]
+exclude = ["data*", "raw_files*"]

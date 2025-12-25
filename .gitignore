@@ -1,2 +1,7 @@
 __pycache__
+/.venv/
+build/
+*.egg-info
+
 raw_files/
+

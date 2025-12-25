@@ -28,10 +28,12 @@ As of today, the data is collected manually every once in a while (2-3 times a y
 
 You can use the code yourself to download the source files, extract the information from them and merge it.
 
-For this, you need Python 3 and to install dependencies:
+For this, you need Python. You can use uv to install dependencies:
 
 ```bash
-pip install -r requirements.txt
+uv venv
+source .venv/bin/activate
+uv pip install .
 ```
 
 Once that is done, you can run the following commands:
