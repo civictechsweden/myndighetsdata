@@ -105,7 +105,7 @@ def smart_ratio(names, choices, threshold=90):
 
 
 def get_sfs(text):
-    if not text:
+    if not text or type(text) is float:
         return None
 
     match = re.search(r"\d{4}:\d{1,4}", text)

@@ -34,6 +34,10 @@ def extract():
             fte = get(row, "Årsarbetskrafter")
 
             if agency_id not in ids:
+
+                if agency_id == 1032:
+                    name = "Statskontoret (gamla)"
+                    
                 email = get(row, "Epost").split("@")
                 email = email[1] if len(email) > 1 else ""
 

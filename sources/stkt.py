@@ -1,66 +1,80 @@
 from utils import get, get_sfs
-
-from bs4 import BeautifulSoup
-import requests
+import urllib.request
 import pandas as pd
+import ssl
+import certifi
 
-DOMAIN = "https://www.statskontoret.se"
-PAGE_URL = "/fokusomraden/fakta-om-statsforvaltningen/myndigheterna-under-regeringen"
+ssl._create_default_https_context = lambda: ssl.create_default_context(
+    cafile=certifi.where()
+)
+
+
+URL = "https://www.statskontoret.se/siteassets/dokument/exceldokument/statskontorets-myndighetsforteckning---2025-.xlsx"
 FILEPATH = "raw_files/stkt.xlsx"
 
 
 def download():
-    r = requests.get(DOMAIN + PAGE_URL)
-    soup = BeautifulSoup(r.content, "html.parser")
-    link = soup.find("a", text=lambda t: t and "Öppna data" in t)
-    r = requests.get(DOMAIN + link["href"])
-    with open(FILEPATH, "wb") as outfile:
-        outfile.write(r.content)
+    urllib.request.urlretrieve(URL, FILEPATH)
 
 
 def extract():
     agencies = {}
 
-    df = pd.read_excel(FILEPATH, "Myndighetsregister")
+    df = pd.read_excel(FILEPATH, "Förteckning 2007-2025")
 
-    fte_columns = [
-        column for column in df.columns if "ÅA_2" in column or "ÅA 2" in column
-    ]
+    df["sfs"] = df["sfs"].apply(get_sfs)
+    df["senaste_sfs"] = df["senaste_sfs"].apply(get_sfs)
 
-    for _, row in df.iterrows():
-        name = get(row, "Myndighet")
+    def non_null(x, pos=-1):
+        x = x.dropna()
+        return x.iloc[pos] if len(x) > 0 else ""
 
-        if any(name == word for word in ["", "Totalt", "Övriga"]):
-            continue
-        elif name == "Kommentarer":
-            break
+    def year_value_dict(values, years):
+        s = (
+            pd.DataFrame({"år": years, "val": values})
+            .dropna(subset=["val"])
+            .sort_values("år")
+        )
+        return dict(zip(s["år"].astype(int), s["val"]))
 
-        created_by = get_sfs(str(get(row, "SFS")))
-        latest_updated_by = get_sfs(get(row, "Senaste SFS"))
+    df_sorted = df.sort_values("år")
 
-        stkt_data = {
-            "department": get(row, "Departement"),
-            "org_nr": get(row, "Orgnr"),
-            "cofog": get(row, "COFOG"),
-            "cofog10": get(row, "COFOG10"),
-            "host": get(row, "Värdmyndighet"),
-            "structure": get(row, "Ledningsform"),
-            "has_gd": str(get(row, "GD")) == "1",
-            "created_by": created_by,
-            "latest_updated_by": latest_updated_by,
+    df_cleaned = df_sorted.groupby("orgnr", as_index=False).agg(
+        {
+            "myndighet": non_null,
+            "alternativt_namn": lambda x: list(pd.unique(x.dropna())),
+            "cofog": non_null,
+            "cofog_10": non_null,
+            "värdmyndighet": non_null,
+            "departement": non_null,
+            "ledningsform": non_null,
+            "affärsverk": lambda x: non_null(x) == "Affärsverk",
+            "insynsråd": lambda x: non_null(x) == 1,
+            "myndighetschef": non_null,
+            "överdirektör": lambda x: non_null(x) == 1,
+            "sfs": lambda x: non_null(x, 0),
+            "senaste_sfs": lambda x: non_null(x, 0),
+            "årsarbetskrafter": lambda x: year_value_dict(
+                x, df_sorted.loc[x.index, "år"]
+            ),
         }
-        fte = {}
+    )
 
-        for column in fte_columns:
-            value = get(row, column)
-            if value:
-                fte[column[-4:]] = value
+    for _, row in df_cleaned.iterrows():
+        name = get(row, "myndighet")
 
-        stkt_data["fte"] = fte
+        agencies[name] = {
+            "department": get(row, "departement"),
+            "org_nr": str(get(row, "orgnr")),
+            "cofog": get(row, "cofog"),
+            "cofog10": get(row, "cofog_10"),
+            "host": get(row, "värdmyndighet"),
+            "structure": get(row, "ledningsform"),
+            "has_gd": str(get(row, "myndighetschef")) == "1",
+            "created_by": get(row, "sfs"),
+            "latest_updated_by": get(row, "senaste_sfs"),
+            "fte": get(row, "årsarbetskrafter"),
+            "other_names": get(row, "alternativt_namn"),
+        }
 
-        other_names = [name.strip() for name in get(row, "Alternativt namn").split(",")]
-        stkt_data["other_names"] = other_names if other_names != [""] else []
-
-        agencies[name] = stkt_data
-
-    return agencies
+    return dict(sorted(agencies.items()))
