@@ -1,4 +1,5 @@
 from utils import write_json
+import os
 
 import sources.esv as esv
 import sources.stkt as stkt
@@ -9,6 +10,8 @@ import sources.agv as agv
 import sources.handlingar as handlingar
 
 DOWNLOAD = True
+
+os.makedirs("raw_files", exist_ok=True)
 
 if DOWNLOAD:
     print("Downloading from ESV...")

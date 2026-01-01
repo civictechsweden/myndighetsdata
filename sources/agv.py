@@ -2,35 +2,34 @@ import pandas as pd
 
 FILEPATH = "raw_files/agv.csv"
 
+
 def extract():
     df = pd.read_csv(FILEPATH, delimiter="\t", encoding="utf-16le")
-    df["Kön"]= df["Kön"].str.replace("Kvinnor", "women").str.replace("Män", "men")
     agencies = {}
 
-    for agency, agency_df in df.groupby("Nytt namn"):
-        if agency not in agencies:
-            agencies[agency] = {"total": {}, "women": {}, "men": {}}
+    for _, agency in df.iterrows():
+        agency_name = agency.values[0]
 
-        # Process each gender
-        for gender, gender_df in agency_df.groupby("Kön"):
-            if gender not in ["men", "women"]:
-                continue
+        if agency_name == "Medlem" or type(agency_name) is float:
+            continue
 
-            for _, row in gender_df.iterrows():
-                year = str(row["År"])
-                count = row["Valeurs de mesures"]
-                agencies[agency][gender][year] = count
+        agency_data = (
+            agency.iloc[1:].str.replace("\xa0", "", regex=False).dropna().astype(int)
+        )
 
-                if year not in agencies[agency]["total"]:
-                    agencies[agency]["total"][year] = count
-                else:
-                    agencies[agency]["total"][year] += count
+        idx = agency_data.index.astype(str)
+        total = agency_data[idx.str.fullmatch(r"\d{4}")]
+        women = agency_data[idx.str.endswith(".1")]
+        men = agency_data[idx.str.endswith(".2")]
 
-    for agency in agencies:
-        for gender in agencies[agency]:
-            agencies[agency][gender] = {
-                k: agencies[agency][gender][k]
-                for k in sorted(agencies[agency][gender].keys(), reverse=True)
-            }
+        total.index = total.index.astype(int)
+        women.index = women.index.str.replace(".1", "", regex=False).astype(int)
+        men.index = men.index.str.replace(".2", "", regex=False).astype(int)
 
-    return agencies
+        agencies[agency_name] = {
+            "total": total.to_dict(),
+            "women": women.to_dict(),
+            "men": men.to_dict(),
+        }
+
+    return dict(sorted(agencies.items()))

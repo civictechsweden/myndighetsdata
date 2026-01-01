@@ -11,7 +11,8 @@ dependencies = [
     "requests",
     "sparqlwrapper",
     "fuzzywuzzy",
-    "rapidfuzz"
+    "rapidfuzz",
+    "certifi"
 ]
 
 [tool.setuptools.packages.find]

@@ -54,6 +54,8 @@ python manual_cleaning.py
 python generate_matchlist.py
 ```
 
+You will need to download Arbetsgivarverket's data manually. Go to the [following address](https://www.arbetsgivarverket.se/statistik-och-analys/staten-i-siffror-anstallda-i-staten/staten-i-siffror-om-arbetsgivarverkets-medlemmar), click the download button at the bottom of the embedded Tableau dashboard then click Crosstab > Tabell Mynd > CSV.
+
 ## License
 
 The code is licensed under AGPLv3, which means you can reuse as long as you attribute, and that you can modify as long as you published what you make.
