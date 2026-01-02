@@ -22,8 +22,11 @@ def extract():
 
     df = pd.read_excel(FILEPATH, "Förteckning 2007-2025")
 
+    years = df["år"].unique().tolist()
+
     df["sfs"] = df["sfs"].apply(get_sfs)
     df["senaste_sfs"] = df["senaste_sfs"].apply(get_sfs)
+    df["år_2"] = df["år"]
 
     def non_null(x, pos=-1):
         x = x.dropna()
@@ -57,13 +60,15 @@ def extract():
             "årsarbetskrafter": lambda x: year_value_dict(
                 x, df_sorted.loc[x.index, "år"]
             ),
+            "år": lambda x: non_null(x, 0),
+            "år_2": non_null,
         }
     )
 
     for _, row in df_cleaned.iterrows():
         name = get(row, "myndighet")
 
-        agencies[name] = {
+        agency_data = {
             "department": get(row, "departement"),
             "org_nr": str(get(row, "orgnr")),
             "cofog": get(row, "cofog"),
@@ -76,5 +81,16 @@ def extract():
             "fte": get(row, "årsarbetskrafter"),
             "other_names": get(row, "alternativt_namn"),
         }
+
+        start = get(row, "år")
+        end = get(row, "år_2")
+
+        if start != years[0]:
+            agency_data["start"] = start
+
+        if end != years[-1]:
+            agency_data["end"] = end
+
+        agencies[name] = agency_data
 
     return dict(sorted(agencies.items()))
