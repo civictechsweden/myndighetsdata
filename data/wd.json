@@ -7,24 +7,25 @@
     "other_names": [
       "AI"
     ],
+    "replaced_by": [
+      "Statens folkhälsoinstitut"
+    ],
     "end": "2001-07-01T00:00:00Z"
   },
   "Alkoholsortimentsnämnden": {
     "id": "Q10405389",
     "name_en": "Alcoholic Beverages Product Range Board",
     "wiki_url": "https://sv.wikipedia.org/wiki/Alkoholsortimentsn%C3%A4mnden",
-    "other_names": [
-      ""
-    ],
+    "part_of": "Socialdepartementet",
+    "mother_org": "Socialdepartementet",
     "org_nr": "202100-5943"
   },
   "Allmänna reklamationsnämnden": {
     "id": "Q6971047",
     "name_en": "The National Board for Consumer Disputes",
     "wiki_url": "https://sv.wikipedia.org/wiki/Allm%C3%A4nna_reklamationsn%C3%A4mnden",
-    "other_names": [
-      ""
-    ],
+    "part_of": "Justitiedepartementet",
+    "mother_org": "Finansdepartementet",
     "org_nr": "202100-3625"
   },
   "Arbetsförmedlingen": {
@@ -32,9 +33,10 @@
     "name_en": "Swedish Public Employment Service",
     "start": "2008-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Arbetsf%C3%B6rmedlingen",
-    "other_names": [
-      ""
+    "replaces": [
+      "Arbetsmarknadsstyrelsen"
     ],
+    "mother_org": "Arbetsmarknadsdepartementet",
     "org_nr": "202100-2114"
   },
   "Arbetsgivarverket": {
@@ -42,9 +44,8 @@
     "name_en": "Swedish Agency for Government Employers",
     "start": "1965-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Arbetsgivarverket",
-    "other_names": [
-      ""
-    ],
+    "part_of": "Socialdepartementet",
+    "mother_org": "Finansdepartementet",
     "org_nr": "202100-3476"
   },
   "Arbetslivsinstitutet": {
@@ -52,9 +53,6 @@
     "name_en": "National Institute for Working Life",
     "start": "1995-07-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Arbetslivsinstitutet",
-    "other_names": [
-      ""
-    ],
     "end": "2007-06-30T00:00:00Z"
   },
   "Arbetsmiljöverket": {
@@ -62,9 +60,8 @@
     "name_en": "Swedish Work Environment Authority",
     "start": "2001-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Arbetsmilj%C3%B6verket",
-    "other_names": [
-      ""
-    ],
+    "part_of": "Arbetsmarknadsdepartementet",
+    "mother_org": "Arbetsmarknadsdepartementet",
     "org_nr": "202100-2148"
   },
   "Artilleristaben": {
@@ -72,9 +69,6 @@
     "name_en": "Artillery Staff",
     "start": "1807-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Artilleristaben",
-    "other_names": [
-      ""
-    ],
     "end": "1937-01-01T00:00:00Z"
   },
   "Bankinspektionen": {
@@ -82,9 +76,7 @@
     "name_en": "Bankinspektionen",
     "start": "1907-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Bankinspektionen",
-    "other_names": [
-      ""
-    ]
+    "end": "1991-01-01T00:00:00Z"
   },
   "Banverket": {
     "id": "Q807013",
@@ -97,6 +89,14 @@
       "GIANT",
       "TFÖR"
     ],
+    "part_of": "Näringsdepartementet",
+    "replaces": [
+      "Statens Järnvägar"
+    ],
+    "replaced_by": [
+      "Infranord",
+      "Trafikverket"
+    ],
     "end": "2010-04-01T00:00:00Z"
   },
   "Barnombudsmannen": {
@@ -104,9 +104,11 @@
     "name_en": "Ombudsman for Children in Sweden",
     "start": "1993-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Barnombudsmannen_(Sverige)",
-    "other_names": [
-      ""
+    "part_of": "Socialdepartementet",
+    "replaces": [
+      "Barnmiljörådet"
     ],
+    "mother_org": "Arbetsmarknadsdepartementet",
     "org_nr": "202100-3690"
   },
   "Birgittaskolan, Örebro": {
@@ -127,15 +129,14 @@
       "BTH",
       "Hk-r"
     ],
+    "mother_org": "Utbildningsdepartementet",
     "org_nr": "202100-4011"
   },
   "Bokföringsnämnden": {
     "id": "Q10432198",
     "name_en": "Swedish Accounting Standards Board",
     "wiki_url": "https://sv.wikipedia.org/wiki/Bokf%C3%B6ringsn%C3%A4mnden",
-    "other_names": [
-      ""
-    ],
+    "mother_org": "Finansdepartementet",
     "org_nr": "202100-3278"
   },
   "Bolagsverket": {
@@ -146,6 +147,7 @@
     "other_names": [
       "BV"
     ],
+    "mother_org": "Näringsdepartementet",
     "org_nr": "202100-5489"
   },
   "Boverket": {
@@ -153,9 +155,8 @@
     "name_en": "National Board of Housing, Building and Planning",
     "start": "1988-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Boverket",
-    "other_names": [
-      ""
-    ],
+    "part_of": "Socialdepartementet",
+    "mother_org": "Finansdepartementet",
     "org_nr": "202100-3989"
   },
   "Brottsförebyggande rådet": {
@@ -166,6 +167,8 @@
     "other_names": [
       "BRÅ"
     ],
+    "part_of": "Justitiedepartementet",
+    "mother_org": "Justitiedepartementet",
     "org_nr": "202100-0068"
   },
   "Brottsoffermyndigheten": {
@@ -173,9 +176,8 @@
     "name_en": "Crime Victim Compensation and Support Authority",
     "start": "1994-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Brottsoffermyndigheten",
-    "other_names": [
-      ""
-    ],
+    "part_of": "Justitiedepartementet",
+    "mother_org": "Justitiedepartementet",
     "org_nr": "202100-3435"
   },
   "Byggforskningsrådet": {
@@ -185,6 +187,9 @@
     "other_names": [
       "BFR"
     ],
+    "replaced_by": [
+      "Forskningsrådet för miljö, areella näringar och samhällsbyggande"
+    ],
     "end": "2001-01-01T00:00:00Z"
   },
   "Centrala studiestödsnämnden": {
@@ -193,8 +198,10 @@
     "start": "1964-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Centrala_studiest%C3%B6dsn%C3%A4mnden",
     "other_names": [
-      ""
+      "CSN"
     ],
+    "part_of": "Utbildningsdepartementet",
+    "mother_org": "Utbildningsdepartementet",
     "org_nr": "202100-1819"
   },
   "Dans- och cirkushögskolan": {
@@ -209,7 +216,18 @@
       "Danshögskolan i Stockholm",
       "Statens Dansskola"
     ],
-    "end": "2014-01-01T00:00:00Z"
+    "end": "2014-01-01T00:00:00Z",
+    "mother_org": "Utbildningsdepartementet"
+  },
+  "Delegationen för folkrättslig granskning av vapenprojekt": {
+    "id": "Q80224509",
+    "name_en": "Delegation for the International Legal Review of Weapons Projects",
+    "start": "1974-01-01T00:00:00Z",
+    "other_names": [
+      "vapenprojektdelegationen"
+    ],
+    "mother_org": "Försvarsdepartementet",
+    "org_nr": "202100-6842"
   },
   "Delegationen mot segregation": {
     "id": "Q47011663",
@@ -218,6 +236,7 @@
       "Delmos"
     ],
     "end": "2022-12-31T00:00:00Z",
+    "mother_org": "Arbetsmarknadsdepartementet",
     "org_nr": "202100-6701"
   },
   "Diskrimineringsombudsmannen": {
@@ -225,9 +244,7 @@
     "name_en": "Discrimination Ombudsman",
     "start": "2009-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Diskrimineringsombudsmannen",
-    "other_names": [
-      ""
-    ],
+    "mother_org": "Arbetsmarknadsdepartementet",
     "org_nr": "202100-6073"
   },
   "Djurskyddsmyndigheten": {
@@ -235,18 +252,13 @@
     "name_en": "Swedish Animal Welfare Agency",
     "start": "2004-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Djurskyddsmyndigheten",
-    "other_names": [
-      ""
-    ],
     "end": "2007-07-01T00:00:00Z"
   },
   "Domarnämnden": {
     "id": "Q10475766",
     "name_en": "Judges Proposals Board",
     "wiki_url": "https://sv.wikipedia.org/wiki/Domarn%C3%A4mnden",
-    "other_names": [
-      ""
-    ],
+    "mother_org": "Justitiedepartementet",
     "org_nr": "202100-6081"
   },
   "Dramatiska Institutet": {
@@ -254,18 +266,13 @@
     "name_en": "University College of Film, Radio, Television and Theatre",
     "start": "1970-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Dramatiska_Institutet",
-    "other_names": [
-      ""
-    ],
     "end": "2011-01-01T00:00:00Z"
   },
   "E-hälsomyndigheten": {
     "id": "Q15694964",
     "name_en": "Swedish eHealth Agency",
     "wiki_url": "https://sv.wikipedia.org/wiki/E-h%C3%A4lsomyndigheten",
-    "other_names": [
-      ""
-    ],
+    "mother_org": "Socialdepartementet",
     "org_nr": "202100-6552"
   },
   "Ekobrottsmyndigheten": {
@@ -276,6 +283,8 @@
     "other_names": [
       "EBM"
     ],
+    "part_of": "Justitiedepartementet",
+    "mother_org": "Justitiedepartementet",
     "org_nr": "202100-4979"
   },
   "Ekonomiska rådet": {
@@ -283,29 +292,15 @@
     "name_en": "Ekonomiska rådet",
     "start": "1988-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Ekonomiska_r%C3%A5det_(Sverige)",
-    "other_names": [
-      ""
-    ],
     "end": "2007-01-01T00:00:00Z"
-  },
-  "Ekonomistyrningsverket": {
-    "id": "Q7654780",
-    "name_en": "National Financial Management Authority",
-    "start": "1998-01-01T00:00:00Z",
-    "wiki_url": "https://sv.wikipedia.org/wiki/Ekonomistyrningsverket",
-    "other_names": [
-      "ESV"
-    ],
-    "org_nr": "202100-5026"
   },
   "Elsäkerhetsverket": {
     "id": "Q10482004",
     "name_en": "National Electrical Safety Board",
     "start": "1993-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Els%C3%A4kerhetsverket",
-    "other_names": [
-      ""
-    ],
+    "part_of": "Näringsdepartementet",
+    "mother_org": "Infrastrukturdepartementet",
     "org_nr": "202100-4466"
   },
   "Energimarknadsinspektionen": {
@@ -315,6 +310,7 @@
     "other_names": [
       "Ei"
     ],
+    "mother_org": "Infrastrukturdepartementet",
     "org_nr": "202100-5695"
   },
   "Energimyndigheten": {
@@ -324,23 +320,20 @@
     "other_names": [
       "Statens energimyndighet"
     ],
+    "part_of": "Näringsdepartementet",
+    "mother_org": "Infrastrukturdepartementet",
     "org_nr": "202100-5000"
   },
   "Ersättningsnämnden": {
     "id": "Q123929812",
     "name_en": "The Compensation Board",
-    "other_names": [
-      ""
-    ],
     "end": "2016-06-30T00:00:00Z"
   },
   "Etikprövningsmyndigheten": {
     "id": "Q60942149",
     "name_en": "Swedish Ethical Review Authority",
     "wiki_url": "https://sv.wikipedia.org/wiki/Etikpr%C3%B6vningsmyndigheten",
-    "other_names": [
-      ""
-    ],
+    "mother_org": "Utbildningsdepartementet",
     "org_nr": "202100-6925"
   },
   "Exportkreditnämnden": {
@@ -348,27 +341,21 @@
     "name_en": "Swedish Export Credits Guarantee Board",
     "start": "1933-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Exportkreditn%C3%A4mnden",
-    "other_names": [
-      ""
-    ],
+    "mother_org": "Utrikesdepartementet",
     "org_nr": "202100-2098"
   },
   "Fastighetsmäklarinspektionen": {
     "id": "Q4931380",
     "name_en": "Swedish Estate Agents Inspectorate",
     "wiki_url": "https://sv.wikipedia.org/wiki/Fastighetsm%C3%A4klarinspektionen",
-    "other_names": [
-      ""
-    ],
+    "mother_org": "Finansdepartementet",
     "org_nr": "202100-4870"
   },
   "Fideikommissnämnden": {
     "id": "Q10494944",
     "name_en": "Fideikommissnämnden",
     "wiki_url": "https://sv.wikipedia.org/wiki/Fideikommissn%C3%A4mnden",
-    "other_names": [
-      ""
-    ],
+    "mother_org": "Justitiedepartementet",
     "org_nr": "202100-0043"
   },
   "Finansinspektionen": {
@@ -376,9 +363,7 @@
     "name_en": "Financial Supervisory Authority",
     "start": "1991-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Finansinspektionen_(Sverige)",
-    "other_names": [
-      ""
-    ],
+    "mother_org": "Finansdepartementet",
     "org_nr": "202100-4235"
   },
   "Finanspolitiska rådet": {
@@ -386,9 +371,7 @@
     "name_en": "Swedish Fiscal Policy Council",
     "start": "2007-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Finanspolitiska_r%C3%A5det",
-    "other_names": [
-      ""
-    ],
+    "mother_org": "Finansdepartementet",
     "org_nr": "202100-5687"
   },
   "Fiskeriverket": {
@@ -396,19 +379,15 @@
     "name_en": "National Board of Fisheries",
     "start": "1991-07-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Fiskeriverket",
-    "other_names": [
-      ""
-    ],
-    "end": "2011-06-30T00:00:00Z"
+    "part_of": "Landsbygds- och infrastrukturdepartementet",
+    "end": "2011-06-30T00:00:00Z",
+    "mother_org": "Landsbygds- och infrastrukturdepartementet"
   },
   "Flygplatsnämnden": {
     "id": "Q10497097",
     "name_en": "Swedish airport board",
     "start": "2000-05-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Flygplatsn%C3%A4mnden",
-    "other_names": [
-      ""
-    ],
     "end": "2004-12-31T00:00:00Z"
   },
   "Flygtekniska försöksanstalten": {
@@ -426,9 +405,7 @@
     "name_en": "Folke Bernadotte Academy",
     "start": "2002-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Folke_Bernadotteakademin",
-    "other_names": [
-      ""
-    ],
+    "mother_org": "Utrikesdepartementet",
     "org_nr": "202100-5380"
   },
   "Folkhälsomyndigheten": {
@@ -436,9 +413,7 @@
     "name_en": "Public Health Agency of Sweden",
     "start": "2014-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Folkh%C3%A4lsomyndigheten",
-    "other_names": [
-      ""
-    ],
+    "mother_org": "Socialdepartementet",
     "org_nr": "202100-6545"
   },
   "Fondtorgsnämnden": {
@@ -446,18 +421,14 @@
     "name_en": "Swedish Fund Selection Agency",
     "start": "2022-06-20T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Fondtorgsn%C3%A4mnden",
-    "other_names": [
-      ""
-    ],
+    "mother_org": "Statskontoret",
     "org_nr": "202100-7030"
   },
   "Forskarskattenämnden": {
     "id": "Q10498137",
     "name_en": "The Taxation of Research Workers Board",
     "wiki_url": "https://sv.wikipedia.org/wiki/Forskarskatten%C3%A4mnden",
-    "other_names": [
-      ""
-    ],
+    "mother_org": "Finansdepartementet",
     "org_nr": "202100-5893"
   },
   "Forskningsrådet för hälsa, arbetsliv och välfärd": {
@@ -468,6 +439,7 @@
     "other_names": [
       "Forskningsrådet för arbetsliv och socialvetenskap"
     ],
+    "mother_org": "Socialdepartementet",
     "org_nr": "202100-5240"
   },
   "Forskningsrådet för miljö, areella näringar och samhällsbyggande": {
@@ -478,6 +450,10 @@
     "other_names": [
       "Formas"
     ],
+    "replaces": [
+      "Byggforskningsrådet"
+    ],
+    "mother_org": "Miljödepartementet",
     "org_nr": "202100-5232"
   },
   "Fortifikationsverket": {
@@ -485,9 +461,8 @@
     "name_en": "National Fortifications Administration",
     "start": "1948-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Fortifikationsverket",
-    "other_names": [
-      ""
-    ],
+    "part_of": "Finansdepartementet,Försvarsmakten,Socialdepartementet,Försvarsdepartementet",
+    "mother_org": "Finansdepartementet",
     "org_nr": "202100-4607"
   },
   "Forum för levande historia": {
@@ -499,6 +474,8 @@
       "Forum för Levande Historia",
       "Levande Historia"
     ],
+    "part_of": "kulturdepartementet",
+    "mother_org": "kulturdepartementet",
     "org_nr": "202100-5356"
   },
   "Försvarets forskningsanstalt": {
@@ -519,6 +496,8 @@
     "other_names": [
       "FMV"
     ],
+    "part_of": "Försvarsdepartementet",
+    "mother_org": "Försvarsdepartementet",
     "org_nr": "202100-0340"
   },
   "Försvarets radioanstalt": {
@@ -530,6 +509,8 @@
       "Försvarets Radioanstalt",
       "FRA"
     ],
+    "part_of": "Försvarsdepartementet",
+    "mother_org": "Försvarsdepartementet",
     "org_nr": "202100-0365"
   },
   "Försvarsexportmyndigheten": {
@@ -547,17 +528,17 @@
     "name_en": "Swedish Defence University",
     "start": "1997-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/F%C3%B6rsvarsh%C3%B6gskolan,_Sverige",
-    "other_names": [
-      ""
-    ]
+    "replaces": [
+      "Militärhögskolan"
+    ],
+    "mother_org": "Utbildningsdepartementet"
   },
   "Försvarsmakten": {
     "id": "Q783911",
     "name_en": "Swedish Armed Forces",
     "wiki_url": "https://sv.wikipedia.org/wiki/Sveriges_f%C3%B6rsvarsmakt",
-    "other_names": [
-      ""
-    ],
+    "part_of": "Försvarsdepartementet",
+    "mother_org": "Försvarsdepartementet",
     "org_nr": "202100-4615"
   },
   "Försäkringskassan": {
@@ -566,17 +547,17 @@
     "start": "2005-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/F%C3%B6rs%C3%A4kringskassan",
     "other_names": [
-      ""
+      "FK"
     ],
+    "mother_org": "Socialdepartementet",
     "org_nr": "202100-5521"
   },
   "Gentekniknämnden": {
     "id": "Q10503899",
     "name_en": "Swedish Gene Technology Advisory Board",
     "wiki_url": "https://sv.wikipedia.org/wiki/Genteknikn%C3%A4mnden",
-    "other_names": [
-      ""
-    ],
+    "part_of": "Justitiedepartementet",
+    "mother_org": "Justitiedepartementet",
     "org_nr": "202100-4813"
   },
   "Glesbygdsverket": {
@@ -584,22 +565,8 @@
     "name_en": "National Rural Development Agency",
     "start": "1991-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Glesbygdsverket",
-    "other_names": [
-      ""
-    ],
+    "part_of": "Näringsdepartementet",
     "end": "2009-03-31T00:00:00Z"
-  },
-  "Granskningsnämnden för radio och TV": {
-    "id": "Q1799233",
-    "name_en": "Swedish Broadcasting Commission",
-    "wiki_url": "https://sv.wikipedia.org/wiki/Granskningsn%C3%A4mnden_f%C3%B6r_radio_och_TV",
-    "other_names": [
-      "Granskningsnämnden",
-      "Granskningsnämnden för Radio & TV",
-      "GRN",
-      "Radionämnden"
-    ],
-    "end": "2010-08-01T00:00:00Z"
   },
   "Gymnastik- och idrottshögskolan": {
     "id": "Q1558323",
@@ -607,13 +574,14 @@
     "start": "1813-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Gymnastik-_och_idrottsh%C3%B6gskolan",
     "other_names": [
-      "GCI",
       "GIH",
       "G.C.I.",
+      "GCI",
       "Gymnastik- och Idrottshögskolan",
       "Gymnastiska centralinstitutet",
       "Gymnastiska Centralinstitutet"
     ],
+    "mother_org": "Utbildningsdepartementet",
     "org_nr": "202100-4334"
   },
   "Göteborgs universitet": {
@@ -622,10 +590,19 @@
     "start": "1954-07-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/G%C3%B6teborgs_universitet",
     "other_names": [
-      "GU",
       "Filmhögskolan i Göteborg",
-      "Gbgs universitet"
+      "Gbgs universitet",
+      "GU"
     ],
+    "replaces": [
+      "Konsthögskolan Valand",
+      "Göteborgs högskola",
+      "Lärarhögskolan i Göteborg",
+      "SÄMUS",
+      "Medicinska högskolan i Göteborg",
+      "Handelshögskolan i Göteborg"
+    ],
+    "mother_org": "Utbildningsdepartementet",
     "org_nr": "202100-3153"
   },
   "Handelsflottans kultur- och fritidsråd": {
@@ -641,17 +618,12 @@
     "id": "Q108217407",
     "name_en": "Office of the Swedish Disability Ombudsman",
     "start": "1994-07-01T00:00:00Z",
-    "other_names": [
-      ""
-    ],
     "end": "2009-01-01T00:00:00Z"
   },
   "Harpsundsnämnden": {
     "id": "Q80224515",
     "name_en": "Harpsund Committee",
-    "other_names": [
-      ""
-    ],
+    "mother_org": "Statsrådsberedningen",
     "org_nr": "202100-4250"
   },
   "Havs- och vattenmyndigheten": {
@@ -663,6 +635,7 @@
       "HaV",
       "Havs- och Vattenmyndigheten"
     ],
+    "mother_org": "Miljödepartementet",
     "org_nr": "202100-6420"
   },
   "Humanistisk-samhällsvetenskapliga forskningsrådet": {
@@ -683,6 +656,8 @@
     "other_names": [
       "Hälso- & sjukvårdens ansvarsnämnd"
     ],
+    "part_of": "Socialdepartementet",
+    "mother_org": "Socialdepartementet",
     "org_nr": "202100-3765"
   },
   "Högskolan Dalarna": {
@@ -692,11 +667,12 @@
     "wiki_url": "https://sv.wikipedia.org/wiki/H%C3%B6gskolan_Dalarna",
     "other_names": [
       "Högskolan i Dalarna",
-      "högskolan i Falun-Borlänge",
-      "högskolan i Falun/Borlänge",
+      "Dalarna University",
       "Dalarnas Universitet",
-      "Dalarna University"
+      "högskolan i Falun-Borlänge",
+      "högskolan i Falun/Borlänge"
     ],
+    "mother_org": "Utbildningsdepartementet",
     "org_nr": "202100-2908"
   },
   "Högskolan Kristianstad": {
@@ -707,6 +683,7 @@
     "other_names": [
       "Högskolan i Kristianstad"
     ],
+    "mother_org": "Utbildningsdepartementet",
     "org_nr": "202100-3195"
   },
   "Högskolan Väst": {
@@ -717,6 +694,7 @@
     "other_names": [
       "Högskolan i Trollhättan-Uddevalla"
     ],
+    "mother_org": "Utbildningsdepartementet",
     "org_nr": "202100-4052"
   },
   "Högskolan i Borås": {
@@ -727,6 +705,7 @@
     "other_names": [
       "Borås högskola"
     ],
+    "mother_org": "Utbildningsdepartementet",
     "org_nr": "202100-3138"
   },
   "Högskolan i Gävle": {
@@ -737,6 +716,7 @@
     "other_names": [
       "Gävle högskola"
     ],
+    "mother_org": "Utbildningsdepartementet",
     "org_nr": "202100-2890"
   },
   "Högskolan i Halmstad": {
@@ -747,6 +727,7 @@
     "other_names": [
       "Halmstad Högskola"
     ],
+    "mother_org": "Utbildningsdepartementet",
     "org_nr": "202100-3203"
   },
   "Högskolan i Kalmar": {
@@ -754,8 +735,8 @@
     "name_en": "Kalmar University",
     "start": "1977-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/H%C3%B6gskolan_i_Kalmar",
-    "other_names": [
-      ""
+    "replaced_by": [
+      "Linnéuniversitetet"
     ],
     "end": "2010-01-01T00:00:00Z"
   },
@@ -767,6 +748,7 @@
     "other_names": [
       "HiS"
     ],
+    "mother_org": "Utbildningsdepartementet",
     "org_nr": "202100-3146"
   },
   "Högskolan på Gotland": {
@@ -783,9 +765,7 @@
     "id": "Q18290844",
     "name_en": "The Higher Education Expulsions Board",
     "wiki_url": "https://sv.wikipedia.org/wiki/H%C3%B6gskolans_avskiljanden%C3%A4mnd",
-    "other_names": [
-      ""
-    ],
+    "mother_org": "Utbildningsdepartementet",
     "org_nr": "202100-6867"
   },
   "Högskoleverket": {
@@ -793,27 +773,21 @@
     "name_en": "National Agency for Higher Education",
     "start": "1995-07-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/H%C3%B6gskoleverket",
-    "other_names": [
-      ""
-    ],
+    "part_of": "Utbildningsdepartementet",
     "end": "2012-12-31T00:00:00Z"
   },
   "Inspektionen för arbetslöshetsförsäkringen": {
     "id": "Q10536052",
     "name_en": "The Swedish Unemployment Insurance Inspectorate",
     "wiki_url": "https://sv.wikipedia.org/wiki/Inspektionen_f%C3%B6r_arbetsl%C3%B6shetsf%C3%B6rs%C3%A4kringen",
-    "other_names": [
-      ""
-    ],
+    "mother_org": "Arbetsmarknadsdepartementet",
     "org_nr": "202100-5414"
   },
   "Inspektionen för socialförsäkringen": {
     "id": "Q10536054",
     "name_en": "Swedish Social Insurance Inspectorate",
     "wiki_url": "https://sv.wikipedia.org/wiki/Inspektionen_f%C3%B6r_socialf%C3%B6rs%C3%A4kringen",
-    "other_names": [
-      ""
-    ],
+    "mother_org": "Socialdepartementet",
     "org_nr": "202100-6248"
   },
   "Inspektionen för strategiska produkter": {
@@ -824,6 +798,8 @@
     "other_names": [
       "ISP"
     ],
+    "part_of": "Utrikesdepartementet",
+    "mother_org": "Utrikesdepartementet",
     "org_nr": "202100-4912"
   },
   "Inspektionen för vård och omsorg": {
@@ -834,6 +810,7 @@
     "other_names": [
       "IVO"
     ],
+    "mother_org": "Socialdepartementet",
     "org_nr": "202100-6537"
   },
   "Institutet för arbetsmarknads- och utbildningspolitisk utvärdering": {
@@ -844,6 +821,7 @@
       "IFAU",
       "Institutet för arbetsmarknadspolitisk utvärdering"
     ],
+    "mother_org": "Arbetsmarknadsdepartementet",
     "org_nr": "202100-4946"
   },
   "Institutet för mänskliga rättigheter": {
@@ -851,9 +829,7 @@
     "name_en": "The Swedish Institute for Human Rights",
     "start": "2022-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Institutet_f%C3%B6r_m%C3%A4nskliga_r%C3%A4ttigheter",
-    "other_names": [
-      ""
-    ],
+    "mother_org": "Arbetsmarknadsdepartementet",
     "org_nr": "202100-7022"
   },
   "Institutet för psykosocial medicin": {
@@ -874,6 +850,7 @@
     "other_names": [
       "IRF"
     ],
+    "mother_org": "Utbildningsdepartementet",
     "org_nr": "202100-3567"
   },
   "Institutet för språk och folkminnen": {
@@ -887,6 +864,7 @@
       "ISOF",
       "Språk- och folkminnesinstitutet"
     ],
+    "mother_org": "kulturdepartementet",
     "org_nr": "202100-1082"
   },
   "Institutet för tillväxtpolitiska studier": {
@@ -894,8 +872,9 @@
     "name_en": "Swedish Institute for Growth Policy Studies",
     "start": "2001-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Institutet_f%C3%B6r_tillv%C3%A4xtpolitiska_studier",
-    "other_names": [
-      ""
+    "part_of": "Näringsdepartementet",
+    "replaces": [
+      "Expertgruppen för forskning om regional utveckling"
     ],
     "end": "2009-03-31T00:00:00Z"
   },
@@ -904,9 +883,6 @@
     "name_en": "The Swedish Agency for Development Evaluation",
     "start": "2006-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Institutet_f%C3%B6r_utv%C3%A4rdering_av_internationellt_utvecklingssamarbete",
-    "other_names": [
-      ""
-    ],
     "end": "2012-12-31T00:00:00Z"
   },
   "Insättningsgarantinämnden": {
@@ -914,9 +890,6 @@
     "name_en": "Deposit Guarantee Board",
     "start": "1996-07-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Ins%C3%A4ttningsgarantin%C3%A4mnden",
-    "other_names": [
-      ""
-    ],
     "end": "2008-01-01T00:00:00Z"
   },
   "Integrationsverket": {
@@ -924,8 +897,9 @@
     "name_en": "Swedish Integration Board",
     "start": "1998-06-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Integrationsverket",
-    "other_names": [
-      ""
+    "part_of": "Justitiedepartementet",
+    "replaced_by": [
+      "Migrationsverket"
     ],
     "end": "2007-07-01T00:00:00Z"
   },
@@ -938,6 +912,7 @@
       "Datainspektionen",
       "IMY"
     ],
+    "mother_org": "Justitiedepartementet",
     "org_nr": "202100-0050"
   },
   "Internationella programkontoret för utbildningsområdet": {
@@ -945,9 +920,7 @@
     "name_en": "International Programme Office for Education and Training",
     "start": "2002-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Internationella_programkontoret_f%C3%B6r_utbildningsomr%C3%A5det",
-    "other_names": [
-      ""
-    ],
+    "part_of": "Utbildningsdepartementet",
     "end": "2012-12-31T00:00:00Z"
   },
   "Justitiekanslern": {
@@ -955,9 +928,8 @@
     "name_en": "Chancellor of Justice",
     "start": "1714-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Justitiekanslern_(Sverige)",
-    "other_names": [
-      ""
-    ],
+    "part_of": "Justitiedepartementet",
+    "mother_org": "Justitiedepartementet",
     "org_nr": "202100-0035"
   },
   "Jämställdhetsmyndigheten": {
@@ -965,9 +937,7 @@
     "name_en": "Swedish Gender Equality Agency",
     "start": "2017-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/J%C3%A4mst%C3%A4lldhetsmyndigheten",
-    "other_names": [
-      ""
-    ],
+    "mother_org": "Arbetsmarknadsdepartementet",
     "org_nr": "202100-6693"
   },
   "Jämställdhetsnämnden": {
@@ -975,9 +945,6 @@
     "name_en": "The Equal Opportunities Commission",
     "start": "1980-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/J%C3%A4mst%C3%A4lldhetsn%C3%A4mnden_(Sverige)",
-    "other_names": [
-      ""
-    ],
     "end": "2008-12-31T00:00:00Z"
   },
   "Jämställdhetsombudsmannen": {
@@ -985,9 +952,6 @@
     "name_en": "Office of the Equal Opportunities Ombudsman",
     "start": "1980-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/J%C3%A4mst%C3%A4lldhetsombudsmannen_(Sverige)",
-    "other_names": [
-      ""
-    ],
     "end": "2009-01-01T00:00:00Z"
   },
   "Järnvägsstyrelsen": {
@@ -995,9 +959,6 @@
     "name_en": "The Swedish Rail Agency",
     "start": "2004-07-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/J%C3%A4rnv%C3%A4gsstyrelsen_(Sverige)",
-    "other_names": [
-      ""
-    ],
     "end": "2008-12-31T00:00:00Z"
   },
   "Kammarkollegiet": {
@@ -1005,9 +966,11 @@
     "name_en": "Legal, Financial and Administrative Services Agency",
     "start": "1539-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Kammarkollegiet",
-    "other_names": [
-      ""
+    "part_of": "Finansdepartementet",
+    "replaces": [
+      "Verva"
     ],
+    "mother_org": "Finansdepartementet",
     "org_nr": "202100-0829"
   },
   "Karlstads universitet": {
@@ -1021,6 +984,7 @@
       "Karlstad business school",
       "Karlstad Universitet"
     ],
+    "mother_org": "Utbildningsdepartementet",
     "org_nr": "202100-3120"
   },
   "Karolinska Institutet": {
@@ -1033,24 +997,22 @@
       "Karolinska mediko-kirurgiska institutet",
       "Mediko-kirurgiska institutet"
     ],
+    "mother_org": "Utbildningsdepartementet",
     "org_nr": "202100-2973"
   },
   "Kemikalieinspektionen": {
     "id": "Q10544771",
     "name_en": "Swedish Chemicals Agency",
     "wiki_url": "https://sv.wikipedia.org/wiki/Kemikalieinspektionen",
-    "other_names": [
-      ""
-    ],
+    "part_of": "Miljödepartementet",
+    "mother_org": "Miljödepartementet",
     "org_nr": "202100-3880"
   },
   "Klimatpolitiska rådet": {
     "id": "Q65195567",
     "name_en": "Swedish Climate Policy Council",
     "wiki_url": "https://sv.wikipedia.org/wiki/Klimatpolitiska_r%C3%A5det",
-    "other_names": [
-      ""
-    ],
+    "mother_org": "Miljödepartementet",
     "org_nr": "202100-6719"
   },
   "Kommerskollegium": {
@@ -1058,9 +1020,8 @@
     "name_en": "National Board of Trade",
     "start": "1651-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Kommerskollegium",
-    "other_names": [
-      ""
-    ],
+    "part_of": "Finansdepartementet,Utrikesdepartementet,Handelsdepartementet,Civildepartementet",
+    "mother_org": "Utrikesdepartementet",
     "org_nr": "202100-2007"
   },
   "Kompetensrådet för utveckling i staten": {
@@ -1069,8 +1030,11 @@
     "start": "2009-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Kompetensr%C3%A5det_f%C3%B6r_utveckling_i_staten",
     "other_names": [
-      "Kompetensråd för utveckling i staten",
-      "KRUS"
+      "KRUS",
+      "Kompetensråd för utveckling i staten"
+    ],
+    "replaces": [
+      "Verva"
     ],
     "end": "2012-12-31T00:00:00Z"
   },
@@ -1079,9 +1043,8 @@
     "name_en": "National Institute of Economic Research",
     "start": "1937-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Konjunkturinstitutet",
-    "other_names": [
-      ""
-    ],
+    "part_of": "Finansdepartementet",
+    "mother_org": "Finansdepartementet",
     "org_nr": "202100-0845"
   },
   "Konkurrensverket": {
@@ -1089,9 +1052,8 @@
     "name_en": "Swedish Competition Authority",
     "start": "1992-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Konkurrensverket",
-    "other_names": [
-      ""
-    ],
+    "part_of": "Näringsdepartementet",
+    "mother_org": "Näringsdepartementet",
     "org_nr": "202100-4342"
   },
   "Konstfack": {
@@ -1108,15 +1070,14 @@
       "Tekniska skolan",
       "Tekniska Skolan"
     ],
+    "mother_org": "Utbildningsdepartementet",
     "org_nr": "202100-1199"
   },
   "Konstnärsnämnden": {
     "id": "Q10547725",
     "name_en": "Swedish Arts Grants Committee",
     "wiki_url": "https://sv.wikipedia.org/wiki/Konstn%C3%A4rsn%C3%A4mnden",
-    "other_names": [
-      ""
-    ],
+    "mother_org": "kulturdepartementet",
     "org_nr": "202100-3252"
   },
   "Konsumentverket": {
@@ -1124,9 +1085,8 @@
     "name_en": "Swedish Consumer Agency",
     "start": "1973-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Konsumentverket_(Sverige)",
-    "other_names": [
-      ""
-    ],
+    "part_of": "Justitiedepartementet",
+    "mother_org": "Finansdepartementet",
     "org_nr": "202100-2064"
   },
   "Kriminalvården": {
@@ -1137,6 +1097,8 @@
     "other_names": [
       "Kriminalvårdsverket"
     ],
+    "part_of": "Justitiedepartementet",
+    "mother_org": "Justitiedepartementet",
     "org_nr": "202100-0225"
   },
   "Krisberedskapsmyndigheten": {
@@ -1144,8 +1106,9 @@
     "name_en": "Swedish Emergency Management Agency",
     "start": "2002-07-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Krisberedskapsmyndigheten",
-    "other_names": [
-      ""
+    "part_of": "Försvarsdepartementet",
+    "replaced_by": [
+      "Myndigheten för civilt försvar"
     ],
     "end": "2009-01-01T00:00:00Z"
   },
@@ -1157,6 +1120,8 @@
     "other_names": [
       "Kronofogden"
     ],
+    "part_of": "Finansdepartementet",
+    "mother_org": "Finansdepartementet",
     "org_nr": "202100-5646"
   },
   "Kunglig Majestäts kansli": {
@@ -1165,6 +1130,9 @@
     "wiki_url": "https://sv.wikipedia.org/wiki/Kunglig_Majest%C3%A4ts_kansli",
     "other_names": [
       "Kanslikollegium"
+    ],
+    "replaced_by": [
+      "Regeringskansliet"
     ],
     "end": "1975-01-01T00:00:00Z"
   },
@@ -1176,6 +1144,8 @@
     "other_names": [
       "Konsthögskolan"
     ],
+    "part_of": "Kungliga Akademien för de fria konsterna",
+    "mother_org": "Utbildningsdepartementet",
     "org_nr": "202100-2957"
   },
   "Kungliga Musikhögskolan i Stockholm": {
@@ -1184,23 +1154,25 @@
     "start": "1771-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Kungliga_Musikh%C3%B6gskolan_i_Stockholm",
     "other_names": [
-      "Kungliga Musikhögskolan",
       "KMH",
       "Konservatoriet i Stockholm",
       "Kungl. Musikhögskolan i Stockholm",
       "Kungliga Musikaliska Akademiens undervisningsverk",
       "Kungliga musikhögskolan",
+      "Kungliga Musikhögskolan",
       "Kungliga Musikkonservatoriet",
       "Musikaliska Akademiens undervisningsverk",
       "Musikhögskolan i Stockholm",
       "Musikhögskolan, Stockholm",
       "Musikkonservatoriet",
       "Musikkonservatoriet i Stockholm",
+      "Stockholms konservatorium",
       "Stockholms Musikhögskola",
       "Stockholms musikkonservatorium",
-      "Stockholms Musikkonservatorium",
-      "Stockholms konservatorium"
+      "Stockholms Musikkonservatorium"
     ],
+    "part_of": "Kungliga Musikaliska Akademien",
+    "mother_org": "Utbildningsdepartementet",
     "org_nr": "202100-1215"
   },
   "Kungliga Tekniska högskolan": {
@@ -1209,16 +1181,17 @@
     "start": "1827-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Kungliga_Tekniska_h%C3%B6gskolan",
     "other_names": [
+      "Teknis",
+      "Tekniska högskolan",
       "KTH",
       "Kungl. tekniska högskolan",
       "Kungliga Tekniska Högskolan i Stockholm",
       "Kungliska tekniska högskolan",
-      "Tekniska högskolan",
       "Tekniska högskolan i Stockholm",
       "Teknologiska Institutet",
-      "Teknologiska institutet i Stockholm",
-      "Teknis"
+      "Teknologiska institutet i Stockholm"
     ],
+    "mother_org": "Utbildningsdepartementet",
     "org_nr": "202100-3054"
   },
   "Kungliga biblioteket": {
@@ -1231,6 +1204,8 @@
       "Kungl. Biblioteket",
       "Sveriges nationalbibliotek"
     ],
+    "part_of": "Samordning av Sveriges officiella statistik",
+    "mother_org": "Utbildningsdepartementet",
     "org_nr": "202100-1710"
   },
   "Kustbevakningen": {
@@ -1241,24 +1216,22 @@
     "other_names": [
       "KBV"
     ],
+    "part_of": "Försvarsdepartementet",
+    "mother_org": "Justitiedepartementet",
     "org_nr": "202100-3997"
   },
   "Kärnavfallsfonden": {
     "id": "Q10551862",
     "name_en": "Nuclear Waste Fund",
     "wiki_url": "https://sv.wikipedia.org/wiki/K%C3%A4rnavfallsfonden",
-    "other_names": [
-      ""
-    ],
+    "mother_org": "Miljödepartementet",
     "org_nr": "202100-4904"
   },
   "Lagrådet": {
     "id": "Q4184946",
     "name_en": "Council on Legislation",
     "wiki_url": "https://sv.wikipedia.org/wiki/Lagr%C3%A5det",
-    "other_names": [
-      ""
-    ],
+    "mother_org": "Justitiedepartementet",
     "org_nr": "202100-5315"
   },
   "Lantmäteriet": {
@@ -1267,10 +1240,12 @@
     "wiki_url": "https://sv.wikipedia.org/wiki/Lantm%C3%A4teriet",
     "other_names": [
       "Lantmäteriverket",
-      "Lantmäteristyrelsen",
+      "LM",
       "Lantmäterikontoret",
+      "Lantmäteristyrelsen",
       "Statens lantmäteriverk"
     ],
+    "mother_org": "Finansdepartementet",
     "org_nr": "202100-4888"
   },
   "Linköpings universitet": {
@@ -1278,9 +1253,7 @@
     "name_en": "Linköping University",
     "start": "1975-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Link%C3%B6pings_universitet",
-    "other_names": [
-      ""
-    ],
+    "mother_org": "Utbildningsdepartementet",
     "org_nr": "202100-3096"
   },
   "Linnéuniversitetet": {
@@ -1289,9 +1262,14 @@
     "start": "2010-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Linn%C3%A9universitetet",
     "other_names": [
-      "LNU",
-      "Linneuniversitetet"
+      "Linneuniversitetet",
+      "LNU"
     ],
+    "replaces": [
+      "Växjö universitet",
+      "Högskolan i Kalmar"
+    ],
+    "mother_org": "Utbildningsdepartementet",
     "org_nr": "202100-6271"
   },
   "Livrustkammaren och Skoklosters slott med Stiftelsen Hallwylska museet": {
@@ -1302,6 +1280,7 @@
     "other_names": [
       "LSH museet"
     ],
+    "part_of": "kulturdepartementet",
     "end": "2018-01-01T00:00:00Z"
   },
   "Livsmedelsverket": {
@@ -1312,6 +1291,8 @@
     "other_names": [
       "Statens livsmedelsverk"
     ],
+    "part_of": "Landsbygds- och infrastrukturdepartementet",
+    "mother_org": "Näringsdepartementet",
     "org_nr": "202100-1850"
   },
   "Luftfartsstyrelsen": {
@@ -1319,9 +1300,6 @@
     "name_en": "Swedish Civil Aviation Authority",
     "start": "2005-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Luftfartsstyrelsen",
-    "other_names": [
-      ""
-    ],
     "end": "2009-01-01T00:00:00Z"
   },
   "Luleå tekniska universitet": {
@@ -1330,10 +1308,11 @@
     "start": "1971-07-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Lule%C3%A5_tekniska_universitet",
     "other_names": [
-      "Högskolan i Luleå",
       "Luleå tekniska högskola",
-      "Tekniska högskolan i Luleå"
+      "Tekniska högskolan i Luleå",
+      "Högskolan i Luleå"
     ],
+    "mother_org": "Utbildningsdepartementet",
     "org_nr": "202100-2841"
   },
   "Lunds universitet": {
@@ -1346,6 +1325,8 @@
       "Regia Academia Carolina",
       "Universitetet i Lund"
     ],
+    "part_of": "Samrådsgrupp för KVB",
+    "mother_org": "Utbildningsdepartementet",
     "org_nr": "202100-3211"
   },
   "Läkemedelsverket": {
@@ -1356,24 +1337,23 @@
     "other_names": [
       "LV"
     ],
+    "mother_org": "Socialdepartementet",
     "org_nr": "202100-4078"
   },
   "Länsstyrelsen i Blekinge län": {
     "id": "Q28746121",
     "name_en": "Blekinge County Administrative Board",
     "wiki_url": "https://sv.wikipedia.org/wiki/L%C3%A4nsstyrelsen_i_Blekinge_l%C3%A4n",
-    "other_names": [
-      ""
-    ],
+    "part_of": "Finansdepartementet",
+    "mother_org": "Finansdepartementet",
     "org_nr": "202100-2320"
   },
   "Länsstyrelsen i Dalarnas län": {
     "id": "Q28752352",
     "name_en": "Dalarna County Administrative Board",
     "wiki_url": "https://sv.wikipedia.org/wiki/L%C3%A4nsstyrelsen_i_Dalarnas_l%C3%A4n",
-    "other_names": [
-      ""
-    ],
+    "part_of": "Finansdepartementet",
+    "mother_org": "Finansdepartementet",
     "org_nr": "202100-2429"
   },
   "Länsstyrelsen i Gotlands län": {
@@ -1383,97 +1363,91 @@
     "other_names": [
       "Länsstyrelsen på Gotland"
     ],
+    "part_of": "Finansdepartementet",
+    "mother_org": "Finansdepartementet",
     "org_nr": "202100-2312"
   },
   "Länsstyrelsen i Gävleborgs län": {
     "id": "Q22294590",
     "name_en": "Gävleborg County Administrative Board",
     "wiki_url": "https://sv.wikipedia.org/wiki/L%C3%A4nsstyrelsen_i_G%C3%A4vleborgs_l%C3%A4n",
-    "other_names": [
-      ""
-    ],
+    "part_of": "Finansdepartementet",
+    "mother_org": "Finansdepartementet",
     "org_nr": "202100-2437"
   },
   "Länsstyrelsen i Hallands län": {
     "id": "Q28792253",
     "name_en": "Halland County Administrative Board",
     "wiki_url": "https://sv.wikipedia.org/wiki/L%C3%A4nsstyrelsen_i_Hallands_l%C3%A4n",
-    "other_names": [
-      ""
-    ],
+    "part_of": "Finansdepartementet",
+    "mother_org": "Finansdepartementet",
     "org_nr": "202100-2353"
   },
   "Länsstyrelsen i Jämtlands län": {
     "id": "Q28797491",
     "name_en": "Jämtland County Administrative Board",
     "wiki_url": "https://sv.wikipedia.org/wiki/L%C3%A4nsstyrelsen_i_J%C3%A4mtlands_l%C3%A4n",
-    "other_names": [
-      ""
-    ],
+    "part_of": "Finansdepartementet",
+    "mother_org": "Finansdepartementet",
     "org_nr": "202100-2452"
   },
   "Länsstyrelsen i Jönköpings län": {
     "id": "Q28797492",
     "name_en": "Jönköping County Administrative Board",
     "wiki_url": "https://sv.wikipedia.org/wiki/L%C3%A4nsstyrelsen_i_J%C3%B6nk%C3%B6pings_l%C3%A4n",
-    "other_names": [
-      ""
-    ],
+    "part_of": "Finansdepartementet",
+    "mother_org": "Finansdepartementet",
     "org_nr": "202100-2288"
   },
   "Länsstyrelsen i Kalmar län": {
     "id": "Q25349864",
     "name_en": "Kalmar County Administrative Board",
     "wiki_url": "https://sv.wikipedia.org/wiki/L%C3%A4nsstyrelsen_i_Kalmar_l%C3%A4n",
-    "other_names": [
-      ""
-    ],
+    "part_of": "Finansdepartementet",
+    "mother_org": "Finansdepartementet",
     "org_nr": "202100-2304"
   },
   "Länsstyrelsen i Kronobergs län": {
     "id": "Q28797497",
     "name_en": "Kronoberg County Administrative Board",
     "wiki_url": "https://sv.wikipedia.org/wiki/L%C3%A4nsstyrelsen_i_Kronobergs_l%C3%A4n",
-    "other_names": [
-      ""
-    ],
+    "part_of": "Finansdepartementet",
+    "mother_org": "Finansdepartementet",
     "org_nr": "202100-2296"
   },
   "Länsstyrelsen i Norrbottens län": {
     "id": "Q25386980",
     "name_en": "Norrbotten County Administrative Board",
     "wiki_url": "https://sv.wikipedia.org/wiki/L%C3%A4nsstyrelsen_i_Norrbottens_l%C3%A4n",
-    "other_names": [
-      ""
-    ],
+    "part_of": "Finansdepartementet",
+    "mother_org": "Finansdepartementet",
     "org_nr": "202100-2478"
   },
   "Länsstyrelsen i Skaraborgs län": {
     "id": "Q31886341",
     "name_en": "Skaraborg County Administrative Board",
     "wiki_url": "https://sv.wikipedia.org/wiki/L%C3%A4nsstyrelsen_i_Skaraborgs_l%C3%A4n",
-    "other_names": [
-      ""
-    ],
-    "end": "1998-01-01T00:00:00Z"
+    "end": "1997-12-31T00:00:00Z"
   },
   "Länsstyrelsen i Skåne län": {
     "id": "Q22276465",
     "name_en": "Skåne County Administrative Board",
     "start": "1997-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/L%C3%A4nsstyrelsen_i_Sk%C3%A5ne_l%C3%A4n",
-    "other_names": [
-      ""
+    "part_of": "Finansdepartementet",
+    "replaces": [
+      "Länsstyrelsen i Kristianstads län",
+      "Länsstyrelsen i Malmöhus län"
     ],
+    "mother_org": "Finansdepartementet",
     "org_nr": "202100-2346"
   },
   "Länsstyrelsen i Stockholms län": {
     "id": "Q22269305",
     "name_en": "Stockholm County Administrative Board",
     "wiki_url": "https://sv.wikipedia.org/wiki/L%C3%A4nsstyrelsen_i_Stockholms_l%C3%A4n",
-    "other_names": [
-      ""
-    ],
+    "part_of": "Finansdepartementet",
+    "mother_org": "Finansdepartementet",
     "org_nr": "202100-2247"
   },
   "Länsstyrelsen i Södermanlands län": {
@@ -1481,44 +1455,42 @@
     "name_en": "Södermanland County Administrative Board",
     "wiki_url": "https://sv.wikipedia.org/wiki/L%C3%A4nsstyrelsen_i_S%C3%B6dermanlands_l%C3%A4n",
     "other_names": [
-      ""
+      "Länsstyrelsen i Sörmlands län"
     ],
+    "part_of": "Finansdepartementet",
+    "mother_org": "Finansdepartementet",
     "org_nr": "202100-2262"
   },
   "Länsstyrelsen i Uppsala län": {
     "id": "Q22269242",
     "name_en": "Uppsala County Administrative Board",
     "wiki_url": "https://sv.wikipedia.org/wiki/L%C3%A4nsstyrelsen_i_Uppsala_l%C3%A4n",
-    "other_names": [
-      ""
-    ],
+    "part_of": "Finansdepartementet",
+    "mother_org": "Finansdepartementet",
     "org_nr": "202100-2254"
   },
   "Länsstyrelsen i Värmlands län": {
     "id": "Q28804178",
     "name_en": "Värmland County Administrative Board",
     "wiki_url": "https://sv.wikipedia.org/wiki/L%C3%A4nsstyrelsen_i_V%C3%A4rmlands_l%C3%A4n",
-    "other_names": [
-      ""
-    ],
+    "part_of": "Finansdepartementet",
+    "mother_org": "Finansdepartementet",
     "org_nr": "202100-2395"
   },
   "Länsstyrelsen i Västerbottens län": {
     "id": "Q28804179",
     "name_en": "Västerbotten County Administrative Board",
     "wiki_url": "https://sv.wikipedia.org/wiki/L%C3%A4nsstyrelsen_i_V%C3%A4sterbottens_l%C3%A4n",
-    "other_names": [
-      ""
-    ],
+    "part_of": "Finansdepartementet",
+    "mother_org": "Finansdepartementet",
     "org_nr": "202100-2460"
   },
   "Länsstyrelsen i Västernorrlands län": {
     "id": "Q26236697",
     "name_en": "Västernorrland County Administrative Board",
     "wiki_url": "https://sv.wikipedia.org/wiki/L%C3%A4nsstyrelsen_i_V%C3%A4sternorrlands_l%C3%A4n",
-    "other_names": [
-      ""
-    ],
+    "part_of": "Finansdepartementet",
+    "mother_org": "Finansdepartementet",
     "org_nr": "202100-2445"
   },
   "Länsstyrelsen i Västmanlands län": {
@@ -1526,36 +1498,32 @@
     "name_en": "Västmanland County Administrative Board",
     "start": "1634-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/L%C3%A4nsstyrelsen_i_V%C3%A4stmanlands_l%C3%A4n",
-    "other_names": [
-      ""
-    ],
+    "part_of": "Finansdepartementet",
+    "mother_org": "Finansdepartementet",
     "org_nr": "202100-2411"
   },
   "Länsstyrelsen i Västra Götalands län": {
     "id": "Q26236702",
     "name_en": "Västra Götaland County Administrative Board",
     "wiki_url": "https://sv.wikipedia.org/wiki/L%C3%A4nsstyrelsen_i_V%C3%A4stra_G%C3%B6talands_l%C3%A4n",
-    "other_names": [
-      ""
-    ],
+    "part_of": "Finansdepartementet",
+    "mother_org": "Finansdepartementet",
     "org_nr": "202100-2361"
   },
   "Länsstyrelsen i Örebro län": {
     "id": "Q28804182",
     "name_en": "Örebro County Administrative Board",
     "wiki_url": "https://sv.wikipedia.org/wiki/L%C3%A4nsstyrelsen_i_%C3%96rebro_l%C3%A4n",
-    "other_names": [
-      ""
-    ],
+    "part_of": "Finansdepartementet",
+    "mother_org": "Finansdepartementet",
     "org_nr": "202100-2403"
   },
   "Länsstyrelsen i Östergötlands län": {
     "id": "Q10571982",
     "name_en": "Östergötland County Administrative Board",
     "wiki_url": "https://sv.wikipedia.org/wiki/L%C3%A4nsstyrelsen_i_%C3%96sterg%C3%B6tlands_l%C3%A4n",
-    "other_names": [
-      ""
-    ],
+    "part_of": "Finansdepartementet",
+    "mother_org": "Finansdepartementet",
     "org_nr": "202100-2270"
   },
   "Lärarhögskolan i Stockholm": {
@@ -1563,9 +1531,7 @@
     "name_en": "Stockholm Institute of Education",
     "start": "1956-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/L%C3%A4rarh%C3%B6gskolan_i_Stockholm",
-    "other_names": [
-      ""
-    ],
+    "part_of": "Stockholms universitet",
     "end": "2007-12-31T00:00:00Z"
   },
   "Malmö universitet": {
@@ -1574,10 +1540,11 @@
     "start": "1998-07-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Malm%C3%B6_universitet",
     "other_names": [
-      "Mau",
       "Malmö högskola",
+      "Mau",
       "Mah"
     ],
+    "mother_org": "Utbildningsdepartementet",
     "org_nr": "202100-4920"
   },
   "Matematikmaskinnämnden": {
@@ -1587,6 +1554,9 @@
     "wiki_url": "https://sv.wikipedia.org/wiki/Matematikmaskinn%C3%A4mnden",
     "other_names": [
       "MMN"
+    ],
+    "replaced_by": [
+      "Statskontoret"
     ],
     "end": "1963-06-01T00:00:00Z"
   },
@@ -1601,13 +1571,22 @@
     "end": "2000-01-01T00:00:00Z"
   },
   "Mediemyndigheten": {
-    "id": "Q124153819",
+    "id": "Q10591752",
     "name_en": "Swedish Agency for the Media",
-    "start": "2024-01-01T00:00:00Z",
+    "start": "2010-08-12T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Mediemyndigheten",
     "other_names": [
-      ""
+      "MPRT",
+      "Myndigheten för press, radio och tv",
+      "Myndigheten för radio och tv",
+      "Mediemyndigheten",
+      "MEMYFS"
     ],
+    "part_of": "kulturdepartementet",
+    "replaces": [
+      "Presstödsnämnden"
+    ],
+    "mother_org": "kulturdepartementet",
     "org_nr": "202100-6347"
   },
   "Medlingsinstitutet": {
@@ -1615,9 +1594,8 @@
     "name_en": "National Mediation Office",
     "start": "2000-06-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Medlingsinstitutet",
-    "other_names": [
-      ""
-    ],
+    "part_of": "Arbetsmarknadsdepartementet",
+    "mother_org": "Arbetsmarknadsdepartementet",
     "org_nr": "202100-5174"
   },
   "Migrationsverket": {
@@ -1628,6 +1606,11 @@
     "other_names": [
       "Invandrarverket"
     ],
+    "part_of": "Justitiedepartementet",
+    "replaces": [
+      "Integrationsverket"
+    ],
+    "mother_org": "Justitiedepartementet",
     "org_nr": "202100-2163"
   },
   "Mittuniversitetet": {
@@ -1639,6 +1622,11 @@
       "Mitthögskolan",
       "MIUN"
     ],
+    "replaces": [
+      "Högskolan i Östersund",
+      "Folkskoleseminariet i Härnösand"
+    ],
+    "mother_org": "Utbildningsdepartementet",
     "org_nr": "202100-4524"
   },
   "Moderna Museet": {
@@ -1646,9 +1634,8 @@
     "name_en": "Moderna Museet",
     "start": "1958-05-09T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Moderna_Museet",
-    "other_names": [
-      ""
-    ],
+    "part_of": "kulturdepartementet",
+    "mother_org": "kulturdepartementet",
     "org_nr": "202100-5091"
   },
   "Myndigheten för arbetsmiljökunskap": {
@@ -1656,10 +1643,26 @@
     "name_en": "Swedish Agency for Work Environment Expertise",
     "start": "2018-06-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Myndigheten_f%C3%B6r_arbetsmilj%C3%B6kunskap",
-    "other_names": [
-      ""
-    ],
+    "mother_org": "Arbetsmarknadsdepartementet",
     "org_nr": "202100-6875"
+  },
+  "Myndigheten för civilt försvar": {
+    "id": "Q3430725",
+    "name_en": "Swedish Civil Defence and Resilience Agency",
+    "start": "2009-01-01T00:00:00Z",
+    "wiki_url": "https://sv.wikipedia.org/wiki/Myndigheten_f%C3%B6r_civilt_f%C3%B6rsvar",
+    "other_names": [
+      "MSB",
+      "Myndigheten för allmänsskydd och beredskap"
+    ],
+    "part_of": "Justitiedepartementet",
+    "replaces": [
+      "Krisberedskapsmyndigheten",
+      "Styrelsen för psykologiskt försvar",
+      "Räddningsverket"
+    ],
+    "mother_org": "Justitiedepartementet",
+    "org_nr": "202100-5984"
   },
   "Myndigheten för delaktighet": {
     "id": "Q18292430",
@@ -1669,6 +1672,7 @@
     "other_names": [
       "MFD"
     ],
+    "mother_org": "Socialdepartementet",
     "org_nr": "202100-5588"
   },
   "Myndigheten för digital förvaltning": {
@@ -1680,6 +1684,8 @@
       "DIGG",
       "Digitaliseringsmyndigheten"
     ],
+    "part_of": "Infrastrukturdepartementet",
+    "mother_org": "Infrastrukturdepartementet",
     "org_nr": "202100-6883"
   },
   "Myndigheten för familjerätt och föräldraskapsstöd": {
@@ -1690,15 +1696,15 @@
     "other_names": [
       "Myndigheten för internationella adoptionsfrågor"
     ],
+    "part_of": "Socialdepartementet",
+    "mother_org": "Socialdepartementet",
     "org_nr": "202100-4169"
   },
   "Myndigheten för kulturanalys": {
     "id": "Q10591749",
     "name_en": "Swedish Agency for Cultural Policy Analysis",
     "wiki_url": "https://sv.wikipedia.org/wiki/Myndigheten_f%C3%B6r_kulturanalys",
-    "other_names": [
-      ""
-    ],
+    "mother_org": "kulturdepartementet",
     "org_nr": "202100-6404"
   },
   "Myndigheten för kvalificerad yrkesutbildning": {
@@ -1706,42 +1712,18 @@
     "name_en": "The Swedish Agency for Advanced Vocational Education",
     "start": "2001-10-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Myndigheten_f%C3%B6r_kvalificerad_yrkesutbildning",
-    "other_names": [
-      ""
+    "replaced_by": [
+      "Myndigheten för yrkeshögskolan"
     ],
     "end": "2009-07-01T00:00:00Z"
-  },
-  "Myndigheten för press, radio och tv": {
-    "id": "Q10591752",
-    "name_en": "Swedish Broadcasting Authority",
-    "start": "2010-08-01T00:00:00Z",
-    "wiki_url": "https://sv.wikipedia.org/wiki/Myndigheten_f%C3%B6r_press,_radio_och_tv",
-    "other_names": [
-      "MPRT",
-      "Myndigheten för radio och tv"
-    ],
-    "end": "2023-12-31T00:00:00Z",
-    "org_nr": "202100-6347"
   },
   "Myndigheten för psykologiskt försvar": {
     "id": "Q106052713",
     "name_en": "Office of Psychological Defense",
     "start": "2022-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Myndigheten_f%C3%B6r_psykologiskt_f%C3%B6rsvar",
-    "other_names": [
-      ""
-    ],
+    "mother_org": "Justitiedepartementet",
     "org_nr": "202100-7014"
-  },
-  "Myndigheten för samhällsskydd och beredskap": {
-    "id": "Q3430725",
-    "name_en": "Swedish Civil Contingencies Agency",
-    "start": "2009-01-01T00:00:00Z",
-    "wiki_url": "https://sv.wikipedia.org/wiki/Myndigheten_f%C3%B6r_samh%C3%A4llsskydd_och_beredskap",
-    "other_names": [
-      "MSB"
-    ],
-    "org_nr": "202100-5984"
   },
   "Myndigheten för skolutveckling": {
     "id": "Q10591751",
@@ -1760,6 +1742,7 @@
     "other_names": [
       "Nämnden för statligt stöd till trossamfund"
     ],
+    "mother_org": "kulturdepartementet",
     "org_nr": "202100-5141"
   },
   "Myndigheten för tillgängliga medier": {
@@ -1772,6 +1755,8 @@
       "MTM",
       "TPB"
     ],
+    "part_of": "kulturdepartementet",
+    "mother_org": "kulturdepartementet",
     "org_nr": "202100-3591"
   },
   "Myndigheten för tillväxtpolitiska utvärderingar och analyser": {
@@ -1779,9 +1764,7 @@
     "name_en": "Swedish Agency for Growth Policy Analysis",
     "start": "2009-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Myndigheten_f%C3%B6r_tillv%C3%A4xtpolitiska_utv%C3%A4rderingar_och_analyser",
-    "other_names": [
-      ""
-    ],
+    "mother_org": "Näringsdepartementet",
     "org_nr": "202100-6164"
   },
   "Myndigheten för totalförsvarsanalys": {
@@ -1789,9 +1772,7 @@
     "name_en": "Swedish Agency for Defence Analysis",
     "start": "2023-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Myndigheten_f%C3%B6r_totalf%C3%B6rsvarsanalys",
-    "other_names": [
-      ""
-    ],
+    "mother_org": "Försvarsdepartementet",
     "org_nr": "202100-7055"
   },
   "Myndigheten för ungdoms- och civilsamhällesfrågor": {
@@ -1802,6 +1783,8 @@
     "other_names": [
       "Ungdomsstyrelsen"
     ],
+    "part_of": "Utbildningsdepartementet",
+    "mother_org": "Utbildningsdepartementet",
     "org_nr": "202100-1173"
   },
   "Myndigheten för utländska investeringar i Sverige": {
@@ -1819,9 +1802,7 @@
     "name_en": "Swedish Agency for Health and Care Services Analysis",
     "start": "2011-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Myndigheten_f%C3%B6r_v%C3%A5rd-_och_omsorgsanalys",
-    "other_names": [
-      ""
-    ],
+    "mother_org": "Socialdepartementet",
     "org_nr": "202100-6412"
   },
   "Myndigheten för yrkeshögskolan": {
@@ -1832,6 +1813,11 @@
     "other_names": [
       "YH-myndigheten"
     ],
+    "part_of": "Utbildningsdepartementet",
+    "replaces": [
+      "Myndigheten för kvalificerad yrkesutbildning"
+    ],
+    "mother_org": "Utbildningsdepartementet",
     "org_nr": "202100-6230"
   },
   "Mälardalens universitet": {
@@ -1844,6 +1830,7 @@
       "MDH",
       "MDU"
     ],
+    "mother_org": "Utbildningsdepartementet",
     "org_nr": "202100-2916"
   },
   "Nationalmuseum": {
@@ -1855,6 +1842,7 @@
       "Nationalmuseet i Stockholm",
       "Nationalmuseum i Stockholm"
     ],
+    "mother_org": "kulturdepartementet",
     "org_nr": "202100-1108"
   },
   "Nationellt centrum för flexibelt lärande": {
@@ -1872,12 +1860,14 @@
     "start": "1916-11-13T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Naturhistoriska_riksmuseet",
     "other_names": [
+      "Naturhistoriska riksmuseum",
       "NRM",
       "Riksmuseet",
       "Riksmuseum",
-      "Sveriges naturhistoriska riksmuseum",
-      "Naturhistoriska riksmuseum"
+      "Sveriges naturhistoriska riksmuseum"
     ],
+    "part_of": "kulturdepartementet",
+    "mother_org": "kulturdepartementet",
     "org_nr": "202100-1124"
   },
   "Naturvårdsverket": {
@@ -1885,9 +1875,8 @@
     "name_en": "Swedish Environmental Protection Agency",
     "start": "1967-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Naturv%C3%A5rdsverket",
-    "other_names": [
-      ""
-    ],
+    "part_of": "Klimat- och näringslivsdepartementet",
+    "mother_org": "Miljödepartementet",
     "org_nr": "202100-1975"
   },
   "Nordiska Afrikainstitutet": {
@@ -1895,18 +1884,15 @@
     "name_en": "Nordic Africa Institute",
     "start": "1962-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Nordiska_Afrikainstitutet",
-    "other_names": [
-      ""
-    ],
+    "part_of": "Utrikesdepartementet",
+    "mother_org": "Utrikesdepartementet",
     "org_nr": "202100-2726"
   },
   "Notarienämnden": {
     "id": "Q10603347",
     "name_en": "Law Clerks Board",
     "wiki_url": "https://sv.wikipedia.org/wiki/Notarien%C3%A4mnden",
-    "other_names": [
-      ""
-    ],
+    "mother_org": "Justitiedepartementet",
     "org_nr": "202100-6032"
   },
   "Nutek": {
@@ -1925,9 +1911,7 @@
     "id": "Q10605067",
     "name_en": "The National Swedish Handicraft Council",
     "wiki_url": "https://sv.wikipedia.org/wiki/N%C3%A4mnden_f%C3%B6r_hemsl%C3%B6jdsfr%C3%A5gor",
-    "other_names": [
-      ""
-    ],
+    "mother_org": "kulturdepartementet",
     "org_nr": "202100-4144"
   },
   "Nämnden för offentlig upphandling": {
@@ -1943,18 +1927,14 @@
   "Nämnden för prövning av oredlighet i forskning": {
     "id": "Q101113144",
     "name_en": "The Swedish National Board for Assessment of Research Misconduct",
-    "other_names": [
-      ""
-    ],
+    "mother_org": "Utbildningsdepartementet",
     "org_nr": "202100-6933"
   },
   "Nämnden för styrelserepresentationsfrågor": {
     "id": "Q10605071",
     "name_en": "Council for Employee Representation on Boards of Directors",
     "wiki_url": "https://sv.wikipedia.org/wiki/N%C3%A4mnden_f%C3%B6r_styrelserepresentationsfr%C3%A5gor",
-    "other_names": [
-      ""
-    ],
+    "mother_org": "Arbetsmarknadsdepartementet",
     "org_nr": "202100-5786"
   },
   "Ombudsmannen mot diskriminering på grund av sexuell läggning": {
@@ -1972,9 +1952,6 @@
     "name_en": "The Ombudsman against Ethnic Discrimination",
     "start": "1986-07-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Ombudsmannen_mot_etnisk_diskriminering",
-    "other_names": [
-      ""
-    ],
     "end": "2008-12-31T00:00:00Z"
   },
   "Operahögskolan i Stockholm": {
@@ -1982,9 +1959,6 @@
     "name_en": "University College of Opera, Stockholm",
     "start": "1968-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Operah%C3%B6gskolan_i_Stockholm",
-    "other_names": [
-      ""
-    ],
     "end": "2014-01-01T00:00:00Z"
   },
   "Patent- och registreringsverket": {
@@ -1993,17 +1967,17 @@
     "start": "1921-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Patent-_och_registreringsverket",
     "other_names": [
-      "PRV",
-      "Patentverket"
+      "Patentverket",
+      "PRV"
     ],
+    "part_of": "Näringsdepartementet",
+    "mother_org": "Näringsdepartementet",
     "org_nr": "202100-2072"
   },
   "Patentombudsnämnden": {
     "id": "Q80207128",
     "name_en": "Patent Attorneys Board",
-    "other_names": [
-      ""
-    ],
+    "mother_org": "Näringsdepartementet",
     "org_nr": "202100-6370"
   },
   "Pensionsmyndigheten": {
@@ -2011,9 +1985,8 @@
     "name_en": "Swedish Pensions Agency",
     "start": "2010-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Pensionsmyndigheten",
-    "other_names": [
-      ""
-    ],
+    "part_of": "Socialdepartementet",
+    "mother_org": "Socialdepartementet",
     "org_nr": "202100-6255"
   },
   "Plikt- och prövningsverket": {
@@ -2025,6 +1998,8 @@
       "Totalförsvarets plikt- och prövningsverk",
       "Totalförsvarets rekryteringsmyndighet"
     ],
+    "part_of": "Försvarsdepartementet",
+    "mother_org": "Försvarsdepartementet",
     "org_nr": "202100-4771"
   },
   "Polarforskningssekretariatet": {
@@ -2032,9 +2007,8 @@
     "name_en": "Swedish Polar Research Secretariat",
     "start": "1984-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Polarforskningssekretariatet",
-    "other_names": [
-      ""
-    ],
+    "part_of": "Utbildningsdepartementet",
+    "mother_org": "Utbildningsdepartementet",
     "org_nr": "202100-4060"
   },
   "Polismyndigheten": {
@@ -2042,19 +2016,68 @@
     "name_en": "Swedish Police Authority",
     "start": "2015-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Polismyndigheten",
-    "other_names": [
-      ""
+    "replaces": [
+      "Polismyndigheten Västra Götaland",
+      "Polismyndigheten i Stockholms län",
+      "Rikspolisstyrelsen",
+      "Polismyndigheten Dalarna",
+      "Polismyndigheten i Skåne län",
+      "Polismyndigheten i Uppsala län",
+      "Polismyndigheten i Gävleborgs län",
+      "Polismyndigheten i Blekinge län",
+      "Polismyndigheten i Norrbottens län"
     ],
+    "mother_org": "Justitiedepartementet",
     "org_nr": "202100-0076"
+  },
+  "Polismyndigheten Västra Götaland": {
+    "id": "Q10636140",
+    "name_en": "Västra Götaland Police Authority",
+    "wiki_url": "https://sv.wikipedia.org/wiki/Polismyndigheten_V%C3%A4stra_G%C3%B6taland",
+    "replaces": [
+      "Polismyndigheten i Göteborgs och Bohus län",
+      "Polismyndigheten i Skaraborgs län",
+      "Polismyndigheten i Älvsborgs län"
+    ],
+    "replaced_by": [
+      "Polismyndigheten"
+    ]
+  },
+  "Polismyndigheten i Blekinge län": {
+    "id": "Q118371907",
+    "name_en": "Blekinge County Police Authority",
+    "replaced_by": [
+      "Polismyndigheten"
+    ]
+  },
+  "Polismyndigheten i Gävleborgs län": {
+    "id": "Q118279287",
+    "name_en": "Gävleborg County Police Authority",
+    "replaced_by": [
+      "Polismyndigheten"
+    ]
+  },
+  "Polismyndigheten i Norrbottens län": {
+    "id": "Q118371912",
+    "name_en": "Norrbotten County Police Authority",
+    "replaced_by": [
+      "Polismyndigheten"
+    ]
+  },
+  "Polismyndigheten i Uppsala län": {
+    "id": "Q114776951",
+    "name_en": "Uppsala County Police Authority",
+    "replaced_by": [
+      "Polismyndigheten"
+    ]
   },
   "Post- och telestyrelsen": {
     "id": "Q7654818",
     "name_en": "Swedish Post and Telecom Agency",
     "start": "1994-03-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Post-_och_telestyrelsen",
-    "other_names": [
-      ""
-    ],
+    "part_of": "Näringsdepartementet",
+    "mother_org": "Infrastrukturdepartementet",
     "org_nr": "202100-4359"
   },
   "Postverket": {
@@ -2062,8 +2085,8 @@
     "name_en": "Postverket",
     "start": "1636-02-20T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Postverket",
-    "other_names": [
-      ""
+    "replaced_by": [
+      "Posten"
     ],
     "end": "1994-01-01T00:00:00Z"
   },
@@ -2072,9 +2095,6 @@
     "name_en": "The Premium Pension Authority",
     "start": "1998-07-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Premiepensionsmyndigheten",
-    "other_names": [
-      ""
-    ],
     "end": "2009-12-31T00:00:00Z"
   },
   "Presstödsnämnden": {
@@ -2082,8 +2102,9 @@
     "name_en": "Press Subsidies Council",
     "start": "1978-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Presst%C3%B6dsn%C3%A4mnden",
-    "other_names": [
-      ""
+    "part_of": "kulturdepartementet",
+    "replaced_by": [
+      "Mediemyndigheten"
     ],
     "end": "2015-07-01T00:00:00Z"
   },
@@ -2102,9 +2123,11 @@
     "name_en": "Swedish Government Offices",
     "start": "1975-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Regeringskansliet",
-    "other_names": [
-      ""
+    "part_of": "Sveriges regering",
+    "replaces": [
+      "Kunglig Majestäts kansli"
     ],
+    "mother_org": "Statsrådsberedningen",
     "org_nr": "202100-3831"
   },
   "Revisorsinspektionen": {
@@ -2115,6 +2138,7 @@
     "other_names": [
       "Revisorsnämnden"
     ],
+    "mother_org": "Justitiedepartementet",
     "org_nr": "202100-4805"
   },
   "Riksantikvarieämbetet": {
@@ -2125,6 +2149,11 @@
     "other_names": [
       "RAÄ"
     ],
+    "part_of": "kulturdepartementet",
+    "replaces": [
+      "Riksutställningar"
+    ],
+    "mother_org": "kulturdepartementet",
     "org_nr": "202100-1090"
   },
   "Riksarkivet": {
@@ -2135,6 +2164,8 @@
     "other_names": [
       "RA"
     ],
+    "part_of": "kulturdepartementet,Kunglig Majestäts kansli",
+    "mother_org": "kulturdepartementet",
     "org_nr": "202100-1074"
   },
   "Riksgälden": {
@@ -2145,6 +2176,8 @@
     "other_names": [
       "Riksgäldskontoret"
     ],
+    "part_of": "Finansdepartementet",
+    "mother_org": "Finansdepartementet",
     "org_nr": "202100-2635"
   },
   "Rikstrafiken": {
@@ -2152,9 +2185,6 @@
     "name_en": "The Swedish National Public Transport Agency",
     "start": "1999-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Rikstrafiken",
-    "other_names": [
-      ""
-    ],
     "end": "2011-01-01T00:00:00Z"
   },
   "Riksutställningar": {
@@ -2164,6 +2194,10 @@
     "wiki_url": "https://sv.wikipedia.org/wiki/Riksutst%C3%A4llningar",
     "other_names": [
       "RU"
+    ],
+    "part_of": "kulturdepartementet",
+    "replaced_by": [
+      "Riksantikvarieämbetet"
     ],
     "end": "2017-05-31T00:00:00Z"
   },
@@ -2175,6 +2209,8 @@
     "other_names": [
       "Statens delegation för rymdverksamhet"
     ],
+    "part_of": "Utbildningsdepartementet",
+    "mother_org": "Utbildningsdepartementet",
     "org_nr": "202100-2585"
   },
   "Räddningsverket": {
@@ -2186,6 +2222,12 @@
       "SRV",
       "Statens räddningsverk"
     ],
+    "replaces": [
+      "Civilförsvarsstyrelsen"
+    ],
+    "replaced_by": [
+      "Myndigheten för civilt försvar"
+    ],
     "end": "2008-12-31T00:00:00Z"
   },
   "Rättshjälpsmyndigheten": {
@@ -2193,9 +2235,8 @@
     "name_en": "National Legal Aid Authority",
     "start": "2008-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/R%C3%A4ttshj%C3%A4lpsmyndigheten",
-    "other_names": [
-      ""
-    ],
+    "part_of": "Justitiedepartementet",
+    "mother_org": "Justitiedepartementet",
     "org_nr": "202100-6016"
   },
   "Rättshjälpsnämnden": {
@@ -2205,6 +2246,7 @@
     "other_names": [
       "Rättshjälpnämnden"
     ],
+    "mother_org": "Justitiedepartementet",
     "org_nr": "202100-6008"
   },
   "Rättsmedicinalverket": {
@@ -2212,9 +2254,8 @@
     "name_en": "National Board of Forensic Medicine",
     "start": "1991-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/R%C3%A4ttsmedicinalverket",
-    "other_names": [
-      ""
-    ],
+    "part_of": "Justitiedepartementet",
+    "mother_org": "Justitiedepartementet",
     "org_nr": "202100-4227"
   },
   "Rådet för Europeiska socialfonden i Sverige": {
@@ -2224,6 +2265,8 @@
     "other_names": [
       "Svenska ESF-rådet"
     ],
+    "part_of": "Europeiska socialfonden,Arbetsmarknadsdepartementet",
+    "mother_org": "Arbetsmarknadsdepartementet",
     "org_nr": "202100-5224"
   },
   "Rådet för arbetslivsforskning": {
@@ -2254,6 +2297,8 @@
       "Kungliga Statistiska centralbyrån",
       "Statistikmyndigheten"
     ],
+    "part_of": "Samordning av Sveriges officiella statistik",
+    "mother_org": "Finansdepartementet",
     "org_nr": "202100-0837"
   },
   "Sameskolstyrelsen": {
@@ -2261,9 +2306,7 @@
     "name_en": "Sami Education Board",
     "start": "1981-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Sameskolstyrelsen",
-    "other_names": [
-      ""
-    ],
+    "mother_org": "Utbildningsdepartementet",
     "org_nr": "202100-4631"
   },
   "Sametinget": {
@@ -2273,6 +2316,7 @@
     "other_names": [
       "Sametinget i Sverige"
     ],
+    "mother_org": "kulturdepartementet",
     "org_nr": "202100-4573"
   },
   "Sida": {
@@ -2283,6 +2327,13 @@
     "other_names": [
       "Styrelsen för internationellt utvecklingssamarbete"
     ],
+    "replaces": [
+      "Beredningen för internationellt tekniskt-ekonomiskt samarbete",
+      "Styrelsen för internationellt näringslivsbistånd",
+      "Styrelsen för u-landsforskning",
+      "SIDA"
+    ],
+    "mother_org": "Utrikesdepartementet",
     "org_nr": "202100-4789"
   },
   "Signalspaningsnämnden": {
@@ -2290,8 +2341,8 @@
     "name_en": "The Signals Intelligence Board",
     "start": "2009-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Signalspaningsn%C3%A4mnden",
-    "other_names": [
-      ""
+    "replaced_by": [
+      "Försvarsunderrättelsedomstolen"
     ],
     "end": "2009-12-01T00:00:00Z"
   },
@@ -2299,9 +2350,7 @@
     "id": "Q10669859",
     "name_en": "Skatterättsnämnden",
     "wiki_url": "https://sv.wikipedia.org/wiki/Skatter%C3%A4ttsn%C3%A4mnden",
-    "other_names": [
-      ""
-    ],
+    "mother_org": "Finansdepartementet",
     "org_nr": "202100-5901"
   },
   "Skatteverket": {
@@ -2310,19 +2359,20 @@
     "start": "2004-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Skatteverket",
     "other_names": [
+      "SKV",
       "Riksskatteverket",
       "Skattekontor",
       "Skattemyndigheten"
     ],
+    "part_of": "Finansdepartementet",
+    "mother_org": "Finansdepartementet",
     "org_nr": "202100-5448"
   },
   "Skiljenämnden i vissa trygghetsfrågor": {
     "id": "Q10670160",
     "name_en": "Arbitration Tribunal for Occupational Injury Compensation",
     "wiki_url": "https://sv.wikipedia.org/wiki/Skiljen%C3%A4mnden_i_vissa_trygghetsfr%C3%A5gor",
-    "other_names": [
-      ""
-    ],
+    "mother_org": "Finansdepartementet",
     "org_nr": "202100-5869"
   },
   "Skogs- och jordbrukets forskningsråd": {
@@ -2340,18 +2390,15 @@
     "name_en": "Swedish Forest Agency",
     "start": "1941-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Skogsstyrelsen",
-    "other_names": [
-      ""
-    ],
+    "part_of": "Landsbygds- och infrastrukturdepartementet",
+    "mother_org": "Näringsdepartementet",
     "org_nr": "202100-5612"
   },
   "Skolforskningsinstitutet": {
     "id": "Q31885102",
     "name_en": "Swedish Institute for Educational Research",
     "wiki_url": "https://sv.wikipedia.org/wiki/Skolforskningsinstitutet",
-    "other_names": [
-      ""
-    ],
+    "mother_org": "Utbildningsdepartementet",
     "org_nr": "202100-6602"
   },
   "Skolverket": {
@@ -2360,18 +2407,18 @@
     "start": "1991-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Skolverket",
     "other_names": [
-      "Lärarnas ansvarsnämnd",
-      "Statens skolverk"
+      "Statens skolverk",
+      "Lärarnas ansvarsnämnd"
     ],
+    "part_of": "Utbildningsdepartementet",
+    "mother_org": "Utbildningsdepartementet",
     "org_nr": "202100-4185"
   },
   "Skolväsendets överklagandenämnd": {
     "id": "Q10670482",
     "name_en": "The Board of Appeal for Education",
     "wiki_url": "https://sv.wikipedia.org/wiki/Skolv%C3%A4sendets_%C3%B6verklaganden%C3%A4mnd",
-    "other_names": [
-      ""
-    ],
+    "mother_org": "Utbildningsdepartementet",
     "org_nr": "202100-5729"
   },
   "Smittskyddsinstitutet": {
@@ -2382,6 +2429,7 @@
     "other_names": [
       "Statens bakteriologiska laboratorium"
     ],
+    "part_of": "Socialdepartementet",
     "end": "2014-01-01T00:00:00Z"
   },
   "Socialstyrelsen": {
@@ -2389,9 +2437,7 @@
     "name_en": "National Board of Health and Welfare",
     "start": "1913-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Socialstyrelsen",
-    "other_names": [
-      ""
-    ],
+    "mother_org": "Socialdepartementet",
     "org_nr": "202100-0555"
   },
   "Socialvetenskapliga forskningsrådet": {
@@ -2409,9 +2455,6 @@
     "name_en": "The Swedish Institute for Special Needs Education",
     "start": "2001-07-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Specialpedagogiska_institutet",
-    "other_names": [
-      ""
-    ],
     "end": "2008-06-30T00:00:00Z"
   },
   "Specialpedagogiska skolmyndigheten": {
@@ -2419,18 +2462,18 @@
     "name_en": "The National Agency for Special Needs Education and Schools",
     "start": "2008-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Specialpedagogiska_skolmyndigheten",
-    "other_names": [
-      ""
-    ],
+    "mother_org": "Utbildningsdepartementet",
     "org_nr": "202100-5745"
   },
   "Spelinspektionen": {
     "id": "Q10569896",
-    "name_en": "The Swedish Gambling Authority",
+    "name_en": "Spelinspektionen",
     "wiki_url": "https://sv.wikipedia.org/wiki/Spelinspektionen",
     "other_names": [
       "Lotteriinspektionen"
     ],
+    "part_of": "Finansdepartementet",
+    "mother_org": "Finansdepartementet",
     "org_nr": "202100-3310"
   },
   "Sprängämnesinspektionen": {
@@ -2452,7 +2495,18 @@
       "Kungl. Järnvägsstyrelsen",
       "Kungliga Järnvägsstyrelsen"
     ],
+    "part_of": "Kommunikationsdepartementet,Civildepartementet,Näringsdepartementet",
+    "replaces": [
+      "Styrelsen för statens järnvägsbyggnader"
+    ],
     "end": "2000-12-31T00:00:00Z"
+  },
+  "Statens ansvarsnämnd": {
+    "id": "Q10677662",
+    "name_en": "State Accountability Board",
+    "wiki_url": "https://sv.wikipedia.org/wiki/Statens_ansvarsn%C3%A4mnd",
+    "mother_org": "Finansdepartementet",
+    "org_nr": "202100-5836"
   },
   "Statens beredning för medicinsk och social utvärdering": {
     "id": "Q10677666",
@@ -2464,17 +2518,22 @@
       "Statens beredning för medicinsk utvärdering",
       "Svenska beredning för medicinsk utvärdering Health Care"
     ],
+    "mother_org": "Socialdepartementet",
     "org_nr": "202100-4417"
   },
   "Statens biografbyrå": {
     "id": "Q10677667",
     "name_en": "The National Board of Film Classification",
-    "start": "1911-09-01T00:00:00Z",
+    "start": "1911-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Statens_biografbyr%C3%A5",
     "other_names": [
-      ""
+      "Biografbyrån",
+      "SBB",
+      "SBFC",
+      "S.B.F.C."
     ],
-    "end": "2010-12-31T00:00:00Z"
+    "end": "2010-12-31T00:00:00Z",
+    "org_nr": "202100-1041"
   },
   "Statens bostadskreditnämnd": {
     "id": "Q10677668",
@@ -2501,11 +2560,12 @@
     "start": "1962-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Statens_centrum_f%C3%B6r_arkitektur_och_design",
     "other_names": [
+      "Arkitekturmuseet",
       "ArkDes",
       "ArkDesC",
-      "Arkitektur- och designcentrum",
-      "Arkitekturmuseet"
+      "Arkitektur- och designcentrum"
     ],
+    "mother_org": "Sveriges regering",
     "org_nr": "202100-3427"
   },
   "Statens fastighetsverk": {
@@ -2516,15 +2576,15 @@
     "other_names": [
       "Fastighetsverket"
     ],
+    "part_of": "Socialdepartementet",
+    "mother_org": "Finansdepartementet",
     "org_nr": "202100-4474"
   },
   "Statens folkhälsoinstitut": {
     "id": "Q1252909",
     "name_en": "Swedish National Institute of Public Health",
     "wiki_url": "https://sv.wikipedia.org/wiki/Statens_folkh%C3%A4lsoinstitut",
-    "other_names": [
-      ""
-    ],
+    "part_of": "Socialdepartementet",
     "end": "2014-01-01T00:00:00Z"
   },
   "Statens försvarshistoriska museer": {
@@ -2535,25 +2595,26 @@
     "other_names": [
       "SFHM"
     ],
+    "part_of": "kulturdepartementet",
+    "end": "2025-12-31T00:00:00Z",
+    "mother_org": "kulturdepartementet",
     "org_nr": "202100-0464"
   },
   "Statens geotekniska institut": {
     "id": "Q10677678",
     "name_en": "Swedish Geotechnical Institute",
     "wiki_url": "https://sv.wikipedia.org/wiki/Statens_geotekniska_institut",
-    "other_names": [
-      ""
-    ],
+    "part_of": "Socialdepartementet",
+    "mother_org": "Miljödepartementet",
     "org_nr": "202100-0712"
   },
   "Statens haverikommission": {
     "id": "Q3359282",
-    "name_en": "Swedish Accident Investigation Board",
+    "name_en": "Swedish Accident Investigation Authority",
     "start": "1978-07-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Statens_haverikommission",
-    "other_names": [
-      ""
-    ],
+    "part_of": "Försvarsdepartementet",
+    "mother_org": "Justitiedepartementet",
     "org_nr": "202100-3260"
   },
   "Statens historiska museer": {
@@ -2563,6 +2624,8 @@
     "other_names": [
       "SHM"
     ],
+    "part_of": "kulturdepartementet",
+    "mother_org": "kulturdepartementet",
     "org_nr": "202100-4953"
   },
   "Statens inspektion för försvarsunderrättelseverksamheten": {
@@ -2574,6 +2637,10 @@
       "SIUN",
       "Statens Inspektion För Försvarsunderrättelseverksamheten (siun)"
     ],
+    "replaces": [
+      "Försvarets underrättelsenämnd"
+    ],
+    "mother_org": "Försvarsdepartementet",
     "org_nr": "202100-6214"
   },
   "Statens institut för kommunikationsanalys": {
@@ -2584,6 +2651,10 @@
     "other_names": [
       "Delegationen för prognos- och utvecklingsverksamhet inom transportsektorn",
       "SIKA"
+    ],
+    "replaced_by": [
+      "Trafikanalys",
+      "Trafikverket"
     ],
     "end": "2010-04-01T00:00:00Z"
   },
@@ -2602,6 +2673,8 @@
     "other_names": [
       "Sis"
     ],
+    "part_of": "Socialdepartementet",
+    "mother_org": "Socialdepartementet",
     "org_nr": "202100-4508"
   },
   "Statens jordbruksverk": {
@@ -2610,17 +2683,18 @@
     "start": "1991-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Jordbruksverket",
     "other_names": [
-      ""
+      "Jordbruksverket"
     ],
+    "part_of": "Landsbygds- och infrastrukturdepartementet",
+    "mother_org": "Landsbygds- och infrastrukturdepartementet",
     "org_nr": "202100-4151"
   },
   "Statens konstråd": {
     "id": "Q8437714",
     "name_en": "National Public Art Council",
     "wiki_url": "https://sv.wikipedia.org/wiki/Statens_konstr%C3%A5d",
-    "other_names": [
-      ""
-    ],
+    "part_of": "kulturdepartementet",
+    "mother_org": "kulturdepartementet",
     "org_nr": "202100-1033"
   },
   "Statens kulturråd": {
@@ -2628,9 +2702,7 @@
     "name_en": "Swedish Arts Council",
     "start": "1974-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Statens_kulturr%C3%A5d",
-    "other_names": [
-      ""
-    ],
+    "mother_org": "kulturdepartementet",
     "org_nr": "202100-1280"
   },
   "Statens kvalitets- och kompetensråd": {
@@ -2648,8 +2720,8 @@
     "start": "1974-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Statens_k%C3%A4rnkraftinspektion",
     "other_names": [
-      "SKi",
       "SKI",
+      "SKi",
       "Statens Kärnkraftinspektion",
       "Statens kärnkraftsinspektion",
       "Statens Kärnkraftsinspektion"
@@ -2661,31 +2733,31 @@
     "name_en": "Swedish National Archive of Recorded Sound and Moving Images",
     "start": "1979-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Statens_ljud-_och_bildarkiv",
-    "other_names": [
-      ""
-    ],
     "end": "2009-01-01T00:00:00Z"
-  },
-  "Statens maritima och transporthistoriska museer": {
-    "id": "Q10677695",
-    "name_en": "Swedish National Maritime and Transport Museums",
-    "wiki_url": "https://sv.wikipedia.org/wiki/Statens_maritima_och_transporthistoriska_museer",
-    "other_names": [
-      "SMTM",
-      "Statens maritima museer"
-    ],
-    "org_nr": "202100-1132"
   },
   "Statens medieråd": {
     "id": "Q10677697",
     "name_en": "Swedish Media Council",
     "start": "2011-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Statens_medier%C3%A5d",
-    "other_names": [
-      ""
-    ],
-    "end": "2023-12-31T00:00:00Z",
+    "part_of": "kulturdepartementet",
+    "end": "2024-01-01T00:00:00Z",
+    "mother_org": "kulturdepartementet",
     "org_nr": "202100-6396"
+  },
+  "Statens museer för maritim, transport- och försvarshistoria": {
+    "id": "Q10677695",
+    "name_en": "Swedish National Maritime and Transport Museums",
+    "start": "1938-01-01T00:00:00Z",
+    "wiki_url": "https://sv.wikipedia.org/wiki/Statens_maritima_och_transporthistoriska_museer",
+    "other_names": [
+      "SMTM",
+      "Statens maritima museer",
+      "Statens maritima och transporthistoriska museer"
+    ],
+    "part_of": "kulturdepartementet",
+    "mother_org": "kulturdepartementet",
+    "org_nr": "202100-1132"
   },
   "Statens museer för världskultur": {
     "id": "Q10677698",
@@ -2695,6 +2767,8 @@
       "SMVK",
       "Världskulturmuseerna"
     ],
+    "part_of": "kulturdepartementet",
+    "mother_org": "kulturdepartementet",
     "org_nr": "202100-5075"
   },
   "Statens musikverk": {
@@ -2705,6 +2779,8 @@
     "other_names": [
       "Musikverket"
     ],
+    "part_of": "kulturdepartementet",
+    "mother_org": "kulturdepartementet",
     "org_nr": "202100-3666"
   },
   "Statens nämnd för arbetstagares uppfinningar": {
@@ -2714,24 +2790,23 @@
     "other_names": [
       "SNAU"
     ],
+    "mother_org": "Arbetsmarknadsdepartementet",
     "org_nr": "202100-5778"
   },
   "Statens servicecenter": {
     "id": "Q10677716",
     "name_en": "National Government Service Centre",
     "wiki_url": "https://sv.wikipedia.org/wiki/Statens_servicecenter",
-    "other_names": [
-      ""
-    ],
+    "part_of": "Socialdepartementet",
+    "mother_org": "Finansdepartementet",
     "org_nr": "202100-6453"
   },
   "Statens skaderegleringsnämnd": {
     "id": "Q10677718",
     "name_en": "National Claims Adjustment Board",
     "wiki_url": "https://sv.wikipedia.org/wiki/Statens_skaderegleringsn%C3%A4mnd",
-    "other_names": [
-      ""
-    ],
+    "part_of": "Finansdepartementet",
+    "mother_org": "Finansdepartementet",
     "org_nr": "202100-5828"
   },
   "Statens skolinspektion": {
@@ -2741,6 +2816,7 @@
     "other_names": [
       "Skolinspektionen"
     ],
+    "mother_org": "Utbildningsdepartementet",
     "org_nr": "202100-6065"
   },
   "Statens strålskyddsinstitut": {
@@ -2748,20 +2824,25 @@
     "name_en": "National Radiation Protection Authority",
     "start": "1965-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Statens_str%C3%A5lskyddsinstitut",
-    "other_names": [
-      ""
-    ],
     "end": "2008-07-01T00:00:00Z"
+  },
+  "Statens tjänstepensions- och grupplivnämnd": {
+    "id": "Q80207140",
+    "name_en": "State Occupational Pensions and Group Life Board",
+    "mother_org": "Finansdepartementet",
+    "org_nr": "202100-5851"
   },
   "Statens tjänstepensionsverk": {
     "id": "Q10677726",
     "name_en": "National Government Employee Pensions Board",
     "wiki_url": "https://sv.wikipedia.org/wiki/Statens_tj%C3%A4nstepensionsverk",
     "other_names": [
-      "SPV",
       "Statens pensionsverk",
+      "SPV",
       "Statens löne- och pensionsverk"
     ],
+    "part_of": "Finansdepartementet",
+    "mother_org": "Finansdepartementet",
     "org_nr": "202100-0928"
   },
   "Statens utsädeskontroll": {
@@ -2769,9 +2850,6 @@
     "name_en": "Swedish Seed Testing and Certification Institute",
     "start": "1978-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Statens_uts%C3%A4deskontroll",
-    "other_names": [
-      ""
-    ],
     "end": "2006-01-01T00:00:00Z"
   },
   "Statens va-nämnd": {
@@ -2779,9 +2857,7 @@
     "name_en": "Swedish Water Supply and Sewage Tribunal",
     "start": "1970-07-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Statens_va-n%C3%A4mnd",
-    "other_names": [
-      ""
-    ],
+    "part_of": "Socialdepartementet",
     "end": "2015-12-31T00:00:00Z"
   },
   "Statens veterinärmedicinska anstalt": {
@@ -2792,16 +2868,21 @@
     "other_names": [
       "SVA"
     ],
+    "part_of": "Landsbygds- och infrastrukturdepartementet",
+    "mother_org": "Näringsdepartementet",
     "org_nr": "202100-1868"
   },
   "Statens väg- och transportforskningsinstitut": {
     "id": "Q3563936",
     "name_en": "Swedish National Road and Transport Research Institute",
+    "start": "1971-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Statens_v%C3%A4g-_och_transportforskningsinstitut",
     "other_names": [
       "Statens Väg- & Transportforskningsinstitut VTI",
       "statens väg- och trafikinstitut"
     ],
+    "part_of": "Näringsdepartementet",
+    "mother_org": "Infrastrukturdepartementet",
     "org_nr": "202100-0704"
   },
   "Statens växtsortnämnd": {
@@ -2814,13 +2895,16 @@
     "end": "2006-01-01T00:00:00Z"
   },
   "Statskontoret": {
-    "id": "Q10677795",
-    "name_en": "Swedish Agency for Public Management",
-    "wiki_url": "https://sv.wikipedia.org/wiki/Statskontoret",
+    "id": "Q7654780",
+    "name_en": "National Financial Management Authority",
+    "start": "1998-01-01T00:00:00Z",
+    "wiki_url": "https://sv.wikipedia.org/wiki/Ekonomistyrningsverket",
     "other_names": [
-      ""
+      "ESV"
     ],
-    "org_nr": "202100-0852"
+    "part_of": "Finansdepartementet",
+    "mother_org": "Finansdepartementet",
+    "org_nr": "202100-5026"
   },
   "Steriliseringsersättningsnämnden": {
     "id": "Q127911668",
@@ -2836,9 +2920,6 @@
     "name_en": "Stockholm Academy of Dramatic Arts",
     "start": "2011-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Stockholms_dramatiska_h%C3%B6gskola",
-    "other_names": [
-      ""
-    ],
     "end": "2014-01-01T00:00:00Z"
   },
   "Stockholms konstnärliga högskola": {
@@ -2846,9 +2927,7 @@
     "name_en": "Stockholm University of the Arts",
     "start": "2014-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Stockholms_konstn%C3%A4rliga_h%C3%B6gskola",
-    "other_names": [
-      ""
-    ],
+    "mother_org": "Utbildningsdepartementet",
     "org_nr": "202100-6560"
   },
   "Stockholms universitet": {
@@ -2859,6 +2938,7 @@
     "other_names": [
       "Stockholms högskola"
     ],
+    "mother_org": "Utbildningsdepartementet",
     "org_nr": "202100-3062"
   },
   "Strålsäkerhetsmyndigheten": {
@@ -2869,6 +2949,8 @@
     "other_names": [
       "SSM"
     ],
+    "part_of": "Miljödepartementet",
+    "mother_org": "Miljödepartementet",
     "org_nr": "202100-5737"
   },
   "Styrelsen för ackreditering och teknisk kontroll": {
@@ -2878,6 +2960,8 @@
     "other_names": [
       "SWEDAC"
     ],
+    "part_of": "Utrikesdepartementet",
+    "mother_org": "Utrikesdepartementet",
     "org_nr": "202100-3815"
   },
   "Styrelsen för psykologiskt försvar": {
@@ -2885,33 +2969,27 @@
     "name_en": "National Board of Psychological Defence",
     "start": "1985-07-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Styrelsen_f%C3%B6r_psykologiskt_f%C3%B6rsvar",
-    "other_names": [
-      ""
+    "replaced_by": [
+      "Myndigheten för civilt försvar"
     ],
     "end": "2008-01-01T00:00:00Z"
   },
   "Styrelsen för samefonden": {
     "id": "Q80207143",
     "name_en": "The Sami Foundation Board",
-    "other_names": [
-      ""
-    ],
+    "mother_org": "Näringsdepartementet",
     "org_nr": "202100-6800"
   },
   "Svenska Fao-kommittén": {
     "id": "Q80207145",
     "name_en": "The Swedish FAO Committee",
-    "other_names": [
-      ""
-    ],
+    "mother_org": "Näringsdepartementet",
     "org_nr": "202100-6818"
   },
   "Svenska Ilo-kommittén": {
     "id": "Q80207104",
     "name_en": "Swedish ILO Committee",
-    "other_names": [
-      ""
-    ],
+    "mother_org": "Arbetsmarknadsdepartementet",
     "org_nr": "202100-5877"
   },
   "Svenska institutet": {
@@ -2919,18 +2997,15 @@
     "name_en": "Swedish Institute",
     "start": "1945-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Svenska_institutet",
-    "other_names": [
-      ""
-    ],
+    "part_of": "Utrikesdepartementet",
+    "mother_org": "Utrikesdepartementet",
     "org_nr": "202100-4961"
   },
   "Svenska institutet för Europapolitiska studier": {
     "id": "Q10685405",
     "name_en": "The Swedish Institute for European Policy Studies",
     "wiki_url": "https://sv.wikipedia.org/wiki/Svenska_institutet_f%C3%B6r_europapolitiska_studier",
-    "other_names": [
-      ""
-    ],
+    "mother_org": "Statsrådsberedningen",
     "org_nr": "202100-5331"
   },
   "Svenska institutet i Alexandria": {
@@ -2938,27 +3013,19 @@
     "name_en": "Swedish Institute Alexandria",
     "start": "1999-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Svenska_institutet_i_Alexandria",
-    "other_names": [
-      ""
-    ],
     "end": "2019-01-01T00:00:00Z"
   },
   "Svenskt biografiskt lexikon": {
     "id": "Q113366214",
     "name_en": "Dictionary of Swedish National Biography",
     "start": "1962-01-01T00:00:00Z",
-    "other_names": [
-      ""
-    ],
     "end": "2009-01-01T00:00:00Z"
   },
   "Sveriges författarfond": {
     "id": "Q18449197",
     "name_en": "Swedish Authors’ Fund",
     "wiki_url": "https://sv.wikipedia.org/wiki/Sveriges_f%C3%B6rfattarfond",
-    "other_names": [
-      ""
-    ],
+    "mother_org": "kulturdepartementet",
     "org_nr": "202100-3583"
   },
   "Sveriges geologiska undersökning": {
@@ -2967,11 +3034,13 @@
     "start": "1858-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Sveriges_geologiska_unders%C3%B6kning",
     "other_names": [
-      "1:e statsgeolog",
       "SGU",
+      "1:e statsgeolog",
       "Statsgeofysiker",
       "Statsgeolog"
     ],
+    "part_of": "Näringsdepartementet",
+    "mother_org": "Näringsdepartementet",
     "org_nr": "202100-2528"
   },
   "Sveriges lantbruksuniversitet": {
@@ -2979,9 +3048,13 @@
     "name_en": "Swedish University of Agricultural Sciences",
     "start": "1977-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Sveriges_lantbruksuniversitet",
-    "other_names": [
-      ""
+    "replaces": [
+      "Lantbrukshögskolan",
+      "Skogsinstitutet",
+      "Skogsmästarskolan",
+      "Veterinärhögskolan"
     ],
+    "mother_org": "Näringsdepartementet",
     "org_nr": "202100-2817"
   },
   "Sveriges meteorologiska och hydrologiska institut": {
@@ -2992,6 +3065,8 @@
     "other_names": [
       "SMHI"
     ],
+    "part_of": "Miljödepartementet",
+    "mother_org": "Miljödepartementet",
     "org_nr": "202100-0696"
   },
   "Säkerhets- och integritetsskyddsnämnden": {
@@ -3000,9 +3075,10 @@
     "start": "2008-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/S%C3%A4kerhets-_och_integritetsskyddsn%C3%A4mnden",
     "other_names": [
-      "SIN",
-      "Integritetsskyddsnämnden"
+      "Integritetsskyddsnämnden",
+      "SIN"
     ],
+    "mother_org": "Justitiedepartementet",
     "org_nr": "202100-5703"
   },
   "Säkerhetspolisen": {
@@ -3016,6 +3092,11 @@
       "Säpo",
       "SÄPO"
     ],
+    "part_of": "Justitiedepartementet",
+    "replaces": [
+      "Rikspolisstyrelsen"
+    ],
+    "mother_org": "Justitiedepartementet",
     "org_nr": "202100-6594"
   },
   "Södertörns högskola": {
@@ -3026,6 +3107,7 @@
     "other_names": [
       "SH"
     ],
+    "mother_org": "Utbildningsdepartementet",
     "org_nr": "202100-4896"
   },
   "Tandvårds- och läkemedelsförmånsverket": {
@@ -3036,6 +3118,8 @@
     "other_names": [
       "TLV"
     ],
+    "part_of": "Socialdepartementet",
+    "mother_org": "Socialdepartementet",
     "org_nr": "202100-5364"
   },
   "Teaterhögskolan i Stockholm": {
@@ -3044,6 +3128,9 @@
     "wiki_url": "https://sv.wikipedia.org/wiki/Teaterh%C3%B6gskolan_i_Stockholm",
     "other_names": [
       "Scenskolan"
+    ],
+    "replaced_by": [
+      "Stockholms dramatiska högskola"
     ]
   },
   "Teknikvetenskapliga forskningsrådet": {
@@ -3062,10 +3149,10 @@
     "start": "1853-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Televerket",
     "other_names": [
-      "Telegrafverket",
       "Kongl. Elecktriska Telegraf-Werket",
       "Kongl. Telegrafverket",
       "Kungl. Telegrafverket",
+      "Telegrafverket",
       "Kongliga Elecktriska Telegraf-Werket",
       "Kongliga Telegrafverket",
       "Kungliga Telegrafverket"
@@ -3080,6 +3167,8 @@
     "other_names": [
       "Regelrådet"
     ],
+    "part_of": "Samordning av Sveriges officiella statistik",
+    "mother_org": "Näringsdepartementet",
     "org_nr": "202100-6149"
   },
   "Totalförsvarets chefsnämnd": {
@@ -3099,6 +3188,8 @@
     "other_names": [
       "FOI"
     ],
+    "part_of": "Försvarsdepartementet",
+    "mother_org": "Försvarsdepartementet",
     "org_nr": "202100-5182"
   },
   "Trafikanalys": {
@@ -3106,9 +3197,8 @@
     "name_en": "Transport Analysis",
     "start": "2010-04-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Trafikanalys_(myndighet)",
-    "other_names": [
-      ""
-    ],
+    "part_of": "Näringsdepartementet",
+    "mother_org": "Infrastrukturdepartementet",
     "org_nr": "202100-6305"
   },
   "Trafikverket": {
@@ -3117,8 +3207,13 @@
     "start": "2010-04-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Trafikverket",
     "other_names": [
-      ""
+      "TRV"
     ],
+    "part_of": "Landsbygds- och infrastrukturdepartementet",
+    "replaces": [
+      "Vägverket"
+    ],
+    "mother_org": "Landsbygds- och infrastrukturdepartementet",
     "org_nr": "202100-6297"
   },
   "Transportstyrelsen": {
@@ -3129,6 +3224,8 @@
     "other_names": [
       "TS"
     ],
+    "part_of": "Näringsdepartementet",
+    "mother_org": "Infrastrukturdepartementet",
     "org_nr": "202100-6099"
   },
   "Tullverket": {
@@ -3136,9 +3233,8 @@
     "name_en": "Swedish Customs",
     "start": "1636-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Tullverket",
-    "other_names": [
-      ""
-    ],
+    "part_of": "Finansdepartementet",
+    "mother_org": "Finansdepartementet",
     "org_nr": "202100-0969"
   },
   "Turistdelegationen": {
@@ -3159,6 +3255,10 @@
     "other_names": [
       "UmU"
     ],
+    "replaces": [
+      "Folkskoleseminariet i Umeå"
+    ],
+    "mother_org": "Utbildningsdepartementet",
     "org_nr": "202100-2874"
   },
   "Universitets- och högskolerådet": {
@@ -3169,6 +3269,8 @@
     "other_names": [
       "UHR"
     ],
+    "part_of": "Utbildningsdepartementet",
+    "mother_org": "Utbildningsdepartementet",
     "org_nr": "202100-6487"
   },
   "Universitetskanslersämbetet": {
@@ -3179,15 +3281,15 @@
     "other_names": [
       "UKÄ"
     ],
+    "part_of": "Utbildningsdepartementet",
+    "mother_org": "Utbildningsdepartementet",
     "org_nr": "202100-6495"
   },
   "Upphandlingsmyndigheten": {
     "id": "Q26253184",
     "name_en": "The National Agency for Public Procurement",
     "wiki_url": "https://sv.wikipedia.org/wiki/Upphandlingsmyndigheten",
-    "other_names": [
-      ""
-    ],
+    "mother_org": "Finansdepartementet",
     "org_nr": "202100-6610"
   },
   "Uppsala universitet": {
@@ -3197,15 +3299,16 @@
     "wiki_url": "https://sv.wikipedia.org/wiki/Uppsala_universitet",
     "other_names": [
       "Skandalhuset",
-      "UU",
       "Universitetet i Uppsala",
       "Uppsala akademi",
       "Uppsala universitet: byggnader och platser",
       "Uppsala universitets byggda miljö",
       "Uppsala universitets byggnader",
       "Upsala akademi",
-      "Upsala Universitet"
+      "Upsala Universitet",
+      "UU"
     ],
+    "mother_org": "Utbildningsdepartementet",
     "org_nr": "202100-2932"
   },
   "Utbetalningsmyndigheten": {
@@ -3213,19 +3316,20 @@
     "name_en": "Swedish Payments Agency",
     "start": "2024-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Utbetalningsmyndigheten",
-    "other_names": [
-      ""
-    ]
+    "mother_org": "Finansdepartementet"
   },
   "Utlänningsnämnden": {
     "id": "Q4726530",
     "name_en": "Aliens Appeals Board of Sweden",
     "start": "1991-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Utl%C3%A4nningsn%C3%A4mnden",
-    "other_names": [
-      ""
-    ],
     "end": "2006-03-31T00:00:00Z"
+  },
+  "Utrikesförvaltningens antagningsnämnd": {
+    "id": "Q80207147",
+    "name_en": "Foreign Service Admissions Board",
+    "mother_org": "Utrikesdepartementet",
+    "org_nr": "202100-6826"
   },
   "Valideringsdelegationen": {
     "id": "Q127808720",
@@ -3241,17 +3345,16 @@
     "name_en": "Swedish Election Authority",
     "start": "2001-07-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Valmyndigheten",
-    "other_names": [
-      ""
-    ],
+    "part_of": "Justitiedepartementet",
+    "mother_org": "kulturdepartementet",
     "org_nr": "202100-5281"
   },
   "Verket för högskoleservice": {
     "id": "Q10714170",
     "name_en": "Verket för högskoleservice",
     "wiki_url": "https://sv.wikipedia.org/wiki/Verket_f%C3%B6r_h%C3%B6gskoleservice",
-    "other_names": [
-      ""
+    "replaced_by": [
+      "Universitets- och högskolerådet"
     ],
     "end": "2012-12-31T00:00:00Z"
   },
@@ -3263,6 +3366,8 @@
     "other_names": [
       "Vinnova"
     ],
+    "part_of": "Näringsdepartementet",
+    "mother_org": "Näringsdepartementet",
     "org_nr": "202100-5216"
   },
   "Verva": {
@@ -3274,6 +3379,10 @@
       "Verket för förvaltningsutveckling",
       "VERVA"
     ],
+    "replaced_by": [
+      "Kompetensrådet för utveckling i staten",
+      "Kammarkollegiet"
+    ],
     "end": "2008-12-31T00:00:00Z"
   },
   "Vetenskapsrådet": {
@@ -3281,9 +3390,8 @@
     "name_en": "Swedish Research Council",
     "start": "2001-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/Vetenskapsr%C3%A5det",
-    "other_names": [
-      ""
-    ],
+    "part_of": "Utbildningsdepartementet",
+    "mother_org": "Utbildningsdepartementet",
     "org_nr": "202100-5208"
   },
   "Vägverket": {
@@ -3291,8 +3399,12 @@
     "name_en": "Swedish Road Administration",
     "start": "1983-04-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/V%C3%A4gverket",
-    "other_names": [
-      ""
+    "part_of": "Näringsdepartementet",
+    "replaces": [
+      "Trafiksäkerhetsverket"
+    ],
+    "replaced_by": [
+      "Trafikverket"
     ],
     "end": "2010-03-31T00:00:00Z"
   },
@@ -3304,6 +3416,9 @@
     "other_names": [
       "Växjö Högskola"
     ],
+    "replaced_by": [
+      "Linnéuniversitetet"
+    ],
     "end": "2010-01-01T00:00:00Z"
   },
   "Åklagarmyndigheten": {
@@ -3314,6 +3429,8 @@
     "other_names": [
       "Åklagarmyndigheten (Sverige)"
     ],
+    "part_of": "Justitiedepartementet",
+    "mother_org": "Justitiedepartementet",
     "org_nr": "202100-0084"
   },
   "Örebro universitet": {
@@ -3322,21 +3439,20 @@
     "start": "1977-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/%C3%96rebro_universitet",
     "other_names": [
-      "Örebro universitetsbibliotek",
       "Högskolan i Örebro",
+      "Restauranghögskolan i Grythyttan",
+      "ORU",
       "Campus Alfred Nobel",
       "Örebro högskola",
-      "Restauranghögskolan i Grythyttan",
-      "ORU"
+      "Örebro universitetsbibliotek"
     ],
+    "mother_org": "Utbildningsdepartementet",
     "org_nr": "202100-2924"
   },
   "Överklagandenämnden för etikprövning": {
     "id": "Q80207151",
     "name_en": "The Ethics Review Appeals Board",
-    "other_names": [
-      ""
-    ],
+    "mother_org": "Utbildningsdepartementet",
     "org_nr": "202100-5463"
   },
   "Överklagandenämnden för högskolan": {
@@ -3344,18 +3460,14 @@
     "name_en": "The Higher Education Appeals Board",
     "start": "1992-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/%C3%96verklaganden%C3%A4mnden_f%C3%B6r_h%C3%B6gskolan",
-    "other_names": [
-      ""
-    ],
+    "mother_org": "Utbildningsdepartementet",
     "org_nr": "202100-4375"
   },
   "Överklagandenämnden för studiestöd": {
     "id": "Q10728612",
     "name_en": "The National Board of Appeal for Student Aid",
     "wiki_url": "https://sv.wikipedia.org/wiki/%C3%96verklaganden%C3%A4mnden_f%C3%B6r_studiest%C3%B6d",
-    "other_names": [
-      ""
-    ],
+    "mother_org": "Utbildningsdepartementet",
     "org_nr": "202100-5273"
   },
   "överståthållarämbetet": {
@@ -3363,8 +3475,8 @@
     "name_en": "Over-Governors office",
     "start": "1634-01-01T00:00:00Z",
     "wiki_url": "https://sv.wikipedia.org/wiki/%C3%96verst%C3%A5th%C3%A5llar%C3%A4mbetet",
-    "other_names": [
-      ""
+    "replaced_by": [
+      "Stockholms län"
     ],
     "end": "1967-01-01T00:00:00Z"
   }

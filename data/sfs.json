@@ -24,7 +24,8 @@
   "Affärsverket svenska kraftnät": {
     "sfs": [
       "1991:2013",
-      "2007:1119"
+      "2007:1119",
+      "2025:782"
     ],
     "start": "1992-01-01T00:00:00",
     "end": null,
@@ -1006,8 +1007,8 @@
       "2016:1023"
     ],
     "start": "1998-07-01T00:00:00",
-    "end": null,
-    "expired_by": null,
+    "end": "2026-01-01T00:00:00",
+    "expired_by": "2025:681",
     "other_names": [],
     "replaces": []
   },
@@ -2864,7 +2865,8 @@
   "Moderna museet": {
     "sfs": [
       "1999:563",
-      "2007:1177"
+      "2007:1177",
+      "2025:1536"
     ],
     "start": "1999-07-01T00:00:00",
     "end": null,
@@ -2887,8 +2889,8 @@
       "2018:254"
     ],
     "start": "2018-06-01T00:00:00",
-    "end": null,
-    "expired_by": null,
+    "end": "2026-01-01T00:00:00",
+    "expired_by": "2025:1541",
     "other_names": [],
     "replaces": []
   },
@@ -2901,6 +2903,20 @@
     "expired_by": "1995:1258",
     "other_names": [],
     "replaces": []
+  },
+  "Myndigheten för civilt försvar": {
+    "sfs": [
+      "2008:1002"
+    ],
+    "start": "2009-01-01T00:00:00",
+    "end": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Krisberedskapsmyndigheten",
+      "Statens räddningsverk",
+      "Styrelsen för psykologiskt försvar"
+    ]
   },
   "Myndigheten för delaktighet": {
     "sfs": [
@@ -3024,20 +3040,6 @@
     "other_names": [],
     "replaces": []
   },
-  "Myndigheten för samhällsskydd och beredskap": {
-    "sfs": [
-      "2008:1002"
-    ],
-    "start": "2009-01-01T00:00:00",
-    "end": null,
-    "expired_by": null,
-    "other_names": [],
-    "replaces": [
-      "Krisberedskapsmyndigheten",
-      "Statens räddningsverk",
-      "Styrelsen för psykologiskt försvar"
-    ]
-  },
   "Myndigheten för skolutveckling": {
     "sfs": [
       "2002:1161"
@@ -3053,11 +3055,23 @@
       "2017:104"
     ],
     "start": "2017-07-01T00:00:00",
+    "end": "2026-01-01T00:00:00",
+    "expired_by": "2025:901",
+    "other_names": [],
+    "replaces": [
+      "Nämnden för statligt stöd till trossamfund"
+    ]
+  },
+  "Myndigheten för säkerhet och integritetsskydd": {
+    "sfs": [
+      "2025:1484"
+    ],
+    "start": "2026-03-01T00:00:00",
     "end": null,
     "expired_by": null,
     "other_names": [],
     "replaces": [
-      "Nämnden för statligt stöd till trossamfund"
+      "Säkerhets- och integritetsskyddsnämnden"
     ]
   },
   "Myndigheten för tillgängliga medier": {
@@ -3100,7 +3114,8 @@
     "sfs": [
       "2007:1140",
       "2015:49",
-      "2018:1425"
+      "2018:1425",
+      "2025:900"
     ],
     "start": "2008-01-01T00:00:00",
     "end": null,
@@ -3305,8 +3320,8 @@
       "2007:1193"
     ],
     "start": null,
-    "end": null,
-    "expired_by": null,
+    "end": "2026-01-01T00:00:00",
+    "expired_by": "2025:1514",
     "other_names": [],
     "replaces": []
   },
@@ -4751,8 +4766,8 @@
       "2013:71"
     ],
     "start": "2013-05-01T00:00:00",
-    "end": null,
-    "expired_by": null,
+    "end": "2026-01-01T00:00:00",
+    "expired_by": "2025:1536",
     "other_names": [],
     "replaces": [
       "Arkitekturmuseet"
@@ -4795,7 +4810,8 @@
       "1997:868",
       "2004:1200",
       "2007:1153",
-      "2014:520"
+      "2014:520",
+      "2025:784"
     ],
     "start": "1998-01-01T00:00:00",
     "end": null,
@@ -4868,8 +4884,8 @@
       "2007:1178"
     ],
     "start": "1992-07-01T00:00:00",
-    "end": null,
-    "expired_by": null,
+    "end": "2026-01-01T00:00:00",
+    "expired_by": "2025:1519",
     "other_names": [],
     "replaces": []
   },
@@ -5165,8 +5181,8 @@
       "2007:1188"
     ],
     "start": null,
-    "end": null,
-    "expired_by": null,
+    "end": "2026-01-01T00:00:00",
+    "expired_by": "2025:1536",
     "other_names": [],
     "replaces": []
   },
@@ -5324,8 +5340,8 @@
       "2007:1198"
     ],
     "start": "2008-01-01T00:00:00",
-    "end": null,
-    "expired_by": null,
+    "end": "2026-01-01T00:00:00",
+    "expired_by": "2025:1519",
     "other_names": [],
     "replaces": [
       "Statens maritima museer"
@@ -5363,6 +5379,19 @@
     "expired_by": "1988:378",
     "other_names": [],
     "replaces": []
+  },
+  "Statens museer för maritim-, transport- och försvarshistoria": {
+    "sfs": [
+      "2025:1519"
+    ],
+    "start": "2026-01-01T00:00:00",
+    "end": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Statens försvarshistoriska museer",
+      "Statens maritima och transporthistoriska museer"
+    ]
   },
   "Statens museer för världskultur": {
     "sfs": [
@@ -5933,7 +5962,8 @@
       "1988:959",
       "1992:877",
       "2005:862",
-      "2007:827"
+      "2007:827",
+      "2025:681"
     ],
     "start": "1986-07-01T00:00:00",
     "end": null,
@@ -6064,7 +6094,8 @@
     "sfs": [
       "1995:869",
       "2007:1371",
-      "2010:1080"
+      "2010:1080",
+      "2025:269"
     ],
     "start": "1995-07-01T00:00:00",
     "end": null,
@@ -6309,8 +6340,8 @@
       "2007:1141"
     ],
     "start": "2008-01-01T00:00:00",
-    "end": null,
-    "expired_by": null,
+    "end": "2026-03-01T00:00:00",
+    "expired_by": "2025:1484",
     "other_names": [],
     "replaces": [
       "Registernämnden"
