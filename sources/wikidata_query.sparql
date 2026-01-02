@@ -5,14 +5,14 @@ SELECT  ?org
         ?name
         ?name_en
         (GROUP_CONCAT(DISTINCT(?altLabel); separator = ";;") AS ?other_names)
-        (GROUP_CONCAT(DISTINCT(?part_of_valuesLabel); separator = ",") AS ?part_of)
+        (GROUP_CONCAT(DISTINCT(?part_ofLabel); separator = ",") AS ?part_of)
         ?mother_org
         ?org_nr
         ?start
         ?end
-        (GROUP_CONCAT(DISTINCT(?replacesLabel); separator = ",") AS ?replaces)
-        (GROUP_CONCAT(DISTINCT(?replaced_by_values); separator = ",") AS ?replaced_by)
-        (GROUP_CONCAT(DISTINCT(?follows_values); separator = ",") AS ?follows)
+        (GROUP_CONCAT(DISTINCT(?replacesLabel); separator = ";;") AS ?replaces)
+        (GROUP_CONCAT(DISTINCT(?replaced_byLabel); separator = ";;") AS ?replaced_by)
+        (GROUP_CONCAT(DISTINCT(?followsLabel); separator = ";;") AS ?follows)
         ?wiki_url WHERE {
     {
         ?org wdt:P31 wd:Q68295960.
@@ -21,11 +21,10 @@ SELECT  ?org
     }
     ?org rdfs:label ?name FILTER(LANG(?name) = "sv").
     ?org rdfs:label ?name_en FILTER(LANG(?name_en) = "en").
-    OPTIONAL { ?org wdt:P361 ?part_of_values. }
     OPTIONAL {
-      ?org wdt:P361 ?part_of_value.
-      ?part_of_values rdfs:label ?part_of
-      FILTER(LANGMATCHES(LANG(?part_of), "sv" ))
+      ?org wdt:P361 ?part_of_values.
+      ?part_of_values rdfs:label ?part_ofLabel
+      FILTER(LANGMATCHES(LANG(?part_ofLabel), "sv" ))
     }
     OPTIONAL {
       ?org wdt:P749 ?mother_org_value.
@@ -41,8 +40,16 @@ SELECT  ?org
       ?replaces_values rdfs:label ?replacesLabel
       FILTER(LANGMATCHES(LANG(?replacesLabel), "sv" ))
     }
-    OPTIONAL { ?org wdt:P1366 ?replaced_by_values. }
-    OPTIONAL { ?org wdt:P155 ?follows_values. }
+    OPTIONAL {
+      ?org wdt:P1366 ?replaced_by_values.
+      ?replaced_by_values rdfs:label ?replaced_byLabel
+      FILTER(LANGMATCHES(LANG(?replaced_byLabel), "sv" ))
+    }
+    OPTIONAL {
+      ?org wdt:P155 ?follows_values.
+      ?follows_values rdfs:label ?followsLabel
+      FILTER(LANGMATCHES(LANG(?followsLabel), "sv" ))
+    }
     OPTIONAL {
         ?wiki_url schema:about ?org .
         ?wiki_url schema:inLanguage "sv" .
