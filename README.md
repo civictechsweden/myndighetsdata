@@ -56,6 +56,8 @@ python generate_matchlist.py
 
 You will need to download Arbetsgivarverket's data manually. Go to the [following address](https://www.arbetsgivarverket.se/statistik-och-analys/staten-i-siffror-anstallda-i-staten/staten-i-siffror-om-arbetsgivarverkets-medlemmar), click the download button at the bottom of the embedded Tableau dashboard then click Crosstab > Tabell Mynd > CSV.
 
+On the 1st of January 2026, ESV absorbed Statskontoret and took its name, a situation that to my knowledge has never occurred before. This has several consequences, first on the data sources. For now, ESV's *myndighetsregister* is still available and I have chosen to continue to call it this way. Statskontoret's data has been removed but it is still possible to find a direct link to a spreadsheet by browsing the [Internet Archive](https://web.archive.org/web/20251119052353/https://www.statskontoret.se/fokusomraden/fakta-om-statsforvaltningen/oppna-data/). I'm not sure how the now unified agency will deal with these competing projects in the coming years so I'll keep an eye on how it develops. When it comes to how Statskontoret and ESV are represented in the data, this is also an issue since some sources like the Swedish legal database or *Arbetsgivarverket* only identify agencies with their name. Thus, it is impossible to track the absorption + renaming solely through these sources, although other sources also use identifiers such as *organisationsnummer*.
+
 ## License
 
 The code is licensed under AGPLv3, which means you can reuse as long as you attribute, and that you can modify as long as you published what you make.

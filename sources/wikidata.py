@@ -6,9 +6,7 @@ FILEPATH = "raw_files/wikidata_raw"
 
 
 def download():
-    agent = (
-        "Myndighetsbot/0.1 (http://github.com/PierreMesure/better_myndighetsregister)"
-    )
+    agent = "Myndighetsbot/0.1 (https://github.com/civictechsweden/myndighetsdata)"
     sparql = SPARQLWrapper(ENDPOINT, agent=agent)
     sparql.setReturnFormat(JSON)
 
