@@ -33,18 +33,22 @@ def extract():
         for key in row.keys():
             row[key] = row[key]["value"]
 
+        for key in ["other_names", "replaces", "replaced_by", "follows"]:
+            csvalues = row[key]
+            row[key] = csvalues.split(";;") if csvalues else []
+
         data_flat.append(row)
 
     new_names = {
         "org": "id",
-        "part_ofLabel": "part_of",
-        "mother_orgLabel": "mother_org",
-        "sourceLabel": "source",
+        "part_of": "part_of",
+        "mother_org": "mother_org",
+        "source": "source",
         "org_nr": "org_nr",
         "start": "start",
         "end": "end",
-        "replacesLabel": "replaces",
-        "replaced_byLabel": "replaced_by",
+        "replaces": "replaces",
+        "replaced_by": "replaced_by",
         "name_en": "name_en",
         "wiki_url": "wiki_url",
         "other_names": "other_names",
@@ -55,13 +59,12 @@ def extract():
     for row in data_flat:
         row_clean = {}
         for key in row.keys():
-            if key in new_names:
+            if key in new_names and row[key]:
                 row_clean[new_names[key]] = row[key]
 
         name = row["name"]
 
         row_clean["id"] = row_clean["id"].split("/")[-1]
-        row_clean["other_names"] = row_clean["other_names"].split(";;")
 
         if name not in data_clean:
             data_clean[name] = row_clean
