@@ -6,7 +6,7 @@ Myndighetsdata is an attempt to make data about the Swedish government agencies 
 
 There are many government agencies in Sweden, they get called by various names and several hundred agencies have disappeared over the past decades. This data will hopefully be of some help to those who try to study public sector and build services building on government data. It's not a finished product, it's not 100% clean and exact but feel free to reuse it and contribute to make it even better! 😊
 
-I recommend to read [my blog post](https://medium.com/civictechsweden/vem-har-koll-på-sveriges-myndigheter-dc8ca8e9dab7) to get a better overview of the different sources' strengths and weaknesses.
+I recommend to read [my blog post] in [Swedish](https://pierre.mesu.re/sv/posts/myndighetsdata/) or [English](https://pierre.mesu.re/posts/myndighetsdata/) to get a better overview of the different sources' strengths and weaknesses.
 
 ## Where is the data?
 
