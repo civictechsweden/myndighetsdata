@@ -25,7 +25,7 @@ swedish work environment authority,Arbetsmiljöverket
 av,Arbetsmiljöverket
 arbetarskyddsstyrelsen,Arbetsmiljöverket
 barnombudsmannen,Barnombudsmannen
-office of the children?s ombudsman,Barnombudsmannen
+office of the ombudsman for children,Barnombudsmannen
 bo,Barnombudsmannen
 ombudsman for children in sweden,Barnombudsmannen
 blekinge tekniska högskola,Blekinge tekniska högskola
@@ -93,9 +93,6 @@ swedish ehealth agency,E-hälsomyndigheten
 ekobrottsmyndigheten,Ekobrottsmyndigheten
 swedish economic crime authority,Ekobrottsmyndigheten
 ebm,Ekobrottsmyndigheten
-ekonomistyrningsverket,Ekonomistyrningsverket
-national financial management authority,Ekonomistyrningsverket
-esv,Ekonomistyrningsverket
 elsäkerhetsverket,Elsäkerhetsverket
 national electrical saftey board,Elsäkerhetsverket
 elsak,Elsäkerhetsverket
@@ -175,13 +172,15 @@ gymnastik och idrottshögskolan,Gymnastik- och idrottshögskolan
 ihs,Gymnastik- och idrottshögskolan
 idrottshögskolan i stockholm,Gymnastik- och idrottshögskolan
 swedish school of sport and health sciences,Gymnastik- och idrottshögskolan
-gci,Gymnastik- och idrottshögskolan
 g.c.i.,Gymnastik- och idrottshögskolan
+gci,Gymnastik- och idrottshögskolan
 gymnastiska centralinstitutet,Gymnastik- och idrottshögskolan
 göteborgs universitet,Göteborgs universitet
 university of gothenburg,Göteborgs universitet
 gu,Göteborgs universitet
+göteborgs högskola,Göteborgs universitet
 filmhögskolan i göteborg,Göteborgs universitet
+gbgs universitet,Göteborgs universitet
 havs- och vattenmyndigheten,Havs- och vattenmyndigheten
 swedish agency for marine and water management,Havs- och vattenmyndigheten
 hav,Havs- och vattenmyndigheten
@@ -189,9 +188,9 @@ högskolan dalarna,Högskolan Dalarna
 dalarna university,Högskolan Dalarna
 hdal,Högskolan Dalarna
 högskolan i dalarna,Högskolan Dalarna
+dalarnas universitet,Högskolan Dalarna
 högskolan i falun-borlänge,Högskolan Dalarna
 högskolan i falun/borlänge,Högskolan Dalarna
-dalarnas universitet,Högskolan Dalarna
 du,Högskolan Dalarna
 högskolan i borås,Högskolan i Borås
 university college of borås,Högskolan i Borås
@@ -352,15 +351,17 @@ musikhögskolan i stockholm,Kungl. Musikhögskolan i Stockholm
 "musikhögskolan, stockholm",Kungl. Musikhögskolan i Stockholm
 musikkonservatoriet,Kungl. Musikhögskolan i Stockholm
 musikkonservatoriet i stockholm,Kungl. Musikhögskolan i Stockholm
+stockholms konservatorium,Kungl. Musikhögskolan i Stockholm
 stockholms musikhögskola,Kungl. Musikhögskolan i Stockholm
 stockholms musikkonservatorium,Kungl. Musikhögskolan i Stockholm
 kungl. tekniska högskolan,Kungl. Tekniska högskolan
 royal institute of technology,Kungl. Tekniska högskolan
 kth,Kungl. Tekniska högskolan
 kungliga tekniska högskolan,Kungl. Tekniska högskolan
+teknis,Kungl. Tekniska högskolan
+tekniska högskolan,Kungl. Tekniska högskolan
 kungliga tekniska högskolan i stockholm,Kungl. Tekniska högskolan
 kungliska tekniska högskolan,Kungl. Tekniska högskolan
-tekniska högskolan,Kungl. Tekniska högskolan
 tekniska högskolan i stockholm,Kungl. Tekniska högskolan
 teknologiska institutet,Kungl. Tekniska högskolan
 teknologiska institutet i stockholm,Kungl. Tekniska högskolan
@@ -381,8 +382,8 @@ central office of the national land survey,Lantmäteriet
 lm,Lantmäteriet
 lantmäteriverket,Lantmäteriet
 lmv,Lantmäteriet
-lantmäteristyrelsen,Lantmäteriet
 lantmäterikontoret,Lantmäteriet
+lantmäteristyrelsen,Lantmäteriet
 statens lantmäteriverk,Lantmäteriet
 linköpings universitet,Linköpings universitet
 linköping university,Linköpings universitet
@@ -391,8 +392,8 @@ jönköping university,Linköpings universitet
 linnéuniversitetet,Linnéuniversitetet
 linnaeus university,Linnéuniversitetet
 linu,Linnéuniversitetet
-lnu,Linnéuniversitetet
 linneuniversitetet,Linnéuniversitetet
+lnu,Linnéuniversitetet
 livsmedelsverket,Livsmedelsverket
 national food agency,Livsmedelsverket
 slv,Livsmedelsverket
@@ -468,6 +469,7 @@ länsstyrelsen i södermanlands län,Länsstyrelsen i Södermanlands län
 county administration södermanland,Länsstyrelsen i Södermanlands län
 lsoder,Länsstyrelsen i Södermanlands län
 södermanland county administrative board,Länsstyrelsen i Södermanlands län
+länsstyrelsen i sörmlands län,Länsstyrelsen i Södermanlands län
 länsstyrelsen i uppsala län,Länsstyrelsen i Uppsala län
 county administrative board of uppsala,Länsstyrelsen i Uppsala län
 lupps,Länsstyrelsen i Uppsala län
@@ -509,14 +511,13 @@ mau,Malmö universitet
 malmö högskola,Malmö universitet
 mah,Malmö universitet
 mediemyndigheten,Mediemyndigheten
-the swedish press and broadcasting authority,Mediemyndigheten
+swedish agency for the media,Mediemyndigheten
 memy,Mediemyndigheten
 "myndigheten för press, radio och tv",Mediemyndigheten
 mprt,Mediemyndigheten
 myndigheten för radio och tv,Mediemyndigheten
 mrtv,Mediemyndigheten
-swedish agency for the media,Mediemyndigheten
-swedish broadcasting authority,Mediemyndigheten
+memyfs,Mediemyndigheten
 medlingsinstitutet,Medlingsinstitutet
 swedish national mediation office,Medlingsinstitutet
 mi,Medlingsinstitutet
@@ -525,6 +526,7 @@ migrationsverket,Migrationsverket
 swedish migration board,Migrationsverket
 migr,Migrationsverket
 statens invandrarverk,Migrationsverket
+swedish migration agency,Migrationsverket
 invandrarverket,Migrationsverket
 mig,Migrationsverket
 mittuniversitetet,Mittuniversitetet
@@ -536,10 +538,11 @@ miun,Mittuniversitetet
 moderna museet,Moderna museet
 modern museum,Moderna museet
 mm,Moderna museet
-myndigheten för arbetsmiljökunskap,Myndigheten för arbetsmiljökunskap
-?,Myndigheten för arbetsmiljökunskap
-mynak,Myndigheten för arbetsmiljökunskap
-swedish agency for work environment expertise,Myndigheten för arbetsmiljökunskap
+myndigheten för civilt försvar,Myndigheten för civilt försvar
+swedish civil defence and resilience agency,Myndigheten för civilt försvar
+mcf,Myndigheten för civilt försvar
+myndigheten för samhällsskydd och beredskap,Myndigheten för civilt försvar
+msb,Myndigheten för civilt försvar
 myndigheten för delaktighet,Myndigheten för delaktighet
 mfd,Myndigheten för delaktighet
 myndigheten för handikappolitisk samordning,Myndigheten för delaktighet
@@ -565,15 +568,14 @@ swedish psychological defence agency,Myndigheten för psykologiskt försvar
 mpf,Myndigheten för psykologiskt försvar
 office of psychological defense,Myndigheten för psykologiskt försvar
 spda,Myndigheten för psykologiskt försvar
-myndigheten för samhällsskydd och beredskap,Myndigheten för samhällsskydd och beredskap
-swedish civil contingencies agency,Myndigheten för samhällsskydd och beredskap
-msb,Myndigheten för samhällsskydd och beredskap
-myndigheten för stöd till trossamfund,Myndigheten för stöd till trossamfund
-commission for state grants to religious communities,Myndigheten för stöd till trossamfund
-sst,Myndigheten för stöd till trossamfund
-nämnden för statligt stöd till trossamfund,Myndigheten för stöd till trossamfund
-samarbetsnämnden för statsbidrag till trossamfund,Myndigheten för stöd till trossamfund
-swedish agency for support to faith communities,Myndigheten för stöd till trossamfund
+myndigheten för säkerhet och integritetsskydd,Myndigheten för säkerhet och integritetsskydd
+the swedish commission on security and integrity protection,Myndigheten för säkerhet och integritetsskydd
+msi,Myndigheten för säkerhet och integritetsskydd
+säkerhets- och integritetsskyddsnämnden,Myndigheten för säkerhet och integritetsskydd
+sin,Myndigheten för säkerhet och integritetsskydd
+swedish commission on security and integrity protection,Myndigheten för säkerhet och integritetsskydd
+integritetsskyddsnämnden,Myndigheten för säkerhet och integritetsskydd
+säkint,Myndigheten för säkerhet och integritetsskydd
 myndigheten för tillgängliga medier,Myndigheten för tillgängliga medier
 swedish agency for accessible media,Myndigheten för tillgängliga medier
 mtm,Myndigheten för tillgängliga medier
@@ -587,6 +589,7 @@ swedish agency for growth policy analysis,Myndigheten för tillväxtpolitiska ut
 myndigheten för totalförsvarsanalys,Myndigheten för totalförsvarsanalys
 swedish agency for defence analysis,Myndigheten för totalförsvarsanalys
 mtfa,Myndigheten för totalförsvarsanalys
+mfta,Myndigheten för totalförsvarsanalys
 myndigheten för ungdoms- och civilsamhällesfrågor,Myndigheten för ungdoms- och civilsamhällesfrågor
 swedish agency for youth and civil society,Myndigheten för ungdoms- och civilsamhällesfrågor
 mucf,Myndigheten för ungdoms- och civilsamhällesfrågor
@@ -660,7 +663,9 @@ swedish post and telecom agency,Post- och telestyrelsen
 regeringskansliet,Regeringskansliet
 government  offices,Regeringskansliet
 rk,Regeringskansliet
-swedish government offices,Regeringskansliet
+government offices of sweden,Regeringskansliet
+kanslihuset,Regeringskansliet
+rosenbad,Regeringskansliet
 revisorsinspektionen,Revisorsinspektionen
 swedish inspectorate of auditors,Revisorsinspektionen
 ri,Revisorsinspektionen
@@ -741,7 +746,6 @@ spelinspektionen,Spelinspektionen
 national gaming  board,Spelinspektionen
 li,Spelinspektionen
 lotteriinspektionen,Spelinspektionen
-the swedish gambling authority,Spelinspektionen
 statens beredning för medicinsk och social utvärdering,Statens beredning för medicinsk och social utvärdering
 swedish agency for health technology assessment and assessment of social service,Statens beredning för medicinsk och social utvärdering
 sbu,Statens beredning för medicinsk och social utvärdering
@@ -749,14 +753,6 @@ statens beredning för medicinsk utvärdering,Statens beredning för medicinsk o
 statens beredning för utvärdering av medicinsk metodik,Statens beredning för medicinsk och social utvärdering
 swedish agency for health technology assessment and assessment of social services,Statens beredning för medicinsk och social utvärdering
 svenska beredning för medicinsk utvärdering health care,Statens beredning för medicinsk och social utvärdering
-statens centrum för arkitektur och design,Statens centrum för arkitektur och design
-museum of architecture,Statens centrum för arkitektur och design
-arkdes,Statens centrum för arkitektur och design
-arkitekturmuseet,Statens centrum för arkitektur och design
-am,Statens centrum för arkitektur och design
-swedish centre for architecture and design,Statens centrum för arkitektur och design
-arkdesc,Statens centrum för arkitektur och design
-arkitektur- och designcentrum,Statens centrum för arkitektur och design
 statens energimyndighet,Statens energimyndighet
 swedish energy agency,Statens energimyndighet
 stem,Statens energimyndighet
@@ -767,9 +763,6 @@ national property board,Statens fastighetsverk
 sfv,Statens fastighetsverk
 national property board of sweden,Statens fastighetsverk
 fastighetsverket,Statens fastighetsverk
-statens försvarshistoriska museer,Statens försvarshistoriska museer
-national swedish museums of military history,Statens försvarshistoriska museer
-sfhm,Statens försvarshistoriska museer
 statens geotekniska institut,Statens geotekniska institut
 swedish geotechnical institute,Statens geotekniska institut
 sgi,Statens geotekniska institut
@@ -777,7 +770,6 @@ swedgeo,Statens geotekniska institut
 statens haverikommission,Statens haverikommission
 swedish accident investigation authority,Statens haverikommission
 shk,Statens haverikommission
-swedish accident investigation board,Statens haverikommission
 havkom,Statens haverikommission
 statens historiska museer,Statens historiska museer
 the national historical museums,Statens historiska museer
@@ -787,7 +779,6 @@ shm,Statens historiska museer
 statens inspektion för försvarsunderrättelseverksamheten,Statens inspektion för försvarsunderrättelseverksamheten
 ?,Statens inspektion för försvarsunderrättelseverksamheten
 siun,Statens inspektion för försvarsunderrättelseverksamheten
-statens inspektion för försvarsunderrättelseverksamhet,Statens inspektion för försvarsunderrättelseverksamheten
 the swedish foreign intelligence inspectorate,Statens inspektion för försvarsunderrättelseverksamheten
 statens inspektion för försvarsunderrättelseverksamheten (siun),Statens inspektion för försvarsunderrättelseverksamheten
 statens institutionsstyrelse,Statens institutionsstyrelse
@@ -797,22 +788,24 @@ national board of institutional care,Statens institutionsstyrelse
 statens jordbruksverk,Statens jordbruksverk
 swedish board of agriculture,Statens jordbruksverk
 sjv,Statens jordbruksverk
+sjv_jordbruksverket,Statens jordbruksverk
 jordbruksverket,Statens jordbruksverk
-statens konstråd,Statens konstråd
-national public art council,Statens konstråd
-sk,Statens konstråd
 statens kulturråd,Statens kulturråd
 swedish arts council,Statens kulturråd
 kur,Statens kulturråd
-statens maritima och transporthistoriska museer,Statens maritima och transporthistoriska museer
-swedish national maritime and transport museums,Statens maritima och transporthistoriska museer
-smm,Statens maritima och transporthistoriska museer
-statens maritima museer,Statens maritima och transporthistoriska museer
-sshm,Statens maritima och transporthistoriska museer
-statens sjöhistoriska museer,Statens maritima och transporthistoriska museer
-hette tidigare statens maritima museer,Statens maritima och transporthistoriska museer
-statens sjöhistoriska museum,Statens maritima och transporthistoriska museer
-smtm,Statens maritima och transporthistoriska museer
+"statens museer för maritim-, transport- och försvarshistoria","Statens museer för maritim-, transport- och försvarshistoria"
+swedish national maritime and transport museums,"Statens museer för maritim-, transport- och försvarshistoria"
+smmtf,"Statens museer för maritim-, transport- och försvarshistoria"
+statens maritima och transporthistoriska museer,"Statens museer för maritim-, transport- och försvarshistoria"
+smm,"Statens museer för maritim-, transport- och försvarshistoria"
+statens maritima museer,"Statens museer för maritim-, transport- och försvarshistoria"
+sshm,"Statens museer för maritim-, transport- och försvarshistoria"
+statens sjöhistoriska museer,"Statens museer för maritim-, transport- och försvarshistoria"
+fd. statens maritima museer,"Statens museer för maritim-, transport- och försvarshistoria"
+"statens museer för maritim, transport- och försvarshistoria","Statens museer för maritim-, transport- och försvarshistoria"
+statens sjöhistoriska museum,"Statens museer för maritim-, transport- och försvarshistoria"
+"swedish national maritime, transport and military museums","Statens museer för maritim-, transport- och försvarshistoria"
+smtm,"Statens museer för maritim-, transport- och försvarshistoria"
 statens museer för världskultur,Statens museer för världskultur
 the museum of worldculture,Statens museer för världskultur
 smvk,Statens museer för världskultur
@@ -851,16 +844,19 @@ statens väg- och transportforskningsinstitut,Statens väg- och transportforskni
 swedish national road and transport research institute,Statens väg- och transportforskningsinstitut
 vti,Statens väg- och transportforskningsinstitut
 statens väg- & transportforskningsinstitut vti,Statens väg- och transportforskningsinstitut
+statens väg- och trafikinstitut,Statens väg- och transportforskningsinstitut
 statistiska centralbyrån,Statistiska centralbyrån
 statistics sweden,Statistiska centralbyrån
 scb,Statistiska centralbyrån
 kungliga statistiska centralbyrån,Statistiska centralbyrån
 statistikmyndigheten,Statistiska centralbyrån
 statskontoret,Statskontoret
-swedish agency for administrative development,Statskontoret
-stkt,Statskontoret
+agency for financial and public management,Statskontoret
+stk,Statskontoret
+ekonomistyrningsverket,Statskontoret
+esv,Statskontoret
 kungl. maj:ts staats contoir,Statskontoret
-swedish agency for public management,Statskontoret
+the swedish agency for financial and public management,Statskontoret
 stockholms konstnärliga högskola,Stockholms konstnärliga högskola
 stockholm university of the arts,Stockholms konstnärliga högskola
 skh,Stockholms konstnärliga högskola
@@ -869,6 +865,9 @@ stockholms universitet,Stockholms universitet
 stockholm university,Stockholms universitet
 su,Stockholms universitet
 stockholms högskola,Stockholms universitet
+kungliga universitetet i stockholm,Stockholms universitet
+universitetet i stockholm,Stockholms universitet
+su.se,Stockholms universitet
 strålsäkerhetsmyndigheten,Strålsäkerhetsmyndigheten
 swedish radiation safety authority,Strålsäkerhetsmyndigheten
 ssm,Strålsäkerhetsmyndigheten
@@ -902,10 +901,6 @@ swedish university of agricultural sciences,Sveriges lantbruksuniversitet
 sveriges meteorologiska och hydrologiska institut,Sveriges meteorologiska och hydrologiska institut
 swedish meteorological and hydrological institute,Sveriges meteorologiska och hydrologiska institut
 smhi,Sveriges meteorologiska och hydrologiska institut
-säkerhets- och integritetsskyddsnämnden,Säkerhets- och integritetsskyddsnämnden
-the swedish commission on security and integrity protection,Säkerhets- och integritetsskyddsnämnden
-sin,Säkerhets- och integritetsskyddsnämnden
-säkint,Säkerhets- och integritetsskyddsnämnden
 säkerhetspolisen,Säkerhetspolisen
 swedish security service,Säkerhetspolisen
 sapo,Säkerhetspolisen
@@ -937,9 +932,9 @@ totalförsvarets rekryteringsmyndighet,Totalförsvarets plikt- och prövningsver
 trm,Totalförsvarets plikt- och prövningsverk
 tpv,Totalförsvarets plikt- och prövningsverk
 totalförsvarets pliktverk,Totalförsvarets plikt- och prövningsverk
-rekryteringsmyndigheten,Totalförsvarets plikt- och prövningsverk
-plikt- och prövningsverket,Totalförsvarets plikt- och prövningsverk
+plikt- och prövningsverket/rekryteringsmyndigheten,Totalförsvarets plikt- och prövningsverk
 swedish defence recruitment agency,Totalförsvarets plikt- och prövningsverk
+plikt- och prövningsverket,Totalförsvarets plikt- och prövningsverk
 sdcaa,Totalförsvarets plikt- och prövningsverk
 trafikanalys,Trafikanalys
 ?,Trafikanalys
@@ -952,6 +947,7 @@ swedish transport administration,Trafikverket
 transportstyrelsen,Transportstyrelsen
 swedish transport agency,Transportstyrelsen
 ts,Transportstyrelsen
+tns,Transportstyrelsen
 tullverket,Tullverket
 board of customs,Tullverket
 tv,Tullverket
@@ -965,7 +961,6 @@ uhr,Universitets- och högskolerådet
 universitetskanslersämbetet,Universitetskanslersämbetet
 swedish higher education authority,Universitetskanslersämbetet
 ukä,Universitetskanslersämbetet
-universitetskanslerämbetet,Universitetskanslersämbetet
 upphandlingsmyndigheten,Upphandlingsmyndigheten
 the national agency for public procurement,Upphandlingsmyndigheten
 uhm,Upphandlingsmyndigheten
@@ -982,8 +977,8 @@ uppsala universitets byggnader,Uppsala universitet
 upsala akademi,Uppsala universitet
 upsala universitet,Uppsala universitet
 utbetalningsmyndigheten,Utbetalningsmyndigheten
+swedish payments agency,Utbetalningsmyndigheten
 ubem,Utbetalningsmyndigheten
-the swedish payments agency,Utbetalningsmyndigheten
 verket för innovationssystem,Verket för innovationssystem
 the swedish agency for innovation systems,Verket för innovationssystem
 vinova,Verket för innovationssystem
@@ -1002,16 +997,44 @@ rak,Åklagarmyndigheten
 university of örebro,Örebro universitet
 oru,Örebro universitet
 örebro university,Örebro universitet
-örebro universitetsbibliotek,Örebro universitet
 högskolan i örebro,Örebro universitet
+restauranghögskolan i grythyttan,Örebro universitet
 campus alfred nobel,Örebro universitet
 örebro högskola,Örebro universitet
-restauranghögskolan i grythyttan,Örebro universitet
+örebro universitetsbibliotek,Örebro universitet
 öru,Örebro universitet
 överklagandenämnden för studiestöd,Överklagandenämnden för studiestöd
 oks,Överklagandenämnden för studiestöd
 the national board of appeal for student aid,Överklagandenämnden för studiestöd
 öks,Överklagandenämnden för studiestöd
+myndigheten för arbetsmiljökunskap,Myndigheten för arbetsmiljökunskap
+?,Myndigheten för arbetsmiljökunskap
+mynak,Myndigheten för arbetsmiljökunskap
+swedish agency for work environment expertise,Myndigheten för arbetsmiljökunskap
+myndigheten för stöd till trossamfund,Myndigheten för stöd till trossamfund
+commission for state grants to religious communities,Myndigheten för stöd till trossamfund
+sst,Myndigheten för stöd till trossamfund
+nämnden för statligt stöd till trossamfund,Myndigheten för stöd till trossamfund
+samarbetsnämnden för statsbidrag till trossamfund,Myndigheten för stöd till trossamfund
+swedish agency for support to faith communities,Myndigheten för stöd till trossamfund
+statens centrum för arkitektur och design,Statens centrum för arkitektur och design
+museum of architecture,Statens centrum för arkitektur och design
+arkdes,Statens centrum för arkitektur och design
+arkitekturmuseet,Statens centrum för arkitektur och design
+am,Statens centrum för arkitektur och design
+swedish centre for architecture and design,Statens centrum för arkitektur och design
+arkdesc,Statens centrum för arkitektur och design
+arkitektur- och designcentrum,Statens centrum för arkitektur och design
+statens försvarshistoriska museer,Statens försvarshistoriska museer
+national swedish museums of military history,Statens försvarshistoriska museer
+sfhm,Statens försvarshistoriska museer
+statens konstråd,Statens konstråd
+national public art council,Statens konstråd
+sk,Statens konstråd
+statskontoret (gamla),Statskontoret (gamla)
+swedish agency for administrative development,Statskontoret (gamla)
+stkt,Statskontoret (gamla)
+statskontoret,Statskontoret (gamla)
 statens medieråd,Statens medieråd
 swedish media council,Statens medieråd
 smr,Statens medieråd
@@ -1029,6 +1052,7 @@ cep,Överklagandenämnden för etikprövning
 centrala etikprövningsnämnden,Överklagandenämnden för etikprövning
 centrala etikprövningsnämnden (gammalt namn),Överklagandenämnden för etikprövning
 the ethics review appeals board,Överklagandenämnden för etikprövning
+önep,Överklagandenämnden för etikprövning
 gentekniknämnden,Gentekniknämnden
 swedish gene tecknology advisory board,Gentekniknämnden
 gtn,Gentekniknämnden
@@ -1141,13 +1165,13 @@ internationella programkontoret för utbildnings-,Internationella programkontore
 international programme office for education and training,Internationella programkontoret för utbildningsområdet
 kompetensrådet för utveckling i staten,Kompetensrådet för utveckling i staten
 kru,Kompetensrådet för utveckling i staten
-kompetensråd för utveckling i staten,Kompetensrådet för utveckling i staten
 krus,Kompetensrådet för utveckling i staten
+kompetensråd för utveckling i staten,Kompetensrådet för utveckling i staten
 myndigheten för utländska investeringar i sverige,Myndigheten för utländska investeringar i Sverige
 invest sweden,Myndigheten för utländska investeringar i Sverige
 isa,Myndigheten för utländska investeringar i Sverige
 myndigheten för utländska investeringar i sverige (isa),Myndigheten för utländska investeringar i Sverige
-delegationen för investeringar i sverige (isa)_x000d_,Myndigheten för utländska investeringar i Sverige
+delegationen för investeringar i sverige (isa),Myndigheten för utländska investeringar i Sverige
 delegationen för utländska investeringar i sverige. (invest in sveden agency),Myndigheten för utländska investeringar i Sverige
 delegationen för utländska investeringar i sverige.,Myndigheten för utländska investeringar i Sverige
 delegationen för utländska investeringar i sverige,Myndigheten för utländska investeringar i Sverige
@@ -1161,13 +1185,11 @@ swedish state railways,Statens järnvägar
 asj,Statens järnvägar
 affärsverket statens järnvägar,Statens järnvägar
 "statens järnvägar, affärsverk",Statens järnvägar
-sj,Statens järnvägar
 kungl. järnvägsstyrelsen,Statens järnvägar
 kungliga järnvägsstyrelsen,Statens järnvägar
 verket för högskoleservice,Verket för högskoleservice
 national agency for services to universities and university colle,Verket för högskoleservice
 vhs,Verket för högskoleservice
-verket för  högskoleservice,Verket för högskoleservice
 avvecklingsmyndigheten för ppm och delar av fk,Avvecklingsmyndigheten för PPM och delar av FK
 ?,Avvecklingsmyndigheten för PPM och delar av FK
 avppm,Avvecklingsmyndigheten för PPM och delar av FK
@@ -1204,9 +1226,6 @@ di,Dramatiska institutet
 granskningsnämnden för radio och tv,Granskningsnämnden för radio och TV
 swedish broadcasting commission,Granskningsnämnden för radio och TV
 grn,Granskningsnämnden för radio och TV
-granskningsnämnden,Granskningsnämnden för radio och TV
-granskningsnämnden för radio & tv,Granskningsnämnden för radio och TV
-radionämnden,Granskningsnämnden för radio och TV
 radio- och tv-verket,Radio- och TV-verket
 swedish radio and tv authority,Radio- och TV-verket
 rtvv,Radio- och TV-verket
@@ -1218,6 +1237,10 @@ statens biografbyrå,Statens biografbyrå
 national board of film classification,Statens biografbyrå
 sb,Statens biografbyrå
 the national board of film classification,Statens biografbyrå
+biografbyrån,Statens biografbyrå
+sbb,Statens biografbyrå
+sbfc,Statens biografbyrå
+s.b.f.c.,Statens biografbyrå
 statens institut för kommunikationsanalys,Statens institut för kommunikationsanalys
 swedish institute for transport and communications and analysis,Statens institut för kommunikationsanalys
 sika,Statens institut för kommunikationsanalys
@@ -1430,7 +1453,6 @@ rfv,Riksförsäkringsverket
 statens nämnd för internationella adoptionsfrågor,Statens nämnd för internationella adoptionsfrågor
 national board for intercountry adoptions (nia),Statens nämnd för internationella adoptionsfrågor
 nia,Statens nämnd för internationella adoptionsfrågor
-st nämnd för internationella adoptionsfrågor,Statens nämnd för internationella adoptionsfrågor
 delegationen för it i skolan,Delegationen för IT i skolan
 itis,Delegationen för IT i skolan
 distum avvecklingsmyndighet,Distum avvecklingsmyndighet
@@ -1526,22 +1548,18 @@ va,"Vänerskolan, Vänersborg"
 sasb,"Åsbackaskolan, Gnesta"
 "östervångsskolan, lund","Östervångsskolan, Lund"
 osk,"Östervångsskolan, Lund"
-alingsås tingsrätt,Alingsås tingsrätt
 alkoholsortimentsnämnden,Alkoholsortimentsnämnden
 alcoholic beverages product range board,Alkoholsortimentsnämnden
 andra ap-fonden,Andra AP-fonden
 ansvarsnämnden för djurens hälso- och sjukvård,Ansvarsnämnden för djurens hälso- och sjukvård
 arvsfondsdelegationen,Arvsfondsdelegationen
 arvfondsdelegationen,Arvsfondsdelegationen
-attunda tingsrätt,Attunda tingsrätt
-blekinge tingsrätt,Blekinge tingsrätt
-borås tingsrätt,Borås tingsrätt
 centrala djurförsöksetiska nämnden,Centrala djurförsöksetiska nämnden
+swedish national board on research animal ethics,Centrala djurförsöksetiska nämnden
 cdfn,Centrala djurförsöksetiska nämnden
 delegationen för folkrättslig granskning av vapenprojekt,Delegationen för folkrättslig granskning av vapenprojekt
-eksjö tingsrätt,Eksjö tingsrätt
-eskilstuna tingsrätt,Eskilstuna tingsrätt
-falu tingsrätt,Falu tingsrätt
+delegation for the international legal review of weapons projects,Delegationen för folkrättslig granskning av vapenprojekt
+vapenprojektdelegationen,Delegationen för folkrättslig granskning av vapenprojekt
 fideikommissnämnden,Fideikommissnämnden
 fjärde ap-fonden,Fjärde AP-fonden
 fondtorgsnämnden,Fondtorgsnämnden
@@ -1549,93 +1567,24 @@ swedish fund selection agency,Fondtorgsnämnden
 forskarskattenämnden,Forskarskattenämnden
 the taxation of research workers board,Forskarskattenämnden
 första ap-fonden,Första AP-fonden
-förvaltningsrätten i falun,Förvaltningsrätten i Falun
-förvaltningsrätten i göteborg,Förvaltningsrätten i Göteborg
-förvaltningsrätten i göteborg och migrationsdoms,Förvaltningsrätten i Göteborg
-förvaltningsrätten i göteborg och migrationsdomstol,Förvaltningsrätten i Göteborg
-förvaltningsrätten i härnösand,Förvaltningsrätten i Härnösand
-förvaltningsrätten i jönköping,Förvaltningsrätten i Jönköping
-förvaltningsrätten i karlstad,Förvaltningsrätten i Karlstad
-förvaltningsrätten i linköping,Förvaltningsrätten i Linköping
-förvaltningsrätten i luleå,Förvaltningsrätten i Luleå
-förvaltningsrätten i luleå och migrationsdomstol,Förvaltningsrätten i Luleå
-förvaltningsrätten i malmö,Förvaltningsrätten i Malmö
-förvaltningsrätten i stockholm,Förvaltningsrätten i Stockholm
-förvaltningsrätten i stockholm och migrationsdom,Förvaltningsrätten i Stockholm
-förvaltningsrätten i stockholm och migrationsdomstol,Förvaltningsrätten i Stockholm
-förvaltningsrätten i umeå,Förvaltningsrätten i Umeå
-förvaltningsrätten i uppsala,Förvaltningsrätten i Uppsala
-förvaltningsrätten i växjö,Förvaltningsrätten i Växjö
-gotlands tingsrätt,Gotlands tingsrätt
 granskningsnämnden för försvarsuppfinningar,Granskningsnämnden för försvarsuppfinningar
-gällivare tingsrätt,Gällivare tingsrätt
-gävle tingsrätt,Gävle tingsrätt
-göta hovrätt,Göta hovrätt
-göteborgs tingsrätt,Göteborgs tingsrätt
-halmstads tingsrätt,Halmstads tingsrätt
-haparanda tingsrätt,Haparanda tingsrätt
 harpsundsnämnden,Harpsundsnämnden
 harpsund committee,Harpsundsnämnden
-helsingborgs tingsrätt,Helsingborgs tingsrätt
-hovrätten för nedre norrland,Hovrätten för Nedre Norrland
-hovrätten för västra sverige,Hovrätten för Västra Sverige
-hovrätten för övre norrland,Hovrätten för Övre Norrland
-hovrätten över skåne och blekinge,Hovrätten över Skåne och Blekinge
-hudiksvalls tingsrätt,Hudiksvalls tingsrätt
-hyresnämnden i göteborg,Hyresnämnden i Göteborg
-hyres och arrendenämnden i göteborg,Hyresnämnden i Göteborg
-hyresnämnden i jönköping,Hyresnämnden i Jönköping
-hyres och arrendenämnden i jönköping,Hyresnämnden i Jönköping
-hyresnämnden i linköping,Hyresnämnden i Linköping
-hyres och arrendenämnden i linköping,Hyresnämnden i Linköping
-hyresnämnden i malmö,Hyresnämnden i Malmö
-hyres och arrendenämnen i malmö,Hyresnämnden i Malmö
-hyresnämnden i stockholm,Hyresnämnden i Stockholm
-hyres och arrendenämnden i stockholm,Hyresnämnden i Stockholm
-hyresnämnden i sundsvall,Hyresnämnden i Sundsvall
-hyres och arrendenämnden i sundsvall,Hyresnämnden i Sundsvall
-hyresnämnden i umeå,Hyresnämnden i Umeå
-hyres och arrendenämnden i umeå,Hyresnämnden i Umeå
-hyresnämnden i västerås,Hyresnämnden i Västerås
-hyres och arrendenämnden i västerås,Hyresnämnden i Västerås
-hässleholms tingsrätt,Hässleholms tingsrätt
 högskolans avskiljandenämnd,Högskolans avskiljandenämnd
 the higher education expulsions board,Högskolans avskiljandenämnd
 han,Högskolans avskiljandenämnd
-högsta domstolen,Högsta domstolen
 högsta förvaltningsdomstolen,Högsta förvaltningsdomstolen
-jönköpings tingsrätt,Jönköpings tingsrätt
-kalmar tingsrätt,Kalmar tingsrätt
-kammarrätten i göteborg,Kammarrätten i Göteborg
-kammarrätten i jönköping,Kammarrätten i Jönköping
-kammarrätten i stockholm,Kammarrätten i Stockholm
-kammarrätten i stockholm och migrationsöverdomst,Kammarrätten i Stockholm
-kammarrätten i stockholm och migrationsöverdomstol,Kammarrätten i Stockholm
-kammarrätten i sundsvall,Kammarrätten i Sundsvall
+kammarrätter,Kammarrätter
 klimatpolitiska rådet,Klimatpolitiska rådet
 swedish climate policy council,Klimatpolitiska rådet
 krigsförsäkringsnämnden,Krigsförsäkringsnämnden
-kristianstads tingsrätt,Kristianstads tingsrätt
 lagrådet,Lagrådet
 council on legislation,Lagrådet
-linköpings tingsrätt,Linköpings tingsrätt
-lokala säkerhetsnämnden vid kärntekniska anläggningen forsmark,Lokala säkerhetsnämnden vid kärntekniska anläggningen Forsmark
-lokala säkerhetsnämnden vid forsmark,Lokala säkerhetsnämnden vid kärntekniska anläggningen Forsmark
-lokala säkerhetsnämnden vid kärntekniska anläggningen oskarshamn (simpevarp),Lokala säkerhetsnämnden vid kärntekniska anläggningen Oskarshamn (Simpevarp)
-lokala säkerhetsnämnden vid kärntekniska anläggningen ringhals,Lokala säkerhetsnämnden vid kärntekniska anläggningen Ringhals
-lokala säkerhetsnämnden vid ringhals,Lokala säkerhetsnämnden vid kärntekniska anläggningen Ringhals
-lokala värderingsnämnden vid länsstyrelsen i hallands län,Lokala värderingsnämnden vid Länsstyrelsen i Hallands län
-luleå tingsrätt,Luleå tingsrätt
-lunds tingsrätt,Lunds tingsrätt
-lycksele tingsrätt,Lycksele tingsrätt
-malmö tingsrätt,Malmö tingsrätt
-mora tingsrätt,Mora tingsrätt
-nacka tingsrätt,Nacka tingsrätt
-norrköpings tingsrätt,Norrköpings tingsrätt
-norrtälje tingsrätt,Norrtälje tingsrätt
+lokala säkerhetsnämnden vid forsmark,Lokala säkerhetsnämnden vid Forsmark
+lokala säkerhetsnämnden vid oskarshamn,Lokala säkerhetsnämnden vid Oskarshamn
+lokala säkerhetsnämnden vid ringhals,Lokala säkerhetsnämnden vid Ringhals
 notarienämnden,Notarienämnden
 law clerks board,Notarienämnden
-nyköpings tingsrätt,Nyköpings tingsrätt
 nämnden för hemslöjdsfrågor,Nämnden för hemslöjdsfrågor
 the national swedish handicraft council,Nämnden för hemslöjdsfrågor
 nfh,Nämnden för hemslöjdsfrågor
@@ -1644,6 +1593,7 @@ council for employee representation on boards of directors,Nämnden för styrels
 nämnden mot diskriminering,Nämnden mot diskriminering
 nämnden mot diskriminerin,Nämnden mot diskriminering
 oljekrisnämnden,Oljekrisnämnden
+rederinämnden,Rederinämnden
 riksvärderingsnämnden,Riksvärderingsnämnden
 rättshjälpsmyndigheten,Rättshjälpsmyndigheten
 national legal aid authority,Rättshjälpsmyndigheten
@@ -1652,72 +1602,136 @@ rättshjälpnämnden,Rättshjälpsnämnden
 legal aid board,Rättshjälpsnämnden
 sjunde ap-fonden,Sjunde AP-fonden
 sjätte ap-fonden,Sjätte AP-fonden
-skaraborgs tingsrätt,Skaraborgs tingsrätt
 skatterättsnämnden,Skatterättsnämnden
-skellefteå tingsrätt,Skellefteå tingsrätt
 skiljenämnden i vissa trygghetsfrågor,Skiljenämnden i vissa trygghetsfrågor
 arbitration tribunal for occupational injury compensation,Skiljenämnden i vissa trygghetsfrågor
 skolväsendets överklagandenämnd,Skolväsendets överklagandenämnd
 the board of appeal for education,Skolväsendets överklagandenämnd
-solna tingsrätt,Solna tingsrätt
 statens ansvarsnämnd,Statens ansvarsnämnd
+state accountability board,Statens ansvarsnämnd
 statens nämnd för arbetstagares uppfinningar,Statens nämnd för arbetstagares uppfinningar
-national advisory board on patent rights and compensation settlements for inventions at work,Statens nämnd för arbetstagares uppfinningar
 snau,Statens nämnd för arbetstagares uppfinningar
+national advisory board on patent rights and compensation settlements for inventions at work,Statens nämnd för arbetstagares uppfinningar
+statens personadressregisternämnd,Statens personadressregisternämnd
+statens person- och adressregisternämnd,Statens personadressregisternämnd
 statens skaderegleringsnämnd,Statens skaderegleringsnämnd
 national claims adjustment board,Statens skaderegleringsnämnd
 ssrn,Statens skaderegleringsnämnd
 statens tjänstepensions- och grupplivnämnd,Statens tjänstepensions- och grupplivnämnd
+state occupational pensions and group life board,Statens tjänstepensions- och grupplivnämnd
+statens utlandslönenämnd,Statens utlandslönenämnd
 statens överklagandenämnd,Statens överklagandenämnd
 kk,Statens överklagandenämnd
-stockholms tingsrätt,Stockholms tingsrätt
-stockholms tingsrätt och patent och marknadsdom,Stockholms tingsrätt
 styrelsen för samefonden,Styrelsen för samefonden
 the sami foundation board,Styrelsen för samefonden
-sundsvalls tingsrätt,Sundsvalls tingsrätt
-svea hovrätt,Svea hovrätt
-svea hovrätt o mark o miljö och patent,Svea hovrätt
 svenska fao-kommittén,Svenska FAO-kommittén
 the swedish fao committee,Svenska FAO-kommittén
 svenska ilo-kommittén,Svenska ILO-kommittén
-ilo-kommittén,Svenska ILO-kommittén
-swedish ilo committee,Svenska ILO-kommittén
 svenska ilo-kommitten,Svenska ILO-kommittén
 sveriges författarfond,Sveriges författarfond
 swedish authors’ fund,Sveriges författarfond
 svff,Sveriges författarfond
-södertälje tingsrätt,Södertälje tingsrätt
-södertörns tingsrätt,Södertörns tingsrätt
+tingsrätter,Tingsrätter
 tredje ap-fonden,Tredje AP-fonden
-uddevalla tingsrätt,Uddevalla tingsrätt
-umeå tingsrätt,Umeå tingsrätt
-uppsala tingsrätt,Uppsala tingsrätt
 utrikesförvaltningens antagningsnämnd,Utrikesförvaltningens antagningsnämnd
-varbergs tingsrätt,Varbergs tingsrätt
-vänersborgs tingsrätt,Vänersborgs tingsrätt
-vänersborgs tingsrätt och mark och miljödomstol,Vänersborgs tingsrätt
-värmlands tingsrätt,Värmlands tingsrätt
-västmanlands tingsrätt,Västmanlands tingsrätt
-växjö tingsrätt,Växjö tingsrätt
-växjö tingsrätt och mark och miljödomstol,Växjö tingsrätt
-ystads tingsrätt,Ystads tingsrätt
-ångermanlands tingsrätt,Ångermanlands tingsrätt
-örebro tingsrätt,Örebro tingsrätt
-östersunds tingsrätt,Östersunds tingsrätt
-östersunds tingsrätt och mark och miljödomstol,Östersunds tingsrätt
+foreign service admissions board,Utrikesförvaltningens antagningsnämnd
+zornsamlingarna,Zornsamlingarna
 överklagandenämnden för högskolan,Överklagandenämnden för högskolan
 the higher education appeals board,Överklagandenämnden för högskolan
 önh,Överklagandenämnden för högskolan
 överklagandenämnden för nämndemannauppdrag,Överklagandenämnden för nämndemannauppdrag
 överåklagarnämnden för nämndemannauppdrag,Överklagandenämnden för nämndemannauppdrag
-övervakningsnämnder,Övervakningsnämnder
-övervakningsnämnderna,Övervakningsnämnder
-kungliga slotts- och hovstaten,Kungliga slotts- och hovstaten
-zornsamlingarna,Zornsamlingarna
+ilo-kommittén,ILO-KOMMITTÉN
+swedish ilo committee,ILO-KOMMITTÉN
+svenska ilo-kommittén,ILO-KOMMITTÉN
 riksdagens arvodesnämnd,Riksdagens arvodesnämnd
-sveriges riksbank,Sveriges riksbank
-lokala säkerhetsnämnden vid oskarshamn,Lokala säkerhetsnämnden vid Oskarshamn
+sveriges riksbank,SVERIGES RIKSBANK
+alingsås tingsrätt,ALINGSÅS TINGSRÄTT
+attunda tingsrätt,ATTUNDA TINGSRÄTT
+blekinge tingsrätt,BLEKINGE TINGSRÄTT
+borås tingsrätt,BORÅS TINGSRÄTT
+eksjö tingsrätt,EKSJÖ TINGSRÄTT
+eskilstuna tingsrätt,ESKILSTUNA TINGSRÄTT
+falu tingsrätt,FALU TINGSRÄTT
+förvaltningsrätten i falun,FÖRVALTNINGSRÄTTEN I FALUN
+förvaltningsrätten i göteborg och migrationsdoms,FÖRVALTNINGSRÄTTEN I GÖTEBORG OCH MIGRATIONSDOMS
+förvaltningsrätten i göteborg och migrationsdomstol,FÖRVALTNINGSRÄTTEN I GÖTEBORG OCH MIGRATIONSDOMS
+förvaltningsrätten i härnösand,FÖRVALTNINGSRÄTTEN I HÄRNÖSAND
+förvaltningsrätten i jönköping,FÖRVALTNINGSRÄTTEN I JÖNKÖPING
+förvaltningsrätten i karlstad,FÖRVALTNINGSRÄTTEN I KARLSTAD
+förvaltningsrätten i linköping,FÖRVALTNINGSRÄTTEN I LINKÖPING
+förvaltningsrätten i luleå och migrationsdomstol,FÖRVALTNINGSRÄTTEN I LULEÅ OCH MIGRATIONSDOMSTOL
+förvaltningsrätten i malmö,FÖRVALTNINGSRÄTTEN I MALMÖ
+förvaltningsrätten i stockholm och migrationsdom,FÖRVALTNINGSRÄTTEN I STOCKHOLM OCH MIGRATIONSDOM
+förvaltningsrätten i stockholm och migrationsdomstol,FÖRVALTNINGSRÄTTEN I STOCKHOLM OCH MIGRATIONSDOM
+förvaltningsrätten i umeå,FÖRVALTNINGSRÄTTEN I UMEÅ
+förvaltningsrätten i uppsala,FÖRVALTNINGSRÄTTEN I UPPSALA
+förvaltningsrätten i växjö,FÖRVALTNINGSRÄTTEN I VÄXJÖ
+gotlands tingsrätt,GOTLANDS TINGSRÄTT
+gällivare tingsrätt,GÄLLIVARE TINGSRÄTT
+gävle tingsrätt,GÄVLE TINGSRÄTT
+göta hovrätt,GÖTA HOVRÄTT
+göteborgs tingsrätt,GÖTEBORGS TINGSRÄTT
+halmstads tingsrätt,HALMSTADS TINGSRÄTT
+haparanda tingsrätt,HAPARANDA TINGSRÄTT
+helsingborgs tingsrätt,HELSINGBORGS TINGSRÄTT
+hovrätten för nedre norrland,HOVRÄTTEN FÖR NEDRE NORRLAND
+hovrätten för västra sverige,HOVRÄTTEN FÖR VÄSTRA SVERIGE
+hovrätten för övre norrland,HOVRÄTTEN FÖR ÖVRE NORRLAND
+hovrätten över skåne och blekinge,HOVRÄTTEN ÖVER SKÅNE OCH BLEKINGE
+hyres och arrendenämnden i göteborg,HYRES OCH ARRENDENÄMNDEN I GÖTEBORG
+hyres och arrendenämnden i jönköping,HYRES OCH ARRENDENÄMNDEN I JÖNKÖPING
+hyres och arrendenämnden i linköping,HYRES OCH ARRENDENÄMNDEN I LINKÖPING
+hyres och arrendenämnden i stockholm,HYRES OCH ARRENDENÄMNDEN I STOCKHOLM
+hyres och arrendenämnden i sundsvall,HYRES OCH ARRENDENÄMNDEN I SUNDSVALL
+hyres och arrendenämnden i umeå,HYRES OCH ARRENDENÄMNDEN I UMEÅ
+hyres och arrendenämnden i västerås,HYRES OCH ARRENDENÄMNDEN I VÄSTERÅS
+hyres och arrendenämnen i malmö,HYRES OCH ARRENDENÄMNEN I MALMÖ
 hälsinglands tingsrätt,HÄLSINGLANDS TINGSRÄTT
+hässleholms tingsrätt,HÄSSLEHOLMS TINGSRÄTT
+högsta domstolen,HÖGSTA DOMSTOLEN
+jönköpings tingsrätt,JÖNKÖPINGS TINGSRÄTT
+kalmar tingsrätt,KALMAR TINGSRÄTT
+kammarrätten i göteborg,KAMMARRÄTTEN I GÖTEBORG
+kammarrätten i jönköping,KAMMARRÄTTEN I JÖNKÖPING
+kammarrätten i stockholm och migrationsöverdomst,KAMMARRÄTTEN I STOCKHOLM OCH MIGRATIONSÖVERDOMST
+kammarrätten i stockholm och migrationsöverdomstol,KAMMARRÄTTEN I STOCKHOLM OCH MIGRATIONSÖVERDOMST
+kammarrätten i sundsvall,KAMMARRÄTTEN I SUNDSVALL
+kristianstads tingsrätt,KRISTIANSTADS TINGSRÄTT
+linköpings tingsrätt,LINKÖPINGS TINGSRÄTT
+luleå tingsrätt,LULEÅ TINGSRÄTT
+lunds tingsrätt,LUNDS TINGSRÄTT
+lycksele tingsrätt,LYCKSELE TINGSRÄTT
+malmö tingsrätt,MALMÖ TINGSRÄTT
+mora tingsrätt,MORA TINGSRÄTT
+nacka tingsrätt,NACKA TINGSRÄTT
+norrköpings tingsrätt,NORRKÖPINGS TINGSRÄTT
+norrtälje tingsrätt,NORRTÄLJE TINGSRÄTT
+nyköpings tingsrätt,NYKÖPINGS TINGSRÄTT
+skaraborgs tingsrätt,SKARABORGS TINGSRÄTT
+skellefteå tingsrätt,SKELLEFTEÅ TINGSRÄTT
+solna tingsrätt,SOLNA TINGSRÄTT
+stockholms tingsrätt och patent och marknadsdom,STOCKHOLMS TINGSRÄTT OCH PATENT OCH MARKNADSDOM
+stockholms tingsrätt,STOCKHOLMS TINGSRÄTT OCH PATENT OCH MARKNADSDOM
+sundsvalls tingsrätt,SUNDSVALLS TINGSRÄTT
+svea hovrätt o mark o miljö och patent,SVEA HOVRÄTT O MARK O MILJÖ OCH PATENT
+södertälje tingsrätt,SÖDERTÄLJE TINGSRÄTT
+södertörns tingsrätt,SÖDERTÖRNS TINGSRÄTT
+uddevalla tingsrätt,UDDEVALLA TINGSRÄTT
+umeå tingsrätt,UMEÅ TINGSRÄTT
+uppsala tingsrätt,UPPSALA TINGSRÄTT
+varbergs tingsrätt,VARBERGS TINGSRÄTT
+vänersborgs tingsrätt och mark och miljödomstol,VÄNERSBORGS TINGSRÄTT OCH MARK OCH MILJÖDOMSTOL
+vänersborgs tingsrätt,VÄNERSBORGS TINGSRÄTT OCH MARK OCH MILJÖDOMSTOL
+värmlands tingsrätt,VÄRMLANDS TINGSRÄTT
+västmanlands tingsrätt,VÄSTMANLANDS TINGSRÄTT
+växjö tingsrätt och mark och miljödomstol,VÄXJÖ TINGSRÄTT OCH MARK OCH MILJÖDOMSTOL
+växjö tingsrätt,VÄXJÖ TINGSRÄTT OCH MARK OCH MILJÖDOMSTOL
+ystads tingsrätt,YSTADS TINGSRÄTT
+ångermanlands tingsrätt,ÅNGERMANLANDS TINGSRÄTT
+örebro tingsrätt,ÖREBRO TINGSRÄTT
+östersunds tingsrätt och mark och miljödomstol,ÖSTERSUNDS TINGSRÄTT OCH MARK OCH MILJÖDOMSTOL
+östersunds tingsrätt,ÖSTERSUNDS TINGSRÄTT OCH MARK OCH MILJÖDOMSTOL
 sveriges ambassad kabul,Sveriges ambassad Kabul
 sveriges ambassad tirana,Sveriges ambassad Tirana
 sveriges ambassad alger,Sveriges ambassad Alger
@@ -1837,7 +1851,6 @@ sveriges ambassad wien,Sveriges ambassad Wien
 svergies delegation nato bryssel,Svergies delegation NATO Bryssel
 sveriges delegation vid nato i bryssel,Svergies delegation NATO Bryssel
 kriminalvårdsnämnden,KRIMINALVÅRDSNÄMNDEN
-statens utlandslönenämnd,STATENS UTLANDSLÖNENÄMND
 taltidningsnämnden,TALTIDNINGSNÄMNDEN
 prövningsnämnden för stöd till kreditinstitut,PRÖVNINGSNÄMNDEN FÖR STÖD TILL KREDITINSTITUT
 resegarantinämnden,RESEGARANTINÄMNDEN
@@ -1845,10 +1858,7 @@ e-legitimationsnämnden,E-LEGITIMATIONSNÄMNDEN
 bergsstaten,BERGSSTATEN
 jämställdhetsnämnden,JÄMSTÄLLDHETSNÄMNDEN
 the equal opportunities commission,JÄMSTÄLLDHETSNÄMNDEN
-statens personadressregisternämnd,STATENS PERSONADRESSREGISTERNÄMND
-statens person- och adressregisternämnd,STATENS PERSONADRESSREGISTERNÄMND
 småhusskadenämnden,SMÅHUSSKADENÄMNDEN
-rederinämnden,REDERINÄMNDEN
 lokala säkerhetsnämnden vid studsvik,LOKALA SÄKERHETSNÄMNDEN VID STUDSVIK
 lokala säkerhetsnämnden vid barsebäck,LOKALA SÄKERHETSNÄMNDEN VID BARSEBÄCK
 amu-gruppen,AMU-gruppen
@@ -1897,6 +1907,7 @@ den statliga skoladministrationen,Den statliga skoladministrationen
 det statliga lantmäteriet,Det statliga lantmäteriet
 dialekt- och ortnamnsarkiven samt svenskt visarkiv,Dialekt- och ortnamnsarkiven samt Svenskt visarkiv
 dialekt- och ortnamnsarkiven samt svenskt visarkiv,Dialekt- och ortnamnsarkiven samt svenskt visarkiv
+digitaliseringsmyndigheten,Digitaliseringsmyndigheten
 domkapitlen,Domkapitlen
 domänverket,Domänverket
 ekonomiska attachéer och finansråd,Ekonomiska attachéer och finansråd
@@ -1958,6 +1969,7 @@ militärhögskolan,Militärhögskolan
 militärledningen,Militärledningen
 militärledningens rådgivande nämnd,Militärledningens rådgivande nämnd
 myndigheten för avveckling av vissa verksamheter inom totalförsvaret,Myndigheten för avveckling av vissa verksamheter inom totalförsvaret
+myndigheten för tillväxt- och transportanalys,Myndigheten för tillväxt- och transportanalys
 nordiska afrikainstitutet (scandinavian institute of african studies),Nordiska afrikainstitutet (Scandinavian Institute of African Studies)
 nordiska rådets svenska delegation,Nordiska rådets svenska delegation
 nordkalottens amu-center,Nordkalottens AMU-center
@@ -2081,13 +2093,14 @@ svenska eu-programkontoret för utbildning och kompetensutveckling,Svenska EU-pr
 svenska unescorådet,Svenska Unescorådet
 svenska dialoginstitutet för mellanöstern och nordafrika,Svenska dialoginstitutet för Mellanöstern och Nordafrika
 svenska unescorådet,Svenska unescorådet
+sveriges utrikes underrättelsetjänst,Sveriges utrikes underrättelsetjänst
 teleanslutningsnämnden,Teleanslutningsnämnden
 telestyrelsen,Telestyrelsen
 televerket,Televerket
-telegrafverket,Televerket
 kongl. elecktriska telegraf-werket,Televerket
 kongl. telegrafverket,Televerket
 kungl. telegrafverket,Televerket
+telegrafverket,Televerket
 kongliga elecktriska telegraf-werket,Televerket
 kongliga telegrafverket,Televerket
 kungliga telegrafverket,Televerket
@@ -2113,6 +2126,7 @@ värnpliktsverket,Värnpliktsverket
 växtförädlingsnämnden,Växtförädlingsnämnden
 yrkesinspektionen,Yrkesinspektionen
 åsbackaskolans resurscenter,Åsbackaskolans resurscenter
+övervakningsnämnderna,Övervakningsnämnderna
 artilleristaben,Artilleristaben
 artillery staff,Artilleristaben
 kunglig majestäts kansli,Kunglig Majestäts kansli
@@ -2122,44 +2136,56 @@ länsstyrelsen i skaraborgs län,Länsstyrelsen i Skaraborgs län
 skaraborg county administrative board,Länsstyrelsen i Skaraborgs län
 matematikmaskinnämnden,Matematikmaskinnämnden
 swedish board for computing machinery,Matematikmaskinnämnden
+mmn,Matematikmaskinnämnden
+polismyndigheten västra götaland,Polismyndigheten Västra Götaland
+västra götaland police authority,Polismyndigheten Västra Götaland
+polismyndigheten i blekinge län,Polismyndigheten i Blekinge län
+blekinge county police authority,Polismyndigheten i Blekinge län
+polismyndigheten i gävleborgs län,Polismyndigheten i Gävleborgs län
+gävleborg county police authority,Polismyndigheten i Gävleborgs län
+polismyndigheten i norrbottens län,Polismyndigheten i Norrbottens län
+norrbotten county police authority,Polismyndigheten i Norrbottens län
+polismyndigheten i uppsala län,Polismyndigheten i Uppsala län
+uppsala county police authority,Polismyndigheten i Uppsala län
 svenska institutet i alexandria,Svenska institutet i Alexandria
 swedish institute alexandria,Svenska institutet i Alexandria
 överståthållarämbetet,överståthållarämbetet
 over-governors office,överståthållarämbetet
-sveriges exportråd,Sveriges exportråd
-svenska språknämnden,Svenska språknämnden
-svenska kyrkan,Svenska kyrkan
-stiftelsen who collaborating centre for international drug monitoring,Stiftelsen WHO Collaborating Centre for International Drug Monitoring
-stiftelsen tekniska museet,Stiftelsen Tekniska museet
-stiftelsen stockholms internationella fredsforskningsinstitut,Stiftelsen Stockholms internationella fredsforskningsinstitut
-stiftelsen nordiska museet,Stiftelsen Nordiska museet
-stiftelsen chalmers tekniska högskola,Stiftelsen Chalmers tekniska högskola
-nordregio,Nordregio
-nordiskt utbildningsprogram för utveckling av social service,Nordiskt utbildningsprogram för utveckling av social service
-nordiskt genresurscenter (nordgen),Nordiskt Genresurscenter (Nordgen)
-nordiskt center för regional utveckling,Nordiskt center för regional utveckling
-nordiska samarbetsorganet för handikappfrågor,Nordiska samarbetsorganet för handikappfrågor
-nordiska musikkommittén (nomus),Nordiska musikkommittén (NOMUS)
-nordiska läkemedelsnämnden,Nordiska Läkemedelsnämnden
-nordiska högskolan för folkhälsovetenskap,Nordiska högskolan för folkhälsovetenskap
-nordiska hälsovårdshögskolan (nhv),Nordiska hälsovårdshögskolan (NHV)
-nordens folkliga akademi,Nordens folkliga akademi
-nord samarbetsorganet för handikappfrågor,Nord samarbetsorganet för handikappfrågor
-nord genbanken f jordbr. o trädg.växter (ngb),Nord genbanken f jordbr. o trädg.växter (NGB)
-kungliga akademien för de fria konsterna,Kungliga Akademien för de fria konsterna
-hällsboskolan,Hällsboskolan
-shal,Hällsboskolan
-"hällsboskolan, sigtuna",Hällsboskolan
-hällsboskolans resurscenter,Hällsboskolan
-ericastiftelsen,Ericastiftelsen
+avvecklingskommittén för näringsmyndigheter,Avvecklingskommittén för näringsmyndigheter
+avvecklingsmyndigheten för sadev och isa,Avvecklingsmyndigheten för SADEV och ISA
+avvecklingsmyndigheten för verva,Avvecklingsmyndigheten för Verva
+"avvecklingsmyndigheten för utbildningsmyndigheter (vhs, hsv, ipro och krus)","Avvecklingsmyndigheten för utbildningsmyndigheter (VHS, HSV, IPRO och KRUS)"
 ekeskolan,Ekeskolan
 ekeskolans resurscenter,Ekeskolan
 seke,Ekeskolan
 "ekeskolan, örebro",Ekeskolan
-avvecklingsmyndigheten för verva,Avvecklingsmyndigheten för Verva
-"avvecklingsmyndigheten för utbildningsmyndigheter (vhs, hsv, ipro och krus)","Avvecklingsmyndigheten för utbildningsmyndigheter (VHS, HSV, IPRO och KRUS)"
-avvecklingsmyndigheten för sadev och isa,Avvecklingsmyndigheten för SADEV och ISA
-avvecklingskommittén för näringsmyndigheter,Avvecklingskommittén för näringsmyndigheter
+ericastiftelsen,Ericastiftelsen
+hällsboskolan,Hällsboskolan
+shal,Hällsboskolan
+"hällsboskolan, sigtuna",Hällsboskolan
+hällsboskolans resurscenter,Hällsboskolan
+kungliga akademien för de fria konsterna,Kungliga Akademien för de fria konsterna
+nord genbanken f jordbr. o trädg.växter (ngb),Nord genbanken f jordbr. o trädg.växter (NGB)
+nord samarbetsorganet för handikappfrågor,Nord samarbetsorganet för handikappfrågor
+nordens folkliga akademi,Nordens folkliga akademi
+nordiska läkemedelsnämnden,Nordiska Läkemedelsnämnden
+nordiska hälsovårdshögskolan (nhv),Nordiska hälsovårdshögskolan (NHV)
+nordiska högskolan för folkhälsovetenskap,Nordiska högskolan för folkhälsovetenskap
+nordiska musikkommittén (nomus),Nordiska musikkommittén (NOMUS)
+nordiska samarbetsorganet för handikappfrågor,Nordiska samarbetsorganet för handikappfrågor
+nordiskt genresurscenter (nordgen),Nordiskt Genresurscenter (Nordgen)
+nordiskt center för regional utveckling,Nordiskt center för regional utveckling
+nordiskt utbildningsprogram för utveckling av social service,Nordiskt utbildningsprogram för utveckling av social service
+nordregio,Nordregio
+okänd,Okänd
+stiftelsen chalmers tekniska högskola,Stiftelsen Chalmers tekniska högskola
+stiftelsen nordiska museet,Stiftelsen Nordiska museet
+stiftelsen stockholms internationella fredsforskningsinstitut,Stiftelsen Stockholms internationella fredsforskningsinstitut
+stiftelsen tekniska museet,Stiftelsen Tekniska museet
+stiftelsen who collaborating centre for international drug monitoring,Stiftelsen WHO Collaborating Centre for International Drug Monitoring
+svenska kyrkan,Svenska kyrkan
+svenska språknämnden,Svenska språknämnden
+sveriges exportråd,Sveriges exportråd
 sveriges ambassad andorra,Sveriges ambassad Andorra
 kansliet för de stockholmsbaserade sändebuden,Kansliet för de Stockholmsbaserade sändebuden
 sveriges ambassad aruba,Sveriges ambassad Aruba
@@ -2238,4 +2264,5 @@ sveriges ambassad vanuatu,Sveriges ambassad Vanuatu
 sveriges ambassad venezuela,Sveriges ambassad Venezuela
 sveriges ständiga delegation vid organisationen för säkerhet och samarbete i europa,Sveriges ständiga delegation vid organisationen för säkerhet och samarbete i Europa
 osse,Sveriges ständiga delegation vid organisationen för säkerhet och samarbete i Europa
+hudiksvalls tingsrätt,Hudiksvalls Tingsrätt
 kansliet för de stockholmsbaseade sändebuden,Kansliet för de Stockholmsbaseade sändebuden

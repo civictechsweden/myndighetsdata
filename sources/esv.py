@@ -1,20 +1,17 @@
 from utils import get
 
-import urllib.request
+import requests
 import pandas as pd
-import ssl
-import certifi
 
-ssl._create_default_https_context = lambda: ssl.create_default_context(
-    cafile=certifi.where()
-)
-
-URL = "https://www.statskontoret.se/kunskapsstod-och-regler/rapportering/myndighetsregistret/exportexcelallaarmyndigheter/"
+URL = "https://www.statskontoret.se/kunskapsstod-och-regler/rapportering/myndighetsregistret/exportexcelallaarmyndigheter"
 FILEPATH = "raw_files/esv.xlsx"
 
 
 def download():
-    urllib.request.urlretrieve(URL, FILEPATH)
+    response = requests.get(URL)
+    response.raise_for_status()
+    with open(FILEPATH, "wb") as file:
+        file.write(response.content)
 
 
 def extract():

@@ -360,31 +360,13 @@
     "website": "www.ekobrottsmyndigheten.se",
     "group": "Statliga förvaltningsmyndigheter",
     "postal_address": {
-      "address": "BOX 22098",
-      "postcode": "104 22",
+      "address": "BOX 6001",
+      "postcode": "102 31",
       "city": "STOCKHOLM"
     },
     "office_address": {
-      "address": "Hantverkargatan 11",
-      "postcode": "112 21",
-      "city": "STOCKHOLM"
-    }
-  },
-  "EKONOMISTYRNINGSVERKET": {
-    "org_nr": "202100-5026",
-    "created_by": "2016:1023",
-    "email": "registrator@esv.se",
-    "phone": "086904300",
-    "website": "www.esv.se",
-    "group": "Statliga förvaltningsmyndigheter",
-    "postal_address": {
-      "address": "BOX 12028",
-      "postcode": "102 21",
-      "city": "STOCKHOLM"
-    },
-    "office_address": {
-      "address": "Fleminggatan 20",
-      "postcode": "112 26",
+      "address": "HÄLSINGEGATAN 43",
+      "postcode": "113 31",
       "city": "STOCKHOLM"
     }
   },
@@ -430,7 +412,7 @@
     "created_by": "2018:1879",
     "email": "registrator@etikprovning.se",
     "phone": "0104750800",
-    "website": "www.etikprovning.se",
+    "website": "www.etikprovningsmyndigheten.se",
     "group": "Statliga förvaltningsmyndigheter",
     "postal_address": {
       "address": "Box 2110",
@@ -485,7 +467,7 @@
     "created_by": "2007:1074",
     "email": "registratur@kammarkollegiet.se",
     "phone": "087000800",
-    "website": "www.kammarkollegiet.se/om-oss/kammarkollegiets-uppgifter/kammarkollegiets-stod-till-andra-myndigheter/fideikommissnamnden",
+    "website": "https://www.kammarkollegiet.se/om-oss/kammarkollegiets-uppgifter/kammarkollegiets-stod-till-andra-myndigheter/fideikommissnamnden",
     "group": "Statliga förvaltningsmyndigheter",
     "postal_address": {
       "address": "BOX 2218",
@@ -1295,8 +1277,8 @@
       "city": "SUNDBYBERG"
     },
     "office_address": {
-      "address": "Vasagatan 12 D",
-      "postcode": "172 67",
+      "address": "Löfströms allé 5",
+      "postcode": "172 66",
       "city": "SUNDBYBERG"
     }
   },
@@ -1332,7 +1314,7 @@
       "city": "STOCKHOLM"
     },
     "office_address": {
-      "address": "FLEMMINGGATAN 14",
+      "address": "FLEMINGGATAN 14",
       "postcode": "112 26",
       "city": "STOCKHOLM"
     }
@@ -1432,7 +1414,7 @@
     "created_by": "2007:842",
     "email": "",
     "phone": "087878000",
-    "website": "http://www.regeringen.se/myndigheter-med-flera/krigsforsakringsnamnden/",
+    "website": "",
     "group": "Statliga förvaltningsmyndigheter",
     "postal_address": {
       "address": "Box 7821",
@@ -1653,7 +1635,7 @@
     },
     "start": 2010
   },
-  "LIVSMEDELSVERKET": {
+  "Livsmedelsverket": {
     "org_nr": "202100-1850",
     "created_by": "2009:1426",
     "email": "livsmedelsverket@slv.se",
@@ -1676,7 +1658,7 @@
     "created_by": "2007:1054",
     "email": "",
     "phone": "",
-    "website": "www.osthammar.se/sv/organisation/namnd/lokala-sakerhetsnamnden/",
+    "website": "",
     "group": "Statliga förvaltningsmyndigheter",
     "postal_address": {
       "address": "BOX 66",
@@ -1694,7 +1676,7 @@
     "created_by": "2007:1054",
     "email": "",
     "phone": "",
-    "website": "www.oskarshamn.se/mer-om-kommunen/karnenergi-och-karnavfall/lokala-sakerhetsnamnden-vid-oskarshamns-karnkraftverk-och-karnenergiberedskap/",
+    "website": "",
     "group": "Statliga förvaltningsmyndigheter",
     "postal_address": {
       "address": "BOX 706",
@@ -1712,7 +1694,7 @@
     "created_by": "2007:1054",
     "email": "",
     "phone": "",
-    "website": "www.varberg.se/kommunpolitik/kommunensorganisation/lokalasakerhetsnamnden.4.12d3b98d13f7ba71e5a1edb.html",
+    "website": "",
     "group": "Statliga förvaltningsmyndigheter",
     "postal_address": {
       "address": ""
@@ -1747,7 +1729,7 @@
     "website": "www.lu.se",
     "group": "Statliga förvaltningsmyndigheter",
     "postal_address": {
-      "address": "BOX 177",
+      "address": "BOX 117",
       "postcode": "221 00",
       "city": "LUND"
     },
@@ -1996,8 +1978,8 @@
       "address": ""
     },
     "office_address": {
-      "address": "Bäverns gränd 17",
-      "postcode": "753 19",
+      "address": "Klostergatan 13",
+      "postcode": "753 21",
       "city": "UPPSALA"
     }
   },
@@ -2216,24 +2198,22 @@
       "city": "STOCKHOLM"
     }
   },
-  "MYNDIGHETEN FÖR ARBETSMILJÖKUNSKAP": {
-    "org_nr": "202100-6875",
-    "created_by": "2018:254",
-    "email": "info@mynak.se",
-    "phone": "026148400",
-    "website": "www.mynak.se",
+  "Myndigheten för civilt försvar": {
+    "org_nr": "202100-5984",
+    "created_by": "2008:1002",
+    "email": "registrator@mcf.se",
+    "phone": "0771240240",
+    "website": "www.mcf.se",
     "group": "Statliga förvaltningsmyndigheter",
     "postal_address": {
-      "address": "Norra Slottsgatan 9",
-      "postcode": "803 20",
-      "city": "GÄVLE"
+      "address": ""
     },
     "office_address": {
-      "address": "Norra Slottsgatan 8",
-      "postcode": "803 20",
-      "city": "GÄVLE"
+      "address": "PACKHUSALLÉN 2",
+      "postcode": "652 12",
+      "city": "KARLSTAD"
     },
-    "start": 2018
+    "start": 2009
   },
   "MYNDIGHETEN FÖR DELAKTIGHET": {
     "org_nr": "202100-5588",
@@ -2328,41 +2308,24 @@
     },
     "start": 2022
   },
-  "Myndigheten för samhällsskydd och beredskap": {
-    "org_nr": "202100-5984",
-    "created_by": "2008:1002",
-    "email": "registrator@msb.se",
-    "phone": "0771240240",
-    "website": "www.msb.se",
+  "Myndigheten för säkerhet och integritetsskydd": {
+    "org_nr": "202100-5703",
+    "created_by": "2007:1141",
+    "email": "sakint@sakint.se",
+    "phone": "0106179800",
+    "website": "www.sakint.se",
     "group": "Statliga förvaltningsmyndigheter",
     "postal_address": {
-      "address": ""
+      "address": "BOX 22523",
+      "postcode": "104 22",
+      "city": "STOCKHOLM"
     },
     "office_address": {
-      "address": "PACKHUSALLÉN 2",
-      "postcode": "652 12",
-      "city": "KARLSTAD"
+      "address": "Drottninggatan 89",
+      "postcode": "113 60",
+      "city": "STOCKHOLM"
     },
-    "short_name": "MSB",
-    "start": 2009
-  },
-  "Myndigheten för stöd till trossamfund": {
-    "org_nr": "202100-5141",
-    "created_by": "2017:104",
-    "email": "info@myndighetensst.se",
-    "phone": "084536870",
-    "website": "www.myndighetensst.se",
-    "group": "Statliga förvaltningsmyndigheter",
-    "postal_address": {
-      "address": "BOX 14038",
-      "postcode": "167 14",
-      "city": "BROMMA"
-    },
-    "office_address": {
-      "address": "GUSTAVSLUNDSVÄGEN 18",
-      "postcode": "167 51",
-      "city": "BROMMA"
-    }
+    "start": 2008
   },
   "Myndigheten för tillgängliga medier": {
     "org_nr": "202100-3591",
@@ -2377,8 +2340,8 @@
       "city": "Malmö"
     },
     "office_address": {
-      "address": "Hans Michelsensgatan 2",
-      "postcode": "211 20",
+      "address": "DOCKPLATSEN 1",
+      "postcode": "211 19",
       "city": "MALMÖ"
     }
   },
@@ -2414,8 +2377,8 @@
       "city": "STOCKHOLM"
     },
     "office_address": {
-      "address": "Karlavägen 104  9 tr",
-      "postcode": "115 23",
+      "address": "Karlavägen 108  9 tr",
+      "postcode": "115 26",
       "city": "STOCKHOLM"
     },
     "start": 2023
@@ -2568,7 +2531,7 @@
     "created_by": "2007:1076",
     "email": "notarienamnden@dom.se",
     "phone": "036156800",
-    "website": "www.domstol.se/Om-Sveriges-Domstolar/Notarienamnden",
+    "website": "www.domstol.se/notarienamnden",
     "group": "Statliga förvaltningsmyndigheter",
     "postal_address": {
       "address": "Box 2203",
@@ -2605,7 +2568,7 @@
     "created_by": "2019:1152",
     "email": "registrator@npof.se",
     "phone": "0104573320",
-    "website": "https://npof.se",
+    "website": "www.npof.se",
     "group": "Statliga förvaltningsmyndigheter",
     "postal_address": {
       "address": "BOX 2110",
@@ -2624,7 +2587,7 @@
     "created_by": "2007:909",
     "email": "",
     "phone": "084051000",
-    "website": "www.regeringen.se/myndigheter-med-flera/namnden-for-styrelserepresentationsfragor",
+    "website": "",
     "group": "Statliga förvaltningsmyndigheter",
     "postal_address": {
       "address": ""
@@ -2660,7 +2623,7 @@
     "created_by": "2007:1152",
     "email": "info@oljekrisnamnden.se",
     "phone": "",
-    "website": "www.regeringen.se/myndigheter-med-flera/oljekrisnamnden",
+    "website": "www.oljekrisnamnden.se",
     "group": "Statliga förvaltningsmyndigheter",
     "postal_address": {
       "address": ""
@@ -3046,7 +3009,7 @@
     "created_by": "2007:830",
     "email": "registratur@kammarkollegiet.se",
     "phone": "087000800",
-    "website": "www.kammarkollegiet.se/kammarkollegiet/vi-arbetar-ocksa-med/naemndmyndigheter/skiljenaemnden-i-vissa-trygghetsfragor",
+    "website": "",
     "group": "Statliga förvaltningsmyndigheter",
     "postal_address": {
       "address": "Box 2218",
@@ -3154,7 +3117,7 @@
     "created_by": "2018:1476",
     "email": "registrator@spelinspektionen.se",
     "phone": "0152650100",
-    "website": "www.lotteriinspektionen.se",
+    "website": "www.spelinspektionen.se",
     "group": "Statliga förvaltningsmyndigheter",
     "postal_address": {
       "address": "BOX 199",
@@ -3199,26 +3162,8 @@
       "city": "STOCKHOLM"
     },
     "office_address": {
-      "address": "SANKT ERIKSGATAN 117",
-      "postcode": "113 43",
-      "city": "STOCKHOLM"
-    }
-  },
-  "Statens centrum för arkitektur och design": {
-    "org_nr": "202100-3427",
-    "created_by": "2013:71",
-    "email": "info@arkdes.se",
-    "phone": "0852023500",
-    "website": "www.arkdes.se",
-    "group": "Statliga förvaltningsmyndigheter",
-    "postal_address": {
-      "address": "BOX 16410",
-      "postcode": "103 27",
-      "city": "STOCKHOLM"
-    },
-    "office_address": {
-      "address": "EXERCISPLAN 4",
-      "postcode": "111 49",
+      "address": "SOLNAVÄGEN 4",
+      "postcode": "113 65",
       "city": "STOCKHOLM"
     }
   },
@@ -3253,26 +3198,8 @@
       "city": "STOCKHOLM"
     },
     "office_address": {
-      "address": "SANKT PAULSGATAN 6",
-      "postcode": "118 46",
-      "city": "STOCKHOLM"
-    }
-  },
-  "STATENS FÖRSVARSHISTORISKA MUSEER": {
-    "org_nr": "202100-0464",
-    "created_by": "2007:1178",
-    "email": "info@sfhm.se",
-    "phone": "0851956310",
-    "website": "www.sfhm.se",
-    "group": "Statliga förvaltningsmyndigheter",
-    "postal_address": {
-      "address": "BOX 14095",
-      "postcode": "104 41",
-      "city": "STOCKHOLM"
-    },
-    "office_address": {
-      "address": "RIDDARGATAN 13",
-      "postcode": "114 51",
+      "address": "NORRA BANKOGRÄND 2",
+      "postcode": "111 30",
       "city": "STOCKHOLM"
     }
   },
@@ -3382,24 +3309,6 @@
       "city": "JÖNKÖPING"
     }
   },
-  "STATENS KONSTRÅD": {
-    "org_nr": "202100-1033",
-    "created_by": "2007:1188",
-    "email": "registrator@statenskonstrad.se",
-    "phone": "084401280",
-    "website": "www.statenskonstrad.se",
-    "group": "Statliga förvaltningsmyndigheter",
-    "postal_address": {
-      "address": "SVENSKSUNDSVÄGEN 11 A",
-      "postcode": "111 49",
-      "city": "STOCKHOLM"
-    },
-    "office_address": {
-      "address": "SVENSKSUNDSVÄGEN 11 A",
-      "postcode": "111 49",
-      "city": "STOCKHOLM"
-    }
-  },
   "STATENS KULTURRÅD": {
     "org_nr": "202100-1280",
     "created_by": "2012:515",
@@ -3418,7 +3327,7 @@
       "city": "STOCKHOLM"
     }
   },
-  "STATENS MARITIMA OCH TRANSPORTHISTORISKA MUSEER": {
+  "STATENS MUSEER FÖR MARITIM, TRANSPORT- OCH FÖRSVARSHISTORIA": {
     "org_nr": "202100-1132",
     "created_by": "2007:1198",
     "email": "registrator@smtm.se",
@@ -3477,7 +3386,7 @@
     "created_by": "2007:908",
     "email": "",
     "phone": "084051000",
-    "website": "www.regeringen.se/myndigheter-med-flera/statens-namnd-for-arbetstagares-uppfinningar2/",
+    "website": "",
     "group": "Statliga förvaltningsmyndigheter",
     "postal_address": {
       "address": ""
@@ -3513,7 +3422,7 @@
     "created_by": "2007:826",
     "email": "",
     "phone": "087000800",
-    "website": "http://www.kammarkollegiet.se/n-mndmyndigheter/skaderegleringsn-mnden",
+    "website": "",
     "group": "Statliga förvaltningsmyndigheter",
     "postal_address": {
       "address": "Box 2218",
@@ -3586,7 +3495,7 @@
     "created_by": "2007:832",
     "email": "kundservice@spv.se",
     "phone": "",
-    "website": "www.spv.se",
+    "website": "www.spv.se/privatperson/statlig-tjanstepension",
     "group": "Statliga förvaltningsmyndigheter",
     "postal_address": {
       "address": ""
@@ -3634,7 +3543,7 @@
     "created_by": "2007:835",
     "email": "registratur@kammarkollegiet.se",
     "phone": "087000800",
-    "website": "www.kammarkollegiet.se/namndmyndigheter/statens-overklagandenamnd/om-namnden",
+    "website": "",
     "group": "Statliga förvaltningsmyndigheter",
     "postal_address": {
       "address": "BOX 2218",
@@ -3661,21 +3570,21 @@
       "city": "ÖREBRO"
     }
   },
-  "STATSKONTORET": {
-    "org_nr": "202100-0852",
+  "Statskontoret": {
+    "org_nr": "202100-5026",
     "created_by": "2025:681",
     "email": "registrator@statskontoret.se",
-    "phone": "084544600",
+    "phone": "086904300",
     "website": "www.statskontoret.se",
     "group": "Statliga förvaltningsmyndigheter",
     "postal_address": {
-      "address": "BOX 396",
-      "postcode": "101 27",
+      "address": "BOX 12028",
+      "postcode": "102 21",
       "city": "STOCKHOLM"
     },
     "office_address": {
-      "address": "Torsgatan 11",
-      "postcode": "111 23",
+      "address": "Fleminggatan 20",
+      "postcode": "112 26",
       "city": "STOCKHOLM"
     }
   },
@@ -3754,7 +3663,7 @@
     "created_by": "1993:384",
     "email": "samefonden@sametinget.se",
     "phone": "",
-    "website": "www.sametinget.se/samefonden",
+    "website": "",
     "group": "Statliga förvaltningsmyndigheter",
     "postal_address": {
       "address": "BOX 90",
@@ -3907,25 +3816,6 @@
       "city": "NORRKÖPING"
     }
   },
-  "Säkerhets- och integritetsskyddsnämnden": {
-    "org_nr": "202100-5703",
-    "created_by": "2007:1141",
-    "email": "sakint@sakint.se",
-    "phone": "0106179800",
-    "website": "www.sakint.se",
-    "group": "Statliga förvaltningsmyndigheter",
-    "postal_address": {
-      "address": "BOX 22523",
-      "postcode": "104 22",
-      "city": "STOCKHOLM"
-    },
-    "office_address": {
-      "address": "Drottninggatan 89",
-      "postcode": "113 60",
-      "city": "STOCKHOLM"
-    },
-    "start": 2008
-  },
   "SÄKERHETSPOLISEN": {
     "org_nr": "202100-6594",
     "created_by": "2022:1719",
@@ -4019,7 +3909,7 @@
     "created_by": "2010:1472",
     "email": "registrator@pliktverket.se",
     "phone": "0771244030",
-    "website": "www.pliktverket.se",
+    "website": "www.rekryteringsmyndigheten.se",
     "group": "Statliga förvaltningsmyndigheter",
     "postal_address": {
       "address": "Box 31",
@@ -4257,7 +4147,7 @@
     },
     "office_address": {
       "address": "MÄSTER SAMUELSGATAN 56",
-      "postcode": "101 58",
+      "postcode": "111 21",
       "city": "STOCKHOLM"
     }
   },
@@ -4350,7 +4240,7 @@
     "created_by": "2007:1081",
     "email": "overklagandenamnden@dom.se",
     "phone": "060186600",
-    "website": "www.kammarrattenisundsvall.se",
+    "website": "www.domstol.se/overklagandenamnden-for-namndemannauppdrag",
     "group": "Statliga förvaltningsmyndigheter",
     "postal_address": {
       "address": "Box 714",
@@ -4412,8 +4302,8 @@
       "city": "STOCKHOLM"
     },
     "office_address": {
-      "address": "VÄSTRA TRÄDGÅRDSGATAN 4",
-      "postcode": "111 53",
+      "address": "Sveavägen 25",
+      "postcode": "111 34",
       "city": "STOCKHOLM"
     }
   },
@@ -4422,7 +4312,7 @@
     "created_by": "2011:745",
     "email": "registrator.riksdagsforvaltningen@riksdagen.se",
     "phone": "",
-    "website": "www.riksdagen.se",
+    "website": "www.riksdagen.se/sv/sa-fungerar-riksdagen/riksdagsforvaltningen",
     "group": "Myndigheter under riksdagen",
     "postal_address": {
       "address": ""
@@ -4522,16 +4412,16 @@
     "created_by": "2000:192",
     "email": "info@ap1.se",
     "phone": "0856620200",
-    "website": "www.ap1.se",
+    "website": "",
     "group": "AP-fonder",
     "postal_address": {
-      "address": "BOX 16294",
-      "postcode": "103 25",
+      "address": "BOX 3069",
+      "postcode": "103 61",
       "city": "STOCKHOLM"
     },
     "office_address": {
-      "address": "REGERINGSGATAN 67",
-      "postcode": "111 56",
+      "address": "JAKOBSBERGSGATAN 16",
+      "postcode": "111 44",
       "city": "STOCKHOLM"
     }
   },
@@ -4540,7 +4430,7 @@
     "created_by": "2000:192",
     "email": "info@ap2.se",
     "phone": "0317042900",
-    "website": "www.ap2.se",
+    "website": "www.ap2.se/",
     "group": "AP-fonder",
     "postal_address": {
       "address": "BOX 11155",
@@ -4566,8 +4456,8 @@
       "city": "STOCKHOLM"
     },
     "office_address": {
-      "address": "VASAGATAN 16  9TR",
-      "postcode": "111 20",
+      "address": "REGERINGSGATAN 28",
+      "postcode": "111 53",
       "city": "STOCKHOLM"
     }
   },
@@ -4594,16 +4484,16 @@
     "created_by": "2000:193",
     "email": "info@apfond6.se",
     "phone": "0317411000",
-    "website": "www.apfond6.se",
+    "website": "",
     "group": "AP-fonder",
     "postal_address": {
-      "address": "KÖPMANSGATAN 32",
-      "postcode": "411 06",
+      "address": "BOX 11155",
+      "postcode": "404 24",
       "city": "GÖTEBORG"
     },
     "office_address": {
-      "address": "KÖPMANSGATAN 32",
-      "postcode": "411 06",
+      "address": "",
+      "postcode": "000 00",
       "city": "GÖTEBORG"
     }
   },
@@ -4701,7 +4591,7 @@
     "created_by": "1988:317",
     "email": "alingsas.tingsratt@dom.se",
     "phone": "032279300",
-    "website": "www.alingsastingsratt.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 126",
@@ -4719,7 +4609,7 @@
     "created_by": "1988:317",
     "email": "attunda.tingsratt@dom.se",
     "phone": "0856169500",
-    "website": "www.attundatingsratt.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 940",
@@ -4737,7 +4627,7 @@
     "created_by": "1988:317",
     "email": "blekinge.tingsratt@dom.se",
     "phone": "0455335400",
-    "website": "www.blekingetingsratt.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 319",
@@ -4755,7 +4645,7 @@
     "created_by": "1988:317",
     "email": "boras.tingsratt@dom.se",
     "phone": "033177000",
-    "website": "www.borastingsratt.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 270",
@@ -4773,7 +4663,7 @@
     "created_by": "1988:317",
     "email": "eksjo.tingsratt@dom.se",
     "phone": "038138400",
-    "website": "www.eksjotingsratt.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 230",
@@ -4791,7 +4681,7 @@
     "created_by": "1988:317",
     "email": "eskilstuna.tingsratt@dom.se",
     "phone": "0164030300",
-    "website": "www.eskilstunatingsratt.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 363",
@@ -4809,7 +4699,7 @@
     "created_by": "1988:317",
     "email": "falu.tingsratt@dom.se",
     "phone": "02348200",
-    "website": "www.falutingsratt.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 102",
@@ -4827,7 +4717,7 @@
     "created_by": "1988:317",
     "email": "forvaltningsrattenifalun@dom.se",
     "phone": "0233830000",
-    "website": "www.forvaltningsrattenifalun.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 45",
@@ -4845,7 +4735,7 @@
     "created_by": "1988:317",
     "email": "forvaltningsrattenigoteborg@dom.se",
     "phone": "0317327000",
-    "website": "www.forvaltningsrattenigoteborg.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 53197",
@@ -4863,7 +4753,7 @@
     "created_by": "1988:317",
     "email": "forvaltningsratteniharnosand@dom.se",
     "phone": "0611460600",
-    "website": "www.forvaltningsratteniharnosand.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 314",
@@ -4881,7 +4771,7 @@
     "created_by": "1988:317",
     "email": "forvaltningsrattenijonkoping@dom.se",
     "phone": "036156600",
-    "website": "www.forvaltningsrattenijonkoping.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 2201",
@@ -4899,7 +4789,7 @@
     "created_by": "1988:317",
     "email": "forvaltningsrattenikarlstad@dom.se",
     "phone": "054148500",
-    "website": "www.forvaltningsrattenikarlstad.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 568",
@@ -4917,7 +4807,7 @@
     "created_by": "1988:317",
     "email": "forvaltningsrattenilinkoping@dom.se",
     "phone": "013251100",
-    "website": "www.forvaltningsrattenilinkoping.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 406",
@@ -4935,7 +4825,7 @@
     "created_by": "1988:317",
     "email": "forvaltningsrattenilulea@dom.se",
     "phone": "0920295490",
-    "website": "www.forvaltningsrattenilulea.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "Box 849",
@@ -4953,7 +4843,7 @@
     "created_by": "1988:317",
     "email": "forvaltningsrattenimalmo@dom.se",
     "phone": "040353500",
-    "website": "www.forvaltningsrattenimalmo.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 4522",
@@ -4971,7 +4861,7 @@
     "created_by": "1988:317",
     "email": "forvaltningsrattenistockholm@dom.se",
     "phone": "0856168000",
-    "website": "www.forvaltningsrattenistockholm.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": ""
@@ -4987,7 +4877,7 @@
     "created_by": "1988:317",
     "email": "forvaltningsratteniumea@dom.se",
     "phone": "090177400",
-    "website": "www.forvaltningsratteniumea.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 193",
@@ -5005,7 +4895,7 @@
     "created_by": "1988:317",
     "email": "forvaltningsratteniuppsala@dom.se",
     "phone": "0184316300",
-    "website": "www.forvaltningsratteniuppsala.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 1853",
@@ -5023,7 +4913,7 @@
     "created_by": "1988:317",
     "email": "forvaltningsrattenivaxjo@dom.se",
     "phone": "0470560200",
-    "website": "www.forvaltningsrattenivaxjo.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 42",
@@ -5041,7 +4931,7 @@
     "created_by": "1988:317",
     "email": "gotlands.tingsratt@dom.se",
     "phone": "0498281400",
-    "website": "www.gotlandstingsratt.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 1143",
@@ -5059,7 +4949,7 @@
     "created_by": "1988:317",
     "email": "gallivare.tingsratt@dom.se",
     "phone": "097075800",
-    "website": "",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 23",
@@ -5077,7 +4967,7 @@
     "created_by": "1988:317",
     "email": "gavle.tingsratt@dom.se",
     "phone": "026176700",
-    "website": "www.gavletingsratt.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 1194",
@@ -5095,7 +4985,7 @@
     "created_by": "1988:317",
     "email": "gota.hovratt@dom.se",
     "phone": "036156900",
-    "website": "www.gotahovratt.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 2223",
@@ -5113,7 +5003,7 @@
     "created_by": "1988:317",
     "email": "gbg.tingsratt@dom.se",
     "phone": "0317011000",
-    "website": "www.goteborgstingsratt.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": ""
@@ -5129,7 +5019,7 @@
     "created_by": "1988:317",
     "email": "halmstads.tingsratt@dom.se",
     "phone": "035152500",
-    "website": "www.halmstadstingsratt.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 193",
@@ -5147,7 +5037,7 @@
     "created_by": "1988:317",
     "email": "haparanda.tingsratt@dom.se",
     "phone": "092228100",
-    "website": "www.haparandatingsratt.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 174",
@@ -5165,7 +5055,7 @@
     "created_by": "1988:317",
     "email": "helsingborgs.tingsratt@dom.se",
     "phone": "042199700",
-    "website": "www.helsingborgstingsratt.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 712",
@@ -5183,7 +5073,7 @@
     "created_by": "1988:317",
     "email": "hovratten.nedrenorrland@dom.se",
     "phone": "060186800",
-    "website": "www.hovrattenfornedrenorrland.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 170",
@@ -5201,7 +5091,7 @@
     "created_by": "1988:317",
     "email": "hovratten.vastrasverige@dom.se",
     "phone": "0317012200",
-    "website": "www.vastrahovratten.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 40",
@@ -5219,7 +5109,7 @@
     "created_by": "1988:317",
     "email": "hovratten.ovrenorrland@dom.se",
     "phone": "090172000",
-    "website": "www.hovrattenovrenorrland.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 384",
@@ -5237,7 +5127,7 @@
     "created_by": "1988:317",
     "email": "hovratten.skaneblekinge@dom.se",
     "phone": "040355700",
-    "website": "www.hovrattenskaneblekinge.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 846",
@@ -5255,7 +5145,7 @@
     "created_by": "1988:317",
     "email": "hyresnamndenigoteborg@dom.se",
     "phone": "0313140360",
-    "website": "www.hyresnamnden.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": ""
@@ -5271,7 +5161,7 @@
     "created_by": "1988:317",
     "email": "hyresnamndenijonkoping@dom.se",
     "phone": "036156780",
-    "website": "www.hyresnamnden.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 2243",
@@ -5289,7 +5179,7 @@
     "created_by": "1988:317",
     "email": "hyresnamndenilinkoping@dom.se",
     "phone": "013251000",
-    "website": "www.hyresnamnden.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 359",
@@ -5307,7 +5197,7 @@
     "created_by": "1988:317",
     "email": "hyresnamndenistockholm@dom.se",
     "phone": "0856166500",
-    "website": "www.hyresnamnden.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 67",
@@ -5325,7 +5215,7 @@
     "created_by": "1988:317",
     "email": "hyresnamndenisundsvall@dom.se",
     "phone": "060186790",
-    "website": "www.hyresnamnden.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 415",
@@ -5343,7 +5233,7 @@
     "created_by": "1988:317",
     "email": "hyresnamndeniumea@dom.se",
     "phone": "090172190",
-    "website": "www.hyresnamnden.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 324",
@@ -5361,7 +5251,7 @@
     "created_by": "1988:317",
     "email": "hyresnamndenivasteras@dom.se",
     "phone": "021310590",
-    "website": "www.hyresnamnden.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 40",
@@ -5379,7 +5269,7 @@
     "created_by": "1988:317",
     "email": "hyresnamndenimalmo@dom.se",
     "phone": "040353400",
-    "website": "www.hyresnamnden.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 4287",
@@ -5397,7 +5287,7 @@
     "created_by": "1988:317",
     "email": "halsinglands.tingsratt@dom.se",
     "phone": "065037450",
-    "website": "www.hudiksvallstingsratt.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 1073",
@@ -5415,7 +5305,7 @@
     "created_by": "1988:317",
     "email": "hassleholms.tingsratt@dom.se",
     "phone": "045148700",
-    "website": "www.hassleholmstingsratt.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 135",
@@ -5433,7 +5323,7 @@
     "created_by": "1988:317",
     "email": "hogsta.domstolen@dom.se",
     "phone": "0856166600",
-    "website": "www.hogstadomstolen.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 2066",
@@ -5451,7 +5341,7 @@
     "created_by": "1988:317",
     "email": "hogstaforvaltningsdomstolen@dom.se",
     "phone": "0856167600",
-    "website": "www.hogstaforvaltningsdomstolen.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 2293",
@@ -5469,7 +5359,7 @@
     "created_by": "1988:317",
     "email": "jonkopings.tingsratt@dom.se",
     "phone": "036156700",
-    "website": "www.jonkopingstingsratt.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 2243",
@@ -5487,7 +5377,7 @@
     "created_by": "1988:317",
     "email": "kalmar.tingsratt@dom.se",
     "phone": "0480477800",
-    "website": "www.kalmartingsratt.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 613",
@@ -5505,7 +5395,7 @@
     "created_by": "1988:317",
     "email": "kammarratten.goteborg@dom.se",
     "phone": "0317327400",
-    "website": "www.kammarratten.goteborg.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 1531",
@@ -5523,7 +5413,7 @@
     "created_by": "1988:317",
     "email": "kammarrattenijonkoping@dom.se",
     "phone": "036156800",
-    "website": "www.kammarrattenijonkoping.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 2203",
@@ -5541,7 +5431,7 @@
     "created_by": "1988:317",
     "email": "kammarrattenistockholm@dom.se",
     "phone": "0856169000",
-    "website": "www.kammarrattenistockholm.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 2302",
@@ -5559,7 +5449,7 @@
     "created_by": "1988:317",
     "email": "kammarrattenisundsvall@dom.se",
     "phone": "060186600",
-    "website": "www.kammarrattenisundsvall.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 714",
@@ -5577,7 +5467,7 @@
     "created_by": "1988:317",
     "email": "kristianstads.tingsratt@dom.se",
     "phone": "044183600",
-    "website": "www.kristianstadstingsratt.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 536",
@@ -5595,7 +5485,7 @@
     "created_by": "1988:317",
     "email": "linkopings.tingsratt@dom.se",
     "phone": "013251000",
-    "website": "www.linkopingstingsratt.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 365",
@@ -5613,7 +5503,7 @@
     "created_by": "1988:317",
     "email": "lulea.tingsratt@dom.se",
     "phone": "0920295500",
-    "website": "www.luleatingsratt.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 849",
@@ -5631,7 +5521,7 @@
     "created_by": "1988:317",
     "email": "lunds.tingsratt@dom.se",
     "phone": "046160400",
-    "website": "www.lundstingsratt.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 75",
@@ -5649,7 +5539,7 @@
     "created_by": "1988:317",
     "email": "lycksele.tingsratt@dom.se",
     "phone": "095023700",
-    "website": "www.lyckseletingsratt.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 53",
@@ -5667,7 +5557,7 @@
     "created_by": "1988:317",
     "email": "malmo.tingsratt@dom.se",
     "phone": "040353000",
-    "website": "www.malmotingsratt.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 265",
@@ -5685,7 +5575,7 @@
     "created_by": "1988:317",
     "email": "mora.tingsratt@dom.se",
     "phone": "025029600",
-    "website": "www.moratingsratt.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 31",
@@ -5703,7 +5593,7 @@
     "created_by": "1988:317",
     "email": "nacka.tingsratt@dom.se",
     "phone": "0856165600",
-    "website": "www.nackatingsratt.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 69",
@@ -5721,7 +5611,7 @@
     "created_by": "1988:317",
     "email": "norrkopings.tingsratt@dom.se",
     "phone": "011243500",
-    "website": "www.norrkopingstingsratt.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 418",
@@ -5739,7 +5629,7 @@
     "created_by": "1988:317",
     "email": "norrtalje.tingsratt@dom.se",
     "phone": "017676800",
-    "website": "www.norrtaljetingsratt.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 5",
@@ -5757,7 +5647,7 @@
     "created_by": "1988:317",
     "email": "nykopings.tingsratt@dom.se",
     "phone": "0155120400",
-    "website": "www.nykopingstingsratt.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 333",
@@ -5775,7 +5665,7 @@
     "created_by": "1988:317",
     "email": "skaraborgs.tingsratt@dom.se",
     "phone": "0500499200",
-    "website": "www.skaraborgstingsratt.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 174",
@@ -5793,7 +5683,7 @@
     "created_by": "1988:317",
     "email": "skelleftea.tingsratt@dom.se",
     "phone": "0910725650",
-    "website": "www.skellefteatingsratt.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 398",
@@ -5811,7 +5701,7 @@
     "created_by": "1988:317",
     "email": "solna.tingsratt@dom.se",
     "phone": "0856165800",
-    "website": "www.solnatingsratt.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 1356",
@@ -5829,7 +5719,7 @@
     "created_by": "1988:317",
     "email": "stockholms.tingsratt@dom.se",
     "phone": "0856165000",
-    "website": "www.stockholmstingsratt.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 8307",
@@ -5847,7 +5737,7 @@
     "created_by": "1988:317",
     "email": "sundsvalls.tingsratt@dom.se",
     "phone": "060186700",
-    "website": "www.sundsvallstingsratt.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 467",
@@ -5865,7 +5755,7 @@
     "created_by": "1988:317",
     "email": "svea.hovratt@dom.se",
     "phone": "0856167000",
-    "website": "www.svea.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 2290",
@@ -5883,7 +5773,7 @@
     "created_by": "1988:317",
     "email": "sodertalje.tingsratt@dom.se",
     "phone": "0856166800",
-    "website": "www.sodertaljetingsratt.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 348",
@@ -5901,7 +5791,7 @@
     "created_by": "1988:317",
     "email": "sodertorns.tingsratt@dom.se",
     "phone": "0856166000",
-    "website": "www.sodertornstingsratt.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": ""
@@ -5917,7 +5807,7 @@
     "created_by": "1988:317",
     "email": "uddevalla.tingsratt@dom.se",
     "phone": "0522657100",
-    "website": "www.uddevallatingsratt.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 323",
@@ -5935,7 +5825,7 @@
     "created_by": "1988:317",
     "email": "umea.tingsratt@dom.se",
     "phone": "090172100",
-    "website": "www.umeatingsratt.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 138",
@@ -5953,7 +5843,7 @@
     "created_by": "1988:317",
     "email": "uppsala.tingsratt@dom.se",
     "phone": "0184316000",
-    "website": "www.uppsalatingsratt.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 1113",
@@ -5971,7 +5861,7 @@
     "created_by": "1988:317",
     "email": "varbergs.tingsratt@dom.se",
     "phone": "0340628400",
-    "website": "www.varbergstingsratt.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 121",
@@ -5989,7 +5879,7 @@
     "created_by": "1988:317",
     "email": "vanersborgs.tingsratt@dom.se",
     "phone": "0521270200",
-    "website": "www.vanersborgstingsratt.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 1070",
@@ -6007,7 +5897,7 @@
     "created_by": "1988:317",
     "email": "varmlands.tingsratt@dom.se",
     "phone": "054148400",
-    "website": "www.varmlandstingsratt.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 188",
@@ -6025,7 +5915,7 @@
     "created_by": "1988:317",
     "email": "vastmanlands.tingsratt@dom.se",
     "phone": "021310400",
-    "website": "www.vastmanlandstingsratt.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 40",
@@ -6043,7 +5933,7 @@
     "created_by": "1988:317",
     "email": "vaxjo.tingsratt@dom.se",
     "phone": "0470560100",
-    "website": "www.vaxjotingsratt.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 81",
@@ -6061,7 +5951,7 @@
     "created_by": "1988:317",
     "email": "ystads.tingsratt@dom.se",
     "phone": "041169100",
-    "website": "www.ystadstingsratt.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 114",
@@ -6079,7 +5969,7 @@
     "created_by": "1988:317",
     "email": "angermanlands.tingsratt@dom.se",
     "phone": "0611460500",
-    "website": "www.angermanlandstingsratt.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 114",
@@ -6097,7 +5987,7 @@
     "created_by": "1988:317",
     "email": "orebro.tingsratt@dom.se",
     "phone": "019166300",
-    "website": "www.orebrotingsratt.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 383",
@@ -6115,7 +6005,7 @@
     "created_by": "1988:317",
     "email": "ostersunds.tingsratt@dom.se",
     "phone": "063150600",
-    "website": "www.ostersundstingsratt.domstol.se",
+    "website": "www.domstol.se",
     "group": "Sveriges domstolar samt Domstolsverket",
     "postal_address": {
       "address": "BOX 708",
@@ -7666,6 +7556,10 @@
     "org_nr": "202100-6503",
     "end": 2016
   },
+  "MYNDIGHETEN FÖR ARBETSMILJÖKUNSKAP": {
+    "org_nr": "202100-6875",
+    "end": 2025
+  },
   "MYNDIGHETEN FÖR SKOLUTVECKLING": {
     "org_nr": "202100-5406",
     "end": 2008
@@ -7950,5 +7844,25 @@
     "org_nr": "202100-6701",
     "end": 2023,
     "start": 2018
+  },
+  "MYNDIGHETEN FÖR STÖD TILL TROSSAMFUND": {
+    "org_nr": "202100-5141",
+    "end": 2025
+  },
+  "STATENS CENTRUM FÖR ARKITEKTUR OCH DESIGN": {
+    "org_nr": "202100-3427",
+    "end": 2025
+  },
+  "STATENS FÖRSVARSHISTORISKA MUSEER": {
+    "org_nr": "202100-0464",
+    "end": 2025
+  },
+  "STATENS KONSTRÅD": {
+    "org_nr": "202100-1033",
+    "end": 2025
+  },
+  "STATSKONTORET": {
+    "org_nr": "202100-0852",
+    "end": 2025
   }
 }

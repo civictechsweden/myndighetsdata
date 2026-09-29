@@ -850,6 +850,19 @@
     "other_names": [],
     "replaces": []
   },
+  "Digitaliseringsmyndigheten": {
+    "sfs": [
+      "2026:1769"
+    ],
+    "start": "2027-01-01T00:00:00",
+    "end": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": [
+      "Myndigheten för digital förvaltning",
+      "Post- och telestyrelsen"
+    ]
+  },
   "Diskrimineringsombudsmannen": {
     "sfs": [
       "2008:1401"
@@ -2790,7 +2803,10 @@
     "end": null,
     "expired_by": null,
     "other_names": [],
-    "replaces": []
+    "replaces": [
+      "Myndigheten för press, radio och tv",
+      "Statens medieråd"
+    ]
   },
   "Medlingsinstitutet": {
     "sfs": [
@@ -2936,8 +2952,8 @@
       "2018:1486"
     ],
     "start": "2018-09-01T00:00:00",
-    "end": null,
-    "expired_by": null,
+    "end": "2027-01-01T00:00:00",
+    "expired_by": "2026:1769",
     "other_names": [],
     "replaces": [
       "E-legitimationsnämnden"
@@ -3022,8 +3038,8 @@
       "2020:879"
     ],
     "start": "2010-08-01T00:00:00",
-    "end": null,
-    "expired_by": null,
+    "end": "2024-01-01T00:00:00",
+    "expired_by": "2023:844",
     "other_names": [],
     "replaces": [
       "Granskningsnämnden för radio och TV",
@@ -3087,13 +3103,23 @@
       "Taltidningsnämnden"
     ]
   },
+  "Myndigheten för tillväxt- och transportanalys": {
+    "sfs": [
+      "2026:1401"
+    ],
+    "start": "2027-01-01T00:00:00",
+    "end": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
   "Myndigheten för tillväxtpolitiska utvärderingar och analyser": {
     "sfs": [
       "2009:146",
       "2016:1048"
     ],
     "start": "2009-04-01T00:00:00",
-    "end": null,
+    "end": "2027-01-01T00:00:00",
     "expired_by": null,
     "other_names": [],
     "replaces": [
@@ -3215,7 +3241,8 @@
       "2001:1096",
       "2007:1052",
       "2009:1476",
-      "2012:989"
+      "2012:989",
+      "2026:1516"
     ],
     "start": "1988-07-01T00:00:00",
     "end": null,
@@ -3703,8 +3730,8 @@
       "2007:951"
     ],
     "start": "1994-03-01T00:00:00",
-    "end": null,
-    "expired_by": null,
+    "end": "2027-01-01T00:00:00",
+    "expired_by": "2026:1769",
     "other_names": [],
     "replaces": [
       "Telestyrelsen"
@@ -5223,7 +5250,8 @@
       "1987:719",
       "1988:676",
       "2007:1186",
-      "2012:515"
+      "2012:515",
+      "2026:1480"
     ],
     "start": null,
     "end": null,
@@ -5363,8 +5391,8 @@
       "2010:1923"
     ],
     "start": "2011-01-01T00:00:00",
-    "end": null,
-    "expired_by": null,
+    "end": "2024-01-01T00:00:00",
+    "expired_by": "2023:844",
     "other_names": [],
     "replaces": [
       "Statens biografbyrå"
@@ -6335,6 +6363,16 @@
     "other_names": [],
     "replaces": []
   },
+  "Sveriges utrikes underrättelsetjänst": {
+    "sfs": [
+      "2026:1633"
+    ],
+    "start": "2027-01-01T00:00:00",
+    "end": null,
+    "expired_by": null,
+    "other_names": [],
+    "replaces": []
+  },
   "Säkerhets- och integritetsskyddsnämnden": {
     "sfs": [
       "2007:1141"
@@ -6510,7 +6548,8 @@
   },
   "Totalförsvarets plikt- och prövningsverk": {
     "sfs": [
-      "2010:1472"
+      "2010:1472",
+      "2026:611"
     ],
     "start": "2011-01-01T00:00:00",
     "end": null,
@@ -6551,7 +6590,7 @@
       "2010:186"
     ],
     "start": "2010-04-01T00:00:00",
-    "end": null,
+    "end": "2027-01-01T00:00:00",
     "expired_by": null,
     "other_names": [],
     "replaces": [

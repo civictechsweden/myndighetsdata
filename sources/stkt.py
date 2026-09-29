@@ -41,6 +41,14 @@ def extract():
         return dict(zip(s["år"].astype(int), s["val"]))
 
     df_sorted = df.sort_values("år")
+    # Some distinct agencies share an organisation number in the same year.
+    collisions = df_sorted.groupby(["orgnr", "år"])["myndighet"].nunique()
+    colliding_orgnrs = collisions[collisions > 1].index.get_level_values(0)
+    latest_names = df_sorted.groupby("orgnr")["myndighet"].transform("last")
+    df_sorted = df_sorted[
+        ~df_sorted["orgnr"].isin(colliding_orgnrs)
+        | (df_sorted["myndighet"].str.casefold() == latest_names.str.casefold())
+    ]
 
     df_cleaned = df_sorted.groupby("orgnr", as_index=False).agg(
         {

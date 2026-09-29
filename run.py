@@ -48,9 +48,12 @@ print("Extracting from SFS...")
 sfs_data = sfs.extract()
 write_json(sfs_data, "data/sfs")
 
-print("Extracting from Arbetsgivarverket...")
-agv_data = agv.extract()
-write_json(agv_data, "data/agv")
+if os.path.exists(agv.FILEPATH):
+    print("Extracting from Arbetsgivarverket...")
+    agv_data = agv.extract()
+    write_json(agv_data, "data/agv")
+else:
+    print("Keeping existing Arbetsgivarverket data (raw_files/agv.csv missing)...")
 
 if DOWNLOAD:
     print("Downloading from Handlingar...")

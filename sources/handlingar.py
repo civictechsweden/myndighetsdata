@@ -8,7 +8,9 @@ FILEPATH = "raw_files/handlingar.csv"
 
 
 def download():
-    urllib.request.urlretrieve(URL, FILEPATH)
+    request = urllib.request.Request(URL, headers={"User-Agent": "Myndighetsdata/0.1"})
+    with urllib.request.urlopen(request) as response, open(FILEPATH, "wb") as file:
+        file.write(response.read())
 
 
 def extract():
