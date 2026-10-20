@@ -1,5 +1,5 @@
 from utils import read_json, write_json
-from bs4 import BeautifulSoup
+from selectolax.lexbor import LexborHTMLParser
 import requests
 
 URL = "https://www.esv.se/statsliggaren/?PeriodId={}"
@@ -10,11 +10,11 @@ def download():
     links = []
     for year in range(2003, 2024 + 1):
         r = requests.get(URL.format(year))
-        soup = BeautifulSoup(r.content, "html.parser")
-        nav = soup.select("nav[id=Myndigheter] > ul > li > a")
+        tree = LexborHTMLParser(r.content, encoding=True)
+        nav = tree.css("nav[id=Myndigheter] > ul > li > a")
         for a in nav:
-            name = a.text.strip()
-            id = a["href"]
+            name = a.text().strip()
+            id = a.attributes["href"]
             id = id.replace("/statsliggaren/SenasteRegleringsbrev?myndighetId=", "")
             id = id[: id.index("&")]
             links.append({"name": name, "id": int(id), "year": year})

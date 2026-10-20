@@ -7,7 +7,7 @@ requires-python = ">=3.14"
 dependencies = [
     "pandas",
     "openpyxl",
-    "beautifulsoup4",
+    "selectolax>=1.0.1",
     "requests",
     "sparqlwrapper",
     "fuzzywuzzy",

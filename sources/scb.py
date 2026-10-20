@@ -2,7 +2,7 @@ import os
 import requests
 import json
 import pandas as pd
-from bs4 import BeautifulSoup
+from selectolax.lexbor import LexborHTMLParser
 from datetime import datetime
 
 from utils import get, remove_parenthesis
@@ -53,14 +53,14 @@ def download_history(start_or_end):
         r = requests.post(
             DOMAIN + HISTORY_URL[start_or_end], data={"ar": year}, headers=headers
         )
-        soup = BeautifulSoup(r.content, "html.parser")
-        tds = soup.find_all("td")
+        tree = LexborHTMLParser(r.content, encoding=True)
+        tds = tree.css("td")
 
         for i in range(1, len(tds), 2):
-            name, short_name = remove_parenthesis(tds[i].text)
+            name, short_name = remove_parenthesis(tds[i].text())
             name = name.strip()
 
-            org_nr = tds[i - 1].text
+            org_nr = tds[i - 1].text()
 
             if name not in agencies:
                 agency = {"org_nr": org_nr}
